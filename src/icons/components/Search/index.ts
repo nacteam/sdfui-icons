@@ -1,0 +1,1 @@
+export { Icon18 as IconSearch18, Icon24 as IconSearch24 } from './Search';

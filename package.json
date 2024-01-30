@@ -1,0 +1,40 @@
+{
+  "name": "@nacteam/sdfui-icons",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/nacteam"
+  },
+  "version": "0.0.1",
+  "description": "Icons for @nacteam/sdfui",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rollup": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacteam/sdfui-icons.git"
+  },
+  "author": "Mark Fomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacteam/sdfui-icons/issues"
+  },
+  "homepage": "https://github.com/nacteam/sdfui-icons#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@types/react": "^18.2.48",
+    "react": "^18.2.0",
+    "rollup": "^4.9.6",
+    "rollup-plugin-dts": "^6.1.0",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+}
