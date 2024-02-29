@@ -3,22 +3,24 @@ on: workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
     steps:
       - uses: actions/checkout@v4
       # Setup .npmrc file to publish to npm
       - uses: actions/setup-node@v3
         with:
           node-version: '20.x'
-          registry-url: 'https://registry.npmjs.org'
-      - run: python3 -c "x = 'registry=https://registry.npmjs.org/' + '\n' + '@nacteam:registry=https://npm.pkg.github.com/' + '\n' + '//npm.pkg.github.com/:_authToken=' + __import__('os').getenv('token'); print(x)" > ~/.npmrc
-        env:
-          token: ${{ secrets.NPM_TOKEN }}
+          registry-url: 'https://npm.pkg.github.com'
       - run: npm ci
       - run: node --max-old-space-size=14336 node_modules/rollup/dist/bin/rollup -c
         env:
           CI: true
         timeout-minutes: 60
       - run: npm publish &> npm_log.txt
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         timeout-minutes: 60
         continue-on-error: true
       - run: |
