@@ -4481,4 +4481,4 @@ npm ERR! code ENEEDAUTH
 npm ERR! need auth This command requires you to be logged in to https://npm.pkg.github.com/nacteam
 npm ERR! need auth You need to authorize this machine using `npm adduser`
 
-npm ERR! A complete log of this run can be found in: /home/runner/.npm/_logs/2024-02-29T12_01_26_068Z-debug-0.log
+npm ERR! A complete log of this run can be found in: /home/runner/.npm/_logs/2024-02-29T12_17_30_832Z-debug-0.log
