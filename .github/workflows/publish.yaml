@@ -15,7 +15,7 @@ jobs:
         env:
           CI: true
         timeout-minutes: 60
-      - run: node --max-old-space-size=14336 npm publish --registry=https://npm.pkg.github.com/
+      - run: npm publish --registry=https://npm.pkg.github.com/
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         timeout-minutes: 60
