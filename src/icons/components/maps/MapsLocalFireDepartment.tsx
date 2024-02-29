@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsLocalFireDepartment_20_outlined from '../../svg/maps/MapsLocalFireDepartment/20_outlined.svg';
+import SVGMapsLocalFireDepartment_24_outlined from '../../svg/maps/MapsLocalFireDepartment/24_outlined.svg';
+import SVGMapsLocalFireDepartment_20_twotone from '../../svg/maps/MapsLocalFireDepartment/20_twotone.svg';
+import SVGMapsLocalFireDepartment_24_twotone from '../../svg/maps/MapsLocalFireDepartment/24_twotone.svg';
+import SVGMapsLocalFireDepartment_20_sharp from '../../svg/maps/MapsLocalFireDepartment/20_sharp.svg';
+import SVGMapsLocalFireDepartment_24_sharp from '../../svg/maps/MapsLocalFireDepartment/24_sharp.svg';
+import SVGMapsLocalFireDepartment_20_filled from '../../svg/maps/MapsLocalFireDepartment/20_filled.svg';
+import SVGMapsLocalFireDepartment_24_filled from '../../svg/maps/MapsLocalFireDepartment/24_filled.svg';
+import SVGMapsLocalFireDepartment_20_round from '../../svg/maps/MapsLocalFireDepartment/20_round.svg';
+import SVGMapsLocalFireDepartment_24_round from '../../svg/maps/MapsLocalFireDepartment/24_round.svg';
+
+export const IconMapsLocalFireDepartment20outlined = () => <SVGMapsLocalFireDepartment_20_outlined />;
+export const IconMapsLocalFireDepartment24outlined = () => <SVGMapsLocalFireDepartment_24_outlined />;
+export const IconMapsLocalFireDepartment20twotone = () => <SVGMapsLocalFireDepartment_20_twotone />;
+export const IconMapsLocalFireDepartment24twotone = () => <SVGMapsLocalFireDepartment_24_twotone />;
+export const IconMapsLocalFireDepartment20sharp = () => <SVGMapsLocalFireDepartment_20_sharp />;
+export const IconMapsLocalFireDepartment24sharp = () => <SVGMapsLocalFireDepartment_24_sharp />;
+export const IconMapsLocalFireDepartment20filled = () => <SVGMapsLocalFireDepartment_20_filled />;
+export const IconMapsLocalFireDepartment24filled = () => <SVGMapsLocalFireDepartment_24_filled />;
+export const IconMapsLocalFireDepartment20round = () => <SVGMapsLocalFireDepartment_20_round />;
+export const IconMapsLocalFireDepartment24round = () => <SVGMapsLocalFireDepartment_24_round />;

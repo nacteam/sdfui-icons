@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvWebAssetOff_20_outlined from '../../svg/av/AvWebAssetOff/20_outlined.svg';
+import SVGAvWebAssetOff_24_outlined from '../../svg/av/AvWebAssetOff/24_outlined.svg';
+import SVGAvWebAssetOff_20_twotone from '../../svg/av/AvWebAssetOff/20_twotone.svg';
+import SVGAvWebAssetOff_24_twotone from '../../svg/av/AvWebAssetOff/24_twotone.svg';
+import SVGAvWebAssetOff_20_sharp from '../../svg/av/AvWebAssetOff/20_sharp.svg';
+import SVGAvWebAssetOff_24_sharp from '../../svg/av/AvWebAssetOff/24_sharp.svg';
+import SVGAvWebAssetOff_20_filled from '../../svg/av/AvWebAssetOff/20_filled.svg';
+import SVGAvWebAssetOff_24_filled from '../../svg/av/AvWebAssetOff/24_filled.svg';
+import SVGAvWebAssetOff_20_round from '../../svg/av/AvWebAssetOff/20_round.svg';
+import SVGAvWebAssetOff_24_round from '../../svg/av/AvWebAssetOff/24_round.svg';
+
+export const IconAvWebAssetOff20outlined = () => <SVGAvWebAssetOff_20_outlined />;
+export const IconAvWebAssetOff24outlined = () => <SVGAvWebAssetOff_24_outlined />;
+export const IconAvWebAssetOff20twotone = () => <SVGAvWebAssetOff_20_twotone />;
+export const IconAvWebAssetOff24twotone = () => <SVGAvWebAssetOff_24_twotone />;
+export const IconAvWebAssetOff20sharp = () => <SVGAvWebAssetOff_20_sharp />;
+export const IconAvWebAssetOff24sharp = () => <SVGAvWebAssetOff_24_sharp />;
+export const IconAvWebAssetOff20filled = () => <SVGAvWebAssetOff_20_filled />;
+export const IconAvWebAssetOff24filled = () => <SVGAvWebAssetOff_24_filled />;
+export const IconAvWebAssetOff20round = () => <SVGAvWebAssetOff_20_round />;
+export const IconAvWebAssetOff24round = () => <SVGAvWebAssetOff_24_round />;

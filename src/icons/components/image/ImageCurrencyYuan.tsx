@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCurrencyYuan_20_outlined from '../../svg/image/ImageCurrencyYuan/20_outlined.svg';
+import SVGImageCurrencyYuan_24_outlined from '../../svg/image/ImageCurrencyYuan/24_outlined.svg';
+import SVGImageCurrencyYuan_20_twotone from '../../svg/image/ImageCurrencyYuan/20_twotone.svg';
+import SVGImageCurrencyYuan_24_twotone from '../../svg/image/ImageCurrencyYuan/24_twotone.svg';
+import SVGImageCurrencyYuan_20_sharp from '../../svg/image/ImageCurrencyYuan/20_sharp.svg';
+import SVGImageCurrencyYuan_24_sharp from '../../svg/image/ImageCurrencyYuan/24_sharp.svg';
+import SVGImageCurrencyYuan_20_filled from '../../svg/image/ImageCurrencyYuan/20_filled.svg';
+import SVGImageCurrencyYuan_24_filled from '../../svg/image/ImageCurrencyYuan/24_filled.svg';
+import SVGImageCurrencyYuan_20_round from '../../svg/image/ImageCurrencyYuan/20_round.svg';
+import SVGImageCurrencyYuan_24_round from '../../svg/image/ImageCurrencyYuan/24_round.svg';
+
+export const IconImageCurrencyYuan20outlined = () => <SVGImageCurrencyYuan_20_outlined />;
+export const IconImageCurrencyYuan24outlined = () => <SVGImageCurrencyYuan_24_outlined />;
+export const IconImageCurrencyYuan20twotone = () => <SVGImageCurrencyYuan_20_twotone />;
+export const IconImageCurrencyYuan24twotone = () => <SVGImageCurrencyYuan_24_twotone />;
+export const IconImageCurrencyYuan20sharp = () => <SVGImageCurrencyYuan_20_sharp />;
+export const IconImageCurrencyYuan24sharp = () => <SVGImageCurrencyYuan_24_sharp />;
+export const IconImageCurrencyYuan20filled = () => <SVGImageCurrencyYuan_20_filled />;
+export const IconImageCurrencyYuan24filled = () => <SVGImageCurrencyYuan_24_filled />;
+export const IconImageCurrencyYuan20round = () => <SVGImageCurrencyYuan_20_round />;
+export const IconImageCurrencyYuan24round = () => <SVGImageCurrencyYuan_24_round />;

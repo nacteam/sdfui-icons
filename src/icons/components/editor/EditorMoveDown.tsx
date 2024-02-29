@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorMoveDown_20_outlined from '../../svg/editor/EditorMoveDown/20_outlined.svg';
+import SVGEditorMoveDown_24_outlined from '../../svg/editor/EditorMoveDown/24_outlined.svg';
+import SVGEditorMoveDown_20_twotone from '../../svg/editor/EditorMoveDown/20_twotone.svg';
+import SVGEditorMoveDown_24_twotone from '../../svg/editor/EditorMoveDown/24_twotone.svg';
+import SVGEditorMoveDown_20_sharp from '../../svg/editor/EditorMoveDown/20_sharp.svg';
+import SVGEditorMoveDown_24_sharp from '../../svg/editor/EditorMoveDown/24_sharp.svg';
+import SVGEditorMoveDown_20_filled from '../../svg/editor/EditorMoveDown/20_filled.svg';
+import SVGEditorMoveDown_24_filled from '../../svg/editor/EditorMoveDown/24_filled.svg';
+import SVGEditorMoveDown_20_round from '../../svg/editor/EditorMoveDown/20_round.svg';
+import SVGEditorMoveDown_24_round from '../../svg/editor/EditorMoveDown/24_round.svg';
+
+export const IconEditorMoveDown20outlined = () => <SVGEditorMoveDown_20_outlined />;
+export const IconEditorMoveDown24outlined = () => <SVGEditorMoveDown_24_outlined />;
+export const IconEditorMoveDown20twotone = () => <SVGEditorMoveDown_20_twotone />;
+export const IconEditorMoveDown24twotone = () => <SVGEditorMoveDown_24_twotone />;
+export const IconEditorMoveDown20sharp = () => <SVGEditorMoveDown_20_sharp />;
+export const IconEditorMoveDown24sharp = () => <SVGEditorMoveDown_24_sharp />;
+export const IconEditorMoveDown20filled = () => <SVGEditorMoveDown_20_filled />;
+export const IconEditorMoveDown24filled = () => <SVGEditorMoveDown_24_filled />;
+export const IconEditorMoveDown20round = () => <SVGEditorMoveDown_20_round />;
+export const IconEditorMoveDown24round = () => <SVGEditorMoveDown_24_round />;

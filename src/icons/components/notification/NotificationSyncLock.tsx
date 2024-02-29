@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNotificationSyncLock_20_outlined from '../../svg/notification/NotificationSyncLock/20_outlined.svg';
+import SVGNotificationSyncLock_24_outlined from '../../svg/notification/NotificationSyncLock/24_outlined.svg';
+import SVGNotificationSyncLock_20_twotone from '../../svg/notification/NotificationSyncLock/20_twotone.svg';
+import SVGNotificationSyncLock_24_twotone from '../../svg/notification/NotificationSyncLock/24_twotone.svg';
+import SVGNotificationSyncLock_20_sharp from '../../svg/notification/NotificationSyncLock/20_sharp.svg';
+import SVGNotificationSyncLock_24_sharp from '../../svg/notification/NotificationSyncLock/24_sharp.svg';
+import SVGNotificationSyncLock_20_filled from '../../svg/notification/NotificationSyncLock/20_filled.svg';
+import SVGNotificationSyncLock_24_filled from '../../svg/notification/NotificationSyncLock/24_filled.svg';
+import SVGNotificationSyncLock_20_round from '../../svg/notification/NotificationSyncLock/20_round.svg';
+import SVGNotificationSyncLock_24_round from '../../svg/notification/NotificationSyncLock/24_round.svg';
+
+export const IconNotificationSyncLock20outlined = () => <SVGNotificationSyncLock_20_outlined />;
+export const IconNotificationSyncLock24outlined = () => <SVGNotificationSyncLock_24_outlined />;
+export const IconNotificationSyncLock20twotone = () => <SVGNotificationSyncLock_20_twotone />;
+export const IconNotificationSyncLock24twotone = () => <SVGNotificationSyncLock_24_twotone />;
+export const IconNotificationSyncLock20sharp = () => <SVGNotificationSyncLock_20_sharp />;
+export const IconNotificationSyncLock24sharp = () => <SVGNotificationSyncLock_24_sharp />;
+export const IconNotificationSyncLock20filled = () => <SVGNotificationSyncLock_20_filled />;
+export const IconNotificationSyncLock24filled = () => <SVGNotificationSyncLock_24_filled />;
+export const IconNotificationSyncLock20round = () => <SVGNotificationSyncLock_20_round />;
+export const IconNotificationSyncLock24round = () => <SVGNotificationSyncLock_24_round />;

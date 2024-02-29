@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceUsbOff_20_outlined from '../../svg/device/DeviceUsbOff/20_outlined.svg';
+import SVGDeviceUsbOff_24_outlined from '../../svg/device/DeviceUsbOff/24_outlined.svg';
+import SVGDeviceUsbOff_20_twotone from '../../svg/device/DeviceUsbOff/20_twotone.svg';
+import SVGDeviceUsbOff_24_twotone from '../../svg/device/DeviceUsbOff/24_twotone.svg';
+import SVGDeviceUsbOff_20_sharp from '../../svg/device/DeviceUsbOff/20_sharp.svg';
+import SVGDeviceUsbOff_24_sharp from '../../svg/device/DeviceUsbOff/24_sharp.svg';
+import SVGDeviceUsbOff_20_filled from '../../svg/device/DeviceUsbOff/20_filled.svg';
+import SVGDeviceUsbOff_24_filled from '../../svg/device/DeviceUsbOff/24_filled.svg';
+import SVGDeviceUsbOff_20_round from '../../svg/device/DeviceUsbOff/20_round.svg';
+import SVGDeviceUsbOff_24_round from '../../svg/device/DeviceUsbOff/24_round.svg';
+
+export const IconDeviceUsbOff20outlined = () => <SVGDeviceUsbOff_20_outlined />;
+export const IconDeviceUsbOff24outlined = () => <SVGDeviceUsbOff_24_outlined />;
+export const IconDeviceUsbOff20twotone = () => <SVGDeviceUsbOff_20_twotone />;
+export const IconDeviceUsbOff24twotone = () => <SVGDeviceUsbOff_24_twotone />;
+export const IconDeviceUsbOff20sharp = () => <SVGDeviceUsbOff_20_sharp />;
+export const IconDeviceUsbOff24sharp = () => <SVGDeviceUsbOff_24_sharp />;
+export const IconDeviceUsbOff20filled = () => <SVGDeviceUsbOff_20_filled />;
+export const IconDeviceUsbOff24filled = () => <SVGDeviceUsbOff_24_filled />;
+export const IconDeviceUsbOff20round = () => <SVGDeviceUsbOff_20_round />;
+export const IconDeviceUsbOff24round = () => <SVGDeviceUsbOff_24_round />;

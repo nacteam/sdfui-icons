@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionBackupTable_20_outlined from '../../svg/action/ActionBackupTable/20_outlined.svg';
+import SVGActionBackupTable_24_outlined from '../../svg/action/ActionBackupTable/24_outlined.svg';
+import SVGActionBackupTable_20_twotone from '../../svg/action/ActionBackupTable/20_twotone.svg';
+import SVGActionBackupTable_24_twotone from '../../svg/action/ActionBackupTable/24_twotone.svg';
+import SVGActionBackupTable_20_sharp from '../../svg/action/ActionBackupTable/20_sharp.svg';
+import SVGActionBackupTable_24_sharp from '../../svg/action/ActionBackupTable/24_sharp.svg';
+import SVGActionBackupTable_20_filled from '../../svg/action/ActionBackupTable/20_filled.svg';
+import SVGActionBackupTable_24_filled from '../../svg/action/ActionBackupTable/24_filled.svg';
+import SVGActionBackupTable_20_round from '../../svg/action/ActionBackupTable/20_round.svg';
+import SVGActionBackupTable_24_round from '../../svg/action/ActionBackupTable/24_round.svg';
+
+export const IconActionBackupTable20outlined = () => <SVGActionBackupTable_20_outlined />;
+export const IconActionBackupTable24outlined = () => <SVGActionBackupTable_24_outlined />;
+export const IconActionBackupTable20twotone = () => <SVGActionBackupTable_20_twotone />;
+export const IconActionBackupTable24twotone = () => <SVGActionBackupTable_24_twotone />;
+export const IconActionBackupTable20sharp = () => <SVGActionBackupTable_20_sharp />;
+export const IconActionBackupTable24sharp = () => <SVGActionBackupTable_24_sharp />;
+export const IconActionBackupTable20filled = () => <SVGActionBackupTable_20_filled />;
+export const IconActionBackupTable24filled = () => <SVGActionBackupTable_24_filled />;
+export const IconActionBackupTable20round = () => <SVGActionBackupTable_20_round />;
+export const IconActionBackupTable24round = () => <SVGActionBackupTable_24_round />;

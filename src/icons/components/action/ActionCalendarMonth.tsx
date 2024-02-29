@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionCalendarMonth_20_outlined from '../../svg/action/ActionCalendarMonth/20_outlined.svg';
+import SVGActionCalendarMonth_24_outlined from '../../svg/action/ActionCalendarMonth/24_outlined.svg';
+import SVGActionCalendarMonth_20_twotone from '../../svg/action/ActionCalendarMonth/20_twotone.svg';
+import SVGActionCalendarMonth_24_twotone from '../../svg/action/ActionCalendarMonth/24_twotone.svg';
+import SVGActionCalendarMonth_20_sharp from '../../svg/action/ActionCalendarMonth/20_sharp.svg';
+import SVGActionCalendarMonth_24_sharp from '../../svg/action/ActionCalendarMonth/24_sharp.svg';
+import SVGActionCalendarMonth_20_filled from '../../svg/action/ActionCalendarMonth/20_filled.svg';
+import SVGActionCalendarMonth_24_filled from '../../svg/action/ActionCalendarMonth/24_filled.svg';
+import SVGActionCalendarMonth_20_round from '../../svg/action/ActionCalendarMonth/20_round.svg';
+import SVGActionCalendarMonth_24_round from '../../svg/action/ActionCalendarMonth/24_round.svg';
+
+export const IconActionCalendarMonth20outlined = () => <SVGActionCalendarMonth_20_outlined />;
+export const IconActionCalendarMonth24outlined = () => <SVGActionCalendarMonth_24_outlined />;
+export const IconActionCalendarMonth20twotone = () => <SVGActionCalendarMonth_20_twotone />;
+export const IconActionCalendarMonth24twotone = () => <SVGActionCalendarMonth_24_twotone />;
+export const IconActionCalendarMonth20sharp = () => <SVGActionCalendarMonth_20_sharp />;
+export const IconActionCalendarMonth24sharp = () => <SVGActionCalendarMonth_24_sharp />;
+export const IconActionCalendarMonth20filled = () => <SVGActionCalendarMonth_20_filled />;
+export const IconActionCalendarMonth24filled = () => <SVGActionCalendarMonth_24_filled />;
+export const IconActionCalendarMonth20round = () => <SVGActionCalendarMonth_20_round />;
+export const IconActionCalendarMonth24round = () => <SVGActionCalendarMonth_24_round />;

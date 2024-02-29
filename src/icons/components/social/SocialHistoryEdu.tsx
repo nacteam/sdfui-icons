@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialHistoryEdu_20_outlined from '../../svg/social/SocialHistoryEdu/20_outlined.svg';
+import SVGSocialHistoryEdu_24_outlined from '../../svg/social/SocialHistoryEdu/24_outlined.svg';
+import SVGSocialHistoryEdu_20_twotone from '../../svg/social/SocialHistoryEdu/20_twotone.svg';
+import SVGSocialHistoryEdu_24_twotone from '../../svg/social/SocialHistoryEdu/24_twotone.svg';
+import SVGSocialHistoryEdu_20_sharp from '../../svg/social/SocialHistoryEdu/20_sharp.svg';
+import SVGSocialHistoryEdu_24_sharp from '../../svg/social/SocialHistoryEdu/24_sharp.svg';
+import SVGSocialHistoryEdu_20_filled from '../../svg/social/SocialHistoryEdu/20_filled.svg';
+import SVGSocialHistoryEdu_24_filled from '../../svg/social/SocialHistoryEdu/24_filled.svg';
+import SVGSocialHistoryEdu_20_round from '../../svg/social/SocialHistoryEdu/20_round.svg';
+import SVGSocialHistoryEdu_24_round from '../../svg/social/SocialHistoryEdu/24_round.svg';
+
+export const IconSocialHistoryEdu20outlined = () => <SVGSocialHistoryEdu_20_outlined />;
+export const IconSocialHistoryEdu24outlined = () => <SVGSocialHistoryEdu_24_outlined />;
+export const IconSocialHistoryEdu20twotone = () => <SVGSocialHistoryEdu_20_twotone />;
+export const IconSocialHistoryEdu24twotone = () => <SVGSocialHistoryEdu_24_twotone />;
+export const IconSocialHistoryEdu20sharp = () => <SVGSocialHistoryEdu_20_sharp />;
+export const IconSocialHistoryEdu24sharp = () => <SVGSocialHistoryEdu_24_sharp />;
+export const IconSocialHistoryEdu20filled = () => <SVGSocialHistoryEdu_20_filled />;
+export const IconSocialHistoryEdu24filled = () => <SVGSocialHistoryEdu_24_filled />;
+export const IconSocialHistoryEdu20round = () => <SVGSocialHistoryEdu_20_round />;
+export const IconSocialHistoryEdu24round = () => <SVGSocialHistoryEdu_24_round />;

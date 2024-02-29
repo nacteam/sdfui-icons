@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAdminPanelSettings_20_outlined from '../../svg/action/ActionAdminPanelSettings/20_outlined.svg';
+import SVGActionAdminPanelSettings_24_outlined from '../../svg/action/ActionAdminPanelSettings/24_outlined.svg';
+import SVGActionAdminPanelSettings_20_twotone from '../../svg/action/ActionAdminPanelSettings/20_twotone.svg';
+import SVGActionAdminPanelSettings_24_twotone from '../../svg/action/ActionAdminPanelSettings/24_twotone.svg';
+import SVGActionAdminPanelSettings_20_sharp from '../../svg/action/ActionAdminPanelSettings/20_sharp.svg';
+import SVGActionAdminPanelSettings_24_sharp from '../../svg/action/ActionAdminPanelSettings/24_sharp.svg';
+import SVGActionAdminPanelSettings_20_filled from '../../svg/action/ActionAdminPanelSettings/20_filled.svg';
+import SVGActionAdminPanelSettings_24_filled from '../../svg/action/ActionAdminPanelSettings/24_filled.svg';
+import SVGActionAdminPanelSettings_20_round from '../../svg/action/ActionAdminPanelSettings/20_round.svg';
+import SVGActionAdminPanelSettings_24_round from '../../svg/action/ActionAdminPanelSettings/24_round.svg';
+
+export const IconActionAdminPanelSettings20outlined = () => <SVGActionAdminPanelSettings_20_outlined />;
+export const IconActionAdminPanelSettings24outlined = () => <SVGActionAdminPanelSettings_24_outlined />;
+export const IconActionAdminPanelSettings20twotone = () => <SVGActionAdminPanelSettings_20_twotone />;
+export const IconActionAdminPanelSettings24twotone = () => <SVGActionAdminPanelSettings_24_twotone />;
+export const IconActionAdminPanelSettings20sharp = () => <SVGActionAdminPanelSettings_20_sharp />;
+export const IconActionAdminPanelSettings24sharp = () => <SVGActionAdminPanelSettings_24_sharp />;
+export const IconActionAdminPanelSettings20filled = () => <SVGActionAdminPanelSettings_20_filled />;
+export const IconActionAdminPanelSettings24filled = () => <SVGActionAdminPanelSettings_24_filled />;
+export const IconActionAdminPanelSettings20round = () => <SVGActionAdminPanelSettings_20_round />;
+export const IconActionAdminPanelSettings24round = () => <SVGActionAdminPanelSettings_24_round />;

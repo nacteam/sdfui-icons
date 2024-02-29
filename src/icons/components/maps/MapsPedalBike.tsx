@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsPedalBike_20_outlined from '../../svg/maps/MapsPedalBike/20_outlined.svg';
+import SVGMapsPedalBike_24_outlined from '../../svg/maps/MapsPedalBike/24_outlined.svg';
+import SVGMapsPedalBike_20_twotone from '../../svg/maps/MapsPedalBike/20_twotone.svg';
+import SVGMapsPedalBike_24_twotone from '../../svg/maps/MapsPedalBike/24_twotone.svg';
+import SVGMapsPedalBike_20_sharp from '../../svg/maps/MapsPedalBike/20_sharp.svg';
+import SVGMapsPedalBike_24_sharp from '../../svg/maps/MapsPedalBike/24_sharp.svg';
+import SVGMapsPedalBike_20_filled from '../../svg/maps/MapsPedalBike/20_filled.svg';
+import SVGMapsPedalBike_24_filled from '../../svg/maps/MapsPedalBike/24_filled.svg';
+import SVGMapsPedalBike_20_round from '../../svg/maps/MapsPedalBike/20_round.svg';
+import SVGMapsPedalBike_24_round from '../../svg/maps/MapsPedalBike/24_round.svg';
+
+export const IconMapsPedalBike20outlined = () => <SVGMapsPedalBike_20_outlined />;
+export const IconMapsPedalBike24outlined = () => <SVGMapsPedalBike_24_outlined />;
+export const IconMapsPedalBike20twotone = () => <SVGMapsPedalBike_20_twotone />;
+export const IconMapsPedalBike24twotone = () => <SVGMapsPedalBike_24_twotone />;
+export const IconMapsPedalBike20sharp = () => <SVGMapsPedalBike_20_sharp />;
+export const IconMapsPedalBike24sharp = () => <SVGMapsPedalBike_24_sharp />;
+export const IconMapsPedalBike20filled = () => <SVGMapsPedalBike_20_filled />;
+export const IconMapsPedalBike24filled = () => <SVGMapsPedalBike_24_filled />;
+export const IconMapsPedalBike20round = () => <SVGMapsPedalBike_20_round />;
+export const IconMapsPedalBike24round = () => <SVGMapsPedalBike_24_round />;

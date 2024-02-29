@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialRecycling_20_outlined from '../../svg/social/SocialRecycling/20_outlined.svg';
+import SVGSocialRecycling_24_outlined from '../../svg/social/SocialRecycling/24_outlined.svg';
+import SVGSocialRecycling_20_twotone from '../../svg/social/SocialRecycling/20_twotone.svg';
+import SVGSocialRecycling_24_twotone from '../../svg/social/SocialRecycling/24_twotone.svg';
+import SVGSocialRecycling_20_sharp from '../../svg/social/SocialRecycling/20_sharp.svg';
+import SVGSocialRecycling_24_sharp from '../../svg/social/SocialRecycling/24_sharp.svg';
+import SVGSocialRecycling_20_filled from '../../svg/social/SocialRecycling/20_filled.svg';
+import SVGSocialRecycling_24_filled from '../../svg/social/SocialRecycling/24_filled.svg';
+import SVGSocialRecycling_20_round from '../../svg/social/SocialRecycling/20_round.svg';
+import SVGSocialRecycling_24_round from '../../svg/social/SocialRecycling/24_round.svg';
+
+export const IconSocialRecycling20outlined = () => <SVGSocialRecycling_20_outlined />;
+export const IconSocialRecycling24outlined = () => <SVGSocialRecycling_24_outlined />;
+export const IconSocialRecycling20twotone = () => <SVGSocialRecycling_20_twotone />;
+export const IconSocialRecycling24twotone = () => <SVGSocialRecycling_24_twotone />;
+export const IconSocialRecycling20sharp = () => <SVGSocialRecycling_20_sharp />;
+export const IconSocialRecycling24sharp = () => <SVGSocialRecycling_24_sharp />;
+export const IconSocialRecycling20filled = () => <SVGSocialRecycling_20_filled />;
+export const IconSocialRecycling24filled = () => <SVGSocialRecycling_24_filled />;
+export const IconSocialRecycling20round = () => <SVGSocialRecycling_20_round />;
+export const IconSocialRecycling24round = () => <SVGSocialRecycling_24_round />;

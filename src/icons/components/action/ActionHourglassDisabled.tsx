@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionHourglassDisabled_20_outlined from '../../svg/action/ActionHourglassDisabled/20_outlined.svg';
+import SVGActionHourglassDisabled_24_outlined from '../../svg/action/ActionHourglassDisabled/24_outlined.svg';
+import SVGActionHourglassDisabled_20_twotone from '../../svg/action/ActionHourglassDisabled/20_twotone.svg';
+import SVGActionHourglassDisabled_24_twotone from '../../svg/action/ActionHourglassDisabled/24_twotone.svg';
+import SVGActionHourglassDisabled_20_sharp from '../../svg/action/ActionHourglassDisabled/20_sharp.svg';
+import SVGActionHourglassDisabled_24_sharp from '../../svg/action/ActionHourglassDisabled/24_sharp.svg';
+import SVGActionHourglassDisabled_20_filled from '../../svg/action/ActionHourglassDisabled/20_filled.svg';
+import SVGActionHourglassDisabled_24_filled from '../../svg/action/ActionHourglassDisabled/24_filled.svg';
+import SVGActionHourglassDisabled_20_round from '../../svg/action/ActionHourglassDisabled/20_round.svg';
+import SVGActionHourglassDisabled_24_round from '../../svg/action/ActionHourglassDisabled/24_round.svg';
+
+export const IconActionHourglassDisabled20outlined = () => <SVGActionHourglassDisabled_20_outlined />;
+export const IconActionHourglassDisabled24outlined = () => <SVGActionHourglassDisabled_24_outlined />;
+export const IconActionHourglassDisabled20twotone = () => <SVGActionHourglassDisabled_20_twotone />;
+export const IconActionHourglassDisabled24twotone = () => <SVGActionHourglassDisabled_24_twotone />;
+export const IconActionHourglassDisabled20sharp = () => <SVGActionHourglassDisabled_20_sharp />;
+export const IconActionHourglassDisabled24sharp = () => <SVGActionHourglassDisabled_24_sharp />;
+export const IconActionHourglassDisabled20filled = () => <SVGActionHourglassDisabled_20_filled />;
+export const IconActionHourglassDisabled24filled = () => <SVGActionHourglassDisabled_24_filled />;
+export const IconActionHourglassDisabled20round = () => <SVGActionHourglassDisabled_20_round />;
+export const IconActionHourglassDisabled24round = () => <SVGActionHourglassDisabled_24_round />;

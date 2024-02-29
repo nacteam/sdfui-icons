@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsElectricCar_20_outlined from '../../svg/maps/MapsElectricCar/20_outlined.svg';
+import SVGMapsElectricCar_24_outlined from '../../svg/maps/MapsElectricCar/24_outlined.svg';
+import SVGMapsElectricCar_20_twotone from '../../svg/maps/MapsElectricCar/20_twotone.svg';
+import SVGMapsElectricCar_24_twotone from '../../svg/maps/MapsElectricCar/24_twotone.svg';
+import SVGMapsElectricCar_20_sharp from '../../svg/maps/MapsElectricCar/20_sharp.svg';
+import SVGMapsElectricCar_24_sharp from '../../svg/maps/MapsElectricCar/24_sharp.svg';
+import SVGMapsElectricCar_20_filled from '../../svg/maps/MapsElectricCar/20_filled.svg';
+import SVGMapsElectricCar_24_filled from '../../svg/maps/MapsElectricCar/24_filled.svg';
+import SVGMapsElectricCar_20_round from '../../svg/maps/MapsElectricCar/20_round.svg';
+import SVGMapsElectricCar_24_round from '../../svg/maps/MapsElectricCar/24_round.svg';
+
+export const IconMapsElectricCar20outlined = () => <SVGMapsElectricCar_20_outlined />;
+export const IconMapsElectricCar24outlined = () => <SVGMapsElectricCar_24_outlined />;
+export const IconMapsElectricCar20twotone = () => <SVGMapsElectricCar_20_twotone />;
+export const IconMapsElectricCar24twotone = () => <SVGMapsElectricCar_24_twotone />;
+export const IconMapsElectricCar20sharp = () => <SVGMapsElectricCar_20_sharp />;
+export const IconMapsElectricCar24sharp = () => <SVGMapsElectricCar_24_sharp />;
+export const IconMapsElectricCar20filled = () => <SVGMapsElectricCar_20_filled />;
+export const IconMapsElectricCar24filled = () => <SVGMapsElectricCar_24_filled />;
+export const IconMapsElectricCar20round = () => <SVGMapsElectricCar_20_round />;
+export const IconMapsElectricCar24round = () => <SVGMapsElectricCar_24_round />;

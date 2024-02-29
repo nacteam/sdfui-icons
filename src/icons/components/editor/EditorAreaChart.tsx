@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorAreaChart_20_outlined from '../../svg/editor/EditorAreaChart/20_outlined.svg';
+import SVGEditorAreaChart_24_outlined from '../../svg/editor/EditorAreaChart/24_outlined.svg';
+import SVGEditorAreaChart_20_twotone from '../../svg/editor/EditorAreaChart/20_twotone.svg';
+import SVGEditorAreaChart_24_twotone from '../../svg/editor/EditorAreaChart/24_twotone.svg';
+import SVGEditorAreaChart_20_sharp from '../../svg/editor/EditorAreaChart/20_sharp.svg';
+import SVGEditorAreaChart_24_sharp from '../../svg/editor/EditorAreaChart/24_sharp.svg';
+import SVGEditorAreaChart_20_filled from '../../svg/editor/EditorAreaChart/20_filled.svg';
+import SVGEditorAreaChart_24_filled from '../../svg/editor/EditorAreaChart/24_filled.svg';
+import SVGEditorAreaChart_20_round from '../../svg/editor/EditorAreaChart/20_round.svg';
+import SVGEditorAreaChart_24_round from '../../svg/editor/EditorAreaChart/24_round.svg';
+
+export const IconEditorAreaChart20outlined = () => <SVGEditorAreaChart_20_outlined />;
+export const IconEditorAreaChart24outlined = () => <SVGEditorAreaChart_24_outlined />;
+export const IconEditorAreaChart20twotone = () => <SVGEditorAreaChart_20_twotone />;
+export const IconEditorAreaChart24twotone = () => <SVGEditorAreaChart_24_twotone />;
+export const IconEditorAreaChart20sharp = () => <SVGEditorAreaChart_20_sharp />;
+export const IconEditorAreaChart24sharp = () => <SVGEditorAreaChart_24_sharp />;
+export const IconEditorAreaChart20filled = () => <SVGEditorAreaChart_20_filled />;
+export const IconEditorAreaChart24filled = () => <SVGEditorAreaChart_24_filled />;
+export const IconEditorAreaChart20round = () => <SVGEditorAreaChart_20_round />;
+export const IconEditorAreaChart24round = () => <SVGEditorAreaChart_24_round />;

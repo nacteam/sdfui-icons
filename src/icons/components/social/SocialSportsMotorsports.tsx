@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsMotorsports_20_outlined from '../../svg/social/SocialSportsMotorsports/20_outlined.svg';
+import SVGSocialSportsMotorsports_24_outlined from '../../svg/social/SocialSportsMotorsports/24_outlined.svg';
+import SVGSocialSportsMotorsports_20_twotone from '../../svg/social/SocialSportsMotorsports/20_twotone.svg';
+import SVGSocialSportsMotorsports_24_twotone from '../../svg/social/SocialSportsMotorsports/24_twotone.svg';
+import SVGSocialSportsMotorsports_20_sharp from '../../svg/social/SocialSportsMotorsports/20_sharp.svg';
+import SVGSocialSportsMotorsports_24_sharp from '../../svg/social/SocialSportsMotorsports/24_sharp.svg';
+import SVGSocialSportsMotorsports_20_filled from '../../svg/social/SocialSportsMotorsports/20_filled.svg';
+import SVGSocialSportsMotorsports_24_filled from '../../svg/social/SocialSportsMotorsports/24_filled.svg';
+import SVGSocialSportsMotorsports_20_round from '../../svg/social/SocialSportsMotorsports/20_round.svg';
+import SVGSocialSportsMotorsports_24_round from '../../svg/social/SocialSportsMotorsports/24_round.svg';
+
+export const IconSocialSportsMotorsports20outlined = () => <SVGSocialSportsMotorsports_20_outlined />;
+export const IconSocialSportsMotorsports24outlined = () => <SVGSocialSportsMotorsports_24_outlined />;
+export const IconSocialSportsMotorsports20twotone = () => <SVGSocialSportsMotorsports_20_twotone />;
+export const IconSocialSportsMotorsports24twotone = () => <SVGSocialSportsMotorsports_24_twotone />;
+export const IconSocialSportsMotorsports20sharp = () => <SVGSocialSportsMotorsports_20_sharp />;
+export const IconSocialSportsMotorsports24sharp = () => <SVGSocialSportsMotorsports_24_sharp />;
+export const IconSocialSportsMotorsports20filled = () => <SVGSocialSportsMotorsports_20_filled />;
+export const IconSocialSportsMotorsports24filled = () => <SVGSocialSportsMotorsports_24_filled />;
+export const IconSocialSportsMotorsports20round = () => <SVGSocialSportsMotorsports_20_round />;
+export const IconSocialSportsMotorsports24round = () => <SVGSocialSportsMotorsports_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFolderDelete_20_outlined from '../../svg/file/FileFolderDelete/20_outlined.svg';
+import SVGFileFolderDelete_24_outlined from '../../svg/file/FileFolderDelete/24_outlined.svg';
+import SVGFileFolderDelete_20_twotone from '../../svg/file/FileFolderDelete/20_twotone.svg';
+import SVGFileFolderDelete_24_twotone from '../../svg/file/FileFolderDelete/24_twotone.svg';
+import SVGFileFolderDelete_20_sharp from '../../svg/file/FileFolderDelete/20_sharp.svg';
+import SVGFileFolderDelete_24_sharp from '../../svg/file/FileFolderDelete/24_sharp.svg';
+import SVGFileFolderDelete_20_filled from '../../svg/file/FileFolderDelete/20_filled.svg';
+import SVGFileFolderDelete_24_filled from '../../svg/file/FileFolderDelete/24_filled.svg';
+import SVGFileFolderDelete_20_round from '../../svg/file/FileFolderDelete/20_round.svg';
+import SVGFileFolderDelete_24_round from '../../svg/file/FileFolderDelete/24_round.svg';
+
+export const IconFileFolderDelete20outlined = () => <SVGFileFolderDelete_20_outlined />;
+export const IconFileFolderDelete24outlined = () => <SVGFileFolderDelete_24_outlined />;
+export const IconFileFolderDelete20twotone = () => <SVGFileFolderDelete_20_twotone />;
+export const IconFileFolderDelete24twotone = () => <SVGFileFolderDelete_24_twotone />;
+export const IconFileFolderDelete20sharp = () => <SVGFileFolderDelete_20_sharp />;
+export const IconFileFolderDelete24sharp = () => <SVGFileFolderDelete_24_sharp />;
+export const IconFileFolderDelete20filled = () => <SVGFileFolderDelete_20_filled />;
+export const IconFileFolderDelete24filled = () => <SVGFileFolderDelete_24_filled />;
+export const IconFileFolderDelete20round = () => <SVGFileFolderDelete_20_round />;
+export const IconFileFolderDelete24round = () => <SVGFileFolderDelete_24_round />;

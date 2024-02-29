@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageLogoDev_20_outlined from '../../svg/image/ImageLogoDev/20_outlined.svg';
+import SVGImageLogoDev_24_outlined from '../../svg/image/ImageLogoDev/24_outlined.svg';
+import SVGImageLogoDev_20_twotone from '../../svg/image/ImageLogoDev/20_twotone.svg';
+import SVGImageLogoDev_24_twotone from '../../svg/image/ImageLogoDev/24_twotone.svg';
+import SVGImageLogoDev_20_sharp from '../../svg/image/ImageLogoDev/20_sharp.svg';
+import SVGImageLogoDev_24_sharp from '../../svg/image/ImageLogoDev/24_sharp.svg';
+import SVGImageLogoDev_20_filled from '../../svg/image/ImageLogoDev/20_filled.svg';
+import SVGImageLogoDev_24_filled from '../../svg/image/ImageLogoDev/24_filled.svg';
+import SVGImageLogoDev_20_round from '../../svg/image/ImageLogoDev/20_round.svg';
+import SVGImageLogoDev_24_round from '../../svg/image/ImageLogoDev/24_round.svg';
+
+export const IconImageLogoDev20outlined = () => <SVGImageLogoDev_20_outlined />;
+export const IconImageLogoDev24outlined = () => <SVGImageLogoDev_24_outlined />;
+export const IconImageLogoDev20twotone = () => <SVGImageLogoDev_20_twotone />;
+export const IconImageLogoDev24twotone = () => <SVGImageLogoDev_24_twotone />;
+export const IconImageLogoDev20sharp = () => <SVGImageLogoDev_20_sharp />;
+export const IconImageLogoDev24sharp = () => <SVGImageLogoDev_24_sharp />;
+export const IconImageLogoDev20filled = () => <SVGImageLogoDev_20_filled />;
+export const IconImageLogoDev24filled = () => <SVGImageLogoDev_24_filled />;
+export const IconImageLogoDev20round = () => <SVGImageLogoDev_20_round />;
+export const IconImageLogoDev24round = () => <SVGImageLogoDev_24_round />;

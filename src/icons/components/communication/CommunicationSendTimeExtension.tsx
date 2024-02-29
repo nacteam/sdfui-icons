@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationSendTimeExtension_20_outlined from '../../svg/communication/CommunicationSendTimeExtension/20_outlined.svg';
+import SVGCommunicationSendTimeExtension_24_outlined from '../../svg/communication/CommunicationSendTimeExtension/24_outlined.svg';
+import SVGCommunicationSendTimeExtension_20_twotone from '../../svg/communication/CommunicationSendTimeExtension/20_twotone.svg';
+import SVGCommunicationSendTimeExtension_24_twotone from '../../svg/communication/CommunicationSendTimeExtension/24_twotone.svg';
+import SVGCommunicationSendTimeExtension_20_sharp from '../../svg/communication/CommunicationSendTimeExtension/20_sharp.svg';
+import SVGCommunicationSendTimeExtension_24_sharp from '../../svg/communication/CommunicationSendTimeExtension/24_sharp.svg';
+import SVGCommunicationSendTimeExtension_20_filled from '../../svg/communication/CommunicationSendTimeExtension/20_filled.svg';
+import SVGCommunicationSendTimeExtension_24_filled from '../../svg/communication/CommunicationSendTimeExtension/24_filled.svg';
+import SVGCommunicationSendTimeExtension_20_round from '../../svg/communication/CommunicationSendTimeExtension/20_round.svg';
+import SVGCommunicationSendTimeExtension_24_round from '../../svg/communication/CommunicationSendTimeExtension/24_round.svg';
+
+export const IconCommunicationSendTimeExtension20outlined = () => <SVGCommunicationSendTimeExtension_20_outlined />;
+export const IconCommunicationSendTimeExtension24outlined = () => <SVGCommunicationSendTimeExtension_24_outlined />;
+export const IconCommunicationSendTimeExtension20twotone = () => <SVGCommunicationSendTimeExtension_20_twotone />;
+export const IconCommunicationSendTimeExtension24twotone = () => <SVGCommunicationSendTimeExtension_24_twotone />;
+export const IconCommunicationSendTimeExtension20sharp = () => <SVGCommunicationSendTimeExtension_20_sharp />;
+export const IconCommunicationSendTimeExtension24sharp = () => <SVGCommunicationSendTimeExtension_24_sharp />;
+export const IconCommunicationSendTimeExtension20filled = () => <SVGCommunicationSendTimeExtension_20_filled />;
+export const IconCommunicationSendTimeExtension24filled = () => <SVGCommunicationSendTimeExtension_24_filled />;
+export const IconCommunicationSendTimeExtension20round = () => <SVGCommunicationSendTimeExtension_20_round />;
+export const IconCommunicationSendTimeExtension24round = () => <SVGCommunicationSendTimeExtension_24_round />;

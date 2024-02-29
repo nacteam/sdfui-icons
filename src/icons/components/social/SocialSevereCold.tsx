@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSevereCold_20_outlined from '../../svg/social/SocialSevereCold/20_outlined.svg';
+import SVGSocialSevereCold_24_outlined from '../../svg/social/SocialSevereCold/24_outlined.svg';
+import SVGSocialSevereCold_20_twotone from '../../svg/social/SocialSevereCold/20_twotone.svg';
+import SVGSocialSevereCold_24_twotone from '../../svg/social/SocialSevereCold/24_twotone.svg';
+import SVGSocialSevereCold_20_sharp from '../../svg/social/SocialSevereCold/20_sharp.svg';
+import SVGSocialSevereCold_24_sharp from '../../svg/social/SocialSevereCold/24_sharp.svg';
+import SVGSocialSevereCold_20_filled from '../../svg/social/SocialSevereCold/20_filled.svg';
+import SVGSocialSevereCold_24_filled from '../../svg/social/SocialSevereCold/24_filled.svg';
+import SVGSocialSevereCold_20_round from '../../svg/social/SocialSevereCold/20_round.svg';
+import SVGSocialSevereCold_24_round from '../../svg/social/SocialSevereCold/24_round.svg';
+
+export const IconSocialSevereCold20outlined = () => <SVGSocialSevereCold_20_outlined />;
+export const IconSocialSevereCold24outlined = () => <SVGSocialSevereCold_24_outlined />;
+export const IconSocialSevereCold20twotone = () => <SVGSocialSevereCold_20_twotone />;
+export const IconSocialSevereCold24twotone = () => <SVGSocialSevereCold_24_twotone />;
+export const IconSocialSevereCold20sharp = () => <SVGSocialSevereCold_20_sharp />;
+export const IconSocialSevereCold24sharp = () => <SVGSocialSevereCold_24_sharp />;
+export const IconSocialSevereCold20filled = () => <SVGSocialSevereCold_20_filled />;
+export const IconSocialSevereCold24filled = () => <SVGSocialSevereCold_24_filled />;
+export const IconSocialSevereCold20round = () => <SVGSocialSevereCold_20_round />;
+export const IconSocialSevereCold24round = () => <SVGSocialSevereCold_24_round />;

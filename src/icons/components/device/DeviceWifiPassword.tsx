@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceWifiPassword_20_outlined from '../../svg/device/DeviceWifiPassword/20_outlined.svg';
+import SVGDeviceWifiPassword_24_outlined from '../../svg/device/DeviceWifiPassword/24_outlined.svg';
+import SVGDeviceWifiPassword_20_twotone from '../../svg/device/DeviceWifiPassword/20_twotone.svg';
+import SVGDeviceWifiPassword_24_twotone from '../../svg/device/DeviceWifiPassword/24_twotone.svg';
+import SVGDeviceWifiPassword_20_sharp from '../../svg/device/DeviceWifiPassword/20_sharp.svg';
+import SVGDeviceWifiPassword_24_sharp from '../../svg/device/DeviceWifiPassword/24_sharp.svg';
+import SVGDeviceWifiPassword_20_filled from '../../svg/device/DeviceWifiPassword/20_filled.svg';
+import SVGDeviceWifiPassword_24_filled from '../../svg/device/DeviceWifiPassword/24_filled.svg';
+import SVGDeviceWifiPassword_20_round from '../../svg/device/DeviceWifiPassword/20_round.svg';
+import SVGDeviceWifiPassword_24_round from '../../svg/device/DeviceWifiPassword/24_round.svg';
+
+export const IconDeviceWifiPassword20outlined = () => <SVGDeviceWifiPassword_20_outlined />;
+export const IconDeviceWifiPassword24outlined = () => <SVGDeviceWifiPassword_24_outlined />;
+export const IconDeviceWifiPassword20twotone = () => <SVGDeviceWifiPassword_20_twotone />;
+export const IconDeviceWifiPassword24twotone = () => <SVGDeviceWifiPassword_24_twotone />;
+export const IconDeviceWifiPassword20sharp = () => <SVGDeviceWifiPassword_20_sharp />;
+export const IconDeviceWifiPassword24sharp = () => <SVGDeviceWifiPassword_24_sharp />;
+export const IconDeviceWifiPassword20filled = () => <SVGDeviceWifiPassword_20_filled />;
+export const IconDeviceWifiPassword24filled = () => <SVGDeviceWifiPassword_24_filled />;
+export const IconDeviceWifiPassword20round = () => <SVGDeviceWifiPassword_20_round />;
+export const IconDeviceWifiPassword24round = () => <SVGDeviceWifiPassword_24_round />;

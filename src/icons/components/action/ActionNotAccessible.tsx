@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionNotAccessible_20_outlined from '../../svg/action/ActionNotAccessible/20_outlined.svg';
+import SVGActionNotAccessible_24_outlined from '../../svg/action/ActionNotAccessible/24_outlined.svg';
+import SVGActionNotAccessible_20_twotone from '../../svg/action/ActionNotAccessible/20_twotone.svg';
+import SVGActionNotAccessible_24_twotone from '../../svg/action/ActionNotAccessible/24_twotone.svg';
+import SVGActionNotAccessible_20_sharp from '../../svg/action/ActionNotAccessible/20_sharp.svg';
+import SVGActionNotAccessible_24_sharp from '../../svg/action/ActionNotAccessible/24_sharp.svg';
+import SVGActionNotAccessible_20_filled from '../../svg/action/ActionNotAccessible/20_filled.svg';
+import SVGActionNotAccessible_24_filled from '../../svg/action/ActionNotAccessible/24_filled.svg';
+import SVGActionNotAccessible_20_round from '../../svg/action/ActionNotAccessible/20_round.svg';
+import SVGActionNotAccessible_24_round from '../../svg/action/ActionNotAccessible/24_round.svg';
+
+export const IconActionNotAccessible20outlined = () => <SVGActionNotAccessible_20_outlined />;
+export const IconActionNotAccessible24outlined = () => <SVGActionNotAccessible_24_outlined />;
+export const IconActionNotAccessible20twotone = () => <SVGActionNotAccessible_20_twotone />;
+export const IconActionNotAccessible24twotone = () => <SVGActionNotAccessible_24_twotone />;
+export const IconActionNotAccessible20sharp = () => <SVGActionNotAccessible_20_sharp />;
+export const IconActionNotAccessible24sharp = () => <SVGActionNotAccessible_24_sharp />;
+export const IconActionNotAccessible20filled = () => <SVGActionNotAccessible_20_filled />;
+export const IconActionNotAccessible24filled = () => <SVGActionNotAccessible_24_filled />;
+export const IconActionNotAccessible20round = () => <SVGActionNotAccessible_20_round />;
+export const IconActionNotAccessible24round = () => <SVGActionNotAccessible_24_round />;

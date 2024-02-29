@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationWifiCalling_20_outlined from '../../svg/communication/CommunicationWifiCalling/20_outlined.svg';
+import SVGCommunicationWifiCalling_24_outlined from '../../svg/communication/CommunicationWifiCalling/24_outlined.svg';
+import SVGCommunicationWifiCalling_20_twotone from '../../svg/communication/CommunicationWifiCalling/20_twotone.svg';
+import SVGCommunicationWifiCalling_24_twotone from '../../svg/communication/CommunicationWifiCalling/24_twotone.svg';
+import SVGCommunicationWifiCalling_20_sharp from '../../svg/communication/CommunicationWifiCalling/20_sharp.svg';
+import SVGCommunicationWifiCalling_24_sharp from '../../svg/communication/CommunicationWifiCalling/24_sharp.svg';
+import SVGCommunicationWifiCalling_20_filled from '../../svg/communication/CommunicationWifiCalling/20_filled.svg';
+import SVGCommunicationWifiCalling_24_filled from '../../svg/communication/CommunicationWifiCalling/24_filled.svg';
+import SVGCommunicationWifiCalling_20_round from '../../svg/communication/CommunicationWifiCalling/20_round.svg';
+import SVGCommunicationWifiCalling_24_round from '../../svg/communication/CommunicationWifiCalling/24_round.svg';
+
+export const IconCommunicationWifiCalling20outlined = () => <SVGCommunicationWifiCalling_20_outlined />;
+export const IconCommunicationWifiCalling24outlined = () => <SVGCommunicationWifiCalling_24_outlined />;
+export const IconCommunicationWifiCalling20twotone = () => <SVGCommunicationWifiCalling_20_twotone />;
+export const IconCommunicationWifiCalling24twotone = () => <SVGCommunicationWifiCalling_24_twotone />;
+export const IconCommunicationWifiCalling20sharp = () => <SVGCommunicationWifiCalling_20_sharp />;
+export const IconCommunicationWifiCalling24sharp = () => <SVGCommunicationWifiCalling_24_sharp />;
+export const IconCommunicationWifiCalling20filled = () => <SVGCommunicationWifiCalling_20_filled />;
+export const IconCommunicationWifiCalling24filled = () => <SVGCommunicationWifiCalling_24_filled />;
+export const IconCommunicationWifiCalling20round = () => <SVGCommunicationWifiCalling_20_round />;
+export const IconCommunicationWifiCalling24round = () => <SVGCommunicationWifiCalling_24_round />;

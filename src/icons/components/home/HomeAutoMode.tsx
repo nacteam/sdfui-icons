@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeAutoMode_20_outlined from '../../svg/home/HomeAutoMode/20_outlined.svg';
+import SVGHomeAutoMode_24_outlined from '../../svg/home/HomeAutoMode/24_outlined.svg';
+import SVGHomeAutoMode_20_twotone from '../../svg/home/HomeAutoMode/20_twotone.svg';
+import SVGHomeAutoMode_24_twotone from '../../svg/home/HomeAutoMode/24_twotone.svg';
+import SVGHomeAutoMode_20_sharp from '../../svg/home/HomeAutoMode/20_sharp.svg';
+import SVGHomeAutoMode_24_sharp from '../../svg/home/HomeAutoMode/24_sharp.svg';
+import SVGHomeAutoMode_20_filled from '../../svg/home/HomeAutoMode/20_filled.svg';
+import SVGHomeAutoMode_24_filled from '../../svg/home/HomeAutoMode/24_filled.svg';
+import SVGHomeAutoMode_20_round from '../../svg/home/HomeAutoMode/20_round.svg';
+import SVGHomeAutoMode_24_round from '../../svg/home/HomeAutoMode/24_round.svg';
+
+export const IconHomeAutoMode20outlined = () => <SVGHomeAutoMode_20_outlined />;
+export const IconHomeAutoMode24outlined = () => <SVGHomeAutoMode_24_outlined />;
+export const IconHomeAutoMode20twotone = () => <SVGHomeAutoMode_20_twotone />;
+export const IconHomeAutoMode24twotone = () => <SVGHomeAutoMode_24_twotone />;
+export const IconHomeAutoMode20sharp = () => <SVGHomeAutoMode_20_sharp />;
+export const IconHomeAutoMode24sharp = () => <SVGHomeAutoMode_24_sharp />;
+export const IconHomeAutoMode20filled = () => <SVGHomeAutoMode_20_filled />;
+export const IconHomeAutoMode24filled = () => <SVGHomeAutoMode_24_filled />;
+export const IconHomeAutoMode20round = () => <SVGHomeAutoMode_20_round />;
+export const IconHomeAutoMode24round = () => <SVGHomeAutoMode_24_round />;

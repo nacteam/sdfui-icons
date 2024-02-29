@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceWifiFind_20_outlined from '../../svg/device/DeviceWifiFind/20_outlined.svg';
+import SVGDeviceWifiFind_24_outlined from '../../svg/device/DeviceWifiFind/24_outlined.svg';
+import SVGDeviceWifiFind_20_twotone from '../../svg/device/DeviceWifiFind/20_twotone.svg';
+import SVGDeviceWifiFind_24_twotone from '../../svg/device/DeviceWifiFind/24_twotone.svg';
+import SVGDeviceWifiFind_20_sharp from '../../svg/device/DeviceWifiFind/20_sharp.svg';
+import SVGDeviceWifiFind_24_sharp from '../../svg/device/DeviceWifiFind/24_sharp.svg';
+import SVGDeviceWifiFind_20_filled from '../../svg/device/DeviceWifiFind/20_filled.svg';
+import SVGDeviceWifiFind_24_filled from '../../svg/device/DeviceWifiFind/24_filled.svg';
+import SVGDeviceWifiFind_20_round from '../../svg/device/DeviceWifiFind/20_round.svg';
+import SVGDeviceWifiFind_24_round from '../../svg/device/DeviceWifiFind/24_round.svg';
+
+export const IconDeviceWifiFind20outlined = () => <SVGDeviceWifiFind_20_outlined />;
+export const IconDeviceWifiFind24outlined = () => <SVGDeviceWifiFind_24_outlined />;
+export const IconDeviceWifiFind20twotone = () => <SVGDeviceWifiFind_20_twotone />;
+export const IconDeviceWifiFind24twotone = () => <SVGDeviceWifiFind_24_twotone />;
+export const IconDeviceWifiFind20sharp = () => <SVGDeviceWifiFind_20_sharp />;
+export const IconDeviceWifiFind24sharp = () => <SVGDeviceWifiFind_24_sharp />;
+export const IconDeviceWifiFind20filled = () => <SVGDeviceWifiFind_20_filled />;
+export const IconDeviceWifiFind24filled = () => <SVGDeviceWifiFind_24_filled />;
+export const IconDeviceWifiFind20round = () => <SVGDeviceWifiFind_20_round />;
+export const IconDeviceWifiFind24round = () => <SVGDeviceWifiFind_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsPlumbing_20_outlined from '../../svg/maps/MapsPlumbing/20_outlined.svg';
+import SVGMapsPlumbing_24_outlined from '../../svg/maps/MapsPlumbing/24_outlined.svg';
+import SVGMapsPlumbing_20_twotone from '../../svg/maps/MapsPlumbing/20_twotone.svg';
+import SVGMapsPlumbing_24_twotone from '../../svg/maps/MapsPlumbing/24_twotone.svg';
+import SVGMapsPlumbing_20_sharp from '../../svg/maps/MapsPlumbing/20_sharp.svg';
+import SVGMapsPlumbing_24_sharp from '../../svg/maps/MapsPlumbing/24_sharp.svg';
+import SVGMapsPlumbing_20_filled from '../../svg/maps/MapsPlumbing/20_filled.svg';
+import SVGMapsPlumbing_24_filled from '../../svg/maps/MapsPlumbing/24_filled.svg';
+import SVGMapsPlumbing_20_round from '../../svg/maps/MapsPlumbing/20_round.svg';
+import SVGMapsPlumbing_24_round from '../../svg/maps/MapsPlumbing/24_round.svg';
+
+export const IconMapsPlumbing20outlined = () => <SVGMapsPlumbing_20_outlined />;
+export const IconMapsPlumbing24outlined = () => <SVGMapsPlumbing_24_outlined />;
+export const IconMapsPlumbing20twotone = () => <SVGMapsPlumbing_20_twotone />;
+export const IconMapsPlumbing24twotone = () => <SVGMapsPlumbing_24_twotone />;
+export const IconMapsPlumbing20sharp = () => <SVGMapsPlumbing_20_sharp />;
+export const IconMapsPlumbing24sharp = () => <SVGMapsPlumbing_24_sharp />;
+export const IconMapsPlumbing20filled = () => <SVGMapsPlumbing_20_filled />;
+export const IconMapsPlumbing24filled = () => <SVGMapsPlumbing_24_filled />;
+export const IconMapsPlumbing20round = () => <SVGMapsPlumbing_20_round />;
+export const IconMapsPlumbing24round = () => <SVGMapsPlumbing_24_round />;

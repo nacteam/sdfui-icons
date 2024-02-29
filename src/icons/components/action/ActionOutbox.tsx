@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionOutbox_20_outlined from '../../svg/action/ActionOutbox/20_outlined.svg';
+import SVGActionOutbox_24_outlined from '../../svg/action/ActionOutbox/24_outlined.svg';
+import SVGActionOutbox_20_twotone from '../../svg/action/ActionOutbox/20_twotone.svg';
+import SVGActionOutbox_24_twotone from '../../svg/action/ActionOutbox/24_twotone.svg';
+import SVGActionOutbox_20_sharp from '../../svg/action/ActionOutbox/20_sharp.svg';
+import SVGActionOutbox_24_sharp from '../../svg/action/ActionOutbox/24_sharp.svg';
+import SVGActionOutbox_20_filled from '../../svg/action/ActionOutbox/20_filled.svg';
+import SVGActionOutbox_24_filled from '../../svg/action/ActionOutbox/24_filled.svg';
+import SVGActionOutbox_20_round from '../../svg/action/ActionOutbox/20_round.svg';
+import SVGActionOutbox_24_round from '../../svg/action/ActionOutbox/24_round.svg';
+
+export const IconActionOutbox20outlined = () => <SVGActionOutbox_20_outlined />;
+export const IconActionOutbox24outlined = () => <SVGActionOutbox_24_outlined />;
+export const IconActionOutbox20twotone = () => <SVGActionOutbox_20_twotone />;
+export const IconActionOutbox24twotone = () => <SVGActionOutbox_24_twotone />;
+export const IconActionOutbox20sharp = () => <SVGActionOutbox_20_sharp />;
+export const IconActionOutbox24sharp = () => <SVGActionOutbox_24_sharp />;
+export const IconActionOutbox20filled = () => <SVGActionOutbox_20_filled />;
+export const IconActionOutbox24filled = () => <SVGActionOutbox_24_filled />;
+export const IconActionOutbox20round = () => <SVGActionOutbox_20_round />;
+export const IconActionOutbox24round = () => <SVGActionOutbox_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorBarChart_20_outlined from '../../svg/editor/EditorBarChart/20_outlined.svg';
+import SVGEditorBarChart_24_outlined from '../../svg/editor/EditorBarChart/24_outlined.svg';
+import SVGEditorBarChart_20_twotone from '../../svg/editor/EditorBarChart/20_twotone.svg';
+import SVGEditorBarChart_24_twotone from '../../svg/editor/EditorBarChart/24_twotone.svg';
+import SVGEditorBarChart_20_sharp from '../../svg/editor/EditorBarChart/20_sharp.svg';
+import SVGEditorBarChart_24_sharp from '../../svg/editor/EditorBarChart/24_sharp.svg';
+import SVGEditorBarChart_20_filled from '../../svg/editor/EditorBarChart/20_filled.svg';
+import SVGEditorBarChart_24_filled from '../../svg/editor/EditorBarChart/24_filled.svg';
+import SVGEditorBarChart_20_round from '../../svg/editor/EditorBarChart/20_round.svg';
+import SVGEditorBarChart_24_round from '../../svg/editor/EditorBarChart/24_round.svg';
+
+export const IconEditorBarChart20outlined = () => <SVGEditorBarChart_20_outlined />;
+export const IconEditorBarChart24outlined = () => <SVGEditorBarChart_24_outlined />;
+export const IconEditorBarChart20twotone = () => <SVGEditorBarChart_20_twotone />;
+export const IconEditorBarChart24twotone = () => <SVGEditorBarChart_24_twotone />;
+export const IconEditorBarChart20sharp = () => <SVGEditorBarChart_20_sharp />;
+export const IconEditorBarChart24sharp = () => <SVGEditorBarChart_24_sharp />;
+export const IconEditorBarChart20filled = () => <SVGEditorBarChart_20_filled />;
+export const IconEditorBarChart24filled = () => <SVGEditorBarChart_24_filled />;
+export const IconEditorBarChart20round = () => <SVGEditorBarChart_20_round />;
+export const IconEditorBarChart24round = () => <SVGEditorBarChart_24_round />;

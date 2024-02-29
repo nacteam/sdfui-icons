@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentFontDownloadOff_20_outlined from '../../svg/content/ContentFontDownloadOff/20_outlined.svg';
+import SVGContentFontDownloadOff_24_outlined from '../../svg/content/ContentFontDownloadOff/24_outlined.svg';
+import SVGContentFontDownloadOff_20_twotone from '../../svg/content/ContentFontDownloadOff/20_twotone.svg';
+import SVGContentFontDownloadOff_24_twotone from '../../svg/content/ContentFontDownloadOff/24_twotone.svg';
+import SVGContentFontDownloadOff_20_sharp from '../../svg/content/ContentFontDownloadOff/20_sharp.svg';
+import SVGContentFontDownloadOff_24_sharp from '../../svg/content/ContentFontDownloadOff/24_sharp.svg';
+import SVGContentFontDownloadOff_20_filled from '../../svg/content/ContentFontDownloadOff/20_filled.svg';
+import SVGContentFontDownloadOff_24_filled from '../../svg/content/ContentFontDownloadOff/24_filled.svg';
+import SVGContentFontDownloadOff_20_round from '../../svg/content/ContentFontDownloadOff/20_round.svg';
+import SVGContentFontDownloadOff_24_round from '../../svg/content/ContentFontDownloadOff/24_round.svg';
+
+export const IconContentFontDownloadOff20outlined = () => <SVGContentFontDownloadOff_20_outlined />;
+export const IconContentFontDownloadOff24outlined = () => <SVGContentFontDownloadOff_24_outlined />;
+export const IconContentFontDownloadOff20twotone = () => <SVGContentFontDownloadOff_20_twotone />;
+export const IconContentFontDownloadOff24twotone = () => <SVGContentFontDownloadOff_24_twotone />;
+export const IconContentFontDownloadOff20sharp = () => <SVGContentFontDownloadOff_20_sharp />;
+export const IconContentFontDownloadOff24sharp = () => <SVGContentFontDownloadOff_24_sharp />;
+export const IconContentFontDownloadOff20filled = () => <SVGContentFontDownloadOff_20_filled />;
+export const IconContentFontDownloadOff24filled = () => <SVGContentFontDownloadOff_24_filled />;
+export const IconContentFontDownloadOff20round = () => <SVGContentFontDownloadOff_20_round />;
+export const IconContentFontDownloadOff24round = () => <SVGContentFontDownloadOff_24_round />;

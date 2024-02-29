@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionWorkHistory_20_outlined from '../../svg/action/ActionWorkHistory/20_outlined.svg';
+import SVGActionWorkHistory_24_outlined from '../../svg/action/ActionWorkHistory/24_outlined.svg';
+import SVGActionWorkHistory_20_twotone from '../../svg/action/ActionWorkHistory/20_twotone.svg';
+import SVGActionWorkHistory_24_twotone from '../../svg/action/ActionWorkHistory/24_twotone.svg';
+import SVGActionWorkHistory_20_sharp from '../../svg/action/ActionWorkHistory/20_sharp.svg';
+import SVGActionWorkHistory_24_sharp from '../../svg/action/ActionWorkHistory/24_sharp.svg';
+import SVGActionWorkHistory_20_filled from '../../svg/action/ActionWorkHistory/20_filled.svg';
+import SVGActionWorkHistory_24_filled from '../../svg/action/ActionWorkHistory/24_filled.svg';
+import SVGActionWorkHistory_20_round from '../../svg/action/ActionWorkHistory/20_round.svg';
+import SVGActionWorkHistory_24_round from '../../svg/action/ActionWorkHistory/24_round.svg';
+
+export const IconActionWorkHistory20outlined = () => <SVGActionWorkHistory_20_outlined />;
+export const IconActionWorkHistory24outlined = () => <SVGActionWorkHistory_24_outlined />;
+export const IconActionWorkHistory20twotone = () => <SVGActionWorkHistory_20_twotone />;
+export const IconActionWorkHistory24twotone = () => <SVGActionWorkHistory_24_twotone />;
+export const IconActionWorkHistory20sharp = () => <SVGActionWorkHistory_20_sharp />;
+export const IconActionWorkHistory24sharp = () => <SVGActionWorkHistory_24_sharp />;
+export const IconActionWorkHistory20filled = () => <SVGActionWorkHistory_20_filled />;
+export const IconActionWorkHistory24filled = () => <SVGActionWorkHistory_24_filled />;
+export const IconActionWorkHistory20round = () => <SVGActionWorkHistory_20_round />;
+export const IconActionWorkHistory24round = () => <SVGActionWorkHistory_24_round />;

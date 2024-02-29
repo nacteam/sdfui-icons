@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsMerge_20_outlined from '../../svg/maps/MapsMerge/20_outlined.svg';
+import SVGMapsMerge_24_outlined from '../../svg/maps/MapsMerge/24_outlined.svg';
+import SVGMapsMerge_20_twotone from '../../svg/maps/MapsMerge/20_twotone.svg';
+import SVGMapsMerge_24_twotone from '../../svg/maps/MapsMerge/24_twotone.svg';
+import SVGMapsMerge_20_sharp from '../../svg/maps/MapsMerge/20_sharp.svg';
+import SVGMapsMerge_24_sharp from '../../svg/maps/MapsMerge/24_sharp.svg';
+import SVGMapsMerge_20_filled from '../../svg/maps/MapsMerge/20_filled.svg';
+import SVGMapsMerge_24_filled from '../../svg/maps/MapsMerge/24_filled.svg';
+import SVGMapsMerge_20_round from '../../svg/maps/MapsMerge/20_round.svg';
+import SVGMapsMerge_24_round from '../../svg/maps/MapsMerge/24_round.svg';
+
+export const IconMapsMerge20outlined = () => <SVGMapsMerge_20_outlined />;
+export const IconMapsMerge24outlined = () => <SVGMapsMerge_24_outlined />;
+export const IconMapsMerge20twotone = () => <SVGMapsMerge_20_twotone />;
+export const IconMapsMerge24twotone = () => <SVGMapsMerge_24_twotone />;
+export const IconMapsMerge20sharp = () => <SVGMapsMerge_20_sharp />;
+export const IconMapsMerge24sharp = () => <SVGMapsMerge_24_sharp />;
+export const IconMapsMerge20filled = () => <SVGMapsMerge_20_filled />;
+export const IconMapsMerge24filled = () => <SVGMapsMerge_24_filled />;
+export const IconMapsMerge20round = () => <SVGMapsMerge_20_round />;
+export const IconMapsMerge24round = () => <SVGMapsMerge_24_round />;

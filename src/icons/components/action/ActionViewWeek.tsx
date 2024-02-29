@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewWeek_20_outlined from '../../svg/action/ActionViewWeek/20_outlined.svg';
+import SVGActionViewWeek_24_outlined from '../../svg/action/ActionViewWeek/24_outlined.svg';
+import SVGActionViewWeek_20_twotone from '../../svg/action/ActionViewWeek/20_twotone.svg';
+import SVGActionViewWeek_24_twotone from '../../svg/action/ActionViewWeek/24_twotone.svg';
+import SVGActionViewWeek_20_sharp from '../../svg/action/ActionViewWeek/20_sharp.svg';
+import SVGActionViewWeek_24_sharp from '../../svg/action/ActionViewWeek/24_sharp.svg';
+import SVGActionViewWeek_20_filled from '../../svg/action/ActionViewWeek/20_filled.svg';
+import SVGActionViewWeek_24_filled from '../../svg/action/ActionViewWeek/24_filled.svg';
+import SVGActionViewWeek_20_round from '../../svg/action/ActionViewWeek/20_round.svg';
+import SVGActionViewWeek_24_round from '../../svg/action/ActionViewWeek/24_round.svg';
+
+export const IconActionViewWeek20outlined = () => <SVGActionViewWeek_20_outlined />;
+export const IconActionViewWeek24outlined = () => <SVGActionViewWeek_24_outlined />;
+export const IconActionViewWeek20twotone = () => <SVGActionViewWeek_20_twotone />;
+export const IconActionViewWeek24twotone = () => <SVGActionViewWeek_24_twotone />;
+export const IconActionViewWeek20sharp = () => <SVGActionViewWeek_20_sharp />;
+export const IconActionViewWeek24sharp = () => <SVGActionViewWeek_24_sharp />;
+export const IconActionViewWeek20filled = () => <SVGActionViewWeek_20_filled />;
+export const IconActionViewWeek24filled = () => <SVGActionViewWeek_24_filled />;
+export const IconActionViewWeek20round = () => <SVGActionViewWeek_20_round />;
+export const IconActionViewWeek24round = () => <SVGActionViewWeek_24_round />;

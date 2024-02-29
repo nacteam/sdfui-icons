@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_outlined from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/20_outlined.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_outlined from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/24_outlined.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_twotone from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/20_twotone.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_twotone from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/24_twotone.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_sharp from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/20_sharp.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_sharp from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/24_sharp.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_filled from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/20_filled.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_filled from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/24_filled.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_round from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/20_round.svg';
+import SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_round from '../../svg/device/DeviceSignalWifiStatusbarConnectedNoInternet4/24_round.svg';
+
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet420outlined = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_outlined />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet424outlined = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_outlined />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet420twotone = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_twotone />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet424twotone = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_twotone />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet420sharp = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_sharp />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet424sharp = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_sharp />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet420filled = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_filled />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet424filled = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_filled />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet420round = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_20_round />;
+export const IconDeviceSignalWifiStatusbarConnectedNoInternet424round = () => <SVGDeviceSignalWifiStatusbarConnectedNoInternet4_24_round />;

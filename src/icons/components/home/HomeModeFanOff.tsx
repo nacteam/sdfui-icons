@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeModeFanOff_20_outlined from '../../svg/home/HomeModeFanOff/20_outlined.svg';
+import SVGHomeModeFanOff_24_outlined from '../../svg/home/HomeModeFanOff/24_outlined.svg';
+import SVGHomeModeFanOff_20_twotone from '../../svg/home/HomeModeFanOff/20_twotone.svg';
+import SVGHomeModeFanOff_24_twotone from '../../svg/home/HomeModeFanOff/24_twotone.svg';
+import SVGHomeModeFanOff_20_sharp from '../../svg/home/HomeModeFanOff/20_sharp.svg';
+import SVGHomeModeFanOff_24_sharp from '../../svg/home/HomeModeFanOff/24_sharp.svg';
+import SVGHomeModeFanOff_20_filled from '../../svg/home/HomeModeFanOff/20_filled.svg';
+import SVGHomeModeFanOff_24_filled from '../../svg/home/HomeModeFanOff/24_filled.svg';
+import SVGHomeModeFanOff_20_round from '../../svg/home/HomeModeFanOff/20_round.svg';
+import SVGHomeModeFanOff_24_round from '../../svg/home/HomeModeFanOff/24_round.svg';
+
+export const IconHomeModeFanOff20outlined = () => <SVGHomeModeFanOff_20_outlined />;
+export const IconHomeModeFanOff24outlined = () => <SVGHomeModeFanOff_24_outlined />;
+export const IconHomeModeFanOff20twotone = () => <SVGHomeModeFanOff_20_twotone />;
+export const IconHomeModeFanOff24twotone = () => <SVGHomeModeFanOff_24_twotone />;
+export const IconHomeModeFanOff20sharp = () => <SVGHomeModeFanOff_20_sharp />;
+export const IconHomeModeFanOff24sharp = () => <SVGHomeModeFanOff_24_sharp />;
+export const IconHomeModeFanOff20filled = () => <SVGHomeModeFanOff_20_filled />;
+export const IconHomeModeFanOff24filled = () => <SVGHomeModeFanOff_24_filled />;
+export const IconHomeModeFanOff20round = () => <SVGHomeModeFanOff_20_round />;
+export const IconHomeModeFanOff24round = () => <SVGHomeModeFanOff_24_round />;

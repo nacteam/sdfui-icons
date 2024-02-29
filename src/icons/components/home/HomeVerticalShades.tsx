@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeVerticalShades_20_outlined from '../../svg/home/HomeVerticalShades/20_outlined.svg';
+import SVGHomeVerticalShades_24_outlined from '../../svg/home/HomeVerticalShades/24_outlined.svg';
+import SVGHomeVerticalShades_20_twotone from '../../svg/home/HomeVerticalShades/20_twotone.svg';
+import SVGHomeVerticalShades_24_twotone from '../../svg/home/HomeVerticalShades/24_twotone.svg';
+import SVGHomeVerticalShades_20_sharp from '../../svg/home/HomeVerticalShades/20_sharp.svg';
+import SVGHomeVerticalShades_24_sharp from '../../svg/home/HomeVerticalShades/24_sharp.svg';
+import SVGHomeVerticalShades_20_filled from '../../svg/home/HomeVerticalShades/20_filled.svg';
+import SVGHomeVerticalShades_24_filled from '../../svg/home/HomeVerticalShades/24_filled.svg';
+import SVGHomeVerticalShades_20_round from '../../svg/home/HomeVerticalShades/20_round.svg';
+import SVGHomeVerticalShades_24_round from '../../svg/home/HomeVerticalShades/24_round.svg';
+
+export const IconHomeVerticalShades20outlined = () => <SVGHomeVerticalShades_20_outlined />;
+export const IconHomeVerticalShades24outlined = () => <SVGHomeVerticalShades_24_outlined />;
+export const IconHomeVerticalShades20twotone = () => <SVGHomeVerticalShades_20_twotone />;
+export const IconHomeVerticalShades24twotone = () => <SVGHomeVerticalShades_24_twotone />;
+export const IconHomeVerticalShades20sharp = () => <SVGHomeVerticalShades_20_sharp />;
+export const IconHomeVerticalShades24sharp = () => <SVGHomeVerticalShades_24_sharp />;
+export const IconHomeVerticalShades20filled = () => <SVGHomeVerticalShades_20_filled />;
+export const IconHomeVerticalShades24filled = () => <SVGHomeVerticalShades_24_filled />;
+export const IconHomeVerticalShades20round = () => <SVGHomeVerticalShades_20_round />;
+export const IconHomeVerticalShades24round = () => <SVGHomeVerticalShades_24_round />;

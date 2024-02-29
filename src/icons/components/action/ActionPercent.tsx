@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPercent_20_outlined from '../../svg/action/ActionPercent/20_outlined.svg';
+import SVGActionPercent_24_outlined from '../../svg/action/ActionPercent/24_outlined.svg';
+import SVGActionPercent_20_twotone from '../../svg/action/ActionPercent/20_twotone.svg';
+import SVGActionPercent_24_twotone from '../../svg/action/ActionPercent/24_twotone.svg';
+import SVGActionPercent_20_sharp from '../../svg/action/ActionPercent/20_sharp.svg';
+import SVGActionPercent_24_sharp from '../../svg/action/ActionPercent/24_sharp.svg';
+import SVGActionPercent_20_filled from '../../svg/action/ActionPercent/20_filled.svg';
+import SVGActionPercent_24_filled from '../../svg/action/ActionPercent/24_filled.svg';
+import SVGActionPercent_20_round from '../../svg/action/ActionPercent/20_round.svg';
+import SVGActionPercent_24_round from '../../svg/action/ActionPercent/24_round.svg';
+
+export const IconActionPercent20outlined = () => <SVGActionPercent_20_outlined />;
+export const IconActionPercent24outlined = () => <SVGActionPercent_24_outlined />;
+export const IconActionPercent20twotone = () => <SVGActionPercent_20_twotone />;
+export const IconActionPercent24twotone = () => <SVGActionPercent_24_twotone />;
+export const IconActionPercent20sharp = () => <SVGActionPercent_20_sharp />;
+export const IconActionPercent24sharp = () => <SVGActionPercent_24_sharp />;
+export const IconActionPercent20filled = () => <SVGActionPercent_20_filled />;
+export const IconActionPercent24filled = () => <SVGActionPercent_24_filled />;
+export const IconActionPercent20round = () => <SVGActionPercent_20_round />;
+export const IconActionPercent24round = () => <SVGActionPercent_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceSignalWifi4BarLock_20_outlined from '../../svg/device/DeviceSignalWifi4BarLock/20_outlined.svg';
+import SVGDeviceSignalWifi4BarLock_24_outlined from '../../svg/device/DeviceSignalWifi4BarLock/24_outlined.svg';
+import SVGDeviceSignalWifi4BarLock_20_twotone from '../../svg/device/DeviceSignalWifi4BarLock/20_twotone.svg';
+import SVGDeviceSignalWifi4BarLock_24_twotone from '../../svg/device/DeviceSignalWifi4BarLock/24_twotone.svg';
+import SVGDeviceSignalWifi4BarLock_20_sharp from '../../svg/device/DeviceSignalWifi4BarLock/20_sharp.svg';
+import SVGDeviceSignalWifi4BarLock_24_sharp from '../../svg/device/DeviceSignalWifi4BarLock/24_sharp.svg';
+import SVGDeviceSignalWifi4BarLock_20_filled from '../../svg/device/DeviceSignalWifi4BarLock/20_filled.svg';
+import SVGDeviceSignalWifi4BarLock_24_filled from '../../svg/device/DeviceSignalWifi4BarLock/24_filled.svg';
+import SVGDeviceSignalWifi4BarLock_20_round from '../../svg/device/DeviceSignalWifi4BarLock/20_round.svg';
+import SVGDeviceSignalWifi4BarLock_24_round from '../../svg/device/DeviceSignalWifi4BarLock/24_round.svg';
+
+export const IconDeviceSignalWifi4BarLock20outlined = () => <SVGDeviceSignalWifi4BarLock_20_outlined />;
+export const IconDeviceSignalWifi4BarLock24outlined = () => <SVGDeviceSignalWifi4BarLock_24_outlined />;
+export const IconDeviceSignalWifi4BarLock20twotone = () => <SVGDeviceSignalWifi4BarLock_20_twotone />;
+export const IconDeviceSignalWifi4BarLock24twotone = () => <SVGDeviceSignalWifi4BarLock_24_twotone />;
+export const IconDeviceSignalWifi4BarLock20sharp = () => <SVGDeviceSignalWifi4BarLock_20_sharp />;
+export const IconDeviceSignalWifi4BarLock24sharp = () => <SVGDeviceSignalWifi4BarLock_24_sharp />;
+export const IconDeviceSignalWifi4BarLock20filled = () => <SVGDeviceSignalWifi4BarLock_20_filled />;
+export const IconDeviceSignalWifi4BarLock24filled = () => <SVGDeviceSignalWifi4BarLock_24_filled />;
+export const IconDeviceSignalWifi4BarLock20round = () => <SVGDeviceSignalWifi4BarLock_20_round />;
+export const IconDeviceSignalWifi4BarLock24round = () => <SVGDeviceSignalWifi4BarLock_24_round />;

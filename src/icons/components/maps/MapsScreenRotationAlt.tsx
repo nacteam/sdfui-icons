@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsScreenRotationAlt_20_outlined from '../../svg/maps/MapsScreenRotationAlt/20_outlined.svg';
+import SVGMapsScreenRotationAlt_24_outlined from '../../svg/maps/MapsScreenRotationAlt/24_outlined.svg';
+import SVGMapsScreenRotationAlt_20_twotone from '../../svg/maps/MapsScreenRotationAlt/20_twotone.svg';
+import SVGMapsScreenRotationAlt_24_twotone from '../../svg/maps/MapsScreenRotationAlt/24_twotone.svg';
+import SVGMapsScreenRotationAlt_20_sharp from '../../svg/maps/MapsScreenRotationAlt/20_sharp.svg';
+import SVGMapsScreenRotationAlt_24_sharp from '../../svg/maps/MapsScreenRotationAlt/24_sharp.svg';
+import SVGMapsScreenRotationAlt_20_filled from '../../svg/maps/MapsScreenRotationAlt/20_filled.svg';
+import SVGMapsScreenRotationAlt_24_filled from '../../svg/maps/MapsScreenRotationAlt/24_filled.svg';
+import SVGMapsScreenRotationAlt_20_round from '../../svg/maps/MapsScreenRotationAlt/20_round.svg';
+import SVGMapsScreenRotationAlt_24_round from '../../svg/maps/MapsScreenRotationAlt/24_round.svg';
+
+export const IconMapsScreenRotationAlt20outlined = () => <SVGMapsScreenRotationAlt_20_outlined />;
+export const IconMapsScreenRotationAlt24outlined = () => <SVGMapsScreenRotationAlt_24_outlined />;
+export const IconMapsScreenRotationAlt20twotone = () => <SVGMapsScreenRotationAlt_20_twotone />;
+export const IconMapsScreenRotationAlt24twotone = () => <SVGMapsScreenRotationAlt_24_twotone />;
+export const IconMapsScreenRotationAlt20sharp = () => <SVGMapsScreenRotationAlt_20_sharp />;
+export const IconMapsScreenRotationAlt24sharp = () => <SVGMapsScreenRotationAlt_24_sharp />;
+export const IconMapsScreenRotationAlt20filled = () => <SVGMapsScreenRotationAlt_20_filled />;
+export const IconMapsScreenRotationAlt24filled = () => <SVGMapsScreenRotationAlt_24_filled />;
+export const IconMapsScreenRotationAlt20round = () => <SVGMapsScreenRotationAlt_20_round />;
+export const IconMapsScreenRotationAlt24round = () => <SVGMapsScreenRotationAlt_24_round />;

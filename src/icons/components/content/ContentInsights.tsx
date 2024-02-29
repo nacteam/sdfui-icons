@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentInsights_20_outlined from '../../svg/content/ContentInsights/20_outlined.svg';
+import SVGContentInsights_24_outlined from '../../svg/content/ContentInsights/24_outlined.svg';
+import SVGContentInsights_20_twotone from '../../svg/content/ContentInsights/20_twotone.svg';
+import SVGContentInsights_24_twotone from '../../svg/content/ContentInsights/24_twotone.svg';
+import SVGContentInsights_20_sharp from '../../svg/content/ContentInsights/20_sharp.svg';
+import SVGContentInsights_24_sharp from '../../svg/content/ContentInsights/24_sharp.svg';
+import SVGContentInsights_20_filled from '../../svg/content/ContentInsights/20_filled.svg';
+import SVGContentInsights_24_filled from '../../svg/content/ContentInsights/24_filled.svg';
+import SVGContentInsights_20_round from '../../svg/content/ContentInsights/20_round.svg';
+import SVGContentInsights_24_round from '../../svg/content/ContentInsights/24_round.svg';
+
+export const IconContentInsights20outlined = () => <SVGContentInsights_20_outlined />;
+export const IconContentInsights24outlined = () => <SVGContentInsights_24_outlined />;
+export const IconContentInsights20twotone = () => <SVGContentInsights_20_twotone />;
+export const IconContentInsights24twotone = () => <SVGContentInsights_24_twotone />;
+export const IconContentInsights20sharp = () => <SVGContentInsights_20_sharp />;
+export const IconContentInsights24sharp = () => <SVGContentInsights_24_sharp />;
+export const IconContentInsights20filled = () => <SVGContentInsights_20_filled />;
+export const IconContentInsights24filled = () => <SVGContentInsights_24_filled />;
+export const IconContentInsights20round = () => <SVGContentInsights_20_round />;
+export const IconContentInsights24round = () => <SVGContentInsights_24_round />;

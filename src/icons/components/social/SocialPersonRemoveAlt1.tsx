@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPersonRemoveAlt1_20_outlined from '../../svg/social/SocialPersonRemoveAlt1/20_outlined.svg';
+import SVGSocialPersonRemoveAlt1_24_outlined from '../../svg/social/SocialPersonRemoveAlt1/24_outlined.svg';
+import SVGSocialPersonRemoveAlt1_20_twotone from '../../svg/social/SocialPersonRemoveAlt1/20_twotone.svg';
+import SVGSocialPersonRemoveAlt1_24_twotone from '../../svg/social/SocialPersonRemoveAlt1/24_twotone.svg';
+import SVGSocialPersonRemoveAlt1_20_sharp from '../../svg/social/SocialPersonRemoveAlt1/20_sharp.svg';
+import SVGSocialPersonRemoveAlt1_24_sharp from '../../svg/social/SocialPersonRemoveAlt1/24_sharp.svg';
+import SVGSocialPersonRemoveAlt1_20_filled from '../../svg/social/SocialPersonRemoveAlt1/20_filled.svg';
+import SVGSocialPersonRemoveAlt1_24_filled from '../../svg/social/SocialPersonRemoveAlt1/24_filled.svg';
+import SVGSocialPersonRemoveAlt1_20_round from '../../svg/social/SocialPersonRemoveAlt1/20_round.svg';
+import SVGSocialPersonRemoveAlt1_24_round from '../../svg/social/SocialPersonRemoveAlt1/24_round.svg';
+
+export const IconSocialPersonRemoveAlt120outlined = () => <SVGSocialPersonRemoveAlt1_20_outlined />;
+export const IconSocialPersonRemoveAlt124outlined = () => <SVGSocialPersonRemoveAlt1_24_outlined />;
+export const IconSocialPersonRemoveAlt120twotone = () => <SVGSocialPersonRemoveAlt1_20_twotone />;
+export const IconSocialPersonRemoveAlt124twotone = () => <SVGSocialPersonRemoveAlt1_24_twotone />;
+export const IconSocialPersonRemoveAlt120sharp = () => <SVGSocialPersonRemoveAlt1_20_sharp />;
+export const IconSocialPersonRemoveAlt124sharp = () => <SVGSocialPersonRemoveAlt1_24_sharp />;
+export const IconSocialPersonRemoveAlt120filled = () => <SVGSocialPersonRemoveAlt1_20_filled />;
+export const IconSocialPersonRemoveAlt124filled = () => <SVGSocialPersonRemoveAlt1_24_filled />;
+export const IconSocialPersonRemoveAlt120round = () => <SVGSocialPersonRemoveAlt1_20_round />;
+export const IconSocialPersonRemoveAlt124round = () => <SVGSocialPersonRemoveAlt1_24_round />;

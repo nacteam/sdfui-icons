@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCurrencyFranc_20_outlined from '../../svg/image/ImageCurrencyFranc/20_outlined.svg';
+import SVGImageCurrencyFranc_24_outlined from '../../svg/image/ImageCurrencyFranc/24_outlined.svg';
+import SVGImageCurrencyFranc_20_twotone from '../../svg/image/ImageCurrencyFranc/20_twotone.svg';
+import SVGImageCurrencyFranc_24_twotone from '../../svg/image/ImageCurrencyFranc/24_twotone.svg';
+import SVGImageCurrencyFranc_20_sharp from '../../svg/image/ImageCurrencyFranc/20_sharp.svg';
+import SVGImageCurrencyFranc_24_sharp from '../../svg/image/ImageCurrencyFranc/24_sharp.svg';
+import SVGImageCurrencyFranc_20_filled from '../../svg/image/ImageCurrencyFranc/20_filled.svg';
+import SVGImageCurrencyFranc_24_filled from '../../svg/image/ImageCurrencyFranc/24_filled.svg';
+import SVGImageCurrencyFranc_20_round from '../../svg/image/ImageCurrencyFranc/20_round.svg';
+import SVGImageCurrencyFranc_24_round from '../../svg/image/ImageCurrencyFranc/24_round.svg';
+
+export const IconImageCurrencyFranc20outlined = () => <SVGImageCurrencyFranc_20_outlined />;
+export const IconImageCurrencyFranc24outlined = () => <SVGImageCurrencyFranc_24_outlined />;
+export const IconImageCurrencyFranc20twotone = () => <SVGImageCurrencyFranc_20_twotone />;
+export const IconImageCurrencyFranc24twotone = () => <SVGImageCurrencyFranc_24_twotone />;
+export const IconImageCurrencyFranc20sharp = () => <SVGImageCurrencyFranc_20_sharp />;
+export const IconImageCurrencyFranc24sharp = () => <SVGImageCurrencyFranc_24_sharp />;
+export const IconImageCurrencyFranc20filled = () => <SVGImageCurrencyFranc_20_filled />;
+export const IconImageCurrencyFranc24filled = () => <SVGImageCurrencyFranc_24_filled />;
+export const IconImageCurrencyFranc20round = () => <SVGImageCurrencyFranc_20_round />;
+export const IconImageCurrencyFranc24round = () => <SVGImageCurrencyFranc_24_round />;

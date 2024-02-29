@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialScubaDiving_20_outlined from '../../svg/social/SocialScubaDiving/20_outlined.svg';
+import SVGSocialScubaDiving_24_outlined from '../../svg/social/SocialScubaDiving/24_outlined.svg';
+import SVGSocialScubaDiving_20_twotone from '../../svg/social/SocialScubaDiving/20_twotone.svg';
+import SVGSocialScubaDiving_24_twotone from '../../svg/social/SocialScubaDiving/24_twotone.svg';
+import SVGSocialScubaDiving_20_sharp from '../../svg/social/SocialScubaDiving/20_sharp.svg';
+import SVGSocialScubaDiving_24_sharp from '../../svg/social/SocialScubaDiving/24_sharp.svg';
+import SVGSocialScubaDiving_20_filled from '../../svg/social/SocialScubaDiving/20_filled.svg';
+import SVGSocialScubaDiving_24_filled from '../../svg/social/SocialScubaDiving/24_filled.svg';
+import SVGSocialScubaDiving_20_round from '../../svg/social/SocialScubaDiving/20_round.svg';
+import SVGSocialScubaDiving_24_round from '../../svg/social/SocialScubaDiving/24_round.svg';
+
+export const IconSocialScubaDiving20outlined = () => <SVGSocialScubaDiving_20_outlined />;
+export const IconSocialScubaDiving24outlined = () => <SVGSocialScubaDiving_24_outlined />;
+export const IconSocialScubaDiving20twotone = () => <SVGSocialScubaDiving_20_twotone />;
+export const IconSocialScubaDiving24twotone = () => <SVGSocialScubaDiving_24_twotone />;
+export const IconSocialScubaDiving20sharp = () => <SVGSocialScubaDiving_20_sharp />;
+export const IconSocialScubaDiving24sharp = () => <SVGSocialScubaDiving_24_sharp />;
+export const IconSocialScubaDiving20filled = () => <SVGSocialScubaDiving_20_filled />;
+export const IconSocialScubaDiving24filled = () => <SVGSocialScubaDiving_24_filled />;
+export const IconSocialScubaDiving20round = () => <SVGSocialScubaDiving_20_round />;
+export const IconSocialScubaDiving24round = () => <SVGSocialScubaDiving_24_round />;

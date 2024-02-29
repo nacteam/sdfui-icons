@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPrivacyTip_20_outlined from '../../svg/action/ActionPrivacyTip/20_outlined.svg';
+import SVGActionPrivacyTip_24_outlined from '../../svg/action/ActionPrivacyTip/24_outlined.svg';
+import SVGActionPrivacyTip_20_twotone from '../../svg/action/ActionPrivacyTip/20_twotone.svg';
+import SVGActionPrivacyTip_24_twotone from '../../svg/action/ActionPrivacyTip/24_twotone.svg';
+import SVGActionPrivacyTip_20_sharp from '../../svg/action/ActionPrivacyTip/20_sharp.svg';
+import SVGActionPrivacyTip_24_sharp from '../../svg/action/ActionPrivacyTip/24_sharp.svg';
+import SVGActionPrivacyTip_20_filled from '../../svg/action/ActionPrivacyTip/20_filled.svg';
+import SVGActionPrivacyTip_24_filled from '../../svg/action/ActionPrivacyTip/24_filled.svg';
+import SVGActionPrivacyTip_20_round from '../../svg/action/ActionPrivacyTip/20_round.svg';
+import SVGActionPrivacyTip_24_round from '../../svg/action/ActionPrivacyTip/24_round.svg';
+
+export const IconActionPrivacyTip20outlined = () => <SVGActionPrivacyTip_20_outlined />;
+export const IconActionPrivacyTip24outlined = () => <SVGActionPrivacyTip_24_outlined />;
+export const IconActionPrivacyTip20twotone = () => <SVGActionPrivacyTip_20_twotone />;
+export const IconActionPrivacyTip24twotone = () => <SVGActionPrivacyTip_24_twotone />;
+export const IconActionPrivacyTip20sharp = () => <SVGActionPrivacyTip_20_sharp />;
+export const IconActionPrivacyTip24sharp = () => <SVGActionPrivacyTip_24_sharp />;
+export const IconActionPrivacyTip20filled = () => <SVGActionPrivacyTip_20_filled />;
+export const IconActionPrivacyTip24filled = () => <SVGActionPrivacyTip_24_filled />;
+export const IconActionPrivacyTip20round = () => <SVGActionPrivacyTip_20_round />;
+export const IconActionPrivacyTip24round = () => <SVGActionPrivacyTip_24_round />;

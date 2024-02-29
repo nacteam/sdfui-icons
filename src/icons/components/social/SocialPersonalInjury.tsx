@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPersonalInjury_20_outlined from '../../svg/social/SocialPersonalInjury/20_outlined.svg';
+import SVGSocialPersonalInjury_24_outlined from '../../svg/social/SocialPersonalInjury/24_outlined.svg';
+import SVGSocialPersonalInjury_20_twotone from '../../svg/social/SocialPersonalInjury/20_twotone.svg';
+import SVGSocialPersonalInjury_24_twotone from '../../svg/social/SocialPersonalInjury/24_twotone.svg';
+import SVGSocialPersonalInjury_20_sharp from '../../svg/social/SocialPersonalInjury/20_sharp.svg';
+import SVGSocialPersonalInjury_24_sharp from '../../svg/social/SocialPersonalInjury/24_sharp.svg';
+import SVGSocialPersonalInjury_20_filled from '../../svg/social/SocialPersonalInjury/20_filled.svg';
+import SVGSocialPersonalInjury_24_filled from '../../svg/social/SocialPersonalInjury/24_filled.svg';
+import SVGSocialPersonalInjury_20_round from '../../svg/social/SocialPersonalInjury/20_round.svg';
+import SVGSocialPersonalInjury_24_round from '../../svg/social/SocialPersonalInjury/24_round.svg';
+
+export const IconSocialPersonalInjury20outlined = () => <SVGSocialPersonalInjury_20_outlined />;
+export const IconSocialPersonalInjury24outlined = () => <SVGSocialPersonalInjury_24_outlined />;
+export const IconSocialPersonalInjury20twotone = () => <SVGSocialPersonalInjury_20_twotone />;
+export const IconSocialPersonalInjury24twotone = () => <SVGSocialPersonalInjury_24_twotone />;
+export const IconSocialPersonalInjury20sharp = () => <SVGSocialPersonalInjury_20_sharp />;
+export const IconSocialPersonalInjury24sharp = () => <SVGSocialPersonalInjury_24_sharp />;
+export const IconSocialPersonalInjury20filled = () => <SVGSocialPersonalInjury_20_filled />;
+export const IconSocialPersonalInjury24filled = () => <SVGSocialPersonalInjury_24_filled />;
+export const IconSocialPersonalInjury20round = () => <SVGSocialPersonalInjury_20_round />;
+export const IconSocialPersonalInjury24round = () => <SVGSocialPersonalInjury_24_round />;

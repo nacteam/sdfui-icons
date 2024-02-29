@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeEnergySavingsLeaf_20_outlined from '../../svg/home/HomeEnergySavingsLeaf/20_outlined.svg';
+import SVGHomeEnergySavingsLeaf_24_outlined from '../../svg/home/HomeEnergySavingsLeaf/24_outlined.svg';
+import SVGHomeEnergySavingsLeaf_20_twotone from '../../svg/home/HomeEnergySavingsLeaf/20_twotone.svg';
+import SVGHomeEnergySavingsLeaf_24_twotone from '../../svg/home/HomeEnergySavingsLeaf/24_twotone.svg';
+import SVGHomeEnergySavingsLeaf_20_sharp from '../../svg/home/HomeEnergySavingsLeaf/20_sharp.svg';
+import SVGHomeEnergySavingsLeaf_24_sharp from '../../svg/home/HomeEnergySavingsLeaf/24_sharp.svg';
+import SVGHomeEnergySavingsLeaf_20_filled from '../../svg/home/HomeEnergySavingsLeaf/20_filled.svg';
+import SVGHomeEnergySavingsLeaf_24_filled from '../../svg/home/HomeEnergySavingsLeaf/24_filled.svg';
+import SVGHomeEnergySavingsLeaf_20_round from '../../svg/home/HomeEnergySavingsLeaf/20_round.svg';
+import SVGHomeEnergySavingsLeaf_24_round from '../../svg/home/HomeEnergySavingsLeaf/24_round.svg';
+
+export const IconHomeEnergySavingsLeaf20outlined = () => <SVGHomeEnergySavingsLeaf_20_outlined />;
+export const IconHomeEnergySavingsLeaf24outlined = () => <SVGHomeEnergySavingsLeaf_24_outlined />;
+export const IconHomeEnergySavingsLeaf20twotone = () => <SVGHomeEnergySavingsLeaf_20_twotone />;
+export const IconHomeEnergySavingsLeaf24twotone = () => <SVGHomeEnergySavingsLeaf_24_twotone />;
+export const IconHomeEnergySavingsLeaf20sharp = () => <SVGHomeEnergySavingsLeaf_20_sharp />;
+export const IconHomeEnergySavingsLeaf24sharp = () => <SVGHomeEnergySavingsLeaf_24_sharp />;
+export const IconHomeEnergySavingsLeaf20filled = () => <SVGHomeEnergySavingsLeaf_20_filled />;
+export const IconHomeEnergySavingsLeaf24filled = () => <SVGHomeEnergySavingsLeaf_24_filled />;
+export const IconHomeEnergySavingsLeaf20round = () => <SVGHomeEnergySavingsLeaf_20_round />;
+export const IconHomeEnergySavingsLeaf24round = () => <SVGHomeEnergySavingsLeaf_24_round />;

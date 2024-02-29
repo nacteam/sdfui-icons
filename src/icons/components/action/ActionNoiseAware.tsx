@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionNoiseAware_20_outlined from '../../svg/action/ActionNoiseAware/20_outlined.svg';
+import SVGActionNoiseAware_24_outlined from '../../svg/action/ActionNoiseAware/24_outlined.svg';
+import SVGActionNoiseAware_20_twotone from '../../svg/action/ActionNoiseAware/20_twotone.svg';
+import SVGActionNoiseAware_24_twotone from '../../svg/action/ActionNoiseAware/24_twotone.svg';
+import SVGActionNoiseAware_20_sharp from '../../svg/action/ActionNoiseAware/20_sharp.svg';
+import SVGActionNoiseAware_24_sharp from '../../svg/action/ActionNoiseAware/24_sharp.svg';
+import SVGActionNoiseAware_20_filled from '../../svg/action/ActionNoiseAware/20_filled.svg';
+import SVGActionNoiseAware_24_filled from '../../svg/action/ActionNoiseAware/24_filled.svg';
+import SVGActionNoiseAware_20_round from '../../svg/action/ActionNoiseAware/20_round.svg';
+import SVGActionNoiseAware_24_round from '../../svg/action/ActionNoiseAware/24_round.svg';
+
+export const IconActionNoiseAware20outlined = () => <SVGActionNoiseAware_20_outlined />;
+export const IconActionNoiseAware24outlined = () => <SVGActionNoiseAware_24_outlined />;
+export const IconActionNoiseAware20twotone = () => <SVGActionNoiseAware_20_twotone />;
+export const IconActionNoiseAware24twotone = () => <SVGActionNoiseAware_24_twotone />;
+export const IconActionNoiseAware20sharp = () => <SVGActionNoiseAware_20_sharp />;
+export const IconActionNoiseAware24sharp = () => <SVGActionNoiseAware_24_sharp />;
+export const IconActionNoiseAware20filled = () => <SVGActionNoiseAware_20_filled />;
+export const IconActionNoiseAware24filled = () => <SVGActionNoiseAware_24_filled />;
+export const IconActionNoiseAware20round = () => <SVGActionNoiseAware_20_round />;
+export const IconActionNoiseAware24round = () => <SVGActionNoiseAware_24_round />;

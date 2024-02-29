@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsFlightClass_20_outlined from '../../svg/maps/MapsFlightClass/20_outlined.svg';
+import SVGMapsFlightClass_24_outlined from '../../svg/maps/MapsFlightClass/24_outlined.svg';
+import SVGMapsFlightClass_20_twotone from '../../svg/maps/MapsFlightClass/20_twotone.svg';
+import SVGMapsFlightClass_24_twotone from '../../svg/maps/MapsFlightClass/24_twotone.svg';
+import SVGMapsFlightClass_20_sharp from '../../svg/maps/MapsFlightClass/20_sharp.svg';
+import SVGMapsFlightClass_24_sharp from '../../svg/maps/MapsFlightClass/24_sharp.svg';
+import SVGMapsFlightClass_20_filled from '../../svg/maps/MapsFlightClass/20_filled.svg';
+import SVGMapsFlightClass_24_filled from '../../svg/maps/MapsFlightClass/24_filled.svg';
+import SVGMapsFlightClass_20_round from '../../svg/maps/MapsFlightClass/20_round.svg';
+import SVGMapsFlightClass_24_round from '../../svg/maps/MapsFlightClass/24_round.svg';
+
+export const IconMapsFlightClass20outlined = () => <SVGMapsFlightClass_20_outlined />;
+export const IconMapsFlightClass24outlined = () => <SVGMapsFlightClass_24_outlined />;
+export const IconMapsFlightClass20twotone = () => <SVGMapsFlightClass_20_twotone />;
+export const IconMapsFlightClass24twotone = () => <SVGMapsFlightClass_24_twotone />;
+export const IconMapsFlightClass20sharp = () => <SVGMapsFlightClass_20_sharp />;
+export const IconMapsFlightClass24sharp = () => <SVGMapsFlightClass_24_sharp />;
+export const IconMapsFlightClass20filled = () => <SVGMapsFlightClass_20_filled />;
+export const IconMapsFlightClass24filled = () => <SVGMapsFlightClass_24_filled />;
+export const IconMapsFlightClass20round = () => <SVGMapsFlightClass_20_round />;
+export const IconMapsFlightClass24round = () => <SVGMapsFlightClass_24_round />;

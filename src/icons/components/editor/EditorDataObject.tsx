@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorDataObject_20_outlined from '../../svg/editor/EditorDataObject/20_outlined.svg';
+import SVGEditorDataObject_24_outlined from '../../svg/editor/EditorDataObject/24_outlined.svg';
+import SVGEditorDataObject_20_twotone from '../../svg/editor/EditorDataObject/20_twotone.svg';
+import SVGEditorDataObject_24_twotone from '../../svg/editor/EditorDataObject/24_twotone.svg';
+import SVGEditorDataObject_20_sharp from '../../svg/editor/EditorDataObject/20_sharp.svg';
+import SVGEditorDataObject_24_sharp from '../../svg/editor/EditorDataObject/24_sharp.svg';
+import SVGEditorDataObject_20_filled from '../../svg/editor/EditorDataObject/20_filled.svg';
+import SVGEditorDataObject_24_filled from '../../svg/editor/EditorDataObject/24_filled.svg';
+import SVGEditorDataObject_20_round from '../../svg/editor/EditorDataObject/20_round.svg';
+import SVGEditorDataObject_24_round from '../../svg/editor/EditorDataObject/24_round.svg';
+
+export const IconEditorDataObject20outlined = () => <SVGEditorDataObject_20_outlined />;
+export const IconEditorDataObject24outlined = () => <SVGEditorDataObject_24_outlined />;
+export const IconEditorDataObject20twotone = () => <SVGEditorDataObject_20_twotone />;
+export const IconEditorDataObject24twotone = () => <SVGEditorDataObject_24_twotone />;
+export const IconEditorDataObject20sharp = () => <SVGEditorDataObject_20_sharp />;
+export const IconEditorDataObject24sharp = () => <SVGEditorDataObject_24_sharp />;
+export const IconEditorDataObject20filled = () => <SVGEditorDataObject_20_filled />;
+export const IconEditorDataObject24filled = () => <SVGEditorDataObject_24_filled />;
+export const IconEditorDataObject20round = () => <SVGEditorDataObject_20_round />;
+export const IconEditorDataObject24round = () => <SVGEditorDataObject_24_round />;

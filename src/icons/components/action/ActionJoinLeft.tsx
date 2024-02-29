@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionJoinLeft_20_outlined from '../../svg/action/ActionJoinLeft/20_outlined.svg';
+import SVGActionJoinLeft_24_outlined from '../../svg/action/ActionJoinLeft/24_outlined.svg';
+import SVGActionJoinLeft_20_twotone from '../../svg/action/ActionJoinLeft/20_twotone.svg';
+import SVGActionJoinLeft_24_twotone from '../../svg/action/ActionJoinLeft/24_twotone.svg';
+import SVGActionJoinLeft_20_sharp from '../../svg/action/ActionJoinLeft/20_sharp.svg';
+import SVGActionJoinLeft_24_sharp from '../../svg/action/ActionJoinLeft/24_sharp.svg';
+import SVGActionJoinLeft_20_filled from '../../svg/action/ActionJoinLeft/20_filled.svg';
+import SVGActionJoinLeft_24_filled from '../../svg/action/ActionJoinLeft/24_filled.svg';
+import SVGActionJoinLeft_20_round from '../../svg/action/ActionJoinLeft/20_round.svg';
+import SVGActionJoinLeft_24_round from '../../svg/action/ActionJoinLeft/24_round.svg';
+
+export const IconActionJoinLeft20outlined = () => <SVGActionJoinLeft_20_outlined />;
+export const IconActionJoinLeft24outlined = () => <SVGActionJoinLeft_24_outlined />;
+export const IconActionJoinLeft20twotone = () => <SVGActionJoinLeft_20_twotone />;
+export const IconActionJoinLeft24twotone = () => <SVGActionJoinLeft_24_twotone />;
+export const IconActionJoinLeft20sharp = () => <SVGActionJoinLeft_20_sharp />;
+export const IconActionJoinLeft24sharp = () => <SVGActionJoinLeft_24_sharp />;
+export const IconActionJoinLeft20filled = () => <SVGActionJoinLeft_20_filled />;
+export const IconActionJoinLeft24filled = () => <SVGActionJoinLeft_24_filled />;
+export const IconActionJoinLeft20round = () => <SVGActionJoinLeft_20_round />;
+export const IconActionJoinLeft24round = () => <SVGActionJoinLeft_24_round />;

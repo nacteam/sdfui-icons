@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFileDownloadOff_20_outlined from '../../svg/file/FileFileDownloadOff/20_outlined.svg';
+import SVGFileFileDownloadOff_24_outlined from '../../svg/file/FileFileDownloadOff/24_outlined.svg';
+import SVGFileFileDownloadOff_20_twotone from '../../svg/file/FileFileDownloadOff/20_twotone.svg';
+import SVGFileFileDownloadOff_24_twotone from '../../svg/file/FileFileDownloadOff/24_twotone.svg';
+import SVGFileFileDownloadOff_20_sharp from '../../svg/file/FileFileDownloadOff/20_sharp.svg';
+import SVGFileFileDownloadOff_24_sharp from '../../svg/file/FileFileDownloadOff/24_sharp.svg';
+import SVGFileFileDownloadOff_20_filled from '../../svg/file/FileFileDownloadOff/20_filled.svg';
+import SVGFileFileDownloadOff_24_filled from '../../svg/file/FileFileDownloadOff/24_filled.svg';
+import SVGFileFileDownloadOff_20_round from '../../svg/file/FileFileDownloadOff/20_round.svg';
+import SVGFileFileDownloadOff_24_round from '../../svg/file/FileFileDownloadOff/24_round.svg';
+
+export const IconFileFileDownloadOff20outlined = () => <SVGFileFileDownloadOff_20_outlined />;
+export const IconFileFileDownloadOff24outlined = () => <SVGFileFileDownloadOff_24_outlined />;
+export const IconFileFileDownloadOff20twotone = () => <SVGFileFileDownloadOff_20_twotone />;
+export const IconFileFileDownloadOff24twotone = () => <SVGFileFileDownloadOff_24_twotone />;
+export const IconFileFileDownloadOff20sharp = () => <SVGFileFileDownloadOff_20_sharp />;
+export const IconFileFileDownloadOff24sharp = () => <SVGFileFileDownloadOff_24_sharp />;
+export const IconFileFileDownloadOff20filled = () => <SVGFileFileDownloadOff_20_filled />;
+export const IconFileFileDownloadOff24filled = () => <SVGFileFileDownloadOff_24_filled />;
+export const IconFileFileDownloadOff20round = () => <SVGFileFileDownloadOff_20_round />;
+export const IconFileFileDownloadOff24round = () => <SVGFileFileDownloadOff_24_round />;

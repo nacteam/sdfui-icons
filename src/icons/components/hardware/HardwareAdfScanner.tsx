@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareAdfScanner_20_outlined from '../../svg/hardware/HardwareAdfScanner/20_outlined.svg';
+import SVGHardwareAdfScanner_24_outlined from '../../svg/hardware/HardwareAdfScanner/24_outlined.svg';
+import SVGHardwareAdfScanner_20_twotone from '../../svg/hardware/HardwareAdfScanner/20_twotone.svg';
+import SVGHardwareAdfScanner_24_twotone from '../../svg/hardware/HardwareAdfScanner/24_twotone.svg';
+import SVGHardwareAdfScanner_20_sharp from '../../svg/hardware/HardwareAdfScanner/20_sharp.svg';
+import SVGHardwareAdfScanner_24_sharp from '../../svg/hardware/HardwareAdfScanner/24_sharp.svg';
+import SVGHardwareAdfScanner_20_filled from '../../svg/hardware/HardwareAdfScanner/20_filled.svg';
+import SVGHardwareAdfScanner_24_filled from '../../svg/hardware/HardwareAdfScanner/24_filled.svg';
+import SVGHardwareAdfScanner_20_round from '../../svg/hardware/HardwareAdfScanner/20_round.svg';
+import SVGHardwareAdfScanner_24_round from '../../svg/hardware/HardwareAdfScanner/24_round.svg';
+
+export const IconHardwareAdfScanner20outlined = () => <SVGHardwareAdfScanner_20_outlined />;
+export const IconHardwareAdfScanner24outlined = () => <SVGHardwareAdfScanner_24_outlined />;
+export const IconHardwareAdfScanner20twotone = () => <SVGHardwareAdfScanner_20_twotone />;
+export const IconHardwareAdfScanner24twotone = () => <SVGHardwareAdfScanner_24_twotone />;
+export const IconHardwareAdfScanner20sharp = () => <SVGHardwareAdfScanner_20_sharp />;
+export const IconHardwareAdfScanner24sharp = () => <SVGHardwareAdfScanner_24_sharp />;
+export const IconHardwareAdfScanner20filled = () => <SVGHardwareAdfScanner_20_filled />;
+export const IconHardwareAdfScanner24filled = () => <SVGHardwareAdfScanner_24_filled />;
+export const IconHardwareAdfScanner20round = () => <SVGHardwareAdfScanner_20_round />;
+export const IconHardwareAdfScanner24round = () => <SVGHardwareAdfScanner_24_round />;

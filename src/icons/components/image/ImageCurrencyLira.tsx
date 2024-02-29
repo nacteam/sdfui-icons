@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCurrencyLira_20_outlined from '../../svg/image/ImageCurrencyLira/20_outlined.svg';
+import SVGImageCurrencyLira_24_outlined from '../../svg/image/ImageCurrencyLira/24_outlined.svg';
+import SVGImageCurrencyLira_20_twotone from '../../svg/image/ImageCurrencyLira/20_twotone.svg';
+import SVGImageCurrencyLira_24_twotone from '../../svg/image/ImageCurrencyLira/24_twotone.svg';
+import SVGImageCurrencyLira_20_sharp from '../../svg/image/ImageCurrencyLira/20_sharp.svg';
+import SVGImageCurrencyLira_24_sharp from '../../svg/image/ImageCurrencyLira/24_sharp.svg';
+import SVGImageCurrencyLira_20_filled from '../../svg/image/ImageCurrencyLira/20_filled.svg';
+import SVGImageCurrencyLira_24_filled from '../../svg/image/ImageCurrencyLira/24_filled.svg';
+import SVGImageCurrencyLira_20_round from '../../svg/image/ImageCurrencyLira/20_round.svg';
+import SVGImageCurrencyLira_24_round from '../../svg/image/ImageCurrencyLira/24_round.svg';
+
+export const IconImageCurrencyLira20outlined = () => <SVGImageCurrencyLira_20_outlined />;
+export const IconImageCurrencyLira24outlined = () => <SVGImageCurrencyLira_24_outlined />;
+export const IconImageCurrencyLira20twotone = () => <SVGImageCurrencyLira_20_twotone />;
+export const IconImageCurrencyLira24twotone = () => <SVGImageCurrencyLira_24_twotone />;
+export const IconImageCurrencyLira20sharp = () => <SVGImageCurrencyLira_20_sharp />;
+export const IconImageCurrencyLira24sharp = () => <SVGImageCurrencyLira_24_sharp />;
+export const IconImageCurrencyLira20filled = () => <SVGImageCurrencyLira_20_filled />;
+export const IconImageCurrencyLira24filled = () => <SVGImageCurrencyLira_24_filled />;
+export const IconImageCurrencyLira20round = () => <SVGImageCurrencyLira_20_round />;
+export const IconImageCurrencyLira24round = () => <SVGImageCurrencyLira_24_round />;

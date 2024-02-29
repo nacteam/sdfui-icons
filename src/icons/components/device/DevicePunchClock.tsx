@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDevicePunchClock_20_outlined from '../../svg/device/DevicePunchClock/20_outlined.svg';
+import SVGDevicePunchClock_24_outlined from '../../svg/device/DevicePunchClock/24_outlined.svg';
+import SVGDevicePunchClock_20_twotone from '../../svg/device/DevicePunchClock/20_twotone.svg';
+import SVGDevicePunchClock_24_twotone from '../../svg/device/DevicePunchClock/24_twotone.svg';
+import SVGDevicePunchClock_20_sharp from '../../svg/device/DevicePunchClock/20_sharp.svg';
+import SVGDevicePunchClock_24_sharp from '../../svg/device/DevicePunchClock/24_sharp.svg';
+import SVGDevicePunchClock_20_filled from '../../svg/device/DevicePunchClock/20_filled.svg';
+import SVGDevicePunchClock_24_filled from '../../svg/device/DevicePunchClock/24_filled.svg';
+import SVGDevicePunchClock_20_round from '../../svg/device/DevicePunchClock/20_round.svg';
+import SVGDevicePunchClock_24_round from '../../svg/device/DevicePunchClock/24_round.svg';
+
+export const IconDevicePunchClock20outlined = () => <SVGDevicePunchClock_20_outlined />;
+export const IconDevicePunchClock24outlined = () => <SVGDevicePunchClock_24_outlined />;
+export const IconDevicePunchClock20twotone = () => <SVGDevicePunchClock_20_twotone />;
+export const IconDevicePunchClock24twotone = () => <SVGDevicePunchClock_24_twotone />;
+export const IconDevicePunchClock20sharp = () => <SVGDevicePunchClock_20_sharp />;
+export const IconDevicePunchClock24sharp = () => <SVGDevicePunchClock_24_sharp />;
+export const IconDevicePunchClock20filled = () => <SVGDevicePunchClock_20_filled />;
+export const IconDevicePunchClock24filled = () => <SVGDevicePunchClock_24_filled />;
+export const IconDevicePunchClock20round = () => <SVGDevicePunchClock_20_round />;
+export const IconDevicePunchClock24round = () => <SVGDevicePunchClock_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSearchWindow_20_outlined from '../../svg/search/SearchWindow/20_outlined.svg';
+import SVGSearchWindow_24_outlined from '../../svg/search/SearchWindow/24_outlined.svg';
+import SVGSearchWindow_20_twotone from '../../svg/search/SearchWindow/20_twotone.svg';
+import SVGSearchWindow_24_twotone from '../../svg/search/SearchWindow/24_twotone.svg';
+import SVGSearchWindow_20_sharp from '../../svg/search/SearchWindow/20_sharp.svg';
+import SVGSearchWindow_24_sharp from '../../svg/search/SearchWindow/24_sharp.svg';
+import SVGSearchWindow_20_filled from '../../svg/search/SearchWindow/20_filled.svg';
+import SVGSearchWindow_24_filled from '../../svg/search/SearchWindow/24_filled.svg';
+import SVGSearchWindow_20_round from '../../svg/search/SearchWindow/20_round.svg';
+import SVGSearchWindow_24_round from '../../svg/search/SearchWindow/24_round.svg';
+
+export const IconSearchWindow20outlined = () => <SVGSearchWindow_20_outlined />;
+export const IconSearchWindow24outlined = () => <SVGSearchWindow_24_outlined />;
+export const IconSearchWindow20twotone = () => <SVGSearchWindow_20_twotone />;
+export const IconSearchWindow24twotone = () => <SVGSearchWindow_24_twotone />;
+export const IconSearchWindow20sharp = () => <SVGSearchWindow_20_sharp />;
+export const IconSearchWindow24sharp = () => <SVGSearchWindow_24_sharp />;
+export const IconSearchWindow20filled = () => <SVGSearchWindow_20_filled />;
+export const IconSearchWindow24filled = () => <SVGSearchWindow_24_filled />;
+export const IconSearchWindow20round = () => <SVGSearchWindow_20_round />;
+export const IconSearchWindow24round = () => <SVGSearchWindow_24_round />;

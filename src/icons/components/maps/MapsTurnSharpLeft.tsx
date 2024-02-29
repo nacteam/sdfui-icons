@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsTurnSharpLeft_20_outlined from '../../svg/maps/MapsTurnSharpLeft/20_outlined.svg';
+import SVGMapsTurnSharpLeft_24_outlined from '../../svg/maps/MapsTurnSharpLeft/24_outlined.svg';
+import SVGMapsTurnSharpLeft_20_twotone from '../../svg/maps/MapsTurnSharpLeft/20_twotone.svg';
+import SVGMapsTurnSharpLeft_24_twotone from '../../svg/maps/MapsTurnSharpLeft/24_twotone.svg';
+import SVGMapsTurnSharpLeft_20_sharp from '../../svg/maps/MapsTurnSharpLeft/20_sharp.svg';
+import SVGMapsTurnSharpLeft_24_sharp from '../../svg/maps/MapsTurnSharpLeft/24_sharp.svg';
+import SVGMapsTurnSharpLeft_20_filled from '../../svg/maps/MapsTurnSharpLeft/20_filled.svg';
+import SVGMapsTurnSharpLeft_24_filled from '../../svg/maps/MapsTurnSharpLeft/24_filled.svg';
+import SVGMapsTurnSharpLeft_20_round from '../../svg/maps/MapsTurnSharpLeft/20_round.svg';
+import SVGMapsTurnSharpLeft_24_round from '../../svg/maps/MapsTurnSharpLeft/24_round.svg';
+
+export const IconMapsTurnSharpLeft20outlined = () => <SVGMapsTurnSharpLeft_20_outlined />;
+export const IconMapsTurnSharpLeft24outlined = () => <SVGMapsTurnSharpLeft_24_outlined />;
+export const IconMapsTurnSharpLeft20twotone = () => <SVGMapsTurnSharpLeft_20_twotone />;
+export const IconMapsTurnSharpLeft24twotone = () => <SVGMapsTurnSharpLeft_24_twotone />;
+export const IconMapsTurnSharpLeft20sharp = () => <SVGMapsTurnSharpLeft_20_sharp />;
+export const IconMapsTurnSharpLeft24sharp = () => <SVGMapsTurnSharpLeft_24_sharp />;
+export const IconMapsTurnSharpLeft20filled = () => <SVGMapsTurnSharpLeft_20_filled />;
+export const IconMapsTurnSharpLeft24filled = () => <SVGMapsTurnSharpLeft_24_filled />;
+export const IconMapsTurnSharpLeft20round = () => <SVGMapsTurnSharpLeft_20_round />;
+export const IconMapsTurnSharpLeft24round = () => <SVGMapsTurnSharpLeft_24_round />;

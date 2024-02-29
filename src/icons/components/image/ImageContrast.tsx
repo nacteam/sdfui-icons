@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageContrast_20_outlined from '../../svg/image/ImageContrast/20_outlined.svg';
+import SVGImageContrast_24_outlined from '../../svg/image/ImageContrast/24_outlined.svg';
+import SVGImageContrast_20_twotone from '../../svg/image/ImageContrast/20_twotone.svg';
+import SVGImageContrast_24_twotone from '../../svg/image/ImageContrast/24_twotone.svg';
+import SVGImageContrast_20_sharp from '../../svg/image/ImageContrast/20_sharp.svg';
+import SVGImageContrast_24_sharp from '../../svg/image/ImageContrast/24_sharp.svg';
+import SVGImageContrast_20_filled from '../../svg/image/ImageContrast/20_filled.svg';
+import SVGImageContrast_24_filled from '../../svg/image/ImageContrast/24_filled.svg';
+import SVGImageContrast_20_round from '../../svg/image/ImageContrast/20_round.svg';
+import SVGImageContrast_24_round from '../../svg/image/ImageContrast/24_round.svg';
+
+export const IconImageContrast20outlined = () => <SVGImageContrast_20_outlined />;
+export const IconImageContrast24outlined = () => <SVGImageContrast_24_outlined />;
+export const IconImageContrast20twotone = () => <SVGImageContrast_20_twotone />;
+export const IconImageContrast24twotone = () => <SVGImageContrast_24_twotone />;
+export const IconImageContrast20sharp = () => <SVGImageContrast_20_sharp />;
+export const IconImageContrast24sharp = () => <SVGImageContrast_24_sharp />;
+export const IconImageContrast20filled = () => <SVGImageContrast_20_filled />;
+export const IconImageContrast24filled = () => <SVGImageContrast_24_filled />;
+export const IconImageContrast20round = () => <SVGImageContrast_20_round />;
+export const IconImageContrast24round = () => <SVGImageContrast_24_round />;

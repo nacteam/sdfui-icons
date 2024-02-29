@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsIcecream_20_outlined from '../../svg/maps/MapsIcecream/20_outlined.svg';
+import SVGMapsIcecream_24_outlined from '../../svg/maps/MapsIcecream/24_outlined.svg';
+import SVGMapsIcecream_20_twotone from '../../svg/maps/MapsIcecream/20_twotone.svg';
+import SVGMapsIcecream_24_twotone from '../../svg/maps/MapsIcecream/24_twotone.svg';
+import SVGMapsIcecream_20_sharp from '../../svg/maps/MapsIcecream/20_sharp.svg';
+import SVGMapsIcecream_24_sharp from '../../svg/maps/MapsIcecream/24_sharp.svg';
+import SVGMapsIcecream_20_filled from '../../svg/maps/MapsIcecream/20_filled.svg';
+import SVGMapsIcecream_24_filled from '../../svg/maps/MapsIcecream/24_filled.svg';
+import SVGMapsIcecream_20_round from '../../svg/maps/MapsIcecream/20_round.svg';
+import SVGMapsIcecream_24_round from '../../svg/maps/MapsIcecream/24_round.svg';
+
+export const IconMapsIcecream20outlined = () => <SVGMapsIcecream_20_outlined />;
+export const IconMapsIcecream24outlined = () => <SVGMapsIcecream_24_outlined />;
+export const IconMapsIcecream20twotone = () => <SVGMapsIcecream_20_twotone />;
+export const IconMapsIcecream24twotone = () => <SVGMapsIcecream_24_twotone />;
+export const IconMapsIcecream20sharp = () => <SVGMapsIcecream_20_sharp />;
+export const IconMapsIcecream24sharp = () => <SVGMapsIcecream_24_sharp />;
+export const IconMapsIcecream20filled = () => <SVGMapsIcecream_20_filled />;
+export const IconMapsIcecream24filled = () => <SVGMapsIcecream_24_filled />;
+export const IconMapsIcecream20round = () => <SVGMapsIcecream_20_round />;
+export const IconMapsIcecream24round = () => <SVGMapsIcecream_24_round />;

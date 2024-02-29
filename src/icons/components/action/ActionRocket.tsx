@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionRocket_20_outlined from '../../svg/action/ActionRocket/20_outlined.svg';
+import SVGActionRocket_24_outlined from '../../svg/action/ActionRocket/24_outlined.svg';
+import SVGActionRocket_20_twotone from '../../svg/action/ActionRocket/20_twotone.svg';
+import SVGActionRocket_24_twotone from '../../svg/action/ActionRocket/24_twotone.svg';
+import SVGActionRocket_20_sharp from '../../svg/action/ActionRocket/20_sharp.svg';
+import SVGActionRocket_24_sharp from '../../svg/action/ActionRocket/24_sharp.svg';
+import SVGActionRocket_20_filled from '../../svg/action/ActionRocket/20_filled.svg';
+import SVGActionRocket_24_filled from '../../svg/action/ActionRocket/24_filled.svg';
+import SVGActionRocket_20_round from '../../svg/action/ActionRocket/20_round.svg';
+import SVGActionRocket_24_round from '../../svg/action/ActionRocket/24_round.svg';
+
+export const IconActionRocket20outlined = () => <SVGActionRocket_20_outlined />;
+export const IconActionRocket24outlined = () => <SVGActionRocket_24_outlined />;
+export const IconActionRocket20twotone = () => <SVGActionRocket_20_twotone />;
+export const IconActionRocket24twotone = () => <SVGActionRocket_24_twotone />;
+export const IconActionRocket20sharp = () => <SVGActionRocket_20_sharp />;
+export const IconActionRocket24sharp = () => <SVGActionRocket_24_sharp />;
+export const IconActionRocket20filled = () => <SVGActionRocket_20_filled />;
+export const IconActionRocket24filled = () => <SVGActionRocket_24_filled />;
+export const IconActionRocket20round = () => <SVGActionRocket_20_round />;
+export const IconActionRocket24round = () => <SVGActionRocket_24_round />;

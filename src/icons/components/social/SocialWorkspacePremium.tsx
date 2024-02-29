@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialWorkspacePremium_20_outlined from '../../svg/social/SocialWorkspacePremium/20_outlined.svg';
+import SVGSocialWorkspacePremium_24_outlined from '../../svg/social/SocialWorkspacePremium/24_outlined.svg';
+import SVGSocialWorkspacePremium_20_twotone from '../../svg/social/SocialWorkspacePremium/20_twotone.svg';
+import SVGSocialWorkspacePremium_24_twotone from '../../svg/social/SocialWorkspacePremium/24_twotone.svg';
+import SVGSocialWorkspacePremium_20_sharp from '../../svg/social/SocialWorkspacePremium/20_sharp.svg';
+import SVGSocialWorkspacePremium_24_sharp from '../../svg/social/SocialWorkspacePremium/24_sharp.svg';
+import SVGSocialWorkspacePremium_20_filled from '../../svg/social/SocialWorkspacePremium/20_filled.svg';
+import SVGSocialWorkspacePremium_24_filled from '../../svg/social/SocialWorkspacePremium/24_filled.svg';
+import SVGSocialWorkspacePremium_20_round from '../../svg/social/SocialWorkspacePremium/20_round.svg';
+import SVGSocialWorkspacePremium_24_round from '../../svg/social/SocialWorkspacePremium/24_round.svg';
+
+export const IconSocialWorkspacePremium20outlined = () => <SVGSocialWorkspacePremium_20_outlined />;
+export const IconSocialWorkspacePremium24outlined = () => <SVGSocialWorkspacePremium_24_outlined />;
+export const IconSocialWorkspacePremium20twotone = () => <SVGSocialWorkspacePremium_20_twotone />;
+export const IconSocialWorkspacePremium24twotone = () => <SVGSocialWorkspacePremium_24_twotone />;
+export const IconSocialWorkspacePremium20sharp = () => <SVGSocialWorkspacePremium_20_sharp />;
+export const IconSocialWorkspacePremium24sharp = () => <SVGSocialWorkspacePremium_24_sharp />;
+export const IconSocialWorkspacePremium20filled = () => <SVGSocialWorkspacePremium_20_filled />;
+export const IconSocialWorkspacePremium24filled = () => <SVGSocialWorkspacePremium_24_filled />;
+export const IconSocialWorkspacePremium20round = () => <SVGSocialWorkspacePremium_20_round />;
+export const IconSocialWorkspacePremium24round = () => <SVGSocialWorkspacePremium_24_round />;

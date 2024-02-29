@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialCyclone_20_outlined from '../../svg/social/SocialCyclone/20_outlined.svg';
+import SVGSocialCyclone_24_outlined from '../../svg/social/SocialCyclone/24_outlined.svg';
+import SVGSocialCyclone_20_twotone from '../../svg/social/SocialCyclone/20_twotone.svg';
+import SVGSocialCyclone_24_twotone from '../../svg/social/SocialCyclone/24_twotone.svg';
+import SVGSocialCyclone_20_sharp from '../../svg/social/SocialCyclone/20_sharp.svg';
+import SVGSocialCyclone_24_sharp from '../../svg/social/SocialCyclone/24_sharp.svg';
+import SVGSocialCyclone_20_filled from '../../svg/social/SocialCyclone/20_filled.svg';
+import SVGSocialCyclone_24_filled from '../../svg/social/SocialCyclone/24_filled.svg';
+import SVGSocialCyclone_20_round from '../../svg/social/SocialCyclone/20_round.svg';
+import SVGSocialCyclone_24_round from '../../svg/social/SocialCyclone/24_round.svg';
+
+export const IconSocialCyclone20outlined = () => <SVGSocialCyclone_20_outlined />;
+export const IconSocialCyclone24outlined = () => <SVGSocialCyclone_24_outlined />;
+export const IconSocialCyclone20twotone = () => <SVGSocialCyclone_20_twotone />;
+export const IconSocialCyclone24twotone = () => <SVGSocialCyclone_24_twotone />;
+export const IconSocialCyclone20sharp = () => <SVGSocialCyclone_20_sharp />;
+export const IconSocialCyclone24sharp = () => <SVGSocialCyclone_24_sharp />;
+export const IconSocialCyclone20filled = () => <SVGSocialCyclone_20_filled />;
+export const IconSocialCyclone24filled = () => <SVGSocialCyclone_24_filled />;
+export const IconSocialCyclone20round = () => <SVGSocialCyclone_20_round />;
+export const IconSocialCyclone24round = () => <SVGSocialCyclone_24_round />;

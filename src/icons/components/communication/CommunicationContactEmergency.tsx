@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationContactEmergency_20_outlined from '../../svg/communication/CommunicationContactEmergency/20_outlined.svg';
+import SVGCommunicationContactEmergency_24_outlined from '../../svg/communication/CommunicationContactEmergency/24_outlined.svg';
+import SVGCommunicationContactEmergency_20_twotone from '../../svg/communication/CommunicationContactEmergency/20_twotone.svg';
+import SVGCommunicationContactEmergency_24_twotone from '../../svg/communication/CommunicationContactEmergency/24_twotone.svg';
+import SVGCommunicationContactEmergency_20_sharp from '../../svg/communication/CommunicationContactEmergency/20_sharp.svg';
+import SVGCommunicationContactEmergency_24_sharp from '../../svg/communication/CommunicationContactEmergency/24_sharp.svg';
+import SVGCommunicationContactEmergency_20_filled from '../../svg/communication/CommunicationContactEmergency/20_filled.svg';
+import SVGCommunicationContactEmergency_24_filled from '../../svg/communication/CommunicationContactEmergency/24_filled.svg';
+import SVGCommunicationContactEmergency_20_round from '../../svg/communication/CommunicationContactEmergency/20_round.svg';
+import SVGCommunicationContactEmergency_24_round from '../../svg/communication/CommunicationContactEmergency/24_round.svg';
+
+export const IconCommunicationContactEmergency20outlined = () => <SVGCommunicationContactEmergency_20_outlined />;
+export const IconCommunicationContactEmergency24outlined = () => <SVGCommunicationContactEmergency_24_outlined />;
+export const IconCommunicationContactEmergency20twotone = () => <SVGCommunicationContactEmergency_20_twotone />;
+export const IconCommunicationContactEmergency24twotone = () => <SVGCommunicationContactEmergency_24_twotone />;
+export const IconCommunicationContactEmergency20sharp = () => <SVGCommunicationContactEmergency_20_sharp />;
+export const IconCommunicationContactEmergency24sharp = () => <SVGCommunicationContactEmergency_24_sharp />;
+export const IconCommunicationContactEmergency20filled = () => <SVGCommunicationContactEmergency_20_filled />;
+export const IconCommunicationContactEmergency24filled = () => <SVGCommunicationContactEmergency_24_filled />;
+export const IconCommunicationContactEmergency20round = () => <SVGCommunicationContactEmergency_20_round />;
+export const IconCommunicationContactEmergency24round = () => <SVGCommunicationContactEmergency_24_round />;

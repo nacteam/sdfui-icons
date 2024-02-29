@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationPersonSearch_20_outlined from '../../svg/communication/CommunicationPersonSearch/20_outlined.svg';
+import SVGCommunicationPersonSearch_24_outlined from '../../svg/communication/CommunicationPersonSearch/24_outlined.svg';
+import SVGCommunicationPersonSearch_20_twotone from '../../svg/communication/CommunicationPersonSearch/20_twotone.svg';
+import SVGCommunicationPersonSearch_24_twotone from '../../svg/communication/CommunicationPersonSearch/24_twotone.svg';
+import SVGCommunicationPersonSearch_20_sharp from '../../svg/communication/CommunicationPersonSearch/20_sharp.svg';
+import SVGCommunicationPersonSearch_24_sharp from '../../svg/communication/CommunicationPersonSearch/24_sharp.svg';
+import SVGCommunicationPersonSearch_20_filled from '../../svg/communication/CommunicationPersonSearch/20_filled.svg';
+import SVGCommunicationPersonSearch_24_filled from '../../svg/communication/CommunicationPersonSearch/24_filled.svg';
+import SVGCommunicationPersonSearch_20_round from '../../svg/communication/CommunicationPersonSearch/20_round.svg';
+import SVGCommunicationPersonSearch_24_round from '../../svg/communication/CommunicationPersonSearch/24_round.svg';
+
+export const IconCommunicationPersonSearch20outlined = () => <SVGCommunicationPersonSearch_20_outlined />;
+export const IconCommunicationPersonSearch24outlined = () => <SVGCommunicationPersonSearch_24_outlined />;
+export const IconCommunicationPersonSearch20twotone = () => <SVGCommunicationPersonSearch_20_twotone />;
+export const IconCommunicationPersonSearch24twotone = () => <SVGCommunicationPersonSearch_24_twotone />;
+export const IconCommunicationPersonSearch20sharp = () => <SVGCommunicationPersonSearch_20_sharp />;
+export const IconCommunicationPersonSearch24sharp = () => <SVGCommunicationPersonSearch_24_sharp />;
+export const IconCommunicationPersonSearch20filled = () => <SVGCommunicationPersonSearch_20_filled />;
+export const IconCommunicationPersonSearch24filled = () => <SVGCommunicationPersonSearch_24_filled />;
+export const IconCommunicationPersonSearch20round = () => <SVGCommunicationPersonSearch_20_round />;
+export const IconCommunicationPersonSearch24round = () => <SVGCommunicationPersonSearch_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNotificationSupportAgent_20_outlined from '../../svg/notification/NotificationSupportAgent/20_outlined.svg';
+import SVGNotificationSupportAgent_24_outlined from '../../svg/notification/NotificationSupportAgent/24_outlined.svg';
+import SVGNotificationSupportAgent_20_twotone from '../../svg/notification/NotificationSupportAgent/20_twotone.svg';
+import SVGNotificationSupportAgent_24_twotone from '../../svg/notification/NotificationSupportAgent/24_twotone.svg';
+import SVGNotificationSupportAgent_20_sharp from '../../svg/notification/NotificationSupportAgent/20_sharp.svg';
+import SVGNotificationSupportAgent_24_sharp from '../../svg/notification/NotificationSupportAgent/24_sharp.svg';
+import SVGNotificationSupportAgent_20_filled from '../../svg/notification/NotificationSupportAgent/20_filled.svg';
+import SVGNotificationSupportAgent_24_filled from '../../svg/notification/NotificationSupportAgent/24_filled.svg';
+import SVGNotificationSupportAgent_20_round from '../../svg/notification/NotificationSupportAgent/20_round.svg';
+import SVGNotificationSupportAgent_24_round from '../../svg/notification/NotificationSupportAgent/24_round.svg';
+
+export const IconNotificationSupportAgent20outlined = () => <SVGNotificationSupportAgent_20_outlined />;
+export const IconNotificationSupportAgent24outlined = () => <SVGNotificationSupportAgent_24_outlined />;
+export const IconNotificationSupportAgent20twotone = () => <SVGNotificationSupportAgent_20_twotone />;
+export const IconNotificationSupportAgent24twotone = () => <SVGNotificationSupportAgent_24_twotone />;
+export const IconNotificationSupportAgent20sharp = () => <SVGNotificationSupportAgent_20_sharp />;
+export const IconNotificationSupportAgent24sharp = () => <SVGNotificationSupportAgent_24_sharp />;
+export const IconNotificationSupportAgent20filled = () => <SVGNotificationSupportAgent_20_filled />;
+export const IconNotificationSupportAgent24filled = () => <SVGNotificationSupportAgent_24_filled />;
+export const IconNotificationSupportAgent20round = () => <SVGNotificationSupportAgent_20_round />;
+export const IconNotificationSupportAgent24round = () => <SVGNotificationSupportAgent_24_round />;

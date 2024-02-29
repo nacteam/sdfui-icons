@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPlagiarism_20_outlined from '../../svg/action/ActionPlagiarism/20_outlined.svg';
+import SVGActionPlagiarism_24_outlined from '../../svg/action/ActionPlagiarism/24_outlined.svg';
+import SVGActionPlagiarism_20_twotone from '../../svg/action/ActionPlagiarism/20_twotone.svg';
+import SVGActionPlagiarism_24_twotone from '../../svg/action/ActionPlagiarism/24_twotone.svg';
+import SVGActionPlagiarism_20_sharp from '../../svg/action/ActionPlagiarism/20_sharp.svg';
+import SVGActionPlagiarism_24_sharp from '../../svg/action/ActionPlagiarism/24_sharp.svg';
+import SVGActionPlagiarism_20_filled from '../../svg/action/ActionPlagiarism/20_filled.svg';
+import SVGActionPlagiarism_24_filled from '../../svg/action/ActionPlagiarism/24_filled.svg';
+import SVGActionPlagiarism_20_round from '../../svg/action/ActionPlagiarism/20_round.svg';
+import SVGActionPlagiarism_24_round from '../../svg/action/ActionPlagiarism/24_round.svg';
+
+export const IconActionPlagiarism20outlined = () => <SVGActionPlagiarism_20_outlined />;
+export const IconActionPlagiarism24outlined = () => <SVGActionPlagiarism_24_outlined />;
+export const IconActionPlagiarism20twotone = () => <SVGActionPlagiarism_20_twotone />;
+export const IconActionPlagiarism24twotone = () => <SVGActionPlagiarism_24_twotone />;
+export const IconActionPlagiarism20sharp = () => <SVGActionPlagiarism_20_sharp />;
+export const IconActionPlagiarism24sharp = () => <SVGActionPlagiarism_24_sharp />;
+export const IconActionPlagiarism20filled = () => <SVGActionPlagiarism_20_filled />;
+export const IconActionPlagiarism24filled = () => <SVGActionPlagiarism_24_filled />;
+export const IconActionPlagiarism20round = () => <SVGActionPlagiarism_20_round />;
+export const IconActionPlagiarism24round = () => <SVGActionPlagiarism_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceLan_20_outlined from '../../svg/device/DeviceLan/20_outlined.svg';
+import SVGDeviceLan_24_outlined from '../../svg/device/DeviceLan/24_outlined.svg';
+import SVGDeviceLan_20_twotone from '../../svg/device/DeviceLan/20_twotone.svg';
+import SVGDeviceLan_24_twotone from '../../svg/device/DeviceLan/24_twotone.svg';
+import SVGDeviceLan_20_sharp from '../../svg/device/DeviceLan/20_sharp.svg';
+import SVGDeviceLan_24_sharp from '../../svg/device/DeviceLan/24_sharp.svg';
+import SVGDeviceLan_20_filled from '../../svg/device/DeviceLan/20_filled.svg';
+import SVGDeviceLan_24_filled from '../../svg/device/DeviceLan/24_filled.svg';
+import SVGDeviceLan_20_round from '../../svg/device/DeviceLan/20_round.svg';
+import SVGDeviceLan_24_round from '../../svg/device/DeviceLan/24_round.svg';
+
+export const IconDeviceLan20outlined = () => <SVGDeviceLan_20_outlined />;
+export const IconDeviceLan24outlined = () => <SVGDeviceLan_24_outlined />;
+export const IconDeviceLan20twotone = () => <SVGDeviceLan_20_twotone />;
+export const IconDeviceLan24twotone = () => <SVGDeviceLan_24_twotone />;
+export const IconDeviceLan20sharp = () => <SVGDeviceLan_20_sharp />;
+export const IconDeviceLan24sharp = () => <SVGDeviceLan_24_sharp />;
+export const IconDeviceLan20filled = () => <SVGDeviceLan_20_filled />;
+export const IconDeviceLan24filled = () => <SVGDeviceLan_24_filled />;
+export const IconDeviceLan20round = () => <SVGDeviceLan_20_round />;
+export const IconDeviceLan24round = () => <SVGDeviceLan_24_round />;

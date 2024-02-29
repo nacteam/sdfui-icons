@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialCompost_20_outlined from '../../svg/social/SocialCompost/20_outlined.svg';
+import SVGSocialCompost_24_outlined from '../../svg/social/SocialCompost/24_outlined.svg';
+import SVGSocialCompost_20_twotone from '../../svg/social/SocialCompost/20_twotone.svg';
+import SVGSocialCompost_24_twotone from '../../svg/social/SocialCompost/24_twotone.svg';
+import SVGSocialCompost_20_sharp from '../../svg/social/SocialCompost/20_sharp.svg';
+import SVGSocialCompost_24_sharp from '../../svg/social/SocialCompost/24_sharp.svg';
+import SVGSocialCompost_20_filled from '../../svg/social/SocialCompost/20_filled.svg';
+import SVGSocialCompost_24_filled from '../../svg/social/SocialCompost/24_filled.svg';
+import SVGSocialCompost_20_round from '../../svg/social/SocialCompost/20_round.svg';
+import SVGSocialCompost_24_round from '../../svg/social/SocialCompost/24_round.svg';
+
+export const IconSocialCompost20outlined = () => <SVGSocialCompost_20_outlined />;
+export const IconSocialCompost24outlined = () => <SVGSocialCompost_24_outlined />;
+export const IconSocialCompost20twotone = () => <SVGSocialCompost_20_twotone />;
+export const IconSocialCompost24twotone = () => <SVGSocialCompost_24_twotone />;
+export const IconSocialCompost20sharp = () => <SVGSocialCompost_20_sharp />;
+export const IconSocialCompost24sharp = () => <SVGSocialCompost_24_sharp />;
+export const IconSocialCompost20filled = () => <SVGSocialCompost_20_filled />;
+export const IconSocialCompost24filled = () => <SVGSocialCompost_24_filled />;
+export const IconSocialCompost20round = () => <SVGSocialCompost_20_round />;
+export const IconSocialCompost24round = () => <SVGSocialCompost_24_round />;

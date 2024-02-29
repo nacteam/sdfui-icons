@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialGroupOff_20_outlined from '../../svg/social/SocialGroupOff/20_outlined.svg';
+import SVGSocialGroupOff_24_outlined from '../../svg/social/SocialGroupOff/24_outlined.svg';
+import SVGSocialGroupOff_20_twotone from '../../svg/social/SocialGroupOff/20_twotone.svg';
+import SVGSocialGroupOff_24_twotone from '../../svg/social/SocialGroupOff/24_twotone.svg';
+import SVGSocialGroupOff_20_sharp from '../../svg/social/SocialGroupOff/20_sharp.svg';
+import SVGSocialGroupOff_24_sharp from '../../svg/social/SocialGroupOff/24_sharp.svg';
+import SVGSocialGroupOff_20_filled from '../../svg/social/SocialGroupOff/20_filled.svg';
+import SVGSocialGroupOff_24_filled from '../../svg/social/SocialGroupOff/24_filled.svg';
+import SVGSocialGroupOff_20_round from '../../svg/social/SocialGroupOff/20_round.svg';
+import SVGSocialGroupOff_24_round from '../../svg/social/SocialGroupOff/24_round.svg';
+
+export const IconSocialGroupOff20outlined = () => <SVGSocialGroupOff_20_outlined />;
+export const IconSocialGroupOff24outlined = () => <SVGSocialGroupOff_24_outlined />;
+export const IconSocialGroupOff20twotone = () => <SVGSocialGroupOff_20_twotone />;
+export const IconSocialGroupOff24twotone = () => <SVGSocialGroupOff_24_twotone />;
+export const IconSocialGroupOff20sharp = () => <SVGSocialGroupOff_20_sharp />;
+export const IconSocialGroupOff24sharp = () => <SVGSocialGroupOff_24_sharp />;
+export const IconSocialGroupOff20filled = () => <SVGSocialGroupOff_20_filled />;
+export const IconSocialGroupOff24filled = () => <SVGSocialGroupOff_24_filled />;
+export const IconSocialGroupOff20round = () => <SVGSocialGroupOff_20_round />;
+export const IconSocialGroupOff24round = () => <SVGSocialGroupOff_24_round />;

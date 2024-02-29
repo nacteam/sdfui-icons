@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageBedtime_20_outlined from '../../svg/image/ImageBedtime/20_outlined.svg';
+import SVGImageBedtime_24_outlined from '../../svg/image/ImageBedtime/24_outlined.svg';
+import SVGImageBedtime_20_twotone from '../../svg/image/ImageBedtime/20_twotone.svg';
+import SVGImageBedtime_24_twotone from '../../svg/image/ImageBedtime/24_twotone.svg';
+import SVGImageBedtime_20_sharp from '../../svg/image/ImageBedtime/20_sharp.svg';
+import SVGImageBedtime_24_sharp from '../../svg/image/ImageBedtime/24_sharp.svg';
+import SVGImageBedtime_20_filled from '../../svg/image/ImageBedtime/20_filled.svg';
+import SVGImageBedtime_24_filled from '../../svg/image/ImageBedtime/24_filled.svg';
+import SVGImageBedtime_20_round from '../../svg/image/ImageBedtime/20_round.svg';
+import SVGImageBedtime_24_round from '../../svg/image/ImageBedtime/24_round.svg';
+
+export const IconImageBedtime20outlined = () => <SVGImageBedtime_20_outlined />;
+export const IconImageBedtime24outlined = () => <SVGImageBedtime_24_outlined />;
+export const IconImageBedtime20twotone = () => <SVGImageBedtime_20_twotone />;
+export const IconImageBedtime24twotone = () => <SVGImageBedtime_24_twotone />;
+export const IconImageBedtime20sharp = () => <SVGImageBedtime_20_sharp />;
+export const IconImageBedtime24sharp = () => <SVGImageBedtime_24_sharp />;
+export const IconImageBedtime20filled = () => <SVGImageBedtime_20_filled />;
+export const IconImageBedtime24filled = () => <SVGImageBedtime_24_filled />;
+export const IconImageBedtime20round = () => <SVGImageBedtime_20_round />;
+export const IconImageBedtime24round = () => <SVGImageBedtime_24_round />;

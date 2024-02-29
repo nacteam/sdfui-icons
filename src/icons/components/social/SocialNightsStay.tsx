@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialNightsStay_20_outlined from '../../svg/social/SocialNightsStay/20_outlined.svg';
+import SVGSocialNightsStay_24_outlined from '../../svg/social/SocialNightsStay/24_outlined.svg';
+import SVGSocialNightsStay_20_twotone from '../../svg/social/SocialNightsStay/20_twotone.svg';
+import SVGSocialNightsStay_24_twotone from '../../svg/social/SocialNightsStay/24_twotone.svg';
+import SVGSocialNightsStay_20_sharp from '../../svg/social/SocialNightsStay/20_sharp.svg';
+import SVGSocialNightsStay_24_sharp from '../../svg/social/SocialNightsStay/24_sharp.svg';
+import SVGSocialNightsStay_20_filled from '../../svg/social/SocialNightsStay/20_filled.svg';
+import SVGSocialNightsStay_24_filled from '../../svg/social/SocialNightsStay/24_filled.svg';
+import SVGSocialNightsStay_20_round from '../../svg/social/SocialNightsStay/20_round.svg';
+import SVGSocialNightsStay_24_round from '../../svg/social/SocialNightsStay/24_round.svg';
+
+export const IconSocialNightsStay20outlined = () => <SVGSocialNightsStay_20_outlined />;
+export const IconSocialNightsStay24outlined = () => <SVGSocialNightsStay_24_outlined />;
+export const IconSocialNightsStay20twotone = () => <SVGSocialNightsStay_20_twotone />;
+export const IconSocialNightsStay24twotone = () => <SVGSocialNightsStay_24_twotone />;
+export const IconSocialNightsStay20sharp = () => <SVGSocialNightsStay_20_sharp />;
+export const IconSocialNightsStay24sharp = () => <SVGSocialNightsStay_24_sharp />;
+export const IconSocialNightsStay20filled = () => <SVGSocialNightsStay_20_filled />;
+export const IconSocialNightsStay24filled = () => <SVGSocialNightsStay_24_filled />;
+export const IconSocialNightsStay20round = () => <SVGSocialNightsStay_20_round />;
+export const IconSocialNightsStay24round = () => <SVGSocialNightsStay_24_round />;

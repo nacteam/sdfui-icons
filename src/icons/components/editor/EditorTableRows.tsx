@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorTableRows_20_outlined from '../../svg/editor/EditorTableRows/20_outlined.svg';
+import SVGEditorTableRows_24_outlined from '../../svg/editor/EditorTableRows/24_outlined.svg';
+import SVGEditorTableRows_20_twotone from '../../svg/editor/EditorTableRows/20_twotone.svg';
+import SVGEditorTableRows_24_twotone from '../../svg/editor/EditorTableRows/24_twotone.svg';
+import SVGEditorTableRows_20_sharp from '../../svg/editor/EditorTableRows/20_sharp.svg';
+import SVGEditorTableRows_24_sharp from '../../svg/editor/EditorTableRows/24_sharp.svg';
+import SVGEditorTableRows_20_filled from '../../svg/editor/EditorTableRows/20_filled.svg';
+import SVGEditorTableRows_24_filled from '../../svg/editor/EditorTableRows/24_filled.svg';
+import SVGEditorTableRows_20_round from '../../svg/editor/EditorTableRows/20_round.svg';
+import SVGEditorTableRows_24_round from '../../svg/editor/EditorTableRows/24_round.svg';
+
+export const IconEditorTableRows20outlined = () => <SVGEditorTableRows_20_outlined />;
+export const IconEditorTableRows24outlined = () => <SVGEditorTableRows_24_outlined />;
+export const IconEditorTableRows20twotone = () => <SVGEditorTableRows_20_twotone />;
+export const IconEditorTableRows24twotone = () => <SVGEditorTableRows_24_twotone />;
+export const IconEditorTableRows20sharp = () => <SVGEditorTableRows_20_sharp />;
+export const IconEditorTableRows24sharp = () => <SVGEditorTableRows_24_sharp />;
+export const IconEditorTableRows20filled = () => <SVGEditorTableRows_20_filled />;
+export const IconEditorTableRows24filled = () => <SVGEditorTableRows_24_filled />;
+export const IconEditorTableRows20round = () => <SVGEditorTableRows_20_round />;
+export const IconEditorTableRows24round = () => <SVGEditorTableRows_24_round />;

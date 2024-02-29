@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorPentagon_20_outlined from '../../svg/editor/EditorPentagon/20_outlined.svg';
+import SVGEditorPentagon_24_outlined from '../../svg/editor/EditorPentagon/24_outlined.svg';
+import SVGEditorPentagon_20_twotone from '../../svg/editor/EditorPentagon/20_twotone.svg';
+import SVGEditorPentagon_24_twotone from '../../svg/editor/EditorPentagon/24_twotone.svg';
+import SVGEditorPentagon_20_sharp from '../../svg/editor/EditorPentagon/20_sharp.svg';
+import SVGEditorPentagon_24_sharp from '../../svg/editor/EditorPentagon/24_sharp.svg';
+import SVGEditorPentagon_20_filled from '../../svg/editor/EditorPentagon/20_filled.svg';
+import SVGEditorPentagon_24_filled from '../../svg/editor/EditorPentagon/24_filled.svg';
+import SVGEditorPentagon_20_round from '../../svg/editor/EditorPentagon/20_round.svg';
+import SVGEditorPentagon_24_round from '../../svg/editor/EditorPentagon/24_round.svg';
+
+export const IconEditorPentagon20outlined = () => <SVGEditorPentagon_20_outlined />;
+export const IconEditorPentagon24outlined = () => <SVGEditorPentagon_24_outlined />;
+export const IconEditorPentagon20twotone = () => <SVGEditorPentagon_20_twotone />;
+export const IconEditorPentagon24twotone = () => <SVGEditorPentagon_24_twotone />;
+export const IconEditorPentagon20sharp = () => <SVGEditorPentagon_20_sharp />;
+export const IconEditorPentagon24sharp = () => <SVGEditorPentagon_24_sharp />;
+export const IconEditorPentagon20filled = () => <SVGEditorPentagon_20_filled />;
+export const IconEditorPentagon24filled = () => <SVGEditorPentagon_24_filled />;
+export const IconEditorPentagon20round = () => <SVGEditorPentagon_20_round />;
+export const IconEditorPentagon24round = () => <SVGEditorPentagon_24_round />;

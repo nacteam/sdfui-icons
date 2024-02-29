@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsLunchDining_20_outlined from '../../svg/maps/MapsLunchDining/20_outlined.svg';
+import SVGMapsLunchDining_24_outlined from '../../svg/maps/MapsLunchDining/24_outlined.svg';
+import SVGMapsLunchDining_20_twotone from '../../svg/maps/MapsLunchDining/20_twotone.svg';
+import SVGMapsLunchDining_24_twotone from '../../svg/maps/MapsLunchDining/24_twotone.svg';
+import SVGMapsLunchDining_20_sharp from '../../svg/maps/MapsLunchDining/20_sharp.svg';
+import SVGMapsLunchDining_24_sharp from '../../svg/maps/MapsLunchDining/24_sharp.svg';
+import SVGMapsLunchDining_20_filled from '../../svg/maps/MapsLunchDining/20_filled.svg';
+import SVGMapsLunchDining_24_filled from '../../svg/maps/MapsLunchDining/24_filled.svg';
+import SVGMapsLunchDining_20_round from '../../svg/maps/MapsLunchDining/20_round.svg';
+import SVGMapsLunchDining_24_round from '../../svg/maps/MapsLunchDining/24_round.svg';
+
+export const IconMapsLunchDining20outlined = () => <SVGMapsLunchDining_20_outlined />;
+export const IconMapsLunchDining24outlined = () => <SVGMapsLunchDining_24_outlined />;
+export const IconMapsLunchDining20twotone = () => <SVGMapsLunchDining_20_twotone />;
+export const IconMapsLunchDining24twotone = () => <SVGMapsLunchDining_24_twotone />;
+export const IconMapsLunchDining20sharp = () => <SVGMapsLunchDining_20_sharp />;
+export const IconMapsLunchDining24sharp = () => <SVGMapsLunchDining_24_sharp />;
+export const IconMapsLunchDining20filled = () => <SVGMapsLunchDining_20_filled />;
+export const IconMapsLunchDining24filled = () => <SVGMapsLunchDining_24_filled />;
+export const IconMapsLunchDining20round = () => <SVGMapsLunchDining_20_round />;
+export const IconMapsLunchDining24round = () => <SVGMapsLunchDining_24_round />;

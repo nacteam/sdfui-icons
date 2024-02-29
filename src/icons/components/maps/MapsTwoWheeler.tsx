@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsTwoWheeler_20_outlined from '../../svg/maps/MapsTwoWheeler/20_outlined.svg';
+import SVGMapsTwoWheeler_24_outlined from '../../svg/maps/MapsTwoWheeler/24_outlined.svg';
+import SVGMapsTwoWheeler_20_twotone from '../../svg/maps/MapsTwoWheeler/20_twotone.svg';
+import SVGMapsTwoWheeler_24_twotone from '../../svg/maps/MapsTwoWheeler/24_twotone.svg';
+import SVGMapsTwoWheeler_20_sharp from '../../svg/maps/MapsTwoWheeler/20_sharp.svg';
+import SVGMapsTwoWheeler_24_sharp from '../../svg/maps/MapsTwoWheeler/24_sharp.svg';
+import SVGMapsTwoWheeler_20_filled from '../../svg/maps/MapsTwoWheeler/20_filled.svg';
+import SVGMapsTwoWheeler_24_filled from '../../svg/maps/MapsTwoWheeler/24_filled.svg';
+import SVGMapsTwoWheeler_20_round from '../../svg/maps/MapsTwoWheeler/20_round.svg';
+import SVGMapsTwoWheeler_24_round from '../../svg/maps/MapsTwoWheeler/24_round.svg';
+
+export const IconMapsTwoWheeler20outlined = () => <SVGMapsTwoWheeler_20_outlined />;
+export const IconMapsTwoWheeler24outlined = () => <SVGMapsTwoWheeler_24_outlined />;
+export const IconMapsTwoWheeler20twotone = () => <SVGMapsTwoWheeler_20_twotone />;
+export const IconMapsTwoWheeler24twotone = () => <SVGMapsTwoWheeler_24_twotone />;
+export const IconMapsTwoWheeler20sharp = () => <SVGMapsTwoWheeler_20_sharp />;
+export const IconMapsTwoWheeler24sharp = () => <SVGMapsTwoWheeler_24_sharp />;
+export const IconMapsTwoWheeler20filled = () => <SVGMapsTwoWheeler_20_filled />;
+export const IconMapsTwoWheeler24filled = () => <SVGMapsTwoWheeler_24_filled />;
+export const IconMapsTwoWheeler20round = () => <SVGMapsTwoWheeler_20_round />;
+export const IconMapsTwoWheeler24round = () => <SVGMapsTwoWheeler_24_round />;

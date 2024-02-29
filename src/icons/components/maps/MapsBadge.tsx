@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsBadge_20_outlined from '../../svg/maps/MapsBadge/20_outlined.svg';
+import SVGMapsBadge_24_outlined from '../../svg/maps/MapsBadge/24_outlined.svg';
+import SVGMapsBadge_20_twotone from '../../svg/maps/MapsBadge/20_twotone.svg';
+import SVGMapsBadge_24_twotone from '../../svg/maps/MapsBadge/24_twotone.svg';
+import SVGMapsBadge_20_sharp from '../../svg/maps/MapsBadge/20_sharp.svg';
+import SVGMapsBadge_24_sharp from '../../svg/maps/MapsBadge/24_sharp.svg';
+import SVGMapsBadge_20_filled from '../../svg/maps/MapsBadge/20_filled.svg';
+import SVGMapsBadge_24_filled from '../../svg/maps/MapsBadge/24_filled.svg';
+import SVGMapsBadge_20_round from '../../svg/maps/MapsBadge/20_round.svg';
+import SVGMapsBadge_24_round from '../../svg/maps/MapsBadge/24_round.svg';
+
+export const IconMapsBadge20outlined = () => <SVGMapsBadge_20_outlined />;
+export const IconMapsBadge24outlined = () => <SVGMapsBadge_24_outlined />;
+export const IconMapsBadge20twotone = () => <SVGMapsBadge_20_twotone />;
+export const IconMapsBadge24twotone = () => <SVGMapsBadge_24_twotone />;
+export const IconMapsBadge20sharp = () => <SVGMapsBadge_20_sharp />;
+export const IconMapsBadge24sharp = () => <SVGMapsBadge_24_sharp />;
+export const IconMapsBadge20filled = () => <SVGMapsBadge_20_filled />;
+export const IconMapsBadge24filled = () => <SVGMapsBadge_24_filled />;
+export const IconMapsBadge20round = () => <SVGMapsBadge_20_round />;
+export const IconMapsBadge24round = () => <SVGMapsBadge_24_round />;

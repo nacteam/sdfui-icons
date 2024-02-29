@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialEmojiFlags_20_outlined from '../../svg/social/SocialEmojiFlags/20_outlined.svg';
+import SVGSocialEmojiFlags_24_outlined from '../../svg/social/SocialEmojiFlags/24_outlined.svg';
+import SVGSocialEmojiFlags_20_twotone from '../../svg/social/SocialEmojiFlags/20_twotone.svg';
+import SVGSocialEmojiFlags_24_twotone from '../../svg/social/SocialEmojiFlags/24_twotone.svg';
+import SVGSocialEmojiFlags_20_sharp from '../../svg/social/SocialEmojiFlags/20_sharp.svg';
+import SVGSocialEmojiFlags_24_sharp from '../../svg/social/SocialEmojiFlags/24_sharp.svg';
+import SVGSocialEmojiFlags_20_filled from '../../svg/social/SocialEmojiFlags/20_filled.svg';
+import SVGSocialEmojiFlags_24_filled from '../../svg/social/SocialEmojiFlags/24_filled.svg';
+import SVGSocialEmojiFlags_20_round from '../../svg/social/SocialEmojiFlags/20_round.svg';
+import SVGSocialEmojiFlags_24_round from '../../svg/social/SocialEmojiFlags/24_round.svg';
+
+export const IconSocialEmojiFlags20outlined = () => <SVGSocialEmojiFlags_20_outlined />;
+export const IconSocialEmojiFlags24outlined = () => <SVGSocialEmojiFlags_24_outlined />;
+export const IconSocialEmojiFlags20twotone = () => <SVGSocialEmojiFlags_20_twotone />;
+export const IconSocialEmojiFlags24twotone = () => <SVGSocialEmojiFlags_24_twotone />;
+export const IconSocialEmojiFlags20sharp = () => <SVGSocialEmojiFlags_20_sharp />;
+export const IconSocialEmojiFlags24sharp = () => <SVGSocialEmojiFlags_24_sharp />;
+export const IconSocialEmojiFlags20filled = () => <SVGSocialEmojiFlags_20_filled />;
+export const IconSocialEmojiFlags24filled = () => <SVGSocialEmojiFlags_24_filled />;
+export const IconSocialEmojiFlags20round = () => <SVGSocialEmojiFlags_20_round />;
+export const IconSocialEmojiFlags24round = () => <SVGSocialEmojiFlags_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesVilla_20_outlined from '../../svg/places/PlacesVilla/20_outlined.svg';
+import SVGPlacesVilla_24_outlined from '../../svg/places/PlacesVilla/24_outlined.svg';
+import SVGPlacesVilla_20_twotone from '../../svg/places/PlacesVilla/20_twotone.svg';
+import SVGPlacesVilla_24_twotone from '../../svg/places/PlacesVilla/24_twotone.svg';
+import SVGPlacesVilla_20_sharp from '../../svg/places/PlacesVilla/20_sharp.svg';
+import SVGPlacesVilla_24_sharp from '../../svg/places/PlacesVilla/24_sharp.svg';
+import SVGPlacesVilla_20_filled from '../../svg/places/PlacesVilla/20_filled.svg';
+import SVGPlacesVilla_24_filled from '../../svg/places/PlacesVilla/24_filled.svg';
+import SVGPlacesVilla_20_round from '../../svg/places/PlacesVilla/20_round.svg';
+import SVGPlacesVilla_24_round from '../../svg/places/PlacesVilla/24_round.svg';
+
+export const IconPlacesVilla20outlined = () => <SVGPlacesVilla_20_outlined />;
+export const IconPlacesVilla24outlined = () => <SVGPlacesVilla_24_outlined />;
+export const IconPlacesVilla20twotone = () => <SVGPlacesVilla_20_twotone />;
+export const IconPlacesVilla24twotone = () => <SVGPlacesVilla_24_twotone />;
+export const IconPlacesVilla20sharp = () => <SVGPlacesVilla_20_sharp />;
+export const IconPlacesVilla24sharp = () => <SVGPlacesVilla_24_sharp />;
+export const IconPlacesVilla20filled = () => <SVGPlacesVilla_20_filled />;
+export const IconPlacesVilla24filled = () => <SVGPlacesVilla_24_filled />;
+export const IconPlacesVilla20round = () => <SVGPlacesVilla_20_round />;
+export const IconPlacesVilla24round = () => <SVGPlacesVilla_24_round />;

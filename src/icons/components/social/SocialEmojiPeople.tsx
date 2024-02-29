@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialEmojiPeople_20_outlined from '../../svg/social/SocialEmojiPeople/20_outlined.svg';
+import SVGSocialEmojiPeople_24_outlined from '../../svg/social/SocialEmojiPeople/24_outlined.svg';
+import SVGSocialEmojiPeople_20_twotone from '../../svg/social/SocialEmojiPeople/20_twotone.svg';
+import SVGSocialEmojiPeople_24_twotone from '../../svg/social/SocialEmojiPeople/24_twotone.svg';
+import SVGSocialEmojiPeople_20_sharp from '../../svg/social/SocialEmojiPeople/20_sharp.svg';
+import SVGSocialEmojiPeople_24_sharp from '../../svg/social/SocialEmojiPeople/24_sharp.svg';
+import SVGSocialEmojiPeople_20_filled from '../../svg/social/SocialEmojiPeople/20_filled.svg';
+import SVGSocialEmojiPeople_24_filled from '../../svg/social/SocialEmojiPeople/24_filled.svg';
+import SVGSocialEmojiPeople_20_round from '../../svg/social/SocialEmojiPeople/20_round.svg';
+import SVGSocialEmojiPeople_24_round from '../../svg/social/SocialEmojiPeople/24_round.svg';
+
+export const IconSocialEmojiPeople20outlined = () => <SVGSocialEmojiPeople_20_outlined />;
+export const IconSocialEmojiPeople24outlined = () => <SVGSocialEmojiPeople_24_outlined />;
+export const IconSocialEmojiPeople20twotone = () => <SVGSocialEmojiPeople_20_twotone />;
+export const IconSocialEmojiPeople24twotone = () => <SVGSocialEmojiPeople_24_twotone />;
+export const IconSocialEmojiPeople20sharp = () => <SVGSocialEmojiPeople_20_sharp />;
+export const IconSocialEmojiPeople24sharp = () => <SVGSocialEmojiPeople_24_sharp />;
+export const IconSocialEmojiPeople20filled = () => <SVGSocialEmojiPeople_20_filled />;
+export const IconSocialEmojiPeople24filled = () => <SVGSocialEmojiPeople_24_filled />;
+export const IconSocialEmojiPeople20round = () => <SVGSocialEmojiPeople_20_round />;
+export const IconSocialEmojiPeople24round = () => <SVGSocialEmojiPeople_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationCommentsDisabled_20_outlined from '../../svg/communication/CommunicationCommentsDisabled/20_outlined.svg';
+import SVGCommunicationCommentsDisabled_24_outlined from '../../svg/communication/CommunicationCommentsDisabled/24_outlined.svg';
+import SVGCommunicationCommentsDisabled_20_twotone from '../../svg/communication/CommunicationCommentsDisabled/20_twotone.svg';
+import SVGCommunicationCommentsDisabled_24_twotone from '../../svg/communication/CommunicationCommentsDisabled/24_twotone.svg';
+import SVGCommunicationCommentsDisabled_20_sharp from '../../svg/communication/CommunicationCommentsDisabled/20_sharp.svg';
+import SVGCommunicationCommentsDisabled_24_sharp from '../../svg/communication/CommunicationCommentsDisabled/24_sharp.svg';
+import SVGCommunicationCommentsDisabled_20_filled from '../../svg/communication/CommunicationCommentsDisabled/20_filled.svg';
+import SVGCommunicationCommentsDisabled_24_filled from '../../svg/communication/CommunicationCommentsDisabled/24_filled.svg';
+import SVGCommunicationCommentsDisabled_20_round from '../../svg/communication/CommunicationCommentsDisabled/20_round.svg';
+import SVGCommunicationCommentsDisabled_24_round from '../../svg/communication/CommunicationCommentsDisabled/24_round.svg';
+
+export const IconCommunicationCommentsDisabled20outlined = () => <SVGCommunicationCommentsDisabled_20_outlined />;
+export const IconCommunicationCommentsDisabled24outlined = () => <SVGCommunicationCommentsDisabled_24_outlined />;
+export const IconCommunicationCommentsDisabled20twotone = () => <SVGCommunicationCommentsDisabled_20_twotone />;
+export const IconCommunicationCommentsDisabled24twotone = () => <SVGCommunicationCommentsDisabled_24_twotone />;
+export const IconCommunicationCommentsDisabled20sharp = () => <SVGCommunicationCommentsDisabled_20_sharp />;
+export const IconCommunicationCommentsDisabled24sharp = () => <SVGCommunicationCommentsDisabled_24_sharp />;
+export const IconCommunicationCommentsDisabled20filled = () => <SVGCommunicationCommentsDisabled_20_filled />;
+export const IconCommunicationCommentsDisabled24filled = () => <SVGCommunicationCommentsDisabled_24_filled />;
+export const IconCommunicationCommentsDisabled20round = () => <SVGCommunicationCommentsDisabled_20_round />;
+export const IconCommunicationCommentsDisabled24round = () => <SVGCommunicationCommentsDisabled_24_round />;

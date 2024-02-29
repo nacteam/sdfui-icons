@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionArrowCircleRight_20_outlined from '../../svg/action/ActionArrowCircleRight/20_outlined.svg';
+import SVGActionArrowCircleRight_24_outlined from '../../svg/action/ActionArrowCircleRight/24_outlined.svg';
+import SVGActionArrowCircleRight_20_twotone from '../../svg/action/ActionArrowCircleRight/20_twotone.svg';
+import SVGActionArrowCircleRight_24_twotone from '../../svg/action/ActionArrowCircleRight/24_twotone.svg';
+import SVGActionArrowCircleRight_20_sharp from '../../svg/action/ActionArrowCircleRight/20_sharp.svg';
+import SVGActionArrowCircleRight_24_sharp from '../../svg/action/ActionArrowCircleRight/24_sharp.svg';
+import SVGActionArrowCircleRight_20_filled from '../../svg/action/ActionArrowCircleRight/20_filled.svg';
+import SVGActionArrowCircleRight_24_filled from '../../svg/action/ActionArrowCircleRight/24_filled.svg';
+import SVGActionArrowCircleRight_20_round from '../../svg/action/ActionArrowCircleRight/20_round.svg';
+import SVGActionArrowCircleRight_24_round from '../../svg/action/ActionArrowCircleRight/24_round.svg';
+
+export const IconActionArrowCircleRight20outlined = () => <SVGActionArrowCircleRight_20_outlined />;
+export const IconActionArrowCircleRight24outlined = () => <SVGActionArrowCircleRight_24_outlined />;
+export const IconActionArrowCircleRight20twotone = () => <SVGActionArrowCircleRight_20_twotone />;
+export const IconActionArrowCircleRight24twotone = () => <SVGActionArrowCircleRight_24_twotone />;
+export const IconActionArrowCircleRight20sharp = () => <SVGActionArrowCircleRight_20_sharp />;
+export const IconActionArrowCircleRight24sharp = () => <SVGActionArrowCircleRight_24_sharp />;
+export const IconActionArrowCircleRight20filled = () => <SVGActionArrowCircleRight_20_filled />;
+export const IconActionArrowCircleRight24filled = () => <SVGActionArrowCircleRight_24_filled />;
+export const IconActionArrowCircleRight20round = () => <SVGActionArrowCircleRight_20_round />;
+export const IconActionArrowCircleRight24round = () => <SVGActionArrowCircleRight_24_round />;

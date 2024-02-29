@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareWatchOff_20_outlined from '../../svg/hardware/HardwareWatchOff/20_outlined.svg';
+import SVGHardwareWatchOff_24_outlined from '../../svg/hardware/HardwareWatchOff/24_outlined.svg';
+import SVGHardwareWatchOff_20_twotone from '../../svg/hardware/HardwareWatchOff/20_twotone.svg';
+import SVGHardwareWatchOff_24_twotone from '../../svg/hardware/HardwareWatchOff/24_twotone.svg';
+import SVGHardwareWatchOff_20_sharp from '../../svg/hardware/HardwareWatchOff/20_sharp.svg';
+import SVGHardwareWatchOff_24_sharp from '../../svg/hardware/HardwareWatchOff/24_sharp.svg';
+import SVGHardwareWatchOff_20_filled from '../../svg/hardware/HardwareWatchOff/20_filled.svg';
+import SVGHardwareWatchOff_24_filled from '../../svg/hardware/HardwareWatchOff/24_filled.svg';
+import SVGHardwareWatchOff_20_round from '../../svg/hardware/HardwareWatchOff/20_round.svg';
+import SVGHardwareWatchOff_24_round from '../../svg/hardware/HardwareWatchOff/24_round.svg';
+
+export const IconHardwareWatchOff20outlined = () => <SVGHardwareWatchOff_20_outlined />;
+export const IconHardwareWatchOff24outlined = () => <SVGHardwareWatchOff_24_outlined />;
+export const IconHardwareWatchOff20twotone = () => <SVGHardwareWatchOff_20_twotone />;
+export const IconHardwareWatchOff24twotone = () => <SVGHardwareWatchOff_24_twotone />;
+export const IconHardwareWatchOff20sharp = () => <SVGHardwareWatchOff_20_sharp />;
+export const IconHardwareWatchOff24sharp = () => <SVGHardwareWatchOff_24_sharp />;
+export const IconHardwareWatchOff20filled = () => <SVGHardwareWatchOff_20_filled />;
+export const IconHardwareWatchOff24filled = () => <SVGHardwareWatchOff_24_filled />;
+export const IconHardwareWatchOff20round = () => <SVGHardwareWatchOff_20_round />;
+export const IconHardwareWatchOff24round = () => <SVGHardwareWatchOff_24_round />;

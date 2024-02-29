@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentWebStories_20_outlined from '../../svg/content/ContentWebStories/20_outlined.svg';
+import SVGContentWebStories_24_outlined from '../../svg/content/ContentWebStories/24_outlined.svg';
+import SVGContentWebStories_20_twotone from '../../svg/content/ContentWebStories/20_twotone.svg';
+import SVGContentWebStories_24_twotone from '../../svg/content/ContentWebStories/24_twotone.svg';
+import SVGContentWebStories_20_sharp from '../../svg/content/ContentWebStories/20_sharp.svg';
+import SVGContentWebStories_24_sharp from '../../svg/content/ContentWebStories/24_sharp.svg';
+import SVGContentWebStories_20_filled from '../../svg/content/ContentWebStories/20_filled.svg';
+import SVGContentWebStories_24_filled from '../../svg/content/ContentWebStories/24_filled.svg';
+import SVGContentWebStories_20_round from '../../svg/content/ContentWebStories/20_round.svg';
+import SVGContentWebStories_24_round from '../../svg/content/ContentWebStories/24_round.svg';
+
+export const IconContentWebStories20outlined = () => <SVGContentWebStories_20_outlined />;
+export const IconContentWebStories24outlined = () => <SVGContentWebStories_24_outlined />;
+export const IconContentWebStories20twotone = () => <SVGContentWebStories_20_twotone />;
+export const IconContentWebStories24twotone = () => <SVGContentWebStories_24_twotone />;
+export const IconContentWebStories20sharp = () => <SVGContentWebStories_20_sharp />;
+export const IconContentWebStories24sharp = () => <SVGContentWebStories_24_sharp />;
+export const IconContentWebStories20filled = () => <SVGContentWebStories_20_filled />;
+export const IconContentWebStories24filled = () => <SVGContentWebStories_24_filled />;
+export const IconContentWebStories20round = () => <SVGContentWebStories_20_round />;
+export const IconContentWebStories24round = () => <SVGContentWebStories_24_round />;

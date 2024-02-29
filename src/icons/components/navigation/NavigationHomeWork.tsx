@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNavigationHomeWork_20_outlined from '../../svg/navigation/NavigationHomeWork/20_outlined.svg';
+import SVGNavigationHomeWork_24_outlined from '../../svg/navigation/NavigationHomeWork/24_outlined.svg';
+import SVGNavigationHomeWork_20_twotone from '../../svg/navigation/NavigationHomeWork/20_twotone.svg';
+import SVGNavigationHomeWork_24_twotone from '../../svg/navigation/NavigationHomeWork/24_twotone.svg';
+import SVGNavigationHomeWork_20_sharp from '../../svg/navigation/NavigationHomeWork/20_sharp.svg';
+import SVGNavigationHomeWork_24_sharp from '../../svg/navigation/NavigationHomeWork/24_sharp.svg';
+import SVGNavigationHomeWork_20_filled from '../../svg/navigation/NavigationHomeWork/20_filled.svg';
+import SVGNavigationHomeWork_24_filled from '../../svg/navigation/NavigationHomeWork/24_filled.svg';
+import SVGNavigationHomeWork_20_round from '../../svg/navigation/NavigationHomeWork/20_round.svg';
+import SVGNavigationHomeWork_24_round from '../../svg/navigation/NavigationHomeWork/24_round.svg';
+
+export const IconNavigationHomeWork20outlined = () => <SVGNavigationHomeWork_20_outlined />;
+export const IconNavigationHomeWork24outlined = () => <SVGNavigationHomeWork_24_outlined />;
+export const IconNavigationHomeWork20twotone = () => <SVGNavigationHomeWork_20_twotone />;
+export const IconNavigationHomeWork24twotone = () => <SVGNavigationHomeWork_24_twotone />;
+export const IconNavigationHomeWork20sharp = () => <SVGNavigationHomeWork_20_sharp />;
+export const IconNavigationHomeWork24sharp = () => <SVGNavigationHomeWork_24_sharp />;
+export const IconNavigationHomeWork20filled = () => <SVGNavigationHomeWork_20_filled />;
+export const IconNavigationHomeWork24filled = () => <SVGNavigationHomeWork_24_filled />;
+export const IconNavigationHomeWork20round = () => <SVGNavigationHomeWork_20_round />;
+export const IconNavigationHomeWork24round = () => <SVGNavigationHomeWork_24_round />;

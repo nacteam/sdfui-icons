@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationDocumentScanner_20_outlined from '../../svg/communication/CommunicationDocumentScanner/20_outlined.svg';
+import SVGCommunicationDocumentScanner_24_outlined from '../../svg/communication/CommunicationDocumentScanner/24_outlined.svg';
+import SVGCommunicationDocumentScanner_20_twotone from '../../svg/communication/CommunicationDocumentScanner/20_twotone.svg';
+import SVGCommunicationDocumentScanner_24_twotone from '../../svg/communication/CommunicationDocumentScanner/24_twotone.svg';
+import SVGCommunicationDocumentScanner_20_sharp from '../../svg/communication/CommunicationDocumentScanner/20_sharp.svg';
+import SVGCommunicationDocumentScanner_24_sharp from '../../svg/communication/CommunicationDocumentScanner/24_sharp.svg';
+import SVGCommunicationDocumentScanner_20_filled from '../../svg/communication/CommunicationDocumentScanner/20_filled.svg';
+import SVGCommunicationDocumentScanner_24_filled from '../../svg/communication/CommunicationDocumentScanner/24_filled.svg';
+import SVGCommunicationDocumentScanner_20_round from '../../svg/communication/CommunicationDocumentScanner/20_round.svg';
+import SVGCommunicationDocumentScanner_24_round from '../../svg/communication/CommunicationDocumentScanner/24_round.svg';
+
+export const IconCommunicationDocumentScanner20outlined = () => <SVGCommunicationDocumentScanner_20_outlined />;
+export const IconCommunicationDocumentScanner24outlined = () => <SVGCommunicationDocumentScanner_24_outlined />;
+export const IconCommunicationDocumentScanner20twotone = () => <SVGCommunicationDocumentScanner_20_twotone />;
+export const IconCommunicationDocumentScanner24twotone = () => <SVGCommunicationDocumentScanner_24_twotone />;
+export const IconCommunicationDocumentScanner20sharp = () => <SVGCommunicationDocumentScanner_20_sharp />;
+export const IconCommunicationDocumentScanner24sharp = () => <SVGCommunicationDocumentScanner_24_sharp />;
+export const IconCommunicationDocumentScanner20filled = () => <SVGCommunicationDocumentScanner_20_filled />;
+export const IconCommunicationDocumentScanner24filled = () => <SVGCommunicationDocumentScanner_24_filled />;
+export const IconCommunicationDocumentScanner20round = () => <SVGCommunicationDocumentScanner_20_round />;
+export const IconCommunicationDocumentScanner24round = () => <SVGCommunicationDocumentScanner_24_round />;

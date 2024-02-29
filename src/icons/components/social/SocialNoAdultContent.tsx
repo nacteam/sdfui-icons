@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialNoAdultContent_20_outlined from '../../svg/social/SocialNoAdultContent/20_outlined.svg';
+import SVGSocialNoAdultContent_24_outlined from '../../svg/social/SocialNoAdultContent/24_outlined.svg';
+import SVGSocialNoAdultContent_20_twotone from '../../svg/social/SocialNoAdultContent/20_twotone.svg';
+import SVGSocialNoAdultContent_24_twotone from '../../svg/social/SocialNoAdultContent/24_twotone.svg';
+import SVGSocialNoAdultContent_20_sharp from '../../svg/social/SocialNoAdultContent/20_sharp.svg';
+import SVGSocialNoAdultContent_24_sharp from '../../svg/social/SocialNoAdultContent/24_sharp.svg';
+import SVGSocialNoAdultContent_20_filled from '../../svg/social/SocialNoAdultContent/20_filled.svg';
+import SVGSocialNoAdultContent_24_filled from '../../svg/social/SocialNoAdultContent/24_filled.svg';
+import SVGSocialNoAdultContent_20_round from '../../svg/social/SocialNoAdultContent/20_round.svg';
+import SVGSocialNoAdultContent_24_round from '../../svg/social/SocialNoAdultContent/24_round.svg';
+
+export const IconSocialNoAdultContent20outlined = () => <SVGSocialNoAdultContent_20_outlined />;
+export const IconSocialNoAdultContent24outlined = () => <SVGSocialNoAdultContent_24_outlined />;
+export const IconSocialNoAdultContent20twotone = () => <SVGSocialNoAdultContent_20_twotone />;
+export const IconSocialNoAdultContent24twotone = () => <SVGSocialNoAdultContent_24_twotone />;
+export const IconSocialNoAdultContent20sharp = () => <SVGSocialNoAdultContent_20_sharp />;
+export const IconSocialNoAdultContent24sharp = () => <SVGSocialNoAdultContent_24_sharp />;
+export const IconSocialNoAdultContent20filled = () => <SVGSocialNoAdultContent_20_filled />;
+export const IconSocialNoAdultContent24filled = () => <SVGSocialNoAdultContent_24_filled />;
+export const IconSocialNoAdultContent20round = () => <SVGSocialNoAdultContent_20_round />;
+export const IconSocialNoAdultContent24round = () => <SVGSocialNoAdultContent_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionDensityLarge_20_outlined from '../../svg/action/ActionDensityLarge/20_outlined.svg';
+import SVGActionDensityLarge_24_outlined from '../../svg/action/ActionDensityLarge/24_outlined.svg';
+import SVGActionDensityLarge_20_twotone from '../../svg/action/ActionDensityLarge/20_twotone.svg';
+import SVGActionDensityLarge_24_twotone from '../../svg/action/ActionDensityLarge/24_twotone.svg';
+import SVGActionDensityLarge_20_sharp from '../../svg/action/ActionDensityLarge/20_sharp.svg';
+import SVGActionDensityLarge_24_sharp from '../../svg/action/ActionDensityLarge/24_sharp.svg';
+import SVGActionDensityLarge_20_filled from '../../svg/action/ActionDensityLarge/20_filled.svg';
+import SVGActionDensityLarge_24_filled from '../../svg/action/ActionDensityLarge/24_filled.svg';
+import SVGActionDensityLarge_20_round from '../../svg/action/ActionDensityLarge/20_round.svg';
+import SVGActionDensityLarge_24_round from '../../svg/action/ActionDensityLarge/24_round.svg';
+
+export const IconActionDensityLarge20outlined = () => <SVGActionDensityLarge_20_outlined />;
+export const IconActionDensityLarge24outlined = () => <SVGActionDensityLarge_24_outlined />;
+export const IconActionDensityLarge20twotone = () => <SVGActionDensityLarge_20_twotone />;
+export const IconActionDensityLarge24twotone = () => <SVGActionDensityLarge_24_twotone />;
+export const IconActionDensityLarge20sharp = () => <SVGActionDensityLarge_20_sharp />;
+export const IconActionDensityLarge24sharp = () => <SVGActionDensityLarge_24_sharp />;
+export const IconActionDensityLarge20filled = () => <SVGActionDensityLarge_20_filled />;
+export const IconActionDensityLarge24filled = () => <SVGActionDensityLarge_24_filled />;
+export const IconActionDensityLarge20round = () => <SVGActionDensityLarge_20_round />;
+export const IconActionDensityLarge24round = () => <SVGActionDensityLarge_24_round />;

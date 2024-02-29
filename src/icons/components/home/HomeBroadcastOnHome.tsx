@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeBroadcastOnHome_20_outlined from '../../svg/home/HomeBroadcastOnHome/20_outlined.svg';
+import SVGHomeBroadcastOnHome_24_outlined from '../../svg/home/HomeBroadcastOnHome/24_outlined.svg';
+import SVGHomeBroadcastOnHome_20_twotone from '../../svg/home/HomeBroadcastOnHome/20_twotone.svg';
+import SVGHomeBroadcastOnHome_24_twotone from '../../svg/home/HomeBroadcastOnHome/24_twotone.svg';
+import SVGHomeBroadcastOnHome_20_sharp from '../../svg/home/HomeBroadcastOnHome/20_sharp.svg';
+import SVGHomeBroadcastOnHome_24_sharp from '../../svg/home/HomeBroadcastOnHome/24_sharp.svg';
+import SVGHomeBroadcastOnHome_20_filled from '../../svg/home/HomeBroadcastOnHome/20_filled.svg';
+import SVGHomeBroadcastOnHome_24_filled from '../../svg/home/HomeBroadcastOnHome/24_filled.svg';
+import SVGHomeBroadcastOnHome_20_round from '../../svg/home/HomeBroadcastOnHome/20_round.svg';
+import SVGHomeBroadcastOnHome_24_round from '../../svg/home/HomeBroadcastOnHome/24_round.svg';
+
+export const IconHomeBroadcastOnHome20outlined = () => <SVGHomeBroadcastOnHome_20_outlined />;
+export const IconHomeBroadcastOnHome24outlined = () => <SVGHomeBroadcastOnHome_24_outlined />;
+export const IconHomeBroadcastOnHome20twotone = () => <SVGHomeBroadcastOnHome_20_twotone />;
+export const IconHomeBroadcastOnHome24twotone = () => <SVGHomeBroadcastOnHome_24_twotone />;
+export const IconHomeBroadcastOnHome20sharp = () => <SVGHomeBroadcastOnHome_20_sharp />;
+export const IconHomeBroadcastOnHome24sharp = () => <SVGHomeBroadcastOnHome_24_sharp />;
+export const IconHomeBroadcastOnHome20filled = () => <SVGHomeBroadcastOnHome_20_filled />;
+export const IconHomeBroadcastOnHome24filled = () => <SVGHomeBroadcastOnHome_24_filled />;
+export const IconHomeBroadcastOnHome20round = () => <SVGHomeBroadcastOnHome_20_round />;
+export const IconHomeBroadcastOnHome24round = () => <SVGHomeBroadcastOnHome_24_round />;

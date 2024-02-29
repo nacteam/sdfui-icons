@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialEmojiTransportation_20_outlined from '../../svg/social/SocialEmojiTransportation/20_outlined.svg';
+import SVGSocialEmojiTransportation_24_outlined from '../../svg/social/SocialEmojiTransportation/24_outlined.svg';
+import SVGSocialEmojiTransportation_20_twotone from '../../svg/social/SocialEmojiTransportation/20_twotone.svg';
+import SVGSocialEmojiTransportation_24_twotone from '../../svg/social/SocialEmojiTransportation/24_twotone.svg';
+import SVGSocialEmojiTransportation_20_sharp from '../../svg/social/SocialEmojiTransportation/20_sharp.svg';
+import SVGSocialEmojiTransportation_24_sharp from '../../svg/social/SocialEmojiTransportation/24_sharp.svg';
+import SVGSocialEmojiTransportation_20_filled from '../../svg/social/SocialEmojiTransportation/20_filled.svg';
+import SVGSocialEmojiTransportation_24_filled from '../../svg/social/SocialEmojiTransportation/24_filled.svg';
+import SVGSocialEmojiTransportation_20_round from '../../svg/social/SocialEmojiTransportation/20_round.svg';
+import SVGSocialEmojiTransportation_24_round from '../../svg/social/SocialEmojiTransportation/24_round.svg';
+
+export const IconSocialEmojiTransportation20outlined = () => <SVGSocialEmojiTransportation_20_outlined />;
+export const IconSocialEmojiTransportation24outlined = () => <SVGSocialEmojiTransportation_24_outlined />;
+export const IconSocialEmojiTransportation20twotone = () => <SVGSocialEmojiTransportation_20_twotone />;
+export const IconSocialEmojiTransportation24twotone = () => <SVGSocialEmojiTransportation_24_twotone />;
+export const IconSocialEmojiTransportation20sharp = () => <SVGSocialEmojiTransportation_20_sharp />;
+export const IconSocialEmojiTransportation24sharp = () => <SVGSocialEmojiTransportation_24_sharp />;
+export const IconSocialEmojiTransportation20filled = () => <SVGSocialEmojiTransportation_20_filled />;
+export const IconSocialEmojiTransportation24filled = () => <SVGSocialEmojiTransportation_24_filled />;
+export const IconSocialEmojiTransportation20round = () => <SVGSocialEmojiTransportation_20_round />;
+export const IconSocialEmojiTransportation24round = () => <SVGSocialEmojiTransportation_24_round />;

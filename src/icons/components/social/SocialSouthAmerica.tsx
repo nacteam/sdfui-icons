@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSouthAmerica_20_outlined from '../../svg/social/SocialSouthAmerica/20_outlined.svg';
+import SVGSocialSouthAmerica_24_outlined from '../../svg/social/SocialSouthAmerica/24_outlined.svg';
+import SVGSocialSouthAmerica_20_twotone from '../../svg/social/SocialSouthAmerica/20_twotone.svg';
+import SVGSocialSouthAmerica_24_twotone from '../../svg/social/SocialSouthAmerica/24_twotone.svg';
+import SVGSocialSouthAmerica_20_sharp from '../../svg/social/SocialSouthAmerica/20_sharp.svg';
+import SVGSocialSouthAmerica_24_sharp from '../../svg/social/SocialSouthAmerica/24_sharp.svg';
+import SVGSocialSouthAmerica_20_filled from '../../svg/social/SocialSouthAmerica/20_filled.svg';
+import SVGSocialSouthAmerica_24_filled from '../../svg/social/SocialSouthAmerica/24_filled.svg';
+import SVGSocialSouthAmerica_20_round from '../../svg/social/SocialSouthAmerica/20_round.svg';
+import SVGSocialSouthAmerica_24_round from '../../svg/social/SocialSouthAmerica/24_round.svg';
+
+export const IconSocialSouthAmerica20outlined = () => <SVGSocialSouthAmerica_20_outlined />;
+export const IconSocialSouthAmerica24outlined = () => <SVGSocialSouthAmerica_24_outlined />;
+export const IconSocialSouthAmerica20twotone = () => <SVGSocialSouthAmerica_20_twotone />;
+export const IconSocialSouthAmerica24twotone = () => <SVGSocialSouthAmerica_24_twotone />;
+export const IconSocialSouthAmerica20sharp = () => <SVGSocialSouthAmerica_20_sharp />;
+export const IconSocialSouthAmerica24sharp = () => <SVGSocialSouthAmerica_24_sharp />;
+export const IconSocialSouthAmerica20filled = () => <SVGSocialSouthAmerica_20_filled />;
+export const IconSocialSouthAmerica24filled = () => <SVGSocialSouthAmerica_24_filled />;
+export const IconSocialSouthAmerica20round = () => <SVGSocialSouthAmerica_20_round />;
+export const IconSocialSouthAmerica24round = () => <SVGSocialSouthAmerica_24_round />;

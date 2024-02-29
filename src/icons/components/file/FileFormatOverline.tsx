@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFormatOverline_20_outlined from '../../svg/file/FileFormatOverline/20_outlined.svg';
+import SVGFileFormatOverline_24_outlined from '../../svg/file/FileFormatOverline/24_outlined.svg';
+import SVGFileFormatOverline_20_twotone from '../../svg/file/FileFormatOverline/20_twotone.svg';
+import SVGFileFormatOverline_24_twotone from '../../svg/file/FileFormatOverline/24_twotone.svg';
+import SVGFileFormatOverline_20_sharp from '../../svg/file/FileFormatOverline/20_sharp.svg';
+import SVGFileFormatOverline_24_sharp from '../../svg/file/FileFormatOverline/24_sharp.svg';
+import SVGFileFormatOverline_20_filled from '../../svg/file/FileFormatOverline/20_filled.svg';
+import SVGFileFormatOverline_24_filled from '../../svg/file/FileFormatOverline/24_filled.svg';
+import SVGFileFormatOverline_20_round from '../../svg/file/FileFormatOverline/20_round.svg';
+import SVGFileFormatOverline_24_round from '../../svg/file/FileFormatOverline/24_round.svg';
+
+export const IconFileFormatOverline20outlined = () => <SVGFileFormatOverline_20_outlined />;
+export const IconFileFormatOverline24outlined = () => <SVGFileFormatOverline_24_outlined />;
+export const IconFileFormatOverline20twotone = () => <SVGFileFormatOverline_20_twotone />;
+export const IconFileFormatOverline24twotone = () => <SVGFileFormatOverline_24_twotone />;
+export const IconFileFormatOverline20sharp = () => <SVGFileFormatOverline_20_sharp />;
+export const IconFileFormatOverline24sharp = () => <SVGFileFormatOverline_24_sharp />;
+export const IconFileFormatOverline20filled = () => <SVGFileFormatOverline_20_filled />;
+export const IconFileFormatOverline24filled = () => <SVGFileFormatOverline_24_filled />;
+export const IconFileFormatOverline20round = () => <SVGFileFormatOverline_20_round />;
+export const IconFileFormatOverline24round = () => <SVGFileFormatOverline_24_round />;

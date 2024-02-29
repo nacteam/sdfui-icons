@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMarkEmailRead_20_outlined from '../../svg/communication/CommunicationMarkEmailRead/20_outlined.svg';
+import SVGCommunicationMarkEmailRead_24_outlined from '../../svg/communication/CommunicationMarkEmailRead/24_outlined.svg';
+import SVGCommunicationMarkEmailRead_20_twotone from '../../svg/communication/CommunicationMarkEmailRead/20_twotone.svg';
+import SVGCommunicationMarkEmailRead_24_twotone from '../../svg/communication/CommunicationMarkEmailRead/24_twotone.svg';
+import SVGCommunicationMarkEmailRead_20_sharp from '../../svg/communication/CommunicationMarkEmailRead/20_sharp.svg';
+import SVGCommunicationMarkEmailRead_24_sharp from '../../svg/communication/CommunicationMarkEmailRead/24_sharp.svg';
+import SVGCommunicationMarkEmailRead_20_filled from '../../svg/communication/CommunicationMarkEmailRead/20_filled.svg';
+import SVGCommunicationMarkEmailRead_24_filled from '../../svg/communication/CommunicationMarkEmailRead/24_filled.svg';
+import SVGCommunicationMarkEmailRead_20_round from '../../svg/communication/CommunicationMarkEmailRead/20_round.svg';
+import SVGCommunicationMarkEmailRead_24_round from '../../svg/communication/CommunicationMarkEmailRead/24_round.svg';
+
+export const IconCommunicationMarkEmailRead20outlined = () => <SVGCommunicationMarkEmailRead_20_outlined />;
+export const IconCommunicationMarkEmailRead24outlined = () => <SVGCommunicationMarkEmailRead_24_outlined />;
+export const IconCommunicationMarkEmailRead20twotone = () => <SVGCommunicationMarkEmailRead_20_twotone />;
+export const IconCommunicationMarkEmailRead24twotone = () => <SVGCommunicationMarkEmailRead_24_twotone />;
+export const IconCommunicationMarkEmailRead20sharp = () => <SVGCommunicationMarkEmailRead_20_sharp />;
+export const IconCommunicationMarkEmailRead24sharp = () => <SVGCommunicationMarkEmailRead_24_sharp />;
+export const IconCommunicationMarkEmailRead20filled = () => <SVGCommunicationMarkEmailRead_20_filled />;
+export const IconCommunicationMarkEmailRead24filled = () => <SVGCommunicationMarkEmailRead_24_filled />;
+export const IconCommunicationMarkEmailRead20round = () => <SVGCommunicationMarkEmailRead_20_round />;
+export const IconCommunicationMarkEmailRead24round = () => <SVGCommunicationMarkEmailRead_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceBattery2Bar_20_outlined from '../../svg/device/DeviceBattery2Bar/20_outlined.svg';
+import SVGDeviceBattery2Bar_24_outlined from '../../svg/device/DeviceBattery2Bar/24_outlined.svg';
+import SVGDeviceBattery2Bar_20_twotone from '../../svg/device/DeviceBattery2Bar/20_twotone.svg';
+import SVGDeviceBattery2Bar_24_twotone from '../../svg/device/DeviceBattery2Bar/24_twotone.svg';
+import SVGDeviceBattery2Bar_20_sharp from '../../svg/device/DeviceBattery2Bar/20_sharp.svg';
+import SVGDeviceBattery2Bar_24_sharp from '../../svg/device/DeviceBattery2Bar/24_sharp.svg';
+import SVGDeviceBattery2Bar_20_filled from '../../svg/device/DeviceBattery2Bar/20_filled.svg';
+import SVGDeviceBattery2Bar_24_filled from '../../svg/device/DeviceBattery2Bar/24_filled.svg';
+import SVGDeviceBattery2Bar_20_round from '../../svg/device/DeviceBattery2Bar/20_round.svg';
+import SVGDeviceBattery2Bar_24_round from '../../svg/device/DeviceBattery2Bar/24_round.svg';
+
+export const IconDeviceBattery2Bar20outlined = () => <SVGDeviceBattery2Bar_20_outlined />;
+export const IconDeviceBattery2Bar24outlined = () => <SVGDeviceBattery2Bar_24_outlined />;
+export const IconDeviceBattery2Bar20twotone = () => <SVGDeviceBattery2Bar_20_twotone />;
+export const IconDeviceBattery2Bar24twotone = () => <SVGDeviceBattery2Bar_24_twotone />;
+export const IconDeviceBattery2Bar20sharp = () => <SVGDeviceBattery2Bar_20_sharp />;
+export const IconDeviceBattery2Bar24sharp = () => <SVGDeviceBattery2Bar_24_sharp />;
+export const IconDeviceBattery2Bar20filled = () => <SVGDeviceBattery2Bar_20_filled />;
+export const IconDeviceBattery2Bar24filled = () => <SVGDeviceBattery2Bar_24_filled />;
+export const IconDeviceBattery2Bar20round = () => <SVGDeviceBattery2Bar_20_round />;
+export const IconDeviceBattery2Bar24round = () => <SVGDeviceBattery2Bar_24_round />;

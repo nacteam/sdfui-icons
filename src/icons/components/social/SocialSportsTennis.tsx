@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsTennis_20_outlined from '../../svg/social/SocialSportsTennis/20_outlined.svg';
+import SVGSocialSportsTennis_24_outlined from '../../svg/social/SocialSportsTennis/24_outlined.svg';
+import SVGSocialSportsTennis_20_twotone from '../../svg/social/SocialSportsTennis/20_twotone.svg';
+import SVGSocialSportsTennis_24_twotone from '../../svg/social/SocialSportsTennis/24_twotone.svg';
+import SVGSocialSportsTennis_20_sharp from '../../svg/social/SocialSportsTennis/20_sharp.svg';
+import SVGSocialSportsTennis_24_sharp from '../../svg/social/SocialSportsTennis/24_sharp.svg';
+import SVGSocialSportsTennis_20_filled from '../../svg/social/SocialSportsTennis/20_filled.svg';
+import SVGSocialSportsTennis_24_filled from '../../svg/social/SocialSportsTennis/24_filled.svg';
+import SVGSocialSportsTennis_20_round from '../../svg/social/SocialSportsTennis/20_round.svg';
+import SVGSocialSportsTennis_24_round from '../../svg/social/SocialSportsTennis/24_round.svg';
+
+export const IconSocialSportsTennis20outlined = () => <SVGSocialSportsTennis_20_outlined />;
+export const IconSocialSportsTennis24outlined = () => <SVGSocialSportsTennis_24_outlined />;
+export const IconSocialSportsTennis20twotone = () => <SVGSocialSportsTennis_20_twotone />;
+export const IconSocialSportsTennis24twotone = () => <SVGSocialSportsTennis_24_twotone />;
+export const IconSocialSportsTennis20sharp = () => <SVGSocialSportsTennis_20_sharp />;
+export const IconSocialSportsTennis24sharp = () => <SVGSocialSportsTennis_24_sharp />;
+export const IconSocialSportsTennis20filled = () => <SVGSocialSportsTennis_20_filled />;
+export const IconSocialSportsTennis24filled = () => <SVGSocialSportsTennis_24_filled />;
+export const IconSocialSportsTennis20round = () => <SVGSocialSportsTennis_20_round />;
+export const IconSocialSportsTennis24round = () => <SVGSocialSportsTennis_24_round />;

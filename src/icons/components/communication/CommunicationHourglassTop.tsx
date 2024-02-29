@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationHourglassTop_20_outlined from '../../svg/communication/CommunicationHourglassTop/20_outlined.svg';
+import SVGCommunicationHourglassTop_24_outlined from '../../svg/communication/CommunicationHourglassTop/24_outlined.svg';
+import SVGCommunicationHourglassTop_20_twotone from '../../svg/communication/CommunicationHourglassTop/20_twotone.svg';
+import SVGCommunicationHourglassTop_24_twotone from '../../svg/communication/CommunicationHourglassTop/24_twotone.svg';
+import SVGCommunicationHourglassTop_20_sharp from '../../svg/communication/CommunicationHourglassTop/20_sharp.svg';
+import SVGCommunicationHourglassTop_24_sharp from '../../svg/communication/CommunicationHourglassTop/24_sharp.svg';
+import SVGCommunicationHourglassTop_20_filled from '../../svg/communication/CommunicationHourglassTop/20_filled.svg';
+import SVGCommunicationHourglassTop_24_filled from '../../svg/communication/CommunicationHourglassTop/24_filled.svg';
+import SVGCommunicationHourglassTop_20_round from '../../svg/communication/CommunicationHourglassTop/20_round.svg';
+import SVGCommunicationHourglassTop_24_round from '../../svg/communication/CommunicationHourglassTop/24_round.svg';
+
+export const IconCommunicationHourglassTop20outlined = () => <SVGCommunicationHourglassTop_20_outlined />;
+export const IconCommunicationHourglassTop24outlined = () => <SVGCommunicationHourglassTop_24_outlined />;
+export const IconCommunicationHourglassTop20twotone = () => <SVGCommunicationHourglassTop_20_twotone />;
+export const IconCommunicationHourglassTop24twotone = () => <SVGCommunicationHourglassTop_24_twotone />;
+export const IconCommunicationHourglassTop20sharp = () => <SVGCommunicationHourglassTop_20_sharp />;
+export const IconCommunicationHourglassTop24sharp = () => <SVGCommunicationHourglassTop_24_sharp />;
+export const IconCommunicationHourglassTop20filled = () => <SVGCommunicationHourglassTop_20_filled />;
+export const IconCommunicationHourglassTop24filled = () => <SVGCommunicationHourglassTop_24_filled />;
+export const IconCommunicationHourglassTop20round = () => <SVGCommunicationHourglassTop_20_round />;
+export const IconCommunicationHourglassTop24round = () => <SVGCommunicationHourglassTop_24_round />;

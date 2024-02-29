@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationInvertColorsOff_20_outlined from '../../svg/communication/CommunicationInvertColorsOff/20_outlined.svg';
+import SVGCommunicationInvertColorsOff_24_outlined from '../../svg/communication/CommunicationInvertColorsOff/24_outlined.svg';
+import SVGCommunicationInvertColorsOff_20_twotone from '../../svg/communication/CommunicationInvertColorsOff/20_twotone.svg';
+import SVGCommunicationInvertColorsOff_24_twotone from '../../svg/communication/CommunicationInvertColorsOff/24_twotone.svg';
+import SVGCommunicationInvertColorsOff_20_sharp from '../../svg/communication/CommunicationInvertColorsOff/20_sharp.svg';
+import SVGCommunicationInvertColorsOff_24_sharp from '../../svg/communication/CommunicationInvertColorsOff/24_sharp.svg';
+import SVGCommunicationInvertColorsOff_20_filled from '../../svg/communication/CommunicationInvertColorsOff/20_filled.svg';
+import SVGCommunicationInvertColorsOff_24_filled from '../../svg/communication/CommunicationInvertColorsOff/24_filled.svg';
+import SVGCommunicationInvertColorsOff_20_round from '../../svg/communication/CommunicationInvertColorsOff/20_round.svg';
+import SVGCommunicationInvertColorsOff_24_round from '../../svg/communication/CommunicationInvertColorsOff/24_round.svg';
+
+export const IconCommunicationInvertColorsOff20outlined = () => <SVGCommunicationInvertColorsOff_20_outlined />;
+export const IconCommunicationInvertColorsOff24outlined = () => <SVGCommunicationInvertColorsOff_24_outlined />;
+export const IconCommunicationInvertColorsOff20twotone = () => <SVGCommunicationInvertColorsOff_20_twotone />;
+export const IconCommunicationInvertColorsOff24twotone = () => <SVGCommunicationInvertColorsOff_24_twotone />;
+export const IconCommunicationInvertColorsOff20sharp = () => <SVGCommunicationInvertColorsOff_20_sharp />;
+export const IconCommunicationInvertColorsOff24sharp = () => <SVGCommunicationInvertColorsOff_24_sharp />;
+export const IconCommunicationInvertColorsOff20filled = () => <SVGCommunicationInvertColorsOff_20_filled />;
+export const IconCommunicationInvertColorsOff24filled = () => <SVGCommunicationInvertColorsOff_24_filled />;
+export const IconCommunicationInvertColorsOff20round = () => <SVGCommunicationInvertColorsOff_20_round />;
+export const IconCommunicationInvertColorsOff24round = () => <SVGCommunicationInvertColorsOff_24_round />;

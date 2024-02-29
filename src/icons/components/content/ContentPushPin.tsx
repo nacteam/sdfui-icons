@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentPushPin_20_outlined from '../../svg/content/ContentPushPin/20_outlined.svg';
+import SVGContentPushPin_24_outlined from '../../svg/content/ContentPushPin/24_outlined.svg';
+import SVGContentPushPin_20_twotone from '../../svg/content/ContentPushPin/20_twotone.svg';
+import SVGContentPushPin_24_twotone from '../../svg/content/ContentPushPin/24_twotone.svg';
+import SVGContentPushPin_20_sharp from '../../svg/content/ContentPushPin/20_sharp.svg';
+import SVGContentPushPin_24_sharp from '../../svg/content/ContentPushPin/24_sharp.svg';
+import SVGContentPushPin_20_filled from '../../svg/content/ContentPushPin/20_filled.svg';
+import SVGContentPushPin_24_filled from '../../svg/content/ContentPushPin/24_filled.svg';
+import SVGContentPushPin_20_round from '../../svg/content/ContentPushPin/20_round.svg';
+import SVGContentPushPin_24_round from '../../svg/content/ContentPushPin/24_round.svg';
+
+export const IconContentPushPin20outlined = () => <SVGContentPushPin_20_outlined />;
+export const IconContentPushPin24outlined = () => <SVGContentPushPin_24_outlined />;
+export const IconContentPushPin20twotone = () => <SVGContentPushPin_20_twotone />;
+export const IconContentPushPin24twotone = () => <SVGContentPushPin_24_twotone />;
+export const IconContentPushPin20sharp = () => <SVGContentPushPin_20_sharp />;
+export const IconContentPushPin24sharp = () => <SVGContentPushPin_24_sharp />;
+export const IconContentPushPin20filled = () => <SVGContentPushPin_20_filled />;
+export const IconContentPushPin24filled = () => <SVGContentPushPin_24_filled />;
+export const IconContentPushPin20round = () => <SVGContentPushPin_20_round />;
+export const IconContentPushPin24round = () => <SVGContentPushPin_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentSaveAs_20_outlined from '../../svg/content/ContentSaveAs/20_outlined.svg';
+import SVGContentSaveAs_24_outlined from '../../svg/content/ContentSaveAs/24_outlined.svg';
+import SVGContentSaveAs_20_twotone from '../../svg/content/ContentSaveAs/20_twotone.svg';
+import SVGContentSaveAs_24_twotone from '../../svg/content/ContentSaveAs/24_twotone.svg';
+import SVGContentSaveAs_20_sharp from '../../svg/content/ContentSaveAs/20_sharp.svg';
+import SVGContentSaveAs_24_sharp from '../../svg/content/ContentSaveAs/24_sharp.svg';
+import SVGContentSaveAs_20_filled from '../../svg/content/ContentSaveAs/20_filled.svg';
+import SVGContentSaveAs_24_filled from '../../svg/content/ContentSaveAs/24_filled.svg';
+import SVGContentSaveAs_20_round from '../../svg/content/ContentSaveAs/20_round.svg';
+import SVGContentSaveAs_24_round from '../../svg/content/ContentSaveAs/24_round.svg';
+
+export const IconContentSaveAs20outlined = () => <SVGContentSaveAs_20_outlined />;
+export const IconContentSaveAs24outlined = () => <SVGContentSaveAs_24_outlined />;
+export const IconContentSaveAs20twotone = () => <SVGContentSaveAs_20_twotone />;
+export const IconContentSaveAs24twotone = () => <SVGContentSaveAs_24_twotone />;
+export const IconContentSaveAs20sharp = () => <SVGContentSaveAs_20_sharp />;
+export const IconContentSaveAs24sharp = () => <SVGContentSaveAs_24_sharp />;
+export const IconContentSaveAs20filled = () => <SVGContentSaveAs_20_filled />;
+export const IconContentSaveAs24filled = () => <SVGContentSaveAs_24_filled />;
+export const IconContentSaveAs20round = () => <SVGContentSaveAs_20_round />;
+export const IconContentSaveAs24round = () => <SVGContentSaveAs_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsCarRepair_20_outlined from '../../svg/maps/MapsCarRepair/20_outlined.svg';
+import SVGMapsCarRepair_24_outlined from '../../svg/maps/MapsCarRepair/24_outlined.svg';
+import SVGMapsCarRepair_20_twotone from '../../svg/maps/MapsCarRepair/20_twotone.svg';
+import SVGMapsCarRepair_24_twotone from '../../svg/maps/MapsCarRepair/24_twotone.svg';
+import SVGMapsCarRepair_20_sharp from '../../svg/maps/MapsCarRepair/20_sharp.svg';
+import SVGMapsCarRepair_24_sharp from '../../svg/maps/MapsCarRepair/24_sharp.svg';
+import SVGMapsCarRepair_20_filled from '../../svg/maps/MapsCarRepair/20_filled.svg';
+import SVGMapsCarRepair_24_filled from '../../svg/maps/MapsCarRepair/24_filled.svg';
+import SVGMapsCarRepair_20_round from '../../svg/maps/MapsCarRepair/20_round.svg';
+import SVGMapsCarRepair_24_round from '../../svg/maps/MapsCarRepair/24_round.svg';
+
+export const IconMapsCarRepair20outlined = () => <SVGMapsCarRepair_20_outlined />;
+export const IconMapsCarRepair24outlined = () => <SVGMapsCarRepair_24_outlined />;
+export const IconMapsCarRepair20twotone = () => <SVGMapsCarRepair_20_twotone />;
+export const IconMapsCarRepair24twotone = () => <SVGMapsCarRepair_24_twotone />;
+export const IconMapsCarRepair20sharp = () => <SVGMapsCarRepair_20_sharp />;
+export const IconMapsCarRepair24sharp = () => <SVGMapsCarRepair_24_sharp />;
+export const IconMapsCarRepair20filled = () => <SVGMapsCarRepair_20_filled />;
+export const IconMapsCarRepair24filled = () => <SVGMapsCarRepair_24_filled />;
+export const IconMapsCarRepair20round = () => <SVGMapsCarRepair_20_round />;
+export const IconMapsCarRepair24round = () => <SVGMapsCarRepair_24_round />;

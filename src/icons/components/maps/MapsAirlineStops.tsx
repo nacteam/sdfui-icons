@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsAirlineStops_20_outlined from '../../svg/maps/MapsAirlineStops/20_outlined.svg';
+import SVGMapsAirlineStops_24_outlined from '../../svg/maps/MapsAirlineStops/24_outlined.svg';
+import SVGMapsAirlineStops_20_twotone from '../../svg/maps/MapsAirlineStops/20_twotone.svg';
+import SVGMapsAirlineStops_24_twotone from '../../svg/maps/MapsAirlineStops/24_twotone.svg';
+import SVGMapsAirlineStops_20_sharp from '../../svg/maps/MapsAirlineStops/20_sharp.svg';
+import SVGMapsAirlineStops_24_sharp from '../../svg/maps/MapsAirlineStops/24_sharp.svg';
+import SVGMapsAirlineStops_20_filled from '../../svg/maps/MapsAirlineStops/20_filled.svg';
+import SVGMapsAirlineStops_24_filled from '../../svg/maps/MapsAirlineStops/24_filled.svg';
+import SVGMapsAirlineStops_20_round from '../../svg/maps/MapsAirlineStops/20_round.svg';
+import SVGMapsAirlineStops_24_round from '../../svg/maps/MapsAirlineStops/24_round.svg';
+
+export const IconMapsAirlineStops20outlined = () => <SVGMapsAirlineStops_20_outlined />;
+export const IconMapsAirlineStops24outlined = () => <SVGMapsAirlineStops_24_outlined />;
+export const IconMapsAirlineStops20twotone = () => <SVGMapsAirlineStops_20_twotone />;
+export const IconMapsAirlineStops24twotone = () => <SVGMapsAirlineStops_24_twotone />;
+export const IconMapsAirlineStops20sharp = () => <SVGMapsAirlineStops_20_sharp />;
+export const IconMapsAirlineStops24sharp = () => <SVGMapsAirlineStops_24_sharp />;
+export const IconMapsAirlineStops20filled = () => <SVGMapsAirlineStops_20_filled />;
+export const IconMapsAirlineStops24filled = () => <SVGMapsAirlineStops_24_filled />;
+export const IconMapsAirlineStops20round = () => <SVGMapsAirlineStops_20_round />;
+export const IconMapsAirlineStops24round = () => <SVGMapsAirlineStops_24_round />;

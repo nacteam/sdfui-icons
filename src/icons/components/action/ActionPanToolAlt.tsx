@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPanToolAlt_20_outlined from '../../svg/action/ActionPanToolAlt/20_outlined.svg';
+import SVGActionPanToolAlt_24_outlined from '../../svg/action/ActionPanToolAlt/24_outlined.svg';
+import SVGActionPanToolAlt_20_twotone from '../../svg/action/ActionPanToolAlt/20_twotone.svg';
+import SVGActionPanToolAlt_24_twotone from '../../svg/action/ActionPanToolAlt/24_twotone.svg';
+import SVGActionPanToolAlt_20_sharp from '../../svg/action/ActionPanToolAlt/20_sharp.svg';
+import SVGActionPanToolAlt_24_sharp from '../../svg/action/ActionPanToolAlt/24_sharp.svg';
+import SVGActionPanToolAlt_20_filled from '../../svg/action/ActionPanToolAlt/20_filled.svg';
+import SVGActionPanToolAlt_24_filled from '../../svg/action/ActionPanToolAlt/24_filled.svg';
+import SVGActionPanToolAlt_20_round from '../../svg/action/ActionPanToolAlt/20_round.svg';
+import SVGActionPanToolAlt_24_round from '../../svg/action/ActionPanToolAlt/24_round.svg';
+
+export const IconActionPanToolAlt20outlined = () => <SVGActionPanToolAlt_20_outlined />;
+export const IconActionPanToolAlt24outlined = () => <SVGActionPanToolAlt_24_outlined />;
+export const IconActionPanToolAlt20twotone = () => <SVGActionPanToolAlt_20_twotone />;
+export const IconActionPanToolAlt24twotone = () => <SVGActionPanToolAlt_24_twotone />;
+export const IconActionPanToolAlt20sharp = () => <SVGActionPanToolAlt_20_sharp />;
+export const IconActionPanToolAlt24sharp = () => <SVGActionPanToolAlt_24_sharp />;
+export const IconActionPanToolAlt20filled = () => <SVGActionPanToolAlt_20_filled />;
+export const IconActionPanToolAlt24filled = () => <SVGActionPanToolAlt_24_filled />;
+export const IconActionPanToolAlt20round = () => <SVGActionPanToolAlt_20_round />;
+export const IconActionPanToolAlt24round = () => <SVGActionPanToolAlt_24_round />;

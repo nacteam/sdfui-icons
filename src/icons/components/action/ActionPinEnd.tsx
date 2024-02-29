@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPinEnd_20_outlined from '../../svg/action/ActionPinEnd/20_outlined.svg';
+import SVGActionPinEnd_24_outlined from '../../svg/action/ActionPinEnd/24_outlined.svg';
+import SVGActionPinEnd_20_twotone from '../../svg/action/ActionPinEnd/20_twotone.svg';
+import SVGActionPinEnd_24_twotone from '../../svg/action/ActionPinEnd/24_twotone.svg';
+import SVGActionPinEnd_20_sharp from '../../svg/action/ActionPinEnd/20_sharp.svg';
+import SVGActionPinEnd_24_sharp from '../../svg/action/ActionPinEnd/24_sharp.svg';
+import SVGActionPinEnd_20_filled from '../../svg/action/ActionPinEnd/20_filled.svg';
+import SVGActionPinEnd_24_filled from '../../svg/action/ActionPinEnd/24_filled.svg';
+import SVGActionPinEnd_20_round from '../../svg/action/ActionPinEnd/20_round.svg';
+import SVGActionPinEnd_24_round from '../../svg/action/ActionPinEnd/24_round.svg';
+
+export const IconActionPinEnd20outlined = () => <SVGActionPinEnd_20_outlined />;
+export const IconActionPinEnd24outlined = () => <SVGActionPinEnd_24_outlined />;
+export const IconActionPinEnd20twotone = () => <SVGActionPinEnd_20_twotone />;
+export const IconActionPinEnd24twotone = () => <SVGActionPinEnd_24_twotone />;
+export const IconActionPinEnd20sharp = () => <SVGActionPinEnd_20_sharp />;
+export const IconActionPinEnd24sharp = () => <SVGActionPinEnd_24_sharp />;
+export const IconActionPinEnd20filled = () => <SVGActionPinEnd_20_filled />;
+export const IconActionPinEnd24filled = () => <SVGActionPinEnd_24_filled />;
+export const IconActionPinEnd20round = () => <SVGActionPinEnd_20_round />;
+export const IconActionPinEnd24round = () => <SVGActionPinEnd_24_round />;

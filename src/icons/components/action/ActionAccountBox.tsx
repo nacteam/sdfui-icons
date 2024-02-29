@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAccountBox_20_outlined from '../../svg/action/ActionAccountBox/20_outlined.svg';
+import SVGActionAccountBox_24_outlined from '../../svg/action/ActionAccountBox/24_outlined.svg';
+import SVGActionAccountBox_20_twotone from '../../svg/action/ActionAccountBox/20_twotone.svg';
+import SVGActionAccountBox_24_twotone from '../../svg/action/ActionAccountBox/24_twotone.svg';
+import SVGActionAccountBox_20_sharp from '../../svg/action/ActionAccountBox/20_sharp.svg';
+import SVGActionAccountBox_24_sharp from '../../svg/action/ActionAccountBox/24_sharp.svg';
+import SVGActionAccountBox_20_filled from '../../svg/action/ActionAccountBox/20_filled.svg';
+import SVGActionAccountBox_24_filled from '../../svg/action/ActionAccountBox/24_filled.svg';
+import SVGActionAccountBox_20_round from '../../svg/action/ActionAccountBox/20_round.svg';
+import SVGActionAccountBox_24_round from '../../svg/action/ActionAccountBox/24_round.svg';
+
+export const IconActionAccountBox20outlined = () => <SVGActionAccountBox_20_outlined />;
+export const IconActionAccountBox24outlined = () => <SVGActionAccountBox_24_outlined />;
+export const IconActionAccountBox20twotone = () => <SVGActionAccountBox_20_twotone />;
+export const IconActionAccountBox24twotone = () => <SVGActionAccountBox_24_twotone />;
+export const IconActionAccountBox20sharp = () => <SVGActionAccountBox_20_sharp />;
+export const IconActionAccountBox24sharp = () => <SVGActionAccountBox_24_sharp />;
+export const IconActionAccountBox20filled = () => <SVGActionAccountBox_20_filled />;
+export const IconActionAccountBox24filled = () => <SVGActionAccountBox_24_filled />;
+export const IconActionAccountBox20round = () => <SVGActionAccountBox_20_round />;
+export const IconActionAccountBox24round = () => <SVGActionAccountBox_24_round />;

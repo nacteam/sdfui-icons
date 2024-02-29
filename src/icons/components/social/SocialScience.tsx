@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialScience_20_outlined from '../../svg/social/SocialScience/20_outlined.svg';
+import SVGSocialScience_24_outlined from '../../svg/social/SocialScience/24_outlined.svg';
+import SVGSocialScience_20_twotone from '../../svg/social/SocialScience/20_twotone.svg';
+import SVGSocialScience_24_twotone from '../../svg/social/SocialScience/24_twotone.svg';
+import SVGSocialScience_20_sharp from '../../svg/social/SocialScience/20_sharp.svg';
+import SVGSocialScience_24_sharp from '../../svg/social/SocialScience/24_sharp.svg';
+import SVGSocialScience_20_filled from '../../svg/social/SocialScience/20_filled.svg';
+import SVGSocialScience_24_filled from '../../svg/social/SocialScience/24_filled.svg';
+import SVGSocialScience_20_round from '../../svg/social/SocialScience/20_round.svg';
+import SVGSocialScience_24_round from '../../svg/social/SocialScience/24_round.svg';
+
+export const IconSocialScience20outlined = () => <SVGSocialScience_20_outlined />;
+export const IconSocialScience24outlined = () => <SVGSocialScience_24_outlined />;
+export const IconSocialScience20twotone = () => <SVGSocialScience_20_twotone />;
+export const IconSocialScience24twotone = () => <SVGSocialScience_24_twotone />;
+export const IconSocialScience20sharp = () => <SVGSocialScience_20_sharp />;
+export const IconSocialScience24sharp = () => <SVGSocialScience_24_sharp />;
+export const IconSocialScience20filled = () => <SVGSocialScience_20_filled />;
+export const IconSocialScience24filled = () => <SVGSocialScience_24_filled />;
+export const IconSocialScience20round = () => <SVGSocialScience_20_round />;
+export const IconSocialScience24round = () => <SVGSocialScience_24_round />;

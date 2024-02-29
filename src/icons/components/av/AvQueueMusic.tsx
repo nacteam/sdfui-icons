@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvQueueMusic_20_outlined from '../../svg/av/AvQueueMusic/20_outlined.svg';
+import SVGAvQueueMusic_24_outlined from '../../svg/av/AvQueueMusic/24_outlined.svg';
+import SVGAvQueueMusic_20_twotone from '../../svg/av/AvQueueMusic/20_twotone.svg';
+import SVGAvQueueMusic_24_twotone from '../../svg/av/AvQueueMusic/24_twotone.svg';
+import SVGAvQueueMusic_20_sharp from '../../svg/av/AvQueueMusic/20_sharp.svg';
+import SVGAvQueueMusic_24_sharp from '../../svg/av/AvQueueMusic/24_sharp.svg';
+import SVGAvQueueMusic_20_filled from '../../svg/av/AvQueueMusic/20_filled.svg';
+import SVGAvQueueMusic_24_filled from '../../svg/av/AvQueueMusic/24_filled.svg';
+import SVGAvQueueMusic_20_round from '../../svg/av/AvQueueMusic/20_round.svg';
+import SVGAvQueueMusic_24_round from '../../svg/av/AvQueueMusic/24_round.svg';
+
+export const IconAvQueueMusic20outlined = () => <SVGAvQueueMusic_20_outlined />;
+export const IconAvQueueMusic24outlined = () => <SVGAvQueueMusic_24_outlined />;
+export const IconAvQueueMusic20twotone = () => <SVGAvQueueMusic_20_twotone />;
+export const IconAvQueueMusic24twotone = () => <SVGAvQueueMusic_24_twotone />;
+export const IconAvQueueMusic20sharp = () => <SVGAvQueueMusic_20_sharp />;
+export const IconAvQueueMusic24sharp = () => <SVGAvQueueMusic_24_sharp />;
+export const IconAvQueueMusic20filled = () => <SVGAvQueueMusic_20_filled />;
+export const IconAvQueueMusic24filled = () => <SVGAvQueueMusic_24_filled />;
+export const IconAvQueueMusic20round = () => <SVGAvQueueMusic_20_round />;
+export const IconAvQueueMusic24round = () => <SVGAvQueueMusic_24_round />;

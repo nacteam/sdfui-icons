@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareDeveloperBoardOff_20_outlined from '../../svg/hardware/HardwareDeveloperBoardOff/20_outlined.svg';
+import SVGHardwareDeveloperBoardOff_24_outlined from '../../svg/hardware/HardwareDeveloperBoardOff/24_outlined.svg';
+import SVGHardwareDeveloperBoardOff_20_twotone from '../../svg/hardware/HardwareDeveloperBoardOff/20_twotone.svg';
+import SVGHardwareDeveloperBoardOff_24_twotone from '../../svg/hardware/HardwareDeveloperBoardOff/24_twotone.svg';
+import SVGHardwareDeveloperBoardOff_20_sharp from '../../svg/hardware/HardwareDeveloperBoardOff/20_sharp.svg';
+import SVGHardwareDeveloperBoardOff_24_sharp from '../../svg/hardware/HardwareDeveloperBoardOff/24_sharp.svg';
+import SVGHardwareDeveloperBoardOff_20_filled from '../../svg/hardware/HardwareDeveloperBoardOff/20_filled.svg';
+import SVGHardwareDeveloperBoardOff_24_filled from '../../svg/hardware/HardwareDeveloperBoardOff/24_filled.svg';
+import SVGHardwareDeveloperBoardOff_20_round from '../../svg/hardware/HardwareDeveloperBoardOff/20_round.svg';
+import SVGHardwareDeveloperBoardOff_24_round from '../../svg/hardware/HardwareDeveloperBoardOff/24_round.svg';
+
+export const IconHardwareDeveloperBoardOff20outlined = () => <SVGHardwareDeveloperBoardOff_20_outlined />;
+export const IconHardwareDeveloperBoardOff24outlined = () => <SVGHardwareDeveloperBoardOff_24_outlined />;
+export const IconHardwareDeveloperBoardOff20twotone = () => <SVGHardwareDeveloperBoardOff_20_twotone />;
+export const IconHardwareDeveloperBoardOff24twotone = () => <SVGHardwareDeveloperBoardOff_24_twotone />;
+export const IconHardwareDeveloperBoardOff20sharp = () => <SVGHardwareDeveloperBoardOff_20_sharp />;
+export const IconHardwareDeveloperBoardOff24sharp = () => <SVGHardwareDeveloperBoardOff_24_sharp />;
+export const IconHardwareDeveloperBoardOff20filled = () => <SVGHardwareDeveloperBoardOff_20_filled />;
+export const IconHardwareDeveloperBoardOff24filled = () => <SVGHardwareDeveloperBoardOff_24_filled />;
+export const IconHardwareDeveloperBoardOff20round = () => <SVGHardwareDeveloperBoardOff_20_round />;
+export const IconHardwareDeveloperBoardOff24round = () => <SVGHardwareDeveloperBoardOff_24_round />;

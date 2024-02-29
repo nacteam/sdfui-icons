@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvPlaylistAddCheckCircle_20_outlined from '../../svg/av/AvPlaylistAddCheckCircle/20_outlined.svg';
+import SVGAvPlaylistAddCheckCircle_24_outlined from '../../svg/av/AvPlaylistAddCheckCircle/24_outlined.svg';
+import SVGAvPlaylistAddCheckCircle_20_twotone from '../../svg/av/AvPlaylistAddCheckCircle/20_twotone.svg';
+import SVGAvPlaylistAddCheckCircle_24_twotone from '../../svg/av/AvPlaylistAddCheckCircle/24_twotone.svg';
+import SVGAvPlaylistAddCheckCircle_20_sharp from '../../svg/av/AvPlaylistAddCheckCircle/20_sharp.svg';
+import SVGAvPlaylistAddCheckCircle_24_sharp from '../../svg/av/AvPlaylistAddCheckCircle/24_sharp.svg';
+import SVGAvPlaylistAddCheckCircle_20_filled from '../../svg/av/AvPlaylistAddCheckCircle/20_filled.svg';
+import SVGAvPlaylistAddCheckCircle_24_filled from '../../svg/av/AvPlaylistAddCheckCircle/24_filled.svg';
+import SVGAvPlaylistAddCheckCircle_20_round from '../../svg/av/AvPlaylistAddCheckCircle/20_round.svg';
+import SVGAvPlaylistAddCheckCircle_24_round from '../../svg/av/AvPlaylistAddCheckCircle/24_round.svg';
+
+export const IconAvPlaylistAddCheckCircle20outlined = () => <SVGAvPlaylistAddCheckCircle_20_outlined />;
+export const IconAvPlaylistAddCheckCircle24outlined = () => <SVGAvPlaylistAddCheckCircle_24_outlined />;
+export const IconAvPlaylistAddCheckCircle20twotone = () => <SVGAvPlaylistAddCheckCircle_20_twotone />;
+export const IconAvPlaylistAddCheckCircle24twotone = () => <SVGAvPlaylistAddCheckCircle_24_twotone />;
+export const IconAvPlaylistAddCheckCircle20sharp = () => <SVGAvPlaylistAddCheckCircle_20_sharp />;
+export const IconAvPlaylistAddCheckCircle24sharp = () => <SVGAvPlaylistAddCheckCircle_24_sharp />;
+export const IconAvPlaylistAddCheckCircle20filled = () => <SVGAvPlaylistAddCheckCircle_20_filled />;
+export const IconAvPlaylistAddCheckCircle24filled = () => <SVGAvPlaylistAddCheckCircle_24_filled />;
+export const IconAvPlaylistAddCheckCircle20round = () => <SVGAvPlaylistAddCheckCircle_20_round />;
+export const IconAvPlaylistAddCheckCircle24round = () => <SVGAvPlaylistAddCheckCircle_24_round />;

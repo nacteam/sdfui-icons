@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPrivateConnectivity_20_outlined from '../../svg/action/ActionPrivateConnectivity/20_outlined.svg';
+import SVGActionPrivateConnectivity_24_outlined from '../../svg/action/ActionPrivateConnectivity/24_outlined.svg';
+import SVGActionPrivateConnectivity_20_twotone from '../../svg/action/ActionPrivateConnectivity/20_twotone.svg';
+import SVGActionPrivateConnectivity_24_twotone from '../../svg/action/ActionPrivateConnectivity/24_twotone.svg';
+import SVGActionPrivateConnectivity_20_sharp from '../../svg/action/ActionPrivateConnectivity/20_sharp.svg';
+import SVGActionPrivateConnectivity_24_sharp from '../../svg/action/ActionPrivateConnectivity/24_sharp.svg';
+import SVGActionPrivateConnectivity_20_filled from '../../svg/action/ActionPrivateConnectivity/20_filled.svg';
+import SVGActionPrivateConnectivity_24_filled from '../../svg/action/ActionPrivateConnectivity/24_filled.svg';
+import SVGActionPrivateConnectivity_20_round from '../../svg/action/ActionPrivateConnectivity/20_round.svg';
+import SVGActionPrivateConnectivity_24_round from '../../svg/action/ActionPrivateConnectivity/24_round.svg';
+
+export const IconActionPrivateConnectivity20outlined = () => <SVGActionPrivateConnectivity_20_outlined />;
+export const IconActionPrivateConnectivity24outlined = () => <SVGActionPrivateConnectivity_24_outlined />;
+export const IconActionPrivateConnectivity20twotone = () => <SVGActionPrivateConnectivity_20_twotone />;
+export const IconActionPrivateConnectivity24twotone = () => <SVGActionPrivateConnectivity_24_twotone />;
+export const IconActionPrivateConnectivity20sharp = () => <SVGActionPrivateConnectivity_20_sharp />;
+export const IconActionPrivateConnectivity24sharp = () => <SVGActionPrivateConnectivity_24_sharp />;
+export const IconActionPrivateConnectivity20filled = () => <SVGActionPrivateConnectivity_20_filled />;
+export const IconActionPrivateConnectivity24filled = () => <SVGActionPrivateConnectivity_24_filled />;
+export const IconActionPrivateConnectivity20round = () => <SVGActionPrivateConnectivity_20_round />;
+export const IconActionPrivateConnectivity24round = () => <SVGActionPrivateConnectivity_24_round />;

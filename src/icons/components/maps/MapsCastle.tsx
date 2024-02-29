@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsCastle_20_outlined from '../../svg/maps/MapsCastle/20_outlined.svg';
+import SVGMapsCastle_24_outlined from '../../svg/maps/MapsCastle/24_outlined.svg';
+import SVGMapsCastle_20_twotone from '../../svg/maps/MapsCastle/20_twotone.svg';
+import SVGMapsCastle_24_twotone from '../../svg/maps/MapsCastle/24_twotone.svg';
+import SVGMapsCastle_20_sharp from '../../svg/maps/MapsCastle/20_sharp.svg';
+import SVGMapsCastle_24_sharp from '../../svg/maps/MapsCastle/24_sharp.svg';
+import SVGMapsCastle_20_filled from '../../svg/maps/MapsCastle/20_filled.svg';
+import SVGMapsCastle_24_filled from '../../svg/maps/MapsCastle/24_filled.svg';
+import SVGMapsCastle_20_round from '../../svg/maps/MapsCastle/20_round.svg';
+import SVGMapsCastle_24_round from '../../svg/maps/MapsCastle/24_round.svg';
+
+export const IconMapsCastle20outlined = () => <SVGMapsCastle_20_outlined />;
+export const IconMapsCastle24outlined = () => <SVGMapsCastle_24_outlined />;
+export const IconMapsCastle20twotone = () => <SVGMapsCastle_20_twotone />;
+export const IconMapsCastle24twotone = () => <SVGMapsCastle_24_twotone />;
+export const IconMapsCastle20sharp = () => <SVGMapsCastle_20_sharp />;
+export const IconMapsCastle24sharp = () => <SVGMapsCastle_24_sharp />;
+export const IconMapsCastle20filled = () => <SVGMapsCastle_20_filled />;
+export const IconMapsCastle24filled = () => <SVGMapsCastle_24_filled />;
+export const IconMapsCastle20round = () => <SVGMapsCastle_20_round />;
+export const IconMapsCastle24round = () => <SVGMapsCastle_24_round />;

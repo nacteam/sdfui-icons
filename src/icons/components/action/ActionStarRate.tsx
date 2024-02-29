@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionStarRate_24_outlined from '../../svg/action/ActionStarRate/24_outlined.svg';
+import SVGActionStarRate_18_outlined from '../../svg/action/ActionStarRate/18_outlined.svg';
+import SVGActionStarRate_24_twotone from '../../svg/action/ActionStarRate/24_twotone.svg';
+import SVGActionStarRate_18_twotone from '../../svg/action/ActionStarRate/18_twotone.svg';
+import SVGActionStarRate_24_sharp from '../../svg/action/ActionStarRate/24_sharp.svg';
+import SVGActionStarRate_18_sharp from '../../svg/action/ActionStarRate/18_sharp.svg';
+import SVGActionStarRate_24_filled from '../../svg/action/ActionStarRate/24_filled.svg';
+import SVGActionStarRate_18_filled from '../../svg/action/ActionStarRate/18_filled.svg';
+import SVGActionStarRate_24_round from '../../svg/action/ActionStarRate/24_round.svg';
+import SVGActionStarRate_18_round from '../../svg/action/ActionStarRate/18_round.svg';
+
+export const IconActionStarRate24outlined = () => <SVGActionStarRate_24_outlined />;
+export const IconActionStarRate18outlined = () => <SVGActionStarRate_18_outlined />;
+export const IconActionStarRate24twotone = () => <SVGActionStarRate_24_twotone />;
+export const IconActionStarRate18twotone = () => <SVGActionStarRate_18_twotone />;
+export const IconActionStarRate24sharp = () => <SVGActionStarRate_24_sharp />;
+export const IconActionStarRate18sharp = () => <SVGActionStarRate_18_sharp />;
+export const IconActionStarRate24filled = () => <SVGActionStarRate_24_filled />;
+export const IconActionStarRate18filled = () => <SVGActionStarRate_18_filled />;
+export const IconActionStarRate24round = () => <SVGActionStarRate_24_round />;
+export const IconActionStarRate18round = () => <SVGActionStarRate_18_round />;

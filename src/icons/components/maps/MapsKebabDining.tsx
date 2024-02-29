@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsKebabDining_20_outlined from '../../svg/maps/MapsKebabDining/20_outlined.svg';
+import SVGMapsKebabDining_24_outlined from '../../svg/maps/MapsKebabDining/24_outlined.svg';
+import SVGMapsKebabDining_20_twotone from '../../svg/maps/MapsKebabDining/20_twotone.svg';
+import SVGMapsKebabDining_24_twotone from '../../svg/maps/MapsKebabDining/24_twotone.svg';
+import SVGMapsKebabDining_20_sharp from '../../svg/maps/MapsKebabDining/20_sharp.svg';
+import SVGMapsKebabDining_24_sharp from '../../svg/maps/MapsKebabDining/24_sharp.svg';
+import SVGMapsKebabDining_20_filled from '../../svg/maps/MapsKebabDining/20_filled.svg';
+import SVGMapsKebabDining_24_filled from '../../svg/maps/MapsKebabDining/24_filled.svg';
+import SVGMapsKebabDining_20_round from '../../svg/maps/MapsKebabDining/20_round.svg';
+import SVGMapsKebabDining_24_round from '../../svg/maps/MapsKebabDining/24_round.svg';
+
+export const IconMapsKebabDining20outlined = () => <SVGMapsKebabDining_20_outlined />;
+export const IconMapsKebabDining24outlined = () => <SVGMapsKebabDining_24_outlined />;
+export const IconMapsKebabDining20twotone = () => <SVGMapsKebabDining_20_twotone />;
+export const IconMapsKebabDining24twotone = () => <SVGMapsKebabDining_24_twotone />;
+export const IconMapsKebabDining20sharp = () => <SVGMapsKebabDining_20_sharp />;
+export const IconMapsKebabDining24sharp = () => <SVGMapsKebabDining_24_sharp />;
+export const IconMapsKebabDining20filled = () => <SVGMapsKebabDining_20_filled />;
+export const IconMapsKebabDining24filled = () => <SVGMapsKebabDining_24_filled />;
+export const IconMapsKebabDining20round = () => <SVGMapsKebabDining_20_round />;
+export const IconMapsKebabDining24round = () => <SVGMapsKebabDining_24_round />;

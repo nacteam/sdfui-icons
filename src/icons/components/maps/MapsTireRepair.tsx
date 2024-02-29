@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsTireRepair_20_outlined from '../../svg/maps/MapsTireRepair/20_outlined.svg';
+import SVGMapsTireRepair_24_outlined from '../../svg/maps/MapsTireRepair/24_outlined.svg';
+import SVGMapsTireRepair_20_twotone from '../../svg/maps/MapsTireRepair/20_twotone.svg';
+import SVGMapsTireRepair_24_twotone from '../../svg/maps/MapsTireRepair/24_twotone.svg';
+import SVGMapsTireRepair_20_sharp from '../../svg/maps/MapsTireRepair/20_sharp.svg';
+import SVGMapsTireRepair_24_sharp from '../../svg/maps/MapsTireRepair/24_sharp.svg';
+import SVGMapsTireRepair_20_filled from '../../svg/maps/MapsTireRepair/20_filled.svg';
+import SVGMapsTireRepair_24_filled from '../../svg/maps/MapsTireRepair/24_filled.svg';
+import SVGMapsTireRepair_20_round from '../../svg/maps/MapsTireRepair/20_round.svg';
+import SVGMapsTireRepair_24_round from '../../svg/maps/MapsTireRepair/24_round.svg';
+
+export const IconMapsTireRepair20outlined = () => <SVGMapsTireRepair_20_outlined />;
+export const IconMapsTireRepair24outlined = () => <SVGMapsTireRepair_24_outlined />;
+export const IconMapsTireRepair20twotone = () => <SVGMapsTireRepair_20_twotone />;
+export const IconMapsTireRepair24twotone = () => <SVGMapsTireRepair_24_twotone />;
+export const IconMapsTireRepair20sharp = () => <SVGMapsTireRepair_20_sharp />;
+export const IconMapsTireRepair24sharp = () => <SVGMapsTireRepair_24_sharp />;
+export const IconMapsTireRepair20filled = () => <SVGMapsTireRepair_20_filled />;
+export const IconMapsTireRepair24filled = () => <SVGMapsTireRepair_24_filled />;
+export const IconMapsTireRepair20round = () => <SVGMapsTireRepair_20_round />;
+export const IconMapsTireRepair24round = () => <SVGMapsTireRepair_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialGroupRemove_20_outlined from '../../svg/social/SocialGroupRemove/20_outlined.svg';
+import SVGSocialGroupRemove_24_outlined from '../../svg/social/SocialGroupRemove/24_outlined.svg';
+import SVGSocialGroupRemove_20_twotone from '../../svg/social/SocialGroupRemove/20_twotone.svg';
+import SVGSocialGroupRemove_24_twotone from '../../svg/social/SocialGroupRemove/24_twotone.svg';
+import SVGSocialGroupRemove_20_sharp from '../../svg/social/SocialGroupRemove/20_sharp.svg';
+import SVGSocialGroupRemove_24_sharp from '../../svg/social/SocialGroupRemove/24_sharp.svg';
+import SVGSocialGroupRemove_20_filled from '../../svg/social/SocialGroupRemove/20_filled.svg';
+import SVGSocialGroupRemove_24_filled from '../../svg/social/SocialGroupRemove/24_filled.svg';
+import SVGSocialGroupRemove_20_round from '../../svg/social/SocialGroupRemove/20_round.svg';
+import SVGSocialGroupRemove_24_round from '../../svg/social/SocialGroupRemove/24_round.svg';
+
+export const IconSocialGroupRemove20outlined = () => <SVGSocialGroupRemove_20_outlined />;
+export const IconSocialGroupRemove24outlined = () => <SVGSocialGroupRemove_24_outlined />;
+export const IconSocialGroupRemove20twotone = () => <SVGSocialGroupRemove_20_twotone />;
+export const IconSocialGroupRemove24twotone = () => <SVGSocialGroupRemove_24_twotone />;
+export const IconSocialGroupRemove20sharp = () => <SVGSocialGroupRemove_20_sharp />;
+export const IconSocialGroupRemove24sharp = () => <SVGSocialGroupRemove_24_sharp />;
+export const IconSocialGroupRemove20filled = () => <SVGSocialGroupRemove_20_filled />;
+export const IconSocialGroupRemove24filled = () => <SVGSocialGroupRemove_24_filled />;
+export const IconSocialGroupRemove20round = () => <SVGSocialGroupRemove_20_round />;
+export const IconSocialGroupRemove24round = () => <SVGSocialGroupRemove_24_round />;

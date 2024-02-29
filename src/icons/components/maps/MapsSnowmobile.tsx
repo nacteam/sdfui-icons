@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsSnowmobile_20_outlined from '../../svg/maps/MapsSnowmobile/20_outlined.svg';
+import SVGMapsSnowmobile_24_outlined from '../../svg/maps/MapsSnowmobile/24_outlined.svg';
+import SVGMapsSnowmobile_20_twotone from '../../svg/maps/MapsSnowmobile/20_twotone.svg';
+import SVGMapsSnowmobile_24_twotone from '../../svg/maps/MapsSnowmobile/24_twotone.svg';
+import SVGMapsSnowmobile_20_sharp from '../../svg/maps/MapsSnowmobile/20_sharp.svg';
+import SVGMapsSnowmobile_24_sharp from '../../svg/maps/MapsSnowmobile/24_sharp.svg';
+import SVGMapsSnowmobile_20_filled from '../../svg/maps/MapsSnowmobile/20_filled.svg';
+import SVGMapsSnowmobile_24_filled from '../../svg/maps/MapsSnowmobile/24_filled.svg';
+import SVGMapsSnowmobile_20_round from '../../svg/maps/MapsSnowmobile/20_round.svg';
+import SVGMapsSnowmobile_24_round from '../../svg/maps/MapsSnowmobile/24_round.svg';
+
+export const IconMapsSnowmobile20outlined = () => <SVGMapsSnowmobile_20_outlined />;
+export const IconMapsSnowmobile24outlined = () => <SVGMapsSnowmobile_24_outlined />;
+export const IconMapsSnowmobile20twotone = () => <SVGMapsSnowmobile_20_twotone />;
+export const IconMapsSnowmobile24twotone = () => <SVGMapsSnowmobile_24_twotone />;
+export const IconMapsSnowmobile20sharp = () => <SVGMapsSnowmobile_20_sharp />;
+export const IconMapsSnowmobile24sharp = () => <SVGMapsSnowmobile_24_sharp />;
+export const IconMapsSnowmobile20filled = () => <SVGMapsSnowmobile_20_filled />;
+export const IconMapsSnowmobile24filled = () => <SVGMapsSnowmobile_24_filled />;
+export const IconMapsSnowmobile20round = () => <SVGMapsSnowmobile_20_round />;
+export const IconMapsSnowmobile24round = () => <SVGMapsSnowmobile_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMoreTime_20_outlined from '../../svg/communication/CommunicationMoreTime/20_outlined.svg';
+import SVGCommunicationMoreTime_24_outlined from '../../svg/communication/CommunicationMoreTime/24_outlined.svg';
+import SVGCommunicationMoreTime_20_twotone from '../../svg/communication/CommunicationMoreTime/20_twotone.svg';
+import SVGCommunicationMoreTime_24_twotone from '../../svg/communication/CommunicationMoreTime/24_twotone.svg';
+import SVGCommunicationMoreTime_20_sharp from '../../svg/communication/CommunicationMoreTime/20_sharp.svg';
+import SVGCommunicationMoreTime_24_sharp from '../../svg/communication/CommunicationMoreTime/24_sharp.svg';
+import SVGCommunicationMoreTime_20_filled from '../../svg/communication/CommunicationMoreTime/20_filled.svg';
+import SVGCommunicationMoreTime_24_filled from '../../svg/communication/CommunicationMoreTime/24_filled.svg';
+import SVGCommunicationMoreTime_20_round from '../../svg/communication/CommunicationMoreTime/20_round.svg';
+import SVGCommunicationMoreTime_24_round from '../../svg/communication/CommunicationMoreTime/24_round.svg';
+
+export const IconCommunicationMoreTime20outlined = () => <SVGCommunicationMoreTime_20_outlined />;
+export const IconCommunicationMoreTime24outlined = () => <SVGCommunicationMoreTime_24_outlined />;
+export const IconCommunicationMoreTime20twotone = () => <SVGCommunicationMoreTime_20_twotone />;
+export const IconCommunicationMoreTime24twotone = () => <SVGCommunicationMoreTime_24_twotone />;
+export const IconCommunicationMoreTime20sharp = () => <SVGCommunicationMoreTime_20_sharp />;
+export const IconCommunicationMoreTime24sharp = () => <SVGCommunicationMoreTime_24_sharp />;
+export const IconCommunicationMoreTime20filled = () => <SVGCommunicationMoreTime_20_filled />;
+export const IconCommunicationMoreTime24filled = () => <SVGCommunicationMoreTime_24_filled />;
+export const IconCommunicationMoreTime20round = () => <SVGCommunicationMoreTime_20_round />;
+export const IconCommunicationMoreTime24round = () => <SVGCommunicationMoreTime_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesVapeFree_20_outlined from '../../svg/places/PlacesVapeFree/20_outlined.svg';
+import SVGPlacesVapeFree_24_outlined from '../../svg/places/PlacesVapeFree/24_outlined.svg';
+import SVGPlacesVapeFree_20_twotone from '../../svg/places/PlacesVapeFree/20_twotone.svg';
+import SVGPlacesVapeFree_24_twotone from '../../svg/places/PlacesVapeFree/24_twotone.svg';
+import SVGPlacesVapeFree_20_sharp from '../../svg/places/PlacesVapeFree/20_sharp.svg';
+import SVGPlacesVapeFree_24_sharp from '../../svg/places/PlacesVapeFree/24_sharp.svg';
+import SVGPlacesVapeFree_20_filled from '../../svg/places/PlacesVapeFree/20_filled.svg';
+import SVGPlacesVapeFree_24_filled from '../../svg/places/PlacesVapeFree/24_filled.svg';
+import SVGPlacesVapeFree_20_round from '../../svg/places/PlacesVapeFree/20_round.svg';
+import SVGPlacesVapeFree_24_round from '../../svg/places/PlacesVapeFree/24_round.svg';
+
+export const IconPlacesVapeFree20outlined = () => <SVGPlacesVapeFree_20_outlined />;
+export const IconPlacesVapeFree24outlined = () => <SVGPlacesVapeFree_24_outlined />;
+export const IconPlacesVapeFree20twotone = () => <SVGPlacesVapeFree_20_twotone />;
+export const IconPlacesVapeFree24twotone = () => <SVGPlacesVapeFree_24_twotone />;
+export const IconPlacesVapeFree20sharp = () => <SVGPlacesVapeFree_20_sharp />;
+export const IconPlacesVapeFree24sharp = () => <SVGPlacesVapeFree_24_sharp />;
+export const IconPlacesVapeFree20filled = () => <SVGPlacesVapeFree_20_filled />;
+export const IconPlacesVapeFree24filled = () => <SVGPlacesVapeFree_24_filled />;
+export const IconPlacesVapeFree20round = () => <SVGPlacesVapeFree_20_round />;
+export const IconPlacesVapeFree24round = () => <SVGPlacesVapeFree_24_round />;

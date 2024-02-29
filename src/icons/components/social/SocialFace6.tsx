@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialFace6_20_outlined from '../../svg/social/SocialFace6/20_outlined.svg';
+import SVGSocialFace6_24_outlined from '../../svg/social/SocialFace6/24_outlined.svg';
+import SVGSocialFace6_20_twotone from '../../svg/social/SocialFace6/20_twotone.svg';
+import SVGSocialFace6_24_twotone from '../../svg/social/SocialFace6/24_twotone.svg';
+import SVGSocialFace6_20_sharp from '../../svg/social/SocialFace6/20_sharp.svg';
+import SVGSocialFace6_24_sharp from '../../svg/social/SocialFace6/24_sharp.svg';
+import SVGSocialFace6_20_filled from '../../svg/social/SocialFace6/20_filled.svg';
+import SVGSocialFace6_24_filled from '../../svg/social/SocialFace6/24_filled.svg';
+import SVGSocialFace6_20_round from '../../svg/social/SocialFace6/20_round.svg';
+import SVGSocialFace6_24_round from '../../svg/social/SocialFace6/24_round.svg';
+
+export const IconSocialFace620outlined = () => <SVGSocialFace6_20_outlined />;
+export const IconSocialFace624outlined = () => <SVGSocialFace6_24_outlined />;
+export const IconSocialFace620twotone = () => <SVGSocialFace6_20_twotone />;
+export const IconSocialFace624twotone = () => <SVGSocialFace6_24_twotone />;
+export const IconSocialFace620sharp = () => <SVGSocialFace6_20_sharp />;
+export const IconSocialFace624sharp = () => <SVGSocialFace6_24_sharp />;
+export const IconSocialFace620filled = () => <SVGSocialFace6_20_filled />;
+export const IconSocialFace624filled = () => <SVGSocialFace6_24_filled />;
+export const IconSocialFace620round = () => <SVGSocialFace6_20_round />;
+export const IconSocialFace624round = () => <SVGSocialFace6_24_round />;

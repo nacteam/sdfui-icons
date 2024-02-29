@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionUnfoldMoreDouble_20_outlined from '../../svg/action/ActionUnfoldMoreDouble/20_outlined.svg';
+import SVGActionUnfoldMoreDouble_24_outlined from '../../svg/action/ActionUnfoldMoreDouble/24_outlined.svg';
+import SVGActionUnfoldMoreDouble_20_twotone from '../../svg/action/ActionUnfoldMoreDouble/20_twotone.svg';
+import SVGActionUnfoldMoreDouble_24_twotone from '../../svg/action/ActionUnfoldMoreDouble/24_twotone.svg';
+import SVGActionUnfoldMoreDouble_20_sharp from '../../svg/action/ActionUnfoldMoreDouble/20_sharp.svg';
+import SVGActionUnfoldMoreDouble_24_sharp from '../../svg/action/ActionUnfoldMoreDouble/24_sharp.svg';
+import SVGActionUnfoldMoreDouble_20_filled from '../../svg/action/ActionUnfoldMoreDouble/20_filled.svg';
+import SVGActionUnfoldMoreDouble_24_filled from '../../svg/action/ActionUnfoldMoreDouble/24_filled.svg';
+import SVGActionUnfoldMoreDouble_20_round from '../../svg/action/ActionUnfoldMoreDouble/20_round.svg';
+import SVGActionUnfoldMoreDouble_24_round from '../../svg/action/ActionUnfoldMoreDouble/24_round.svg';
+
+export const IconActionUnfoldMoreDouble20outlined = () => <SVGActionUnfoldMoreDouble_20_outlined />;
+export const IconActionUnfoldMoreDouble24outlined = () => <SVGActionUnfoldMoreDouble_24_outlined />;
+export const IconActionUnfoldMoreDouble20twotone = () => <SVGActionUnfoldMoreDouble_20_twotone />;
+export const IconActionUnfoldMoreDouble24twotone = () => <SVGActionUnfoldMoreDouble_24_twotone />;
+export const IconActionUnfoldMoreDouble20sharp = () => <SVGActionUnfoldMoreDouble_20_sharp />;
+export const IconActionUnfoldMoreDouble24sharp = () => <SVGActionUnfoldMoreDouble_24_sharp />;
+export const IconActionUnfoldMoreDouble20filled = () => <SVGActionUnfoldMoreDouble_20_filled />;
+export const IconActionUnfoldMoreDouble24filled = () => <SVGActionUnfoldMoreDouble_24_filled />;
+export const IconActionUnfoldMoreDouble20round = () => <SVGActionUnfoldMoreDouble_20_round />;
+export const IconActionUnfoldMoreDouble24round = () => <SVGActionUnfoldMoreDouble_24_round />;

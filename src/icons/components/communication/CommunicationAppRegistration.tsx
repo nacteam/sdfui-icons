@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationAppRegistration_20_outlined from '../../svg/communication/CommunicationAppRegistration/20_outlined.svg';
+import SVGCommunicationAppRegistration_24_outlined from '../../svg/communication/CommunicationAppRegistration/24_outlined.svg';
+import SVGCommunicationAppRegistration_20_twotone from '../../svg/communication/CommunicationAppRegistration/20_twotone.svg';
+import SVGCommunicationAppRegistration_24_twotone from '../../svg/communication/CommunicationAppRegistration/24_twotone.svg';
+import SVGCommunicationAppRegistration_20_sharp from '../../svg/communication/CommunicationAppRegistration/20_sharp.svg';
+import SVGCommunicationAppRegistration_24_sharp from '../../svg/communication/CommunicationAppRegistration/24_sharp.svg';
+import SVGCommunicationAppRegistration_20_filled from '../../svg/communication/CommunicationAppRegistration/20_filled.svg';
+import SVGCommunicationAppRegistration_24_filled from '../../svg/communication/CommunicationAppRegistration/24_filled.svg';
+import SVGCommunicationAppRegistration_20_round from '../../svg/communication/CommunicationAppRegistration/20_round.svg';
+import SVGCommunicationAppRegistration_24_round from '../../svg/communication/CommunicationAppRegistration/24_round.svg';
+
+export const IconCommunicationAppRegistration20outlined = () => <SVGCommunicationAppRegistration_20_outlined />;
+export const IconCommunicationAppRegistration24outlined = () => <SVGCommunicationAppRegistration_24_outlined />;
+export const IconCommunicationAppRegistration20twotone = () => <SVGCommunicationAppRegistration_20_twotone />;
+export const IconCommunicationAppRegistration24twotone = () => <SVGCommunicationAppRegistration_24_twotone />;
+export const IconCommunicationAppRegistration20sharp = () => <SVGCommunicationAppRegistration_20_sharp />;
+export const IconCommunicationAppRegistration24sharp = () => <SVGCommunicationAppRegistration_24_sharp />;
+export const IconCommunicationAppRegistration20filled = () => <SVGCommunicationAppRegistration_20_filled />;
+export const IconCommunicationAppRegistration24filled = () => <SVGCommunicationAppRegistration_24_filled />;
+export const IconCommunicationAppRegistration20round = () => <SVGCommunicationAppRegistration_20_round />;
+export const IconCommunicationAppRegistration24round = () => <SVGCommunicationAppRegistration_24_round />;

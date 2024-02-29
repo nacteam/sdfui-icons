@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationKey_20_outlined from '../../svg/communication/CommunicationKey/20_outlined.svg';
+import SVGCommunicationKey_24_outlined from '../../svg/communication/CommunicationKey/24_outlined.svg';
+import SVGCommunicationKey_20_twotone from '../../svg/communication/CommunicationKey/20_twotone.svg';
+import SVGCommunicationKey_24_twotone from '../../svg/communication/CommunicationKey/24_twotone.svg';
+import SVGCommunicationKey_20_sharp from '../../svg/communication/CommunicationKey/20_sharp.svg';
+import SVGCommunicationKey_24_sharp from '../../svg/communication/CommunicationKey/24_sharp.svg';
+import SVGCommunicationKey_20_filled from '../../svg/communication/CommunicationKey/20_filled.svg';
+import SVGCommunicationKey_24_filled from '../../svg/communication/CommunicationKey/24_filled.svg';
+import SVGCommunicationKey_20_round from '../../svg/communication/CommunicationKey/20_round.svg';
+import SVGCommunicationKey_24_round from '../../svg/communication/CommunicationKey/24_round.svg';
+
+export const IconCommunicationKey20outlined = () => <SVGCommunicationKey_20_outlined />;
+export const IconCommunicationKey24outlined = () => <SVGCommunicationKey_24_outlined />;
+export const IconCommunicationKey20twotone = () => <SVGCommunicationKey_20_twotone />;
+export const IconCommunicationKey24twotone = () => <SVGCommunicationKey_24_twotone />;
+export const IconCommunicationKey20sharp = () => <SVGCommunicationKey_20_sharp />;
+export const IconCommunicationKey24sharp = () => <SVGCommunicationKey_24_sharp />;
+export const IconCommunicationKey20filled = () => <SVGCommunicationKey_20_filled />;
+export const IconCommunicationKey24filled = () => <SVGCommunicationKey_24_filled />;
+export const IconCommunicationKey20round = () => <SVGCommunicationKey_20_round />;
+export const IconCommunicationKey24round = () => <SVGCommunicationKey_24_round />;

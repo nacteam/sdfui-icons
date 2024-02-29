@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialKingBed_20_outlined from '../../svg/social/SocialKingBed/20_outlined.svg';
+import SVGSocialKingBed_24_outlined from '../../svg/social/SocialKingBed/24_outlined.svg';
+import SVGSocialKingBed_20_twotone from '../../svg/social/SocialKingBed/20_twotone.svg';
+import SVGSocialKingBed_24_twotone from '../../svg/social/SocialKingBed/24_twotone.svg';
+import SVGSocialKingBed_20_sharp from '../../svg/social/SocialKingBed/20_sharp.svg';
+import SVGSocialKingBed_24_sharp from '../../svg/social/SocialKingBed/24_sharp.svg';
+import SVGSocialKingBed_20_filled from '../../svg/social/SocialKingBed/20_filled.svg';
+import SVGSocialKingBed_24_filled from '../../svg/social/SocialKingBed/24_filled.svg';
+import SVGSocialKingBed_20_round from '../../svg/social/SocialKingBed/20_round.svg';
+import SVGSocialKingBed_24_round from '../../svg/social/SocialKingBed/24_round.svg';
+
+export const IconSocialKingBed20outlined = () => <SVGSocialKingBed_20_outlined />;
+export const IconSocialKingBed24outlined = () => <SVGSocialKingBed_24_outlined />;
+export const IconSocialKingBed20twotone = () => <SVGSocialKingBed_20_twotone />;
+export const IconSocialKingBed24twotone = () => <SVGSocialKingBed_24_twotone />;
+export const IconSocialKingBed20sharp = () => <SVGSocialKingBed_20_sharp />;
+export const IconSocialKingBed24sharp = () => <SVGSocialKingBed_24_sharp />;
+export const IconSocialKingBed20filled = () => <SVGSocialKingBed_20_filled />;
+export const IconSocialKingBed24filled = () => <SVGSocialKingBed_24_filled />;
+export const IconSocialKingBed20round = () => <SVGSocialKingBed_20_round />;
+export const IconSocialKingBed24round = () => <SVGSocialKingBed_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorEditNote_20_outlined from '../../svg/editor/EditorEditNote/20_outlined.svg';
+import SVGEditorEditNote_24_outlined from '../../svg/editor/EditorEditNote/24_outlined.svg';
+import SVGEditorEditNote_20_twotone from '../../svg/editor/EditorEditNote/20_twotone.svg';
+import SVGEditorEditNote_24_twotone from '../../svg/editor/EditorEditNote/24_twotone.svg';
+import SVGEditorEditNote_20_sharp from '../../svg/editor/EditorEditNote/20_sharp.svg';
+import SVGEditorEditNote_24_sharp from '../../svg/editor/EditorEditNote/24_sharp.svg';
+import SVGEditorEditNote_20_filled from '../../svg/editor/EditorEditNote/20_filled.svg';
+import SVGEditorEditNote_24_filled from '../../svg/editor/EditorEditNote/24_filled.svg';
+import SVGEditorEditNote_20_round from '../../svg/editor/EditorEditNote/20_round.svg';
+import SVGEditorEditNote_24_round from '../../svg/editor/EditorEditNote/24_round.svg';
+
+export const IconEditorEditNote20outlined = () => <SVGEditorEditNote_20_outlined />;
+export const IconEditorEditNote24outlined = () => <SVGEditorEditNote_24_outlined />;
+export const IconEditorEditNote20twotone = () => <SVGEditorEditNote_20_twotone />;
+export const IconEditorEditNote24twotone = () => <SVGEditorEditNote_24_twotone />;
+export const IconEditorEditNote20sharp = () => <SVGEditorEditNote_20_sharp />;
+export const IconEditorEditNote24sharp = () => <SVGEditorEditNote_24_sharp />;
+export const IconEditorEditNote20filled = () => <SVGEditorEditNote_20_filled />;
+export const IconEditorEditNote24filled = () => <SVGEditorEditNote_24_filled />;
+export const IconEditorEditNote20round = () => <SVGEditorEditNote_20_round />;
+export const IconEditorEditNote24round = () => <SVGEditorEditNote_24_round />;

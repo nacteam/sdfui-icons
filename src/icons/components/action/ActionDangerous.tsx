@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionDangerous_20_outlined from '../../svg/action/ActionDangerous/20_outlined.svg';
+import SVGActionDangerous_24_outlined from '../../svg/action/ActionDangerous/24_outlined.svg';
+import SVGActionDangerous_20_twotone from '../../svg/action/ActionDangerous/20_twotone.svg';
+import SVGActionDangerous_24_twotone from '../../svg/action/ActionDangerous/24_twotone.svg';
+import SVGActionDangerous_20_sharp from '../../svg/action/ActionDangerous/20_sharp.svg';
+import SVGActionDangerous_24_sharp from '../../svg/action/ActionDangerous/24_sharp.svg';
+import SVGActionDangerous_20_filled from '../../svg/action/ActionDangerous/20_filled.svg';
+import SVGActionDangerous_24_filled from '../../svg/action/ActionDangerous/24_filled.svg';
+import SVGActionDangerous_20_round from '../../svg/action/ActionDangerous/20_round.svg';
+import SVGActionDangerous_24_round from '../../svg/action/ActionDangerous/24_round.svg';
+
+export const IconActionDangerous20outlined = () => <SVGActionDangerous_20_outlined />;
+export const IconActionDangerous24outlined = () => <SVGActionDangerous_24_outlined />;
+export const IconActionDangerous20twotone = () => <SVGActionDangerous_20_twotone />;
+export const IconActionDangerous24twotone = () => <SVGActionDangerous_24_twotone />;
+export const IconActionDangerous20sharp = () => <SVGActionDangerous_20_sharp />;
+export const IconActionDangerous24sharp = () => <SVGActionDangerous_24_sharp />;
+export const IconActionDangerous20filled = () => <SVGActionDangerous_20_filled />;
+export const IconActionDangerous24filled = () => <SVGActionDangerous_24_filled />;
+export const IconActionDangerous20round = () => <SVGActionDangerous_20_round />;
+export const IconActionDangerous24round = () => <SVGActionDangerous_24_round />;

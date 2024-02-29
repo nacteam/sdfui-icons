@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsPestControl_20_outlined from '../../svg/maps/MapsPestControl/20_outlined.svg';
+import SVGMapsPestControl_24_outlined from '../../svg/maps/MapsPestControl/24_outlined.svg';
+import SVGMapsPestControl_20_twotone from '../../svg/maps/MapsPestControl/20_twotone.svg';
+import SVGMapsPestControl_24_twotone from '../../svg/maps/MapsPestControl/24_twotone.svg';
+import SVGMapsPestControl_20_sharp from '../../svg/maps/MapsPestControl/20_sharp.svg';
+import SVGMapsPestControl_24_sharp from '../../svg/maps/MapsPestControl/24_sharp.svg';
+import SVGMapsPestControl_20_filled from '../../svg/maps/MapsPestControl/20_filled.svg';
+import SVGMapsPestControl_24_filled from '../../svg/maps/MapsPestControl/24_filled.svg';
+import SVGMapsPestControl_20_round from '../../svg/maps/MapsPestControl/20_round.svg';
+import SVGMapsPestControl_24_round from '../../svg/maps/MapsPestControl/24_round.svg';
+
+export const IconMapsPestControl20outlined = () => <SVGMapsPestControl_20_outlined />;
+export const IconMapsPestControl24outlined = () => <SVGMapsPestControl_24_outlined />;
+export const IconMapsPestControl20twotone = () => <SVGMapsPestControl_20_twotone />;
+export const IconMapsPestControl24twotone = () => <SVGMapsPestControl_24_twotone />;
+export const IconMapsPestControl20sharp = () => <SVGMapsPestControl_20_sharp />;
+export const IconMapsPestControl24sharp = () => <SVGMapsPestControl_24_sharp />;
+export const IconMapsPestControl20filled = () => <SVGMapsPestControl_20_filled />;
+export const IconMapsPestControl24filled = () => <SVGMapsPestControl_24_filled />;
+export const IconMapsPestControl20round = () => <SVGMapsPestControl_20_round />;
+export const IconMapsPestControl24round = () => <SVGMapsPestControl_24_round />;

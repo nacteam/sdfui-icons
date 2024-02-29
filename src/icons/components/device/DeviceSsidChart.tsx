@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceSsidChart_20_outlined from '../../svg/device/DeviceSsidChart/20_outlined.svg';
+import SVGDeviceSsidChart_24_outlined from '../../svg/device/DeviceSsidChart/24_outlined.svg';
+import SVGDeviceSsidChart_20_twotone from '../../svg/device/DeviceSsidChart/20_twotone.svg';
+import SVGDeviceSsidChart_24_twotone from '../../svg/device/DeviceSsidChart/24_twotone.svg';
+import SVGDeviceSsidChart_20_sharp from '../../svg/device/DeviceSsidChart/20_sharp.svg';
+import SVGDeviceSsidChart_24_sharp from '../../svg/device/DeviceSsidChart/24_sharp.svg';
+import SVGDeviceSsidChart_20_filled from '../../svg/device/DeviceSsidChart/20_filled.svg';
+import SVGDeviceSsidChart_24_filled from '../../svg/device/DeviceSsidChart/24_filled.svg';
+import SVGDeviceSsidChart_20_round from '../../svg/device/DeviceSsidChart/20_round.svg';
+import SVGDeviceSsidChart_24_round from '../../svg/device/DeviceSsidChart/24_round.svg';
+
+export const IconDeviceSsidChart20outlined = () => <SVGDeviceSsidChart_20_outlined />;
+export const IconDeviceSsidChart24outlined = () => <SVGDeviceSsidChart_24_outlined />;
+export const IconDeviceSsidChart20twotone = () => <SVGDeviceSsidChart_20_twotone />;
+export const IconDeviceSsidChart24twotone = () => <SVGDeviceSsidChart_24_twotone />;
+export const IconDeviceSsidChart20sharp = () => <SVGDeviceSsidChart_20_sharp />;
+export const IconDeviceSsidChart24sharp = () => <SVGDeviceSsidChart_24_sharp />;
+export const IconDeviceSsidChart20filled = () => <SVGDeviceSsidChart_20_filled />;
+export const IconDeviceSsidChart24filled = () => <SVGDeviceSsidChart_24_filled />;
+export const IconDeviceSsidChart20round = () => <SVGDeviceSsidChart_20_round />;
+export const IconDeviceSsidChart24round = () => <SVGDeviceSsidChart_24_round />;

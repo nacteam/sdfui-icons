@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialTsunami_20_outlined from '../../svg/social/SocialTsunami/20_outlined.svg';
+import SVGSocialTsunami_24_outlined from '../../svg/social/SocialTsunami/24_outlined.svg';
+import SVGSocialTsunami_20_twotone from '../../svg/social/SocialTsunami/20_twotone.svg';
+import SVGSocialTsunami_24_twotone from '../../svg/social/SocialTsunami/24_twotone.svg';
+import SVGSocialTsunami_20_sharp from '../../svg/social/SocialTsunami/20_sharp.svg';
+import SVGSocialTsunami_24_sharp from '../../svg/social/SocialTsunami/24_sharp.svg';
+import SVGSocialTsunami_20_filled from '../../svg/social/SocialTsunami/20_filled.svg';
+import SVGSocialTsunami_24_filled from '../../svg/social/SocialTsunami/24_filled.svg';
+import SVGSocialTsunami_20_round from '../../svg/social/SocialTsunami/20_round.svg';
+import SVGSocialTsunami_24_round from '../../svg/social/SocialTsunami/24_round.svg';
+
+export const IconSocialTsunami20outlined = () => <SVGSocialTsunami_20_outlined />;
+export const IconSocialTsunami24outlined = () => <SVGSocialTsunami_24_outlined />;
+export const IconSocialTsunami20twotone = () => <SVGSocialTsunami_20_twotone />;
+export const IconSocialTsunami24twotone = () => <SVGSocialTsunami_24_twotone />;
+export const IconSocialTsunami20sharp = () => <SVGSocialTsunami_20_sharp />;
+export const IconSocialTsunami24sharp = () => <SVGSocialTsunami_24_sharp />;
+export const IconSocialTsunami20filled = () => <SVGSocialTsunami_20_filled />;
+export const IconSocialTsunami24filled = () => <SVGSocialTsunami_24_filled />;
+export const IconSocialTsunami20round = () => <SVGSocialTsunami_20_round />;
+export const IconSocialTsunami24round = () => <SVGSocialTsunami_24_round />;

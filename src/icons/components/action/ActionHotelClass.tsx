@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionHotelClass_20_outlined from '../../svg/action/ActionHotelClass/20_outlined.svg';
+import SVGActionHotelClass_24_outlined from '../../svg/action/ActionHotelClass/24_outlined.svg';
+import SVGActionHotelClass_20_twotone from '../../svg/action/ActionHotelClass/20_twotone.svg';
+import SVGActionHotelClass_24_twotone from '../../svg/action/ActionHotelClass/24_twotone.svg';
+import SVGActionHotelClass_20_sharp from '../../svg/action/ActionHotelClass/20_sharp.svg';
+import SVGActionHotelClass_24_sharp from '../../svg/action/ActionHotelClass/24_sharp.svg';
+import SVGActionHotelClass_20_filled from '../../svg/action/ActionHotelClass/20_filled.svg';
+import SVGActionHotelClass_24_filled from '../../svg/action/ActionHotelClass/24_filled.svg';
+import SVGActionHotelClass_20_round from '../../svg/action/ActionHotelClass/20_round.svg';
+import SVGActionHotelClass_24_round from '../../svg/action/ActionHotelClass/24_round.svg';
+
+export const IconActionHotelClass20outlined = () => <SVGActionHotelClass_20_outlined />;
+export const IconActionHotelClass24outlined = () => <SVGActionHotelClass_24_outlined />;
+export const IconActionHotelClass20twotone = () => <SVGActionHotelClass_20_twotone />;
+export const IconActionHotelClass24twotone = () => <SVGActionHotelClass_24_twotone />;
+export const IconActionHotelClass20sharp = () => <SVGActionHotelClass_20_sharp />;
+export const IconActionHotelClass24sharp = () => <SVGActionHotelClass_24_sharp />;
+export const IconActionHotelClass20filled = () => <SVGActionHotelClass_20_filled />;
+export const IconActionHotelClass24filled = () => <SVGActionHotelClass_24_filled />;
+export const IconActionHotelClass20round = () => <SVGActionHotelClass_20_round />;
+export const IconActionHotelClass24round = () => <SVGActionHotelClass_24_round />;

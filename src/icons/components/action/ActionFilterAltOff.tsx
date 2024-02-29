@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFilterAltOff_20_outlined from '../../svg/action/ActionFilterAltOff/20_outlined.svg';
+import SVGActionFilterAltOff_24_outlined from '../../svg/action/ActionFilterAltOff/24_outlined.svg';
+import SVGActionFilterAltOff_20_twotone from '../../svg/action/ActionFilterAltOff/20_twotone.svg';
+import SVGActionFilterAltOff_24_twotone from '../../svg/action/ActionFilterAltOff/24_twotone.svg';
+import SVGActionFilterAltOff_20_sharp from '../../svg/action/ActionFilterAltOff/20_sharp.svg';
+import SVGActionFilterAltOff_24_sharp from '../../svg/action/ActionFilterAltOff/24_sharp.svg';
+import SVGActionFilterAltOff_20_filled from '../../svg/action/ActionFilterAltOff/20_filled.svg';
+import SVGActionFilterAltOff_24_filled from '../../svg/action/ActionFilterAltOff/24_filled.svg';
+import SVGActionFilterAltOff_20_round from '../../svg/action/ActionFilterAltOff/20_round.svg';
+import SVGActionFilterAltOff_24_round from '../../svg/action/ActionFilterAltOff/24_round.svg';
+
+export const IconActionFilterAltOff20outlined = () => <SVGActionFilterAltOff_20_outlined />;
+export const IconActionFilterAltOff24outlined = () => <SVGActionFilterAltOff_24_outlined />;
+export const IconActionFilterAltOff20twotone = () => <SVGActionFilterAltOff_20_twotone />;
+export const IconActionFilterAltOff24twotone = () => <SVGActionFilterAltOff_24_twotone />;
+export const IconActionFilterAltOff20sharp = () => <SVGActionFilterAltOff_20_sharp />;
+export const IconActionFilterAltOff24sharp = () => <SVGActionFilterAltOff_24_sharp />;
+export const IconActionFilterAltOff20filled = () => <SVGActionFilterAltOff_20_filled />;
+export const IconActionFilterAltOff24filled = () => <SVGActionFilterAltOff_24_filled />;
+export const IconActionFilterAltOff20round = () => <SVGActionFilterAltOff_20_round />;
+export const IconActionFilterAltOff24round = () => <SVGActionFilterAltOff_24_round />;

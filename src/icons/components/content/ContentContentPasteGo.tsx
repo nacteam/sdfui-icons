@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentContentPasteGo_20_outlined from '../../svg/content/ContentContentPasteGo/20_outlined.svg';
+import SVGContentContentPasteGo_24_outlined from '../../svg/content/ContentContentPasteGo/24_outlined.svg';
+import SVGContentContentPasteGo_20_twotone from '../../svg/content/ContentContentPasteGo/20_twotone.svg';
+import SVGContentContentPasteGo_24_twotone from '../../svg/content/ContentContentPasteGo/24_twotone.svg';
+import SVGContentContentPasteGo_20_sharp from '../../svg/content/ContentContentPasteGo/20_sharp.svg';
+import SVGContentContentPasteGo_24_sharp from '../../svg/content/ContentContentPasteGo/24_sharp.svg';
+import SVGContentContentPasteGo_20_filled from '../../svg/content/ContentContentPasteGo/20_filled.svg';
+import SVGContentContentPasteGo_24_filled from '../../svg/content/ContentContentPasteGo/24_filled.svg';
+import SVGContentContentPasteGo_20_round from '../../svg/content/ContentContentPasteGo/20_round.svg';
+import SVGContentContentPasteGo_24_round from '../../svg/content/ContentContentPasteGo/24_round.svg';
+
+export const IconContentContentPasteGo20outlined = () => <SVGContentContentPasteGo_20_outlined />;
+export const IconContentContentPasteGo24outlined = () => <SVGContentContentPasteGo_24_outlined />;
+export const IconContentContentPasteGo20twotone = () => <SVGContentContentPasteGo_20_twotone />;
+export const IconContentContentPasteGo24twotone = () => <SVGContentContentPasteGo_24_twotone />;
+export const IconContentContentPasteGo20sharp = () => <SVGContentContentPasteGo_20_sharp />;
+export const IconContentContentPasteGo24sharp = () => <SVGContentContentPasteGo_24_sharp />;
+export const IconContentContentPasteGo20filled = () => <SVGContentContentPasteGo_20_filled />;
+export const IconContentContentPasteGo24filled = () => <SVGContentContentPasteGo_24_filled />;
+export const IconContentContentPasteGo20round = () => <SVGContentContentPasteGo_20_round />;
+export const IconContentContentPasteGo24round = () => <SVGContentContentPasteGo_24_round />;

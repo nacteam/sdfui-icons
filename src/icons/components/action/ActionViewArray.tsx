@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewArray_20_outlined from '../../svg/action/ActionViewArray/20_outlined.svg';
+import SVGActionViewArray_24_outlined from '../../svg/action/ActionViewArray/24_outlined.svg';
+import SVGActionViewArray_20_twotone from '../../svg/action/ActionViewArray/20_twotone.svg';
+import SVGActionViewArray_24_twotone from '../../svg/action/ActionViewArray/24_twotone.svg';
+import SVGActionViewArray_20_sharp from '../../svg/action/ActionViewArray/20_sharp.svg';
+import SVGActionViewArray_24_sharp from '../../svg/action/ActionViewArray/24_sharp.svg';
+import SVGActionViewArray_20_filled from '../../svg/action/ActionViewArray/20_filled.svg';
+import SVGActionViewArray_24_filled from '../../svg/action/ActionViewArray/24_filled.svg';
+import SVGActionViewArray_20_round from '../../svg/action/ActionViewArray/20_round.svg';
+import SVGActionViewArray_24_round from '../../svg/action/ActionViewArray/24_round.svg';
+
+export const IconActionViewArray20outlined = () => <SVGActionViewArray_20_outlined />;
+export const IconActionViewArray24outlined = () => <SVGActionViewArray_24_outlined />;
+export const IconActionViewArray20twotone = () => <SVGActionViewArray_20_twotone />;
+export const IconActionViewArray24twotone = () => <SVGActionViewArray_24_twotone />;
+export const IconActionViewArray20sharp = () => <SVGActionViewArray_20_sharp />;
+export const IconActionViewArray24sharp = () => <SVGActionViewArray_24_sharp />;
+export const IconActionViewArray20filled = () => <SVGActionViewArray_20_filled />;
+export const IconActionViewArray24filled = () => <SVGActionViewArray_24_filled />;
+export const IconActionViewArray20round = () => <SVGActionViewArray_20_round />;
+export const IconActionViewArray24round = () => <SVGActionViewArray_24_round />;

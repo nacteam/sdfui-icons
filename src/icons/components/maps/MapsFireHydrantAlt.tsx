@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsFireHydrantAlt_20_outlined from '../../svg/maps/MapsFireHydrantAlt/20_outlined.svg';
+import SVGMapsFireHydrantAlt_24_outlined from '../../svg/maps/MapsFireHydrantAlt/24_outlined.svg';
+import SVGMapsFireHydrantAlt_20_twotone from '../../svg/maps/MapsFireHydrantAlt/20_twotone.svg';
+import SVGMapsFireHydrantAlt_24_twotone from '../../svg/maps/MapsFireHydrantAlt/24_twotone.svg';
+import SVGMapsFireHydrantAlt_20_sharp from '../../svg/maps/MapsFireHydrantAlt/20_sharp.svg';
+import SVGMapsFireHydrantAlt_24_sharp from '../../svg/maps/MapsFireHydrantAlt/24_sharp.svg';
+import SVGMapsFireHydrantAlt_20_filled from '../../svg/maps/MapsFireHydrantAlt/20_filled.svg';
+import SVGMapsFireHydrantAlt_24_filled from '../../svg/maps/MapsFireHydrantAlt/24_filled.svg';
+import SVGMapsFireHydrantAlt_20_round from '../../svg/maps/MapsFireHydrantAlt/20_round.svg';
+import SVGMapsFireHydrantAlt_24_round from '../../svg/maps/MapsFireHydrantAlt/24_round.svg';
+
+export const IconMapsFireHydrantAlt20outlined = () => <SVGMapsFireHydrantAlt_20_outlined />;
+export const IconMapsFireHydrantAlt24outlined = () => <SVGMapsFireHydrantAlt_24_outlined />;
+export const IconMapsFireHydrantAlt20twotone = () => <SVGMapsFireHydrantAlt_20_twotone />;
+export const IconMapsFireHydrantAlt24twotone = () => <SVGMapsFireHydrantAlt_24_twotone />;
+export const IconMapsFireHydrantAlt20sharp = () => <SVGMapsFireHydrantAlt_20_sharp />;
+export const IconMapsFireHydrantAlt24sharp = () => <SVGMapsFireHydrantAlt_24_sharp />;
+export const IconMapsFireHydrantAlt20filled = () => <SVGMapsFireHydrantAlt_20_filled />;
+export const IconMapsFireHydrantAlt24filled = () => <SVGMapsFireHydrantAlt_24_filled />;
+export const IconMapsFireHydrantAlt20round = () => <SVGMapsFireHydrantAlt_20_round />;
+export const IconMapsFireHydrantAlt24round = () => <SVGMapsFireHydrantAlt_24_round />;

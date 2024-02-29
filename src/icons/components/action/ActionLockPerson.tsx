@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionLockPerson_20_outlined from '../../svg/action/ActionLockPerson/20_outlined.svg';
+import SVGActionLockPerson_24_outlined from '../../svg/action/ActionLockPerson/24_outlined.svg';
+import SVGActionLockPerson_20_twotone from '../../svg/action/ActionLockPerson/20_twotone.svg';
+import SVGActionLockPerson_24_twotone from '../../svg/action/ActionLockPerson/24_twotone.svg';
+import SVGActionLockPerson_20_sharp from '../../svg/action/ActionLockPerson/20_sharp.svg';
+import SVGActionLockPerson_24_sharp from '../../svg/action/ActionLockPerson/24_sharp.svg';
+import SVGActionLockPerson_20_filled from '../../svg/action/ActionLockPerson/20_filled.svg';
+import SVGActionLockPerson_24_filled from '../../svg/action/ActionLockPerson/24_filled.svg';
+import SVGActionLockPerson_20_round from '../../svg/action/ActionLockPerson/20_round.svg';
+import SVGActionLockPerson_24_round from '../../svg/action/ActionLockPerson/24_round.svg';
+
+export const IconActionLockPerson20outlined = () => <SVGActionLockPerson_20_outlined />;
+export const IconActionLockPerson24outlined = () => <SVGActionLockPerson_24_outlined />;
+export const IconActionLockPerson20twotone = () => <SVGActionLockPerson_20_twotone />;
+export const IconActionLockPerson24twotone = () => <SVGActionLockPerson_24_twotone />;
+export const IconActionLockPerson20sharp = () => <SVGActionLockPerson_20_sharp />;
+export const IconActionLockPerson24sharp = () => <SVGActionLockPerson_24_sharp />;
+export const IconActionLockPerson20filled = () => <SVGActionLockPerson_20_filled />;
+export const IconActionLockPerson24filled = () => <SVGActionLockPerson_24_filled />;
+export const IconActionLockPerson20round = () => <SVGActionLockPerson_20_round />;
+export const IconActionLockPerson24round = () => <SVGActionLockPerson_24_round />;

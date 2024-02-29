@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCrop32_20_outlined from '../../svg/image/ImageCrop32/20_outlined.svg';
+import SVGImageCrop32_24_outlined from '../../svg/image/ImageCrop32/24_outlined.svg';
+import SVGImageCrop32_20_twotone from '../../svg/image/ImageCrop32/20_twotone.svg';
+import SVGImageCrop32_24_twotone from '../../svg/image/ImageCrop32/24_twotone.svg';
+import SVGImageCrop32_20_sharp from '../../svg/image/ImageCrop32/20_sharp.svg';
+import SVGImageCrop32_24_sharp from '../../svg/image/ImageCrop32/24_sharp.svg';
+import SVGImageCrop32_20_filled from '../../svg/image/ImageCrop32/20_filled.svg';
+import SVGImageCrop32_24_filled from '../../svg/image/ImageCrop32/24_filled.svg';
+import SVGImageCrop32_20_round from '../../svg/image/ImageCrop32/20_round.svg';
+import SVGImageCrop32_24_round from '../../svg/image/ImageCrop32/24_round.svg';
+
+export const IconImageCrop3220outlined = () => <SVGImageCrop32_20_outlined />;
+export const IconImageCrop3224outlined = () => <SVGImageCrop32_24_outlined />;
+export const IconImageCrop3220twotone = () => <SVGImageCrop32_20_twotone />;
+export const IconImageCrop3224twotone = () => <SVGImageCrop32_24_twotone />;
+export const IconImageCrop3220sharp = () => <SVGImageCrop32_20_sharp />;
+export const IconImageCrop3224sharp = () => <SVGImageCrop32_24_sharp />;
+export const IconImageCrop3220filled = () => <SVGImageCrop32_20_filled />;
+export const IconImageCrop3224filled = () => <SVGImageCrop32_24_filled />;
+export const IconImageCrop3220round = () => <SVGImageCrop32_20_round />;
+export const IconImageCrop3224round = () => <SVGImageCrop32_24_round />;

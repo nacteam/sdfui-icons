@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCurrencyBitcoin_20_outlined from '../../svg/image/ImageCurrencyBitcoin/20_outlined.svg';
+import SVGImageCurrencyBitcoin_24_outlined from '../../svg/image/ImageCurrencyBitcoin/24_outlined.svg';
+import SVGImageCurrencyBitcoin_20_twotone from '../../svg/image/ImageCurrencyBitcoin/20_twotone.svg';
+import SVGImageCurrencyBitcoin_24_twotone from '../../svg/image/ImageCurrencyBitcoin/24_twotone.svg';
+import SVGImageCurrencyBitcoin_20_sharp from '../../svg/image/ImageCurrencyBitcoin/20_sharp.svg';
+import SVGImageCurrencyBitcoin_24_sharp from '../../svg/image/ImageCurrencyBitcoin/24_sharp.svg';
+import SVGImageCurrencyBitcoin_20_filled from '../../svg/image/ImageCurrencyBitcoin/20_filled.svg';
+import SVGImageCurrencyBitcoin_24_filled from '../../svg/image/ImageCurrencyBitcoin/24_filled.svg';
+import SVGImageCurrencyBitcoin_20_round from '../../svg/image/ImageCurrencyBitcoin/20_round.svg';
+import SVGImageCurrencyBitcoin_24_round from '../../svg/image/ImageCurrencyBitcoin/24_round.svg';
+
+export const IconImageCurrencyBitcoin20outlined = () => <SVGImageCurrencyBitcoin_20_outlined />;
+export const IconImageCurrencyBitcoin24outlined = () => <SVGImageCurrencyBitcoin_24_outlined />;
+export const IconImageCurrencyBitcoin20twotone = () => <SVGImageCurrencyBitcoin_20_twotone />;
+export const IconImageCurrencyBitcoin24twotone = () => <SVGImageCurrencyBitcoin_24_twotone />;
+export const IconImageCurrencyBitcoin20sharp = () => <SVGImageCurrencyBitcoin_20_sharp />;
+export const IconImageCurrencyBitcoin24sharp = () => <SVGImageCurrencyBitcoin_24_sharp />;
+export const IconImageCurrencyBitcoin20filled = () => <SVGImageCurrencyBitcoin_20_filled />;
+export const IconImageCurrencyBitcoin24filled = () => <SVGImageCurrencyBitcoin_24_filled />;
+export const IconImageCurrencyBitcoin20round = () => <SVGImageCurrencyBitcoin_20_round />;
+export const IconImageCurrencyBitcoin24round = () => <SVGImageCurrencyBitcoin_24_round />;

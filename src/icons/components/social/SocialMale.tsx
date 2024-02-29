@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialMale_20_outlined from '../../svg/social/SocialMale/20_outlined.svg';
+import SVGSocialMale_24_outlined from '../../svg/social/SocialMale/24_outlined.svg';
+import SVGSocialMale_20_twotone from '../../svg/social/SocialMale/20_twotone.svg';
+import SVGSocialMale_24_twotone from '../../svg/social/SocialMale/24_twotone.svg';
+import SVGSocialMale_20_sharp from '../../svg/social/SocialMale/20_sharp.svg';
+import SVGSocialMale_24_sharp from '../../svg/social/SocialMale/24_sharp.svg';
+import SVGSocialMale_20_filled from '../../svg/social/SocialMale/20_filled.svg';
+import SVGSocialMale_24_filled from '../../svg/social/SocialMale/24_filled.svg';
+import SVGSocialMale_20_round from '../../svg/social/SocialMale/20_round.svg';
+import SVGSocialMale_24_round from '../../svg/social/SocialMale/24_round.svg';
+
+export const IconSocialMale20outlined = () => <SVGSocialMale_20_outlined />;
+export const IconSocialMale24outlined = () => <SVGSocialMale_24_outlined />;
+export const IconSocialMale20twotone = () => <SVGSocialMale_20_twotone />;
+export const IconSocialMale24twotone = () => <SVGSocialMale_24_twotone />;
+export const IconSocialMale20sharp = () => <SVGSocialMale_20_sharp />;
+export const IconSocialMale24sharp = () => <SVGSocialMale_24_sharp />;
+export const IconSocialMale20filled = () => <SVGSocialMale_20_filled />;
+export const IconSocialMale24filled = () => <SVGSocialMale_24_filled />;
+export const IconSocialMale20round = () => <SVGSocialMale_20_round />;
+export const IconSocialMale24round = () => <SVGSocialMale_24_round />;

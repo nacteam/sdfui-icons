@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialEditNotifications_20_outlined from '../../svg/social/SocialEditNotifications/20_outlined.svg';
+import SVGSocialEditNotifications_24_outlined from '../../svg/social/SocialEditNotifications/24_outlined.svg';
+import SVGSocialEditNotifications_20_twotone from '../../svg/social/SocialEditNotifications/20_twotone.svg';
+import SVGSocialEditNotifications_24_twotone from '../../svg/social/SocialEditNotifications/24_twotone.svg';
+import SVGSocialEditNotifications_20_sharp from '../../svg/social/SocialEditNotifications/20_sharp.svg';
+import SVGSocialEditNotifications_24_sharp from '../../svg/social/SocialEditNotifications/24_sharp.svg';
+import SVGSocialEditNotifications_20_filled from '../../svg/social/SocialEditNotifications/20_filled.svg';
+import SVGSocialEditNotifications_24_filled from '../../svg/social/SocialEditNotifications/24_filled.svg';
+import SVGSocialEditNotifications_20_round from '../../svg/social/SocialEditNotifications/20_round.svg';
+import SVGSocialEditNotifications_24_round from '../../svg/social/SocialEditNotifications/24_round.svg';
+
+export const IconSocialEditNotifications20outlined = () => <SVGSocialEditNotifications_20_outlined />;
+export const IconSocialEditNotifications24outlined = () => <SVGSocialEditNotifications_24_outlined />;
+export const IconSocialEditNotifications20twotone = () => <SVGSocialEditNotifications_20_twotone />;
+export const IconSocialEditNotifications24twotone = () => <SVGSocialEditNotifications_24_twotone />;
+export const IconSocialEditNotifications20sharp = () => <SVGSocialEditNotifications_20_sharp />;
+export const IconSocialEditNotifications24sharp = () => <SVGSocialEditNotifications_24_sharp />;
+export const IconSocialEditNotifications20filled = () => <SVGSocialEditNotifications_20_filled />;
+export const IconSocialEditNotifications24filled = () => <SVGSocialEditNotifications_24_filled />;
+export const IconSocialEditNotifications20round = () => <SVGSocialEditNotifications_20_round />;
+export const IconSocialEditNotifications24round = () => <SVGSocialEditNotifications_24_round />;

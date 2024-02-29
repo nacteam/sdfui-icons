@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageViewComfy_20_outlined from '../../svg/image/ImageViewComfy/20_outlined.svg';
+import SVGImageViewComfy_24_outlined from '../../svg/image/ImageViewComfy/24_outlined.svg';
+import SVGImageViewComfy_20_twotone from '../../svg/image/ImageViewComfy/20_twotone.svg';
+import SVGImageViewComfy_24_twotone from '../../svg/image/ImageViewComfy/24_twotone.svg';
+import SVGImageViewComfy_20_sharp from '../../svg/image/ImageViewComfy/20_sharp.svg';
+import SVGImageViewComfy_24_sharp from '../../svg/image/ImageViewComfy/24_sharp.svg';
+import SVGImageViewComfy_20_filled from '../../svg/image/ImageViewComfy/20_filled.svg';
+import SVGImageViewComfy_24_filled from '../../svg/image/ImageViewComfy/24_filled.svg';
+import SVGImageViewComfy_20_round from '../../svg/image/ImageViewComfy/20_round.svg';
+import SVGImageViewComfy_24_round from '../../svg/image/ImageViewComfy/24_round.svg';
+
+export const IconImageViewComfy20outlined = () => <SVGImageViewComfy_20_outlined />;
+export const IconImageViewComfy24outlined = () => <SVGImageViewComfy_24_outlined />;
+export const IconImageViewComfy20twotone = () => <SVGImageViewComfy_20_twotone />;
+export const IconImageViewComfy24twotone = () => <SVGImageViewComfy_24_twotone />;
+export const IconImageViewComfy20sharp = () => <SVGImageViewComfy_20_sharp />;
+export const IconImageViewComfy24sharp = () => <SVGImageViewComfy_24_sharp />;
+export const IconImageViewComfy20filled = () => <SVGImageViewComfy_20_filled />;
+export const IconImageViewComfy24filled = () => <SVGImageViewComfy_24_filled />;
+export const IconImageViewComfy20round = () => <SVGImageViewComfy_20_round />;
+export const IconImageViewComfy24round = () => <SVGImageViewComfy_24_round />;

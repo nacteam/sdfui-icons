@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationDomainVerification_20_outlined from '../../svg/communication/CommunicationDomainVerification/20_outlined.svg';
+import SVGCommunicationDomainVerification_24_outlined from '../../svg/communication/CommunicationDomainVerification/24_outlined.svg';
+import SVGCommunicationDomainVerification_20_twotone from '../../svg/communication/CommunicationDomainVerification/20_twotone.svg';
+import SVGCommunicationDomainVerification_24_twotone from '../../svg/communication/CommunicationDomainVerification/24_twotone.svg';
+import SVGCommunicationDomainVerification_20_sharp from '../../svg/communication/CommunicationDomainVerification/20_sharp.svg';
+import SVGCommunicationDomainVerification_24_sharp from '../../svg/communication/CommunicationDomainVerification/24_sharp.svg';
+import SVGCommunicationDomainVerification_20_filled from '../../svg/communication/CommunicationDomainVerification/20_filled.svg';
+import SVGCommunicationDomainVerification_24_filled from '../../svg/communication/CommunicationDomainVerification/24_filled.svg';
+import SVGCommunicationDomainVerification_20_round from '../../svg/communication/CommunicationDomainVerification/20_round.svg';
+import SVGCommunicationDomainVerification_24_round from '../../svg/communication/CommunicationDomainVerification/24_round.svg';
+
+export const IconCommunicationDomainVerification20outlined = () => <SVGCommunicationDomainVerification_20_outlined />;
+export const IconCommunicationDomainVerification24outlined = () => <SVGCommunicationDomainVerification_24_outlined />;
+export const IconCommunicationDomainVerification20twotone = () => <SVGCommunicationDomainVerification_20_twotone />;
+export const IconCommunicationDomainVerification24twotone = () => <SVGCommunicationDomainVerification_24_twotone />;
+export const IconCommunicationDomainVerification20sharp = () => <SVGCommunicationDomainVerification_20_sharp />;
+export const IconCommunicationDomainVerification24sharp = () => <SVGCommunicationDomainVerification_24_sharp />;
+export const IconCommunicationDomainVerification20filled = () => <SVGCommunicationDomainVerification_20_filled />;
+export const IconCommunicationDomainVerification24filled = () => <SVGCommunicationDomainVerification_24_filled />;
+export const IconCommunicationDomainVerification20round = () => <SVGCommunicationDomainVerification_20_round />;
+export const IconCommunicationDomainVerification24round = () => <SVGCommunicationDomainVerification_24_round />;

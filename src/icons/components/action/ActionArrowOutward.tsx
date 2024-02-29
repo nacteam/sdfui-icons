@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionArrowOutward_20_outlined from '../../svg/action/ActionArrowOutward/20_outlined.svg';
+import SVGActionArrowOutward_24_outlined from '../../svg/action/ActionArrowOutward/24_outlined.svg';
+import SVGActionArrowOutward_20_twotone from '../../svg/action/ActionArrowOutward/20_twotone.svg';
+import SVGActionArrowOutward_24_twotone from '../../svg/action/ActionArrowOutward/24_twotone.svg';
+import SVGActionArrowOutward_20_sharp from '../../svg/action/ActionArrowOutward/20_sharp.svg';
+import SVGActionArrowOutward_24_sharp from '../../svg/action/ActionArrowOutward/24_sharp.svg';
+import SVGActionArrowOutward_20_filled from '../../svg/action/ActionArrowOutward/20_filled.svg';
+import SVGActionArrowOutward_24_filled from '../../svg/action/ActionArrowOutward/24_filled.svg';
+import SVGActionArrowOutward_20_round from '../../svg/action/ActionArrowOutward/20_round.svg';
+import SVGActionArrowOutward_24_round from '../../svg/action/ActionArrowOutward/24_round.svg';
+
+export const IconActionArrowOutward20outlined = () => <SVGActionArrowOutward_20_outlined />;
+export const IconActionArrowOutward24outlined = () => <SVGActionArrowOutward_24_outlined />;
+export const IconActionArrowOutward20twotone = () => <SVGActionArrowOutward_20_twotone />;
+export const IconActionArrowOutward24twotone = () => <SVGActionArrowOutward_24_twotone />;
+export const IconActionArrowOutward20sharp = () => <SVGActionArrowOutward_20_sharp />;
+export const IconActionArrowOutward24sharp = () => <SVGActionArrowOutward_24_sharp />;
+export const IconActionArrowOutward20filled = () => <SVGActionArrowOutward_20_filled />;
+export const IconActionArrowOutward24filled = () => <SVGActionArrowOutward_24_filled />;
+export const IconActionArrowOutward20round = () => <SVGActionArrowOutward_20_round />;
+export const IconActionArrowOutward24round = () => <SVGActionArrowOutward_24_round />;

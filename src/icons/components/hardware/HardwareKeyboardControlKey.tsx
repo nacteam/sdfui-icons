@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareKeyboardControlKey_20_outlined from '../../svg/hardware/HardwareKeyboardControlKey/20_outlined.svg';
+import SVGHardwareKeyboardControlKey_24_outlined from '../../svg/hardware/HardwareKeyboardControlKey/24_outlined.svg';
+import SVGHardwareKeyboardControlKey_20_twotone from '../../svg/hardware/HardwareKeyboardControlKey/20_twotone.svg';
+import SVGHardwareKeyboardControlKey_24_twotone from '../../svg/hardware/HardwareKeyboardControlKey/24_twotone.svg';
+import SVGHardwareKeyboardControlKey_20_sharp from '../../svg/hardware/HardwareKeyboardControlKey/20_sharp.svg';
+import SVGHardwareKeyboardControlKey_24_sharp from '../../svg/hardware/HardwareKeyboardControlKey/24_sharp.svg';
+import SVGHardwareKeyboardControlKey_20_filled from '../../svg/hardware/HardwareKeyboardControlKey/20_filled.svg';
+import SVGHardwareKeyboardControlKey_24_filled from '../../svg/hardware/HardwareKeyboardControlKey/24_filled.svg';
+import SVGHardwareKeyboardControlKey_20_round from '../../svg/hardware/HardwareKeyboardControlKey/20_round.svg';
+import SVGHardwareKeyboardControlKey_24_round from '../../svg/hardware/HardwareKeyboardControlKey/24_round.svg';
+
+export const IconHardwareKeyboardControlKey20outlined = () => <SVGHardwareKeyboardControlKey_20_outlined />;
+export const IconHardwareKeyboardControlKey24outlined = () => <SVGHardwareKeyboardControlKey_24_outlined />;
+export const IconHardwareKeyboardControlKey20twotone = () => <SVGHardwareKeyboardControlKey_20_twotone />;
+export const IconHardwareKeyboardControlKey24twotone = () => <SVGHardwareKeyboardControlKey_24_twotone />;
+export const IconHardwareKeyboardControlKey20sharp = () => <SVGHardwareKeyboardControlKey_20_sharp />;
+export const IconHardwareKeyboardControlKey24sharp = () => <SVGHardwareKeyboardControlKey_24_sharp />;
+export const IconHardwareKeyboardControlKey20filled = () => <SVGHardwareKeyboardControlKey_20_filled />;
+export const IconHardwareKeyboardControlKey24filled = () => <SVGHardwareKeyboardControlKey_24_filled />;
+export const IconHardwareKeyboardControlKey20round = () => <SVGHardwareKeyboardControlKey_20_round />;
+export const IconHardwareKeyboardControlKey24round = () => <SVGHardwareKeyboardControlKey_24_round />;

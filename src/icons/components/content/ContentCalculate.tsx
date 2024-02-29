@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentCalculate_20_outlined from '../../svg/content/ContentCalculate/20_outlined.svg';
+import SVGContentCalculate_24_outlined from '../../svg/content/ContentCalculate/24_outlined.svg';
+import SVGContentCalculate_20_twotone from '../../svg/content/ContentCalculate/20_twotone.svg';
+import SVGContentCalculate_24_twotone from '../../svg/content/ContentCalculate/24_twotone.svg';
+import SVGContentCalculate_20_sharp from '../../svg/content/ContentCalculate/20_sharp.svg';
+import SVGContentCalculate_24_sharp from '../../svg/content/ContentCalculate/24_sharp.svg';
+import SVGContentCalculate_20_filled from '../../svg/content/ContentCalculate/20_filled.svg';
+import SVGContentCalculate_24_filled from '../../svg/content/ContentCalculate/24_filled.svg';
+import SVGContentCalculate_20_round from '../../svg/content/ContentCalculate/20_round.svg';
+import SVGContentCalculate_24_round from '../../svg/content/ContentCalculate/24_round.svg';
+
+export const IconContentCalculate20outlined = () => <SVGContentCalculate_20_outlined />;
+export const IconContentCalculate24outlined = () => <SVGContentCalculate_24_outlined />;
+export const IconContentCalculate20twotone = () => <SVGContentCalculate_20_twotone />;
+export const IconContentCalculate24twotone = () => <SVGContentCalculate_24_twotone />;
+export const IconContentCalculate20sharp = () => <SVGContentCalculate_20_sharp />;
+export const IconContentCalculate24sharp = () => <SVGContentCalculate_24_sharp />;
+export const IconContentCalculate20filled = () => <SVGContentCalculate_20_filled />;
+export const IconContentCalculate24filled = () => <SVGContentCalculate_24_filled />;
+export const IconContentCalculate20round = () => <SVGContentCalculate_20_round />;
+export const IconContentCalculate24round = () => <SVGContentCalculate_24_round />;

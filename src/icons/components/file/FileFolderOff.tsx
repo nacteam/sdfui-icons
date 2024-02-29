@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFolderOff_20_outlined from '../../svg/file/FileFolderOff/20_outlined.svg';
+import SVGFileFolderOff_24_outlined from '../../svg/file/FileFolderOff/24_outlined.svg';
+import SVGFileFolderOff_20_twotone from '../../svg/file/FileFolderOff/20_twotone.svg';
+import SVGFileFolderOff_24_twotone from '../../svg/file/FileFolderOff/24_twotone.svg';
+import SVGFileFolderOff_20_sharp from '../../svg/file/FileFolderOff/20_sharp.svg';
+import SVGFileFolderOff_24_sharp from '../../svg/file/FileFolderOff/24_sharp.svg';
+import SVGFileFolderOff_20_filled from '../../svg/file/FileFolderOff/20_filled.svg';
+import SVGFileFolderOff_24_filled from '../../svg/file/FileFolderOff/24_filled.svg';
+import SVGFileFolderOff_20_round from '../../svg/file/FileFolderOff/20_round.svg';
+import SVGFileFolderOff_24_round from '../../svg/file/FileFolderOff/24_round.svg';
+
+export const IconFileFolderOff20outlined = () => <SVGFileFolderOff_20_outlined />;
+export const IconFileFolderOff24outlined = () => <SVGFileFolderOff_24_outlined />;
+export const IconFileFolderOff20twotone = () => <SVGFileFolderOff_20_twotone />;
+export const IconFileFolderOff24twotone = () => <SVGFileFolderOff_24_twotone />;
+export const IconFileFolderOff20sharp = () => <SVGFileFolderOff_20_sharp />;
+export const IconFileFolderOff24sharp = () => <SVGFileFolderOff_24_sharp />;
+export const IconFileFolderOff20filled = () => <SVGFileFolderOff_20_filled />;
+export const IconFileFolderOff24filled = () => <SVGFileFolderOff_24_filled />;
+export const IconFileFolderOff20round = () => <SVGFileFolderOff_20_round />;
+export const IconFileFolderOff24round = () => <SVGFileFolderOff_24_round />;

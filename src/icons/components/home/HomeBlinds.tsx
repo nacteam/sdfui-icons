@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeBlinds_20_outlined from '../../svg/home/HomeBlinds/20_outlined.svg';
+import SVGHomeBlinds_24_outlined from '../../svg/home/HomeBlinds/24_outlined.svg';
+import SVGHomeBlinds_20_twotone from '../../svg/home/HomeBlinds/20_twotone.svg';
+import SVGHomeBlinds_24_twotone from '../../svg/home/HomeBlinds/24_twotone.svg';
+import SVGHomeBlinds_20_sharp from '../../svg/home/HomeBlinds/20_sharp.svg';
+import SVGHomeBlinds_24_sharp from '../../svg/home/HomeBlinds/24_sharp.svg';
+import SVGHomeBlinds_20_filled from '../../svg/home/HomeBlinds/20_filled.svg';
+import SVGHomeBlinds_24_filled from '../../svg/home/HomeBlinds/24_filled.svg';
+import SVGHomeBlinds_20_round from '../../svg/home/HomeBlinds/20_round.svg';
+import SVGHomeBlinds_24_round from '../../svg/home/HomeBlinds/24_round.svg';
+
+export const IconHomeBlinds20outlined = () => <SVGHomeBlinds_20_outlined />;
+export const IconHomeBlinds24outlined = () => <SVGHomeBlinds_24_outlined />;
+export const IconHomeBlinds20twotone = () => <SVGHomeBlinds_20_twotone />;
+export const IconHomeBlinds24twotone = () => <SVGHomeBlinds_24_twotone />;
+export const IconHomeBlinds20sharp = () => <SVGHomeBlinds_20_sharp />;
+export const IconHomeBlinds24sharp = () => <SVGHomeBlinds_24_sharp />;
+export const IconHomeBlinds20filled = () => <SVGHomeBlinds_20_filled />;
+export const IconHomeBlinds24filled = () => <SVGHomeBlinds_24_filled />;
+export const IconHomeBlinds20round = () => <SVGHomeBlinds_20_round />;
+export const IconHomeBlinds24round = () => <SVGHomeBlinds_24_round />;

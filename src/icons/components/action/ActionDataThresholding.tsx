@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionDataThresholding_20_outlined from '../../svg/action/ActionDataThresholding/20_outlined.svg';
+import SVGActionDataThresholding_24_outlined from '../../svg/action/ActionDataThresholding/24_outlined.svg';
+import SVGActionDataThresholding_20_twotone from '../../svg/action/ActionDataThresholding/20_twotone.svg';
+import SVGActionDataThresholding_24_twotone from '../../svg/action/ActionDataThresholding/24_twotone.svg';
+import SVGActionDataThresholding_20_sharp from '../../svg/action/ActionDataThresholding/20_sharp.svg';
+import SVGActionDataThresholding_24_sharp from '../../svg/action/ActionDataThresholding/24_sharp.svg';
+import SVGActionDataThresholding_20_filled from '../../svg/action/ActionDataThresholding/20_filled.svg';
+import SVGActionDataThresholding_24_filled from '../../svg/action/ActionDataThresholding/24_filled.svg';
+import SVGActionDataThresholding_20_round from '../../svg/action/ActionDataThresholding/20_round.svg';
+import SVGActionDataThresholding_24_round from '../../svg/action/ActionDataThresholding/24_round.svg';
+
+export const IconActionDataThresholding20outlined = () => <SVGActionDataThresholding_20_outlined />;
+export const IconActionDataThresholding24outlined = () => <SVGActionDataThresholding_24_outlined />;
+export const IconActionDataThresholding20twotone = () => <SVGActionDataThresholding_20_twotone />;
+export const IconActionDataThresholding24twotone = () => <SVGActionDataThresholding_24_twotone />;
+export const IconActionDataThresholding20sharp = () => <SVGActionDataThresholding_20_sharp />;
+export const IconActionDataThresholding24sharp = () => <SVGActionDataThresholding_24_sharp />;
+export const IconActionDataThresholding20filled = () => <SVGActionDataThresholding_20_filled />;
+export const IconActionDataThresholding24filled = () => <SVGActionDataThresholding_24_filled />;
+export const IconActionDataThresholding20round = () => <SVGActionDataThresholding_20_round />;
+export const IconActionDataThresholding24round = () => <SVGActionDataThresholding_24_round />;

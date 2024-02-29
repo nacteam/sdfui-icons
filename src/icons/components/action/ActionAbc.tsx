@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAbc_20_outlined from '../../svg/action/ActionAbc/20_outlined.svg';
+import SVGActionAbc_24_outlined from '../../svg/action/ActionAbc/24_outlined.svg';
+import SVGActionAbc_20_twotone from '../../svg/action/ActionAbc/20_twotone.svg';
+import SVGActionAbc_24_twotone from '../../svg/action/ActionAbc/24_twotone.svg';
+import SVGActionAbc_20_sharp from '../../svg/action/ActionAbc/20_sharp.svg';
+import SVGActionAbc_24_sharp from '../../svg/action/ActionAbc/24_sharp.svg';
+import SVGActionAbc_20_filled from '../../svg/action/ActionAbc/20_filled.svg';
+import SVGActionAbc_24_filled from '../../svg/action/ActionAbc/24_filled.svg';
+import SVGActionAbc_20_round from '../../svg/action/ActionAbc/20_round.svg';
+import SVGActionAbc_24_round from '../../svg/action/ActionAbc/24_round.svg';
+
+export const IconActionAbc20outlined = () => <SVGActionAbc_20_outlined />;
+export const IconActionAbc24outlined = () => <SVGActionAbc_24_outlined />;
+export const IconActionAbc20twotone = () => <SVGActionAbc_20_twotone />;
+export const IconActionAbc24twotone = () => <SVGActionAbc_24_twotone />;
+export const IconActionAbc20sharp = () => <SVGActionAbc_20_sharp />;
+export const IconActionAbc24sharp = () => <SVGActionAbc_24_sharp />;
+export const IconActionAbc20filled = () => <SVGActionAbc_20_filled />;
+export const IconActionAbc24filled = () => <SVGActionAbc_24_filled />;
+export const IconActionAbc20round = () => <SVGActionAbc_20_round />;
+export const IconActionAbc24round = () => <SVGActionAbc_24_round />;

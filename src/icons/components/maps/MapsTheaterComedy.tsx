@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsTheaterComedy_20_outlined from '../../svg/maps/MapsTheaterComedy/20_outlined.svg';
+import SVGMapsTheaterComedy_24_outlined from '../../svg/maps/MapsTheaterComedy/24_outlined.svg';
+import SVGMapsTheaterComedy_20_twotone from '../../svg/maps/MapsTheaterComedy/20_twotone.svg';
+import SVGMapsTheaterComedy_24_twotone from '../../svg/maps/MapsTheaterComedy/24_twotone.svg';
+import SVGMapsTheaterComedy_20_sharp from '../../svg/maps/MapsTheaterComedy/20_sharp.svg';
+import SVGMapsTheaterComedy_24_sharp from '../../svg/maps/MapsTheaterComedy/24_sharp.svg';
+import SVGMapsTheaterComedy_20_filled from '../../svg/maps/MapsTheaterComedy/20_filled.svg';
+import SVGMapsTheaterComedy_24_filled from '../../svg/maps/MapsTheaterComedy/24_filled.svg';
+import SVGMapsTheaterComedy_20_round from '../../svg/maps/MapsTheaterComedy/20_round.svg';
+import SVGMapsTheaterComedy_24_round from '../../svg/maps/MapsTheaterComedy/24_round.svg';
+
+export const IconMapsTheaterComedy20outlined = () => <SVGMapsTheaterComedy_20_outlined />;
+export const IconMapsTheaterComedy24outlined = () => <SVGMapsTheaterComedy_24_outlined />;
+export const IconMapsTheaterComedy20twotone = () => <SVGMapsTheaterComedy_20_twotone />;
+export const IconMapsTheaterComedy24twotone = () => <SVGMapsTheaterComedy_24_twotone />;
+export const IconMapsTheaterComedy20sharp = () => <SVGMapsTheaterComedy_20_sharp />;
+export const IconMapsTheaterComedy24sharp = () => <SVGMapsTheaterComedy_24_sharp />;
+export const IconMapsTheaterComedy20filled = () => <SVGMapsTheaterComedy_20_filled />;
+export const IconMapsTheaterComedy24filled = () => <SVGMapsTheaterComedy_24_filled />;
+export const IconMapsTheaterComedy20round = () => <SVGMapsTheaterComedy_20_round />;
+export const IconMapsTheaterComedy24round = () => <SVGMapsTheaterComedy_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMarkChatRead_20_outlined from '../../svg/communication/CommunicationMarkChatRead/20_outlined.svg';
+import SVGCommunicationMarkChatRead_24_outlined from '../../svg/communication/CommunicationMarkChatRead/24_outlined.svg';
+import SVGCommunicationMarkChatRead_20_twotone from '../../svg/communication/CommunicationMarkChatRead/20_twotone.svg';
+import SVGCommunicationMarkChatRead_24_twotone from '../../svg/communication/CommunicationMarkChatRead/24_twotone.svg';
+import SVGCommunicationMarkChatRead_20_sharp from '../../svg/communication/CommunicationMarkChatRead/20_sharp.svg';
+import SVGCommunicationMarkChatRead_24_sharp from '../../svg/communication/CommunicationMarkChatRead/24_sharp.svg';
+import SVGCommunicationMarkChatRead_20_filled from '../../svg/communication/CommunicationMarkChatRead/20_filled.svg';
+import SVGCommunicationMarkChatRead_24_filled from '../../svg/communication/CommunicationMarkChatRead/24_filled.svg';
+import SVGCommunicationMarkChatRead_20_round from '../../svg/communication/CommunicationMarkChatRead/20_round.svg';
+import SVGCommunicationMarkChatRead_24_round from '../../svg/communication/CommunicationMarkChatRead/24_round.svg';
+
+export const IconCommunicationMarkChatRead20outlined = () => <SVGCommunicationMarkChatRead_20_outlined />;
+export const IconCommunicationMarkChatRead24outlined = () => <SVGCommunicationMarkChatRead_24_outlined />;
+export const IconCommunicationMarkChatRead20twotone = () => <SVGCommunicationMarkChatRead_20_twotone />;
+export const IconCommunicationMarkChatRead24twotone = () => <SVGCommunicationMarkChatRead_24_twotone />;
+export const IconCommunicationMarkChatRead20sharp = () => <SVGCommunicationMarkChatRead_20_sharp />;
+export const IconCommunicationMarkChatRead24sharp = () => <SVGCommunicationMarkChatRead_24_sharp />;
+export const IconCommunicationMarkChatRead20filled = () => <SVGCommunicationMarkChatRead_20_filled />;
+export const IconCommunicationMarkChatRead24filled = () => <SVGCommunicationMarkChatRead_24_filled />;
+export const IconCommunicationMarkChatRead20round = () => <SVGCommunicationMarkChatRead_20_round />;
+export const IconCommunicationMarkChatRead24round = () => <SVGCommunicationMarkChatRead_24_round />;

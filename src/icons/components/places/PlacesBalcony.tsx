@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesBalcony_20_outlined from '../../svg/places/PlacesBalcony/20_outlined.svg';
+import SVGPlacesBalcony_24_outlined from '../../svg/places/PlacesBalcony/24_outlined.svg';
+import SVGPlacesBalcony_20_twotone from '../../svg/places/PlacesBalcony/20_twotone.svg';
+import SVGPlacesBalcony_24_twotone from '../../svg/places/PlacesBalcony/24_twotone.svg';
+import SVGPlacesBalcony_20_sharp from '../../svg/places/PlacesBalcony/20_sharp.svg';
+import SVGPlacesBalcony_24_sharp from '../../svg/places/PlacesBalcony/24_sharp.svg';
+import SVGPlacesBalcony_20_filled from '../../svg/places/PlacesBalcony/20_filled.svg';
+import SVGPlacesBalcony_24_filled from '../../svg/places/PlacesBalcony/24_filled.svg';
+import SVGPlacesBalcony_20_round from '../../svg/places/PlacesBalcony/20_round.svg';
+import SVGPlacesBalcony_24_round from '../../svg/places/PlacesBalcony/24_round.svg';
+
+export const IconPlacesBalcony20outlined = () => <SVGPlacesBalcony_20_outlined />;
+export const IconPlacesBalcony24outlined = () => <SVGPlacesBalcony_24_outlined />;
+export const IconPlacesBalcony20twotone = () => <SVGPlacesBalcony_20_twotone />;
+export const IconPlacesBalcony24twotone = () => <SVGPlacesBalcony_24_twotone />;
+export const IconPlacesBalcony20sharp = () => <SVGPlacesBalcony_20_sharp />;
+export const IconPlacesBalcony24sharp = () => <SVGPlacesBalcony_24_sharp />;
+export const IconPlacesBalcony20filled = () => <SVGPlacesBalcony_20_filled />;
+export const IconPlacesBalcony24filled = () => <SVGPlacesBalcony_24_filled />;
+export const IconPlacesBalcony20round = () => <SVGPlacesBalcony_20_round />;
+export const IconPlacesBalcony24round = () => <SVGPlacesBalcony_24_round />;

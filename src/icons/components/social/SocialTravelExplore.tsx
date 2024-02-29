@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialTravelExplore_20_outlined from '../../svg/social/SocialTravelExplore/20_outlined.svg';
+import SVGSocialTravelExplore_24_outlined from '../../svg/social/SocialTravelExplore/24_outlined.svg';
+import SVGSocialTravelExplore_20_twotone from '../../svg/social/SocialTravelExplore/20_twotone.svg';
+import SVGSocialTravelExplore_24_twotone from '../../svg/social/SocialTravelExplore/24_twotone.svg';
+import SVGSocialTravelExplore_20_sharp from '../../svg/social/SocialTravelExplore/20_sharp.svg';
+import SVGSocialTravelExplore_24_sharp from '../../svg/social/SocialTravelExplore/24_sharp.svg';
+import SVGSocialTravelExplore_20_filled from '../../svg/social/SocialTravelExplore/20_filled.svg';
+import SVGSocialTravelExplore_24_filled from '../../svg/social/SocialTravelExplore/24_filled.svg';
+import SVGSocialTravelExplore_20_round from '../../svg/social/SocialTravelExplore/20_round.svg';
+import SVGSocialTravelExplore_24_round from '../../svg/social/SocialTravelExplore/24_round.svg';
+
+export const IconSocialTravelExplore20outlined = () => <SVGSocialTravelExplore_20_outlined />;
+export const IconSocialTravelExplore24outlined = () => <SVGSocialTravelExplore_24_outlined />;
+export const IconSocialTravelExplore20twotone = () => <SVGSocialTravelExplore_20_twotone />;
+export const IconSocialTravelExplore24twotone = () => <SVGSocialTravelExplore_24_twotone />;
+export const IconSocialTravelExplore20sharp = () => <SVGSocialTravelExplore_20_sharp />;
+export const IconSocialTravelExplore24sharp = () => <SVGSocialTravelExplore_24_sharp />;
+export const IconSocialTravelExplore20filled = () => <SVGSocialTravelExplore_20_filled />;
+export const IconSocialTravelExplore24filled = () => <SVGSocialTravelExplore_24_filled />;
+export const IconSocialTravelExplore20round = () => <SVGSocialTravelExplore_20_round />;
+export const IconSocialTravelExplore24round = () => <SVGSocialTravelExplore_24_round />;

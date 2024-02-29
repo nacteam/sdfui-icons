@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsVolleyball_20_outlined from '../../svg/social/SocialSportsVolleyball/20_outlined.svg';
+import SVGSocialSportsVolleyball_24_outlined from '../../svg/social/SocialSportsVolleyball/24_outlined.svg';
+import SVGSocialSportsVolleyball_20_twotone from '../../svg/social/SocialSportsVolleyball/20_twotone.svg';
+import SVGSocialSportsVolleyball_24_twotone from '../../svg/social/SocialSportsVolleyball/24_twotone.svg';
+import SVGSocialSportsVolleyball_20_sharp from '../../svg/social/SocialSportsVolleyball/20_sharp.svg';
+import SVGSocialSportsVolleyball_24_sharp from '../../svg/social/SocialSportsVolleyball/24_sharp.svg';
+import SVGSocialSportsVolleyball_20_filled from '../../svg/social/SocialSportsVolleyball/20_filled.svg';
+import SVGSocialSportsVolleyball_24_filled from '../../svg/social/SocialSportsVolleyball/24_filled.svg';
+import SVGSocialSportsVolleyball_20_round from '../../svg/social/SocialSportsVolleyball/20_round.svg';
+import SVGSocialSportsVolleyball_24_round from '../../svg/social/SocialSportsVolleyball/24_round.svg';
+
+export const IconSocialSportsVolleyball20outlined = () => <SVGSocialSportsVolleyball_20_outlined />;
+export const IconSocialSportsVolleyball24outlined = () => <SVGSocialSportsVolleyball_24_outlined />;
+export const IconSocialSportsVolleyball20twotone = () => <SVGSocialSportsVolleyball_20_twotone />;
+export const IconSocialSportsVolleyball24twotone = () => <SVGSocialSportsVolleyball_24_twotone />;
+export const IconSocialSportsVolleyball20sharp = () => <SVGSocialSportsVolleyball_20_sharp />;
+export const IconSocialSportsVolleyball24sharp = () => <SVGSocialSportsVolleyball_24_sharp />;
+export const IconSocialSportsVolleyball20filled = () => <SVGSocialSportsVolleyball_20_filled />;
+export const IconSocialSportsVolleyball24filled = () => <SVGSocialSportsVolleyball_24_filled />;
+export const IconSocialSportsVolleyball20round = () => <SVGSocialSportsVolleyball_20_round />;
+export const IconSocialSportsVolleyball24round = () => <SVGSocialSportsVolleyball_24_round />;

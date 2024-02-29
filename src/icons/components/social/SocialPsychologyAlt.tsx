@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPsychologyAlt_20_outlined from '../../svg/social/SocialPsychologyAlt/20_outlined.svg';
+import SVGSocialPsychologyAlt_24_outlined from '../../svg/social/SocialPsychologyAlt/24_outlined.svg';
+import SVGSocialPsychologyAlt_20_twotone from '../../svg/social/SocialPsychologyAlt/20_twotone.svg';
+import SVGSocialPsychologyAlt_24_twotone from '../../svg/social/SocialPsychologyAlt/24_twotone.svg';
+import SVGSocialPsychologyAlt_20_sharp from '../../svg/social/SocialPsychologyAlt/20_sharp.svg';
+import SVGSocialPsychologyAlt_24_sharp from '../../svg/social/SocialPsychologyAlt/24_sharp.svg';
+import SVGSocialPsychologyAlt_20_filled from '../../svg/social/SocialPsychologyAlt/20_filled.svg';
+import SVGSocialPsychologyAlt_24_filled from '../../svg/social/SocialPsychologyAlt/24_filled.svg';
+import SVGSocialPsychologyAlt_20_round from '../../svg/social/SocialPsychologyAlt/20_round.svg';
+import SVGSocialPsychologyAlt_24_round from '../../svg/social/SocialPsychologyAlt/24_round.svg';
+
+export const IconSocialPsychologyAlt20outlined = () => <SVGSocialPsychologyAlt_20_outlined />;
+export const IconSocialPsychologyAlt24outlined = () => <SVGSocialPsychologyAlt_24_outlined />;
+export const IconSocialPsychologyAlt20twotone = () => <SVGSocialPsychologyAlt_20_twotone />;
+export const IconSocialPsychologyAlt24twotone = () => <SVGSocialPsychologyAlt_24_twotone />;
+export const IconSocialPsychologyAlt20sharp = () => <SVGSocialPsychologyAlt_20_sharp />;
+export const IconSocialPsychologyAlt24sharp = () => <SVGSocialPsychologyAlt_24_sharp />;
+export const IconSocialPsychologyAlt20filled = () => <SVGSocialPsychologyAlt_20_filled />;
+export const IconSocialPsychologyAlt24filled = () => <SVGSocialPsychologyAlt_24_filled />;
+export const IconSocialPsychologyAlt20round = () => <SVGSocialPsychologyAlt_20_round />;
+export const IconSocialPsychologyAlt24round = () => <SVGSocialPsychologyAlt_24_round />;

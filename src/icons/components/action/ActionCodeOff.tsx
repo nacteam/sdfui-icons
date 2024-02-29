@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionCodeOff_20_outlined from '../../svg/action/ActionCodeOff/20_outlined.svg';
+import SVGActionCodeOff_24_outlined from '../../svg/action/ActionCodeOff/24_outlined.svg';
+import SVGActionCodeOff_20_twotone from '../../svg/action/ActionCodeOff/20_twotone.svg';
+import SVGActionCodeOff_24_twotone from '../../svg/action/ActionCodeOff/24_twotone.svg';
+import SVGActionCodeOff_20_sharp from '../../svg/action/ActionCodeOff/20_sharp.svg';
+import SVGActionCodeOff_24_sharp from '../../svg/action/ActionCodeOff/24_sharp.svg';
+import SVGActionCodeOff_20_filled from '../../svg/action/ActionCodeOff/20_filled.svg';
+import SVGActionCodeOff_24_filled from '../../svg/action/ActionCodeOff/24_filled.svg';
+import SVGActionCodeOff_20_round from '../../svg/action/ActionCodeOff/20_round.svg';
+import SVGActionCodeOff_24_round from '../../svg/action/ActionCodeOff/24_round.svg';
+
+export const IconActionCodeOff20outlined = () => <SVGActionCodeOff_20_outlined />;
+export const IconActionCodeOff24outlined = () => <SVGActionCodeOff_24_outlined />;
+export const IconActionCodeOff20twotone = () => <SVGActionCodeOff_20_twotone />;
+export const IconActionCodeOff24twotone = () => <SVGActionCodeOff_24_twotone />;
+export const IconActionCodeOff20sharp = () => <SVGActionCodeOff_20_sharp />;
+export const IconActionCodeOff24sharp = () => <SVGActionCodeOff_24_sharp />;
+export const IconActionCodeOff20filled = () => <SVGActionCodeOff_20_filled />;
+export const IconActionCodeOff24filled = () => <SVGActionCodeOff_24_filled />;
+export const IconActionCodeOff20round = () => <SVGActionCodeOff_20_round />;
+export const IconActionCodeOff24round = () => <SVGActionCodeOff_24_round />;

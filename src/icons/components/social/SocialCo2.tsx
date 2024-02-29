@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialCo2_20_outlined from '../../svg/social/SocialCo2/20_outlined.svg';
+import SVGSocialCo2_24_outlined from '../../svg/social/SocialCo2/24_outlined.svg';
+import SVGSocialCo2_20_twotone from '../../svg/social/SocialCo2/20_twotone.svg';
+import SVGSocialCo2_24_twotone from '../../svg/social/SocialCo2/24_twotone.svg';
+import SVGSocialCo2_20_sharp from '../../svg/social/SocialCo2/20_sharp.svg';
+import SVGSocialCo2_24_sharp from '../../svg/social/SocialCo2/24_sharp.svg';
+import SVGSocialCo2_20_filled from '../../svg/social/SocialCo2/20_filled.svg';
+import SVGSocialCo2_24_filled from '../../svg/social/SocialCo2/24_filled.svg';
+import SVGSocialCo2_20_round from '../../svg/social/SocialCo2/20_round.svg';
+import SVGSocialCo2_24_round from '../../svg/social/SocialCo2/24_round.svg';
+
+export const IconSocialCo220outlined = () => <SVGSocialCo2_20_outlined />;
+export const IconSocialCo224outlined = () => <SVGSocialCo2_24_outlined />;
+export const IconSocialCo220twotone = () => <SVGSocialCo2_20_twotone />;
+export const IconSocialCo224twotone = () => <SVGSocialCo2_24_twotone />;
+export const IconSocialCo220sharp = () => <SVGSocialCo2_20_sharp />;
+export const IconSocialCo224sharp = () => <SVGSocialCo2_24_sharp />;
+export const IconSocialCo220filled = () => <SVGSocialCo2_20_filled />;
+export const IconSocialCo224filled = () => <SVGSocialCo2_24_filled />;
+export const IconSocialCo220round = () => <SVGSocialCo2_20_round />;
+export const IconSocialCo224round = () => <SVGSocialCo2_24_round />;

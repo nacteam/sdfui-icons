@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionOnlinePrediction_20_outlined from '../../svg/action/ActionOnlinePrediction/20_outlined.svg';
+import SVGActionOnlinePrediction_24_outlined from '../../svg/action/ActionOnlinePrediction/24_outlined.svg';
+import SVGActionOnlinePrediction_20_twotone from '../../svg/action/ActionOnlinePrediction/20_twotone.svg';
+import SVGActionOnlinePrediction_24_twotone from '../../svg/action/ActionOnlinePrediction/24_twotone.svg';
+import SVGActionOnlinePrediction_20_sharp from '../../svg/action/ActionOnlinePrediction/20_sharp.svg';
+import SVGActionOnlinePrediction_24_sharp from '../../svg/action/ActionOnlinePrediction/24_sharp.svg';
+import SVGActionOnlinePrediction_20_filled from '../../svg/action/ActionOnlinePrediction/20_filled.svg';
+import SVGActionOnlinePrediction_24_filled from '../../svg/action/ActionOnlinePrediction/24_filled.svg';
+import SVGActionOnlinePrediction_20_round from '../../svg/action/ActionOnlinePrediction/20_round.svg';
+import SVGActionOnlinePrediction_24_round from '../../svg/action/ActionOnlinePrediction/24_round.svg';
+
+export const IconActionOnlinePrediction20outlined = () => <SVGActionOnlinePrediction_20_outlined />;
+export const IconActionOnlinePrediction24outlined = () => <SVGActionOnlinePrediction_24_outlined />;
+export const IconActionOnlinePrediction20twotone = () => <SVGActionOnlinePrediction_20_twotone />;
+export const IconActionOnlinePrediction24twotone = () => <SVGActionOnlinePrediction_24_twotone />;
+export const IconActionOnlinePrediction20sharp = () => <SVGActionOnlinePrediction_20_sharp />;
+export const IconActionOnlinePrediction24sharp = () => <SVGActionOnlinePrediction_24_sharp />;
+export const IconActionOnlinePrediction20filled = () => <SVGActionOnlinePrediction_20_filled />;
+export const IconActionOnlinePrediction24filled = () => <SVGActionOnlinePrediction_24_filled />;
+export const IconActionOnlinePrediction20round = () => <SVGActionOnlinePrediction_20_round />;
+export const IconActionOnlinePrediction24round = () => <SVGActionOnlinePrediction_24_round />;

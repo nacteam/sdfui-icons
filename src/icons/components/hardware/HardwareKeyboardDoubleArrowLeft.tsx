@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareKeyboardDoubleArrowLeft_20_outlined from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/20_outlined.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_24_outlined from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/24_outlined.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_20_twotone from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/20_twotone.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_24_twotone from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/24_twotone.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_20_sharp from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/20_sharp.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_24_sharp from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/24_sharp.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_20_filled from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/20_filled.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_24_filled from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/24_filled.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_20_round from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/20_round.svg';
+import SVGHardwareKeyboardDoubleArrowLeft_24_round from '../../svg/hardware/HardwareKeyboardDoubleArrowLeft/24_round.svg';
+
+export const IconHardwareKeyboardDoubleArrowLeft20outlined = () => <SVGHardwareKeyboardDoubleArrowLeft_20_outlined />;
+export const IconHardwareKeyboardDoubleArrowLeft24outlined = () => <SVGHardwareKeyboardDoubleArrowLeft_24_outlined />;
+export const IconHardwareKeyboardDoubleArrowLeft20twotone = () => <SVGHardwareKeyboardDoubleArrowLeft_20_twotone />;
+export const IconHardwareKeyboardDoubleArrowLeft24twotone = () => <SVGHardwareKeyboardDoubleArrowLeft_24_twotone />;
+export const IconHardwareKeyboardDoubleArrowLeft20sharp = () => <SVGHardwareKeyboardDoubleArrowLeft_20_sharp />;
+export const IconHardwareKeyboardDoubleArrowLeft24sharp = () => <SVGHardwareKeyboardDoubleArrowLeft_24_sharp />;
+export const IconHardwareKeyboardDoubleArrowLeft20filled = () => <SVGHardwareKeyboardDoubleArrowLeft_20_filled />;
+export const IconHardwareKeyboardDoubleArrowLeft24filled = () => <SVGHardwareKeyboardDoubleArrowLeft_24_filled />;
+export const IconHardwareKeyboardDoubleArrowLeft20round = () => <SVGHardwareKeyboardDoubleArrowLeft_20_round />;
+export const IconHardwareKeyboardDoubleArrowLeft24round = () => <SVGHardwareKeyboardDoubleArrowLeft_24_round />;

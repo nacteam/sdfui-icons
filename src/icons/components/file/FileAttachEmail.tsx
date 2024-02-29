@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileAttachEmail_20_outlined from '../../svg/file/FileAttachEmail/20_outlined.svg';
+import SVGFileAttachEmail_24_outlined from '../../svg/file/FileAttachEmail/24_outlined.svg';
+import SVGFileAttachEmail_20_twotone from '../../svg/file/FileAttachEmail/20_twotone.svg';
+import SVGFileAttachEmail_24_twotone from '../../svg/file/FileAttachEmail/24_twotone.svg';
+import SVGFileAttachEmail_20_sharp from '../../svg/file/FileAttachEmail/20_sharp.svg';
+import SVGFileAttachEmail_24_sharp from '../../svg/file/FileAttachEmail/24_sharp.svg';
+import SVGFileAttachEmail_20_filled from '../../svg/file/FileAttachEmail/20_filled.svg';
+import SVGFileAttachEmail_24_filled from '../../svg/file/FileAttachEmail/24_filled.svg';
+import SVGFileAttachEmail_20_round from '../../svg/file/FileAttachEmail/20_round.svg';
+import SVGFileAttachEmail_24_round from '../../svg/file/FileAttachEmail/24_round.svg';
+
+export const IconFileAttachEmail20outlined = () => <SVGFileAttachEmail_20_outlined />;
+export const IconFileAttachEmail24outlined = () => <SVGFileAttachEmail_24_outlined />;
+export const IconFileAttachEmail20twotone = () => <SVGFileAttachEmail_20_twotone />;
+export const IconFileAttachEmail24twotone = () => <SVGFileAttachEmail_24_twotone />;
+export const IconFileAttachEmail20sharp = () => <SVGFileAttachEmail_20_sharp />;
+export const IconFileAttachEmail24sharp = () => <SVGFileAttachEmail_24_sharp />;
+export const IconFileAttachEmail20filled = () => <SVGFileAttachEmail_20_filled />;
+export const IconFileAttachEmail24filled = () => <SVGFileAttachEmail_24_filled />;
+export const IconFileAttachEmail20round = () => <SVGFileAttachEmail_20_round />;
+export const IconFileAttachEmail24round = () => <SVGFileAttachEmail_24_round />;

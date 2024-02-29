@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFolderCopy_20_outlined from '../../svg/file/FileFolderCopy/20_outlined.svg';
+import SVGFileFolderCopy_24_outlined from '../../svg/file/FileFolderCopy/24_outlined.svg';
+import SVGFileFolderCopy_20_twotone from '../../svg/file/FileFolderCopy/20_twotone.svg';
+import SVGFileFolderCopy_24_twotone from '../../svg/file/FileFolderCopy/24_twotone.svg';
+import SVGFileFolderCopy_20_sharp from '../../svg/file/FileFolderCopy/20_sharp.svg';
+import SVGFileFolderCopy_24_sharp from '../../svg/file/FileFolderCopy/24_sharp.svg';
+import SVGFileFolderCopy_20_filled from '../../svg/file/FileFolderCopy/20_filled.svg';
+import SVGFileFolderCopy_24_filled from '../../svg/file/FileFolderCopy/24_filled.svg';
+import SVGFileFolderCopy_20_round from '../../svg/file/FileFolderCopy/20_round.svg';
+import SVGFileFolderCopy_24_round from '../../svg/file/FileFolderCopy/24_round.svg';
+
+export const IconFileFolderCopy20outlined = () => <SVGFileFolderCopy_20_outlined />;
+export const IconFileFolderCopy24outlined = () => <SVGFileFolderCopy_24_outlined />;
+export const IconFileFolderCopy20twotone = () => <SVGFileFolderCopy_20_twotone />;
+export const IconFileFolderCopy24twotone = () => <SVGFileFolderCopy_24_twotone />;
+export const IconFileFolderCopy20sharp = () => <SVGFileFolderCopy_20_sharp />;
+export const IconFileFolderCopy24sharp = () => <SVGFileFolderCopy_24_sharp />;
+export const IconFileFolderCopy20filled = () => <SVGFileFolderCopy_20_filled />;
+export const IconFileFolderCopy24filled = () => <SVGFileFolderCopy_24_filled />;
+export const IconFileFolderCopy20round = () => <SVGFileFolderCopy_20_round />;
+export const IconFileFolderCopy24round = () => <SVGFileFolderCopy_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeHeatPump_20_outlined from '../../svg/home/HomeHeatPump/20_outlined.svg';
+import SVGHomeHeatPump_24_outlined from '../../svg/home/HomeHeatPump/24_outlined.svg';
+import SVGHomeHeatPump_20_twotone from '../../svg/home/HomeHeatPump/20_twotone.svg';
+import SVGHomeHeatPump_24_twotone from '../../svg/home/HomeHeatPump/24_twotone.svg';
+import SVGHomeHeatPump_20_sharp from '../../svg/home/HomeHeatPump/20_sharp.svg';
+import SVGHomeHeatPump_24_sharp from '../../svg/home/HomeHeatPump/24_sharp.svg';
+import SVGHomeHeatPump_20_filled from '../../svg/home/HomeHeatPump/20_filled.svg';
+import SVGHomeHeatPump_24_filled from '../../svg/home/HomeHeatPump/24_filled.svg';
+import SVGHomeHeatPump_20_round from '../../svg/home/HomeHeatPump/20_round.svg';
+import SVGHomeHeatPump_24_round from '../../svg/home/HomeHeatPump/24_round.svg';
+
+export const IconHomeHeatPump20outlined = () => <SVGHomeHeatPump_20_outlined />;
+export const IconHomeHeatPump24outlined = () => <SVGHomeHeatPump_24_outlined />;
+export const IconHomeHeatPump20twotone = () => <SVGHomeHeatPump_20_twotone />;
+export const IconHomeHeatPump24twotone = () => <SVGHomeHeatPump_24_twotone />;
+export const IconHomeHeatPump20sharp = () => <SVGHomeHeatPump_20_sharp />;
+export const IconHomeHeatPump24sharp = () => <SVGHomeHeatPump_24_sharp />;
+export const IconHomeHeatPump20filled = () => <SVGHomeHeatPump_20_filled />;
+export const IconHomeHeatPump24filled = () => <SVGHomeHeatPump_24_filled />;
+export const IconHomeHeatPump20round = () => <SVGHomeHeatPump_20_round />;
+export const IconHomeHeatPump24round = () => <SVGHomeHeatPump_24_round />;

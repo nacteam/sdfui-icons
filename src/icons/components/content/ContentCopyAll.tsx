@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentCopyAll_20_outlined from '../../svg/content/ContentCopyAll/20_outlined.svg';
+import SVGContentCopyAll_24_outlined from '../../svg/content/ContentCopyAll/24_outlined.svg';
+import SVGContentCopyAll_20_twotone from '../../svg/content/ContentCopyAll/20_twotone.svg';
+import SVGContentCopyAll_24_twotone from '../../svg/content/ContentCopyAll/24_twotone.svg';
+import SVGContentCopyAll_20_sharp from '../../svg/content/ContentCopyAll/20_sharp.svg';
+import SVGContentCopyAll_24_sharp from '../../svg/content/ContentCopyAll/24_sharp.svg';
+import SVGContentCopyAll_20_filled from '../../svg/content/ContentCopyAll/20_filled.svg';
+import SVGContentCopyAll_24_filled from '../../svg/content/ContentCopyAll/24_filled.svg';
+import SVGContentCopyAll_20_round from '../../svg/content/ContentCopyAll/20_round.svg';
+import SVGContentCopyAll_24_round from '../../svg/content/ContentCopyAll/24_round.svg';
+
+export const IconContentCopyAll20outlined = () => <SVGContentCopyAll_20_outlined />;
+export const IconContentCopyAll24outlined = () => <SVGContentCopyAll_24_outlined />;
+export const IconContentCopyAll20twotone = () => <SVGContentCopyAll_20_twotone />;
+export const IconContentCopyAll24twotone = () => <SVGContentCopyAll_24_twotone />;
+export const IconContentCopyAll20sharp = () => <SVGContentCopyAll_20_sharp />;
+export const IconContentCopyAll24sharp = () => <SVGContentCopyAll_24_sharp />;
+export const IconContentCopyAll20filled = () => <SVGContentCopyAll_20_filled />;
+export const IconContentCopyAll24filled = () => <SVGContentCopyAll_24_filled />;
+export const IconContentCopyAll20round = () => <SVGContentCopyAll_20_round />;
+export const IconContentCopyAll24round = () => <SVGContentCopyAll_24_round />;

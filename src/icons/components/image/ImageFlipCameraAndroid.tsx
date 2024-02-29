@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageFlipCameraAndroid_20_outlined from '../../svg/image/ImageFlipCameraAndroid/20_outlined.svg';
+import SVGImageFlipCameraAndroid_24_outlined from '../../svg/image/ImageFlipCameraAndroid/24_outlined.svg';
+import SVGImageFlipCameraAndroid_20_twotone from '../../svg/image/ImageFlipCameraAndroid/20_twotone.svg';
+import SVGImageFlipCameraAndroid_24_twotone from '../../svg/image/ImageFlipCameraAndroid/24_twotone.svg';
+import SVGImageFlipCameraAndroid_20_sharp from '../../svg/image/ImageFlipCameraAndroid/20_sharp.svg';
+import SVGImageFlipCameraAndroid_24_sharp from '../../svg/image/ImageFlipCameraAndroid/24_sharp.svg';
+import SVGImageFlipCameraAndroid_20_filled from '../../svg/image/ImageFlipCameraAndroid/20_filled.svg';
+import SVGImageFlipCameraAndroid_24_filled from '../../svg/image/ImageFlipCameraAndroid/24_filled.svg';
+import SVGImageFlipCameraAndroid_20_round from '../../svg/image/ImageFlipCameraAndroid/20_round.svg';
+import SVGImageFlipCameraAndroid_24_round from '../../svg/image/ImageFlipCameraAndroid/24_round.svg';
+
+export const IconImageFlipCameraAndroid20outlined = () => <SVGImageFlipCameraAndroid_20_outlined />;
+export const IconImageFlipCameraAndroid24outlined = () => <SVGImageFlipCameraAndroid_24_outlined />;
+export const IconImageFlipCameraAndroid20twotone = () => <SVGImageFlipCameraAndroid_20_twotone />;
+export const IconImageFlipCameraAndroid24twotone = () => <SVGImageFlipCameraAndroid_24_twotone />;
+export const IconImageFlipCameraAndroid20sharp = () => <SVGImageFlipCameraAndroid_20_sharp />;
+export const IconImageFlipCameraAndroid24sharp = () => <SVGImageFlipCameraAndroid_24_sharp />;
+export const IconImageFlipCameraAndroid20filled = () => <SVGImageFlipCameraAndroid_20_filled />;
+export const IconImageFlipCameraAndroid24filled = () => <SVGImageFlipCameraAndroid_24_filled />;
+export const IconImageFlipCameraAndroid20round = () => <SVGImageFlipCameraAndroid_20_round />;
+export const IconImageFlipCameraAndroid24round = () => <SVGImageFlipCameraAndroid_24_round />;

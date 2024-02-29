@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationCellTower_20_outlined from '../../svg/communication/CommunicationCellTower/20_outlined.svg';
+import SVGCommunicationCellTower_24_outlined from '../../svg/communication/CommunicationCellTower/24_outlined.svg';
+import SVGCommunicationCellTower_20_twotone from '../../svg/communication/CommunicationCellTower/20_twotone.svg';
+import SVGCommunicationCellTower_24_twotone from '../../svg/communication/CommunicationCellTower/24_twotone.svg';
+import SVGCommunicationCellTower_20_sharp from '../../svg/communication/CommunicationCellTower/20_sharp.svg';
+import SVGCommunicationCellTower_24_sharp from '../../svg/communication/CommunicationCellTower/24_sharp.svg';
+import SVGCommunicationCellTower_20_filled from '../../svg/communication/CommunicationCellTower/20_filled.svg';
+import SVGCommunicationCellTower_24_filled from '../../svg/communication/CommunicationCellTower/24_filled.svg';
+import SVGCommunicationCellTower_20_round from '../../svg/communication/CommunicationCellTower/20_round.svg';
+import SVGCommunicationCellTower_24_round from '../../svg/communication/CommunicationCellTower/24_round.svg';
+
+export const IconCommunicationCellTower20outlined = () => <SVGCommunicationCellTower_20_outlined />;
+export const IconCommunicationCellTower24outlined = () => <SVGCommunicationCellTower_24_outlined />;
+export const IconCommunicationCellTower20twotone = () => <SVGCommunicationCellTower_20_twotone />;
+export const IconCommunicationCellTower24twotone = () => <SVGCommunicationCellTower_24_twotone />;
+export const IconCommunicationCellTower20sharp = () => <SVGCommunicationCellTower_20_sharp />;
+export const IconCommunicationCellTower24sharp = () => <SVGCommunicationCellTower_24_sharp />;
+export const IconCommunicationCellTower20filled = () => <SVGCommunicationCellTower_20_filled />;
+export const IconCommunicationCellTower24filled = () => <SVGCommunicationCellTower_24_filled />;
+export const IconCommunicationCellTower20round = () => <SVGCommunicationCellTower_20_round />;
+export const IconCommunicationCellTower24round = () => <SVGCommunicationCellTower_24_round />;

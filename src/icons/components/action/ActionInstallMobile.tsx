@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionInstallMobile_20_outlined from '../../svg/action/ActionInstallMobile/20_outlined.svg';
+import SVGActionInstallMobile_24_outlined from '../../svg/action/ActionInstallMobile/24_outlined.svg';
+import SVGActionInstallMobile_20_twotone from '../../svg/action/ActionInstallMobile/20_twotone.svg';
+import SVGActionInstallMobile_24_twotone from '../../svg/action/ActionInstallMobile/24_twotone.svg';
+import SVGActionInstallMobile_20_sharp from '../../svg/action/ActionInstallMobile/20_sharp.svg';
+import SVGActionInstallMobile_24_sharp from '../../svg/action/ActionInstallMobile/24_sharp.svg';
+import SVGActionInstallMobile_20_filled from '../../svg/action/ActionInstallMobile/20_filled.svg';
+import SVGActionInstallMobile_24_filled from '../../svg/action/ActionInstallMobile/24_filled.svg';
+import SVGActionInstallMobile_20_round from '../../svg/action/ActionInstallMobile/20_round.svg';
+import SVGActionInstallMobile_24_round from '../../svg/action/ActionInstallMobile/24_round.svg';
+
+export const IconActionInstallMobile20outlined = () => <SVGActionInstallMobile_20_outlined />;
+export const IconActionInstallMobile24outlined = () => <SVGActionInstallMobile_24_outlined />;
+export const IconActionInstallMobile20twotone = () => <SVGActionInstallMobile_20_twotone />;
+export const IconActionInstallMobile24twotone = () => <SVGActionInstallMobile_24_twotone />;
+export const IconActionInstallMobile20sharp = () => <SVGActionInstallMobile_20_sharp />;
+export const IconActionInstallMobile24sharp = () => <SVGActionInstallMobile_24_sharp />;
+export const IconActionInstallMobile20filled = () => <SVGActionInstallMobile_20_filled />;
+export const IconActionInstallMobile24filled = () => <SVGActionInstallMobile_24_filled />;
+export const IconActionInstallMobile20round = () => <SVGActionInstallMobile_20_round />;
+export const IconActionInstallMobile24round = () => <SVGActionInstallMobile_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionNetworkPing_20_outlined from '../../svg/action/ActionNetworkPing/20_outlined.svg';
+import SVGActionNetworkPing_24_outlined from '../../svg/action/ActionNetworkPing/24_outlined.svg';
+import SVGActionNetworkPing_20_twotone from '../../svg/action/ActionNetworkPing/20_twotone.svg';
+import SVGActionNetworkPing_24_twotone from '../../svg/action/ActionNetworkPing/24_twotone.svg';
+import SVGActionNetworkPing_20_sharp from '../../svg/action/ActionNetworkPing/20_sharp.svg';
+import SVGActionNetworkPing_24_sharp from '../../svg/action/ActionNetworkPing/24_sharp.svg';
+import SVGActionNetworkPing_20_filled from '../../svg/action/ActionNetworkPing/20_filled.svg';
+import SVGActionNetworkPing_24_filled from '../../svg/action/ActionNetworkPing/24_filled.svg';
+import SVGActionNetworkPing_20_round from '../../svg/action/ActionNetworkPing/20_round.svg';
+import SVGActionNetworkPing_24_round from '../../svg/action/ActionNetworkPing/24_round.svg';
+
+export const IconActionNetworkPing20outlined = () => <SVGActionNetworkPing_20_outlined />;
+export const IconActionNetworkPing24outlined = () => <SVGActionNetworkPing_24_outlined />;
+export const IconActionNetworkPing20twotone = () => <SVGActionNetworkPing_20_twotone />;
+export const IconActionNetworkPing24twotone = () => <SVGActionNetworkPing_24_twotone />;
+export const IconActionNetworkPing20sharp = () => <SVGActionNetworkPing_20_sharp />;
+export const IconActionNetworkPing24sharp = () => <SVGActionNetworkPing_24_sharp />;
+export const IconActionNetworkPing20filled = () => <SVGActionNetworkPing_20_filled />;
+export const IconActionNetworkPing24filled = () => <SVGActionNetworkPing_24_filled />;
+export const IconActionNetworkPing20round = () => <SVGActionNetworkPing_20_round />;
+export const IconActionNetworkPing24round = () => <SVGActionNetworkPing_24_round />;

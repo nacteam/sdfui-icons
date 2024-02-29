@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMarkEmailUnread_20_outlined from '../../svg/communication/CommunicationMarkEmailUnread/20_outlined.svg';
+import SVGCommunicationMarkEmailUnread_24_outlined from '../../svg/communication/CommunicationMarkEmailUnread/24_outlined.svg';
+import SVGCommunicationMarkEmailUnread_20_twotone from '../../svg/communication/CommunicationMarkEmailUnread/20_twotone.svg';
+import SVGCommunicationMarkEmailUnread_24_twotone from '../../svg/communication/CommunicationMarkEmailUnread/24_twotone.svg';
+import SVGCommunicationMarkEmailUnread_20_sharp from '../../svg/communication/CommunicationMarkEmailUnread/20_sharp.svg';
+import SVGCommunicationMarkEmailUnread_24_sharp from '../../svg/communication/CommunicationMarkEmailUnread/24_sharp.svg';
+import SVGCommunicationMarkEmailUnread_20_filled from '../../svg/communication/CommunicationMarkEmailUnread/20_filled.svg';
+import SVGCommunicationMarkEmailUnread_24_filled from '../../svg/communication/CommunicationMarkEmailUnread/24_filled.svg';
+import SVGCommunicationMarkEmailUnread_20_round from '../../svg/communication/CommunicationMarkEmailUnread/20_round.svg';
+import SVGCommunicationMarkEmailUnread_24_round from '../../svg/communication/CommunicationMarkEmailUnread/24_round.svg';
+
+export const IconCommunicationMarkEmailUnread20outlined = () => <SVGCommunicationMarkEmailUnread_20_outlined />;
+export const IconCommunicationMarkEmailUnread24outlined = () => <SVGCommunicationMarkEmailUnread_24_outlined />;
+export const IconCommunicationMarkEmailUnread20twotone = () => <SVGCommunicationMarkEmailUnread_20_twotone />;
+export const IconCommunicationMarkEmailUnread24twotone = () => <SVGCommunicationMarkEmailUnread_24_twotone />;
+export const IconCommunicationMarkEmailUnread20sharp = () => <SVGCommunicationMarkEmailUnread_20_sharp />;
+export const IconCommunicationMarkEmailUnread24sharp = () => <SVGCommunicationMarkEmailUnread_24_sharp />;
+export const IconCommunicationMarkEmailUnread20filled = () => <SVGCommunicationMarkEmailUnread_20_filled />;
+export const IconCommunicationMarkEmailUnread24filled = () => <SVGCommunicationMarkEmailUnread_24_filled />;
+export const IconCommunicationMarkEmailUnread20round = () => <SVGCommunicationMarkEmailUnread_20_round />;
+export const IconCommunicationMarkEmailUnread24round = () => <SVGCommunicationMarkEmailUnread_24_round />;

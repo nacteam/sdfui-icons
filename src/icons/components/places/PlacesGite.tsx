@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesGite_20_outlined from '../../svg/places/PlacesGite/20_outlined.svg';
+import SVGPlacesGite_24_outlined from '../../svg/places/PlacesGite/24_outlined.svg';
+import SVGPlacesGite_20_twotone from '../../svg/places/PlacesGite/20_twotone.svg';
+import SVGPlacesGite_24_twotone from '../../svg/places/PlacesGite/24_twotone.svg';
+import SVGPlacesGite_20_sharp from '../../svg/places/PlacesGite/20_sharp.svg';
+import SVGPlacesGite_24_sharp from '../../svg/places/PlacesGite/24_sharp.svg';
+import SVGPlacesGite_20_filled from '../../svg/places/PlacesGite/20_filled.svg';
+import SVGPlacesGite_24_filled from '../../svg/places/PlacesGite/24_filled.svg';
+import SVGPlacesGite_20_round from '../../svg/places/PlacesGite/20_round.svg';
+import SVGPlacesGite_24_round from '../../svg/places/PlacesGite/24_round.svg';
+
+export const IconPlacesGite20outlined = () => <SVGPlacesGite_20_outlined />;
+export const IconPlacesGite24outlined = () => <SVGPlacesGite_24_outlined />;
+export const IconPlacesGite20twotone = () => <SVGPlacesGite_20_twotone />;
+export const IconPlacesGite24twotone = () => <SVGPlacesGite_24_twotone />;
+export const IconPlacesGite20sharp = () => <SVGPlacesGite_20_sharp />;
+export const IconPlacesGite24sharp = () => <SVGPlacesGite_24_sharp />;
+export const IconPlacesGite20filled = () => <SVGPlacesGite_20_filled />;
+export const IconPlacesGite24filled = () => <SVGPlacesGite_24_filled />;
+export const IconPlacesGite20round = () => <SVGPlacesGite_20_round />;
+export const IconPlacesGite24round = () => <SVGPlacesGite_24_round />;

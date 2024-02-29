@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImagePalette_20_outlined from '../../svg/image/ImagePalette/20_outlined.svg';
+import SVGImagePalette_24_outlined from '../../svg/image/ImagePalette/24_outlined.svg';
+import SVGImagePalette_20_twotone from '../../svg/image/ImagePalette/20_twotone.svg';
+import SVGImagePalette_24_twotone from '../../svg/image/ImagePalette/24_twotone.svg';
+import SVGImagePalette_20_sharp from '../../svg/image/ImagePalette/20_sharp.svg';
+import SVGImagePalette_24_sharp from '../../svg/image/ImagePalette/24_sharp.svg';
+import SVGImagePalette_20_filled from '../../svg/image/ImagePalette/20_filled.svg';
+import SVGImagePalette_24_filled from '../../svg/image/ImagePalette/24_filled.svg';
+import SVGImagePalette_20_round from '../../svg/image/ImagePalette/20_round.svg';
+import SVGImagePalette_24_round from '../../svg/image/ImagePalette/24_round.svg';
+
+export const IconImagePalette20outlined = () => <SVGImagePalette_20_outlined />;
+export const IconImagePalette24outlined = () => <SVGImagePalette_24_outlined />;
+export const IconImagePalette20twotone = () => <SVGImagePalette_20_twotone />;
+export const IconImagePalette24twotone = () => <SVGImagePalette_24_twotone />;
+export const IconImagePalette20sharp = () => <SVGImagePalette_20_sharp />;
+export const IconImagePalette24sharp = () => <SVGImagePalette_24_sharp />;
+export const IconImagePalette20filled = () => <SVGImagePalette_20_filled />;
+export const IconImagePalette24filled = () => <SVGImagePalette_24_filled />;
+export const IconImagePalette20round = () => <SVGImagePalette_20_round />;
+export const IconImagePalette24round = () => <SVGImagePalette_24_round />;

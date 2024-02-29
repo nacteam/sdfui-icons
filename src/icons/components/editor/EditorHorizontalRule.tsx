@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorHorizontalRule_20_outlined from '../../svg/editor/EditorHorizontalRule/20_outlined.svg';
+import SVGEditorHorizontalRule_24_outlined from '../../svg/editor/EditorHorizontalRule/24_outlined.svg';
+import SVGEditorHorizontalRule_20_twotone from '../../svg/editor/EditorHorizontalRule/20_twotone.svg';
+import SVGEditorHorizontalRule_24_twotone from '../../svg/editor/EditorHorizontalRule/24_twotone.svg';
+import SVGEditorHorizontalRule_20_sharp from '../../svg/editor/EditorHorizontalRule/20_sharp.svg';
+import SVGEditorHorizontalRule_24_sharp from '../../svg/editor/EditorHorizontalRule/24_sharp.svg';
+import SVGEditorHorizontalRule_20_filled from '../../svg/editor/EditorHorizontalRule/20_filled.svg';
+import SVGEditorHorizontalRule_24_filled from '../../svg/editor/EditorHorizontalRule/24_filled.svg';
+import SVGEditorHorizontalRule_20_round from '../../svg/editor/EditorHorizontalRule/20_round.svg';
+import SVGEditorHorizontalRule_24_round from '../../svg/editor/EditorHorizontalRule/24_round.svg';
+
+export const IconEditorHorizontalRule20outlined = () => <SVGEditorHorizontalRule_20_outlined />;
+export const IconEditorHorizontalRule24outlined = () => <SVGEditorHorizontalRule_24_outlined />;
+export const IconEditorHorizontalRule20twotone = () => <SVGEditorHorizontalRule_20_twotone />;
+export const IconEditorHorizontalRule24twotone = () => <SVGEditorHorizontalRule_24_twotone />;
+export const IconEditorHorizontalRule20sharp = () => <SVGEditorHorizontalRule_20_sharp />;
+export const IconEditorHorizontalRule24sharp = () => <SVGEditorHorizontalRule_24_sharp />;
+export const IconEditorHorizontalRule20filled = () => <SVGEditorHorizontalRule_20_filled />;
+export const IconEditorHorizontalRule24filled = () => <SVGEditorHorizontalRule_24_filled />;
+export const IconEditorHorizontalRule20round = () => <SVGEditorHorizontalRule_20_round />;
+export const IconEditorHorizontalRule24round = () => <SVGEditorHorizontalRule_24_round />;

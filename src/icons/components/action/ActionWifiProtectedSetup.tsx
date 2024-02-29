@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionWifiProtectedSetup_20_outlined from '../../svg/action/ActionWifiProtectedSetup/20_outlined.svg';
+import SVGActionWifiProtectedSetup_24_outlined from '../../svg/action/ActionWifiProtectedSetup/24_outlined.svg';
+import SVGActionWifiProtectedSetup_20_twotone from '../../svg/action/ActionWifiProtectedSetup/20_twotone.svg';
+import SVGActionWifiProtectedSetup_24_twotone from '../../svg/action/ActionWifiProtectedSetup/24_twotone.svg';
+import SVGActionWifiProtectedSetup_20_sharp from '../../svg/action/ActionWifiProtectedSetup/20_sharp.svg';
+import SVGActionWifiProtectedSetup_24_sharp from '../../svg/action/ActionWifiProtectedSetup/24_sharp.svg';
+import SVGActionWifiProtectedSetup_20_filled from '../../svg/action/ActionWifiProtectedSetup/20_filled.svg';
+import SVGActionWifiProtectedSetup_24_filled from '../../svg/action/ActionWifiProtectedSetup/24_filled.svg';
+import SVGActionWifiProtectedSetup_20_round from '../../svg/action/ActionWifiProtectedSetup/20_round.svg';
+import SVGActionWifiProtectedSetup_24_round from '../../svg/action/ActionWifiProtectedSetup/24_round.svg';
+
+export const IconActionWifiProtectedSetup20outlined = () => <SVGActionWifiProtectedSetup_20_outlined />;
+export const IconActionWifiProtectedSetup24outlined = () => <SVGActionWifiProtectedSetup_24_outlined />;
+export const IconActionWifiProtectedSetup20twotone = () => <SVGActionWifiProtectedSetup_20_twotone />;
+export const IconActionWifiProtectedSetup24twotone = () => <SVGActionWifiProtectedSetup_24_twotone />;
+export const IconActionWifiProtectedSetup20sharp = () => <SVGActionWifiProtectedSetup_20_sharp />;
+export const IconActionWifiProtectedSetup24sharp = () => <SVGActionWifiProtectedSetup_24_sharp />;
+export const IconActionWifiProtectedSetup20filled = () => <SVGActionWifiProtectedSetup_20_filled />;
+export const IconActionWifiProtectedSetup24filled = () => <SVGActionWifiProtectedSetup_24_filled />;
+export const IconActionWifiProtectedSetup20round = () => <SVGActionWifiProtectedSetup_20_round />;
+export const IconActionWifiProtectedSetup24round = () => <SVGActionWifiProtectedSetup_24_round />;

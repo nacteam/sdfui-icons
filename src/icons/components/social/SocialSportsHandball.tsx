@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsHandball_20_outlined from '../../svg/social/SocialSportsHandball/20_outlined.svg';
+import SVGSocialSportsHandball_24_outlined from '../../svg/social/SocialSportsHandball/24_outlined.svg';
+import SVGSocialSportsHandball_20_twotone from '../../svg/social/SocialSportsHandball/20_twotone.svg';
+import SVGSocialSportsHandball_24_twotone from '../../svg/social/SocialSportsHandball/24_twotone.svg';
+import SVGSocialSportsHandball_20_sharp from '../../svg/social/SocialSportsHandball/20_sharp.svg';
+import SVGSocialSportsHandball_24_sharp from '../../svg/social/SocialSportsHandball/24_sharp.svg';
+import SVGSocialSportsHandball_20_filled from '../../svg/social/SocialSportsHandball/20_filled.svg';
+import SVGSocialSportsHandball_24_filled from '../../svg/social/SocialSportsHandball/24_filled.svg';
+import SVGSocialSportsHandball_20_round from '../../svg/social/SocialSportsHandball/20_round.svg';
+import SVGSocialSportsHandball_24_round from '../../svg/social/SocialSportsHandball/24_round.svg';
+
+export const IconSocialSportsHandball20outlined = () => <SVGSocialSportsHandball_20_outlined />;
+export const IconSocialSportsHandball24outlined = () => <SVGSocialSportsHandball_24_outlined />;
+export const IconSocialSportsHandball20twotone = () => <SVGSocialSportsHandball_20_twotone />;
+export const IconSocialSportsHandball24twotone = () => <SVGSocialSportsHandball_24_twotone />;
+export const IconSocialSportsHandball20sharp = () => <SVGSocialSportsHandball_20_sharp />;
+export const IconSocialSportsHandball24sharp = () => <SVGSocialSportsHandball_24_sharp />;
+export const IconSocialSportsHandball20filled = () => <SVGSocialSportsHandball_20_filled />;
+export const IconSocialSportsHandball24filled = () => <SVGSocialSportsHandball_24_filled />;
+export const IconSocialSportsHandball20round = () => <SVGSocialSportsHandball_20_round />;
+export const IconSocialSportsHandball24round = () => <SVGSocialSportsHandball_24_round />;

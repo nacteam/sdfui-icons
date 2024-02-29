@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorSquare_20_outlined from '../../svg/editor/EditorSquare/20_outlined.svg';
+import SVGEditorSquare_24_outlined from '../../svg/editor/EditorSquare/24_outlined.svg';
+import SVGEditorSquare_20_twotone from '../../svg/editor/EditorSquare/20_twotone.svg';
+import SVGEditorSquare_24_twotone from '../../svg/editor/EditorSquare/24_twotone.svg';
+import SVGEditorSquare_20_sharp from '../../svg/editor/EditorSquare/20_sharp.svg';
+import SVGEditorSquare_24_sharp from '../../svg/editor/EditorSquare/24_sharp.svg';
+import SVGEditorSquare_20_filled from '../../svg/editor/EditorSquare/20_filled.svg';
+import SVGEditorSquare_24_filled from '../../svg/editor/EditorSquare/24_filled.svg';
+import SVGEditorSquare_20_round from '../../svg/editor/EditorSquare/20_round.svg';
+import SVGEditorSquare_24_round from '../../svg/editor/EditorSquare/24_round.svg';
+
+export const IconEditorSquare20outlined = () => <SVGEditorSquare_20_outlined />;
+export const IconEditorSquare24outlined = () => <SVGEditorSquare_24_outlined />;
+export const IconEditorSquare20twotone = () => <SVGEditorSquare_20_twotone />;
+export const IconEditorSquare24twotone = () => <SVGEditorSquare_24_twotone />;
+export const IconEditorSquare20sharp = () => <SVGEditorSquare_20_sharp />;
+export const IconEditorSquare24sharp = () => <SVGEditorSquare_24_sharp />;
+export const IconEditorSquare20filled = () => <SVGEditorSquare_20_filled />;
+export const IconEditorSquare24filled = () => <SVGEditorSquare_24_filled />;
+export const IconEditorSquare20round = () => <SVGEditorSquare_20_round />;
+export const IconEditorSquare24round = () => <SVGEditorSquare_24_round />;

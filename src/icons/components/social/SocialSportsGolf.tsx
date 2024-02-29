@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsGolf_20_outlined from '../../svg/social/SocialSportsGolf/20_outlined.svg';
+import SVGSocialSportsGolf_24_outlined from '../../svg/social/SocialSportsGolf/24_outlined.svg';
+import SVGSocialSportsGolf_20_twotone from '../../svg/social/SocialSportsGolf/20_twotone.svg';
+import SVGSocialSportsGolf_24_twotone from '../../svg/social/SocialSportsGolf/24_twotone.svg';
+import SVGSocialSportsGolf_20_sharp from '../../svg/social/SocialSportsGolf/20_sharp.svg';
+import SVGSocialSportsGolf_24_sharp from '../../svg/social/SocialSportsGolf/24_sharp.svg';
+import SVGSocialSportsGolf_20_filled from '../../svg/social/SocialSportsGolf/20_filled.svg';
+import SVGSocialSportsGolf_24_filled from '../../svg/social/SocialSportsGolf/24_filled.svg';
+import SVGSocialSportsGolf_20_round from '../../svg/social/SocialSportsGolf/20_round.svg';
+import SVGSocialSportsGolf_24_round from '../../svg/social/SocialSportsGolf/24_round.svg';
+
+export const IconSocialSportsGolf20outlined = () => <SVGSocialSportsGolf_20_outlined />;
+export const IconSocialSportsGolf24outlined = () => <SVGSocialSportsGolf_24_outlined />;
+export const IconSocialSportsGolf20twotone = () => <SVGSocialSportsGolf_20_twotone />;
+export const IconSocialSportsGolf24twotone = () => <SVGSocialSportsGolf_24_twotone />;
+export const IconSocialSportsGolf20sharp = () => <SVGSocialSportsGolf_20_sharp />;
+export const IconSocialSportsGolf24sharp = () => <SVGSocialSportsGolf_24_sharp />;
+export const IconSocialSportsGolf20filled = () => <SVGSocialSportsGolf_20_filled />;
+export const IconSocialSportsGolf24filled = () => <SVGSocialSportsGolf_24_filled />;
+export const IconSocialSportsGolf20round = () => <SVGSocialSportsGolf_20_round />;
+export const IconSocialSportsGolf24round = () => <SVGSocialSportsGolf_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsEggAlt_20_outlined from '../../svg/maps/MapsEggAlt/20_outlined.svg';
+import SVGMapsEggAlt_24_outlined from '../../svg/maps/MapsEggAlt/24_outlined.svg';
+import SVGMapsEggAlt_20_twotone from '../../svg/maps/MapsEggAlt/20_twotone.svg';
+import SVGMapsEggAlt_24_twotone from '../../svg/maps/MapsEggAlt/24_twotone.svg';
+import SVGMapsEggAlt_20_sharp from '../../svg/maps/MapsEggAlt/20_sharp.svg';
+import SVGMapsEggAlt_24_sharp from '../../svg/maps/MapsEggAlt/24_sharp.svg';
+import SVGMapsEggAlt_20_filled from '../../svg/maps/MapsEggAlt/20_filled.svg';
+import SVGMapsEggAlt_24_filled from '../../svg/maps/MapsEggAlt/24_filled.svg';
+import SVGMapsEggAlt_20_round from '../../svg/maps/MapsEggAlt/20_round.svg';
+import SVGMapsEggAlt_24_round from '../../svg/maps/MapsEggAlt/24_round.svg';
+
+export const IconMapsEggAlt20outlined = () => <SVGMapsEggAlt_20_outlined />;
+export const IconMapsEggAlt24outlined = () => <SVGMapsEggAlt_24_outlined />;
+export const IconMapsEggAlt20twotone = () => <SVGMapsEggAlt_20_twotone />;
+export const IconMapsEggAlt24twotone = () => <SVGMapsEggAlt_24_twotone />;
+export const IconMapsEggAlt20sharp = () => <SVGMapsEggAlt_20_sharp />;
+export const IconMapsEggAlt24sharp = () => <SVGMapsEggAlt_24_sharp />;
+export const IconMapsEggAlt20filled = () => <SVGMapsEggAlt_20_filled />;
+export const IconMapsEggAlt24filled = () => <SVGMapsEggAlt_24_filled />;
+export const IconMapsEggAlt20round = () => <SVGMapsEggAlt_20_round />;
+export const IconMapsEggAlt24round = () => <SVGMapsEggAlt_24_round />;

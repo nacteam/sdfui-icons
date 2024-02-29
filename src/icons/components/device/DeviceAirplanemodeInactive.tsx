@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceAirplanemodeInactive_20_outlined from '../../svg/device/DeviceAirplanemodeInactive/20_outlined.svg';
+import SVGDeviceAirplanemodeInactive_24_outlined from '../../svg/device/DeviceAirplanemodeInactive/24_outlined.svg';
+import SVGDeviceAirplanemodeInactive_20_twotone from '../../svg/device/DeviceAirplanemodeInactive/20_twotone.svg';
+import SVGDeviceAirplanemodeInactive_24_twotone from '../../svg/device/DeviceAirplanemodeInactive/24_twotone.svg';
+import SVGDeviceAirplanemodeInactive_20_sharp from '../../svg/device/DeviceAirplanemodeInactive/20_sharp.svg';
+import SVGDeviceAirplanemodeInactive_24_sharp from '../../svg/device/DeviceAirplanemodeInactive/24_sharp.svg';
+import SVGDeviceAirplanemodeInactive_20_filled from '../../svg/device/DeviceAirplanemodeInactive/20_filled.svg';
+import SVGDeviceAirplanemodeInactive_24_filled from '../../svg/device/DeviceAirplanemodeInactive/24_filled.svg';
+import SVGDeviceAirplanemodeInactive_20_round from '../../svg/device/DeviceAirplanemodeInactive/20_round.svg';
+import SVGDeviceAirplanemodeInactive_24_round from '../../svg/device/DeviceAirplanemodeInactive/24_round.svg';
+
+export const IconDeviceAirplanemodeInactive20outlined = () => <SVGDeviceAirplanemodeInactive_20_outlined />;
+export const IconDeviceAirplanemodeInactive24outlined = () => <SVGDeviceAirplanemodeInactive_24_outlined />;
+export const IconDeviceAirplanemodeInactive20twotone = () => <SVGDeviceAirplanemodeInactive_20_twotone />;
+export const IconDeviceAirplanemodeInactive24twotone = () => <SVGDeviceAirplanemodeInactive_24_twotone />;
+export const IconDeviceAirplanemodeInactive20sharp = () => <SVGDeviceAirplanemodeInactive_20_sharp />;
+export const IconDeviceAirplanemodeInactive24sharp = () => <SVGDeviceAirplanemodeInactive_24_sharp />;
+export const IconDeviceAirplanemodeInactive20filled = () => <SVGDeviceAirplanemodeInactive_20_filled />;
+export const IconDeviceAirplanemodeInactive24filled = () => <SVGDeviceAirplanemodeInactive_24_filled />;
+export const IconDeviceAirplanemodeInactive20round = () => <SVGDeviceAirplanemodeInactive_20_round />;
+export const IconDeviceAirplanemodeInactive24round = () => <SVGDeviceAirplanemodeInactive_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeSensorWindow_20_outlined from '../../svg/home/HomeSensorWindow/20_outlined.svg';
+import SVGHomeSensorWindow_24_outlined from '../../svg/home/HomeSensorWindow/24_outlined.svg';
+import SVGHomeSensorWindow_20_twotone from '../../svg/home/HomeSensorWindow/20_twotone.svg';
+import SVGHomeSensorWindow_24_twotone from '../../svg/home/HomeSensorWindow/24_twotone.svg';
+import SVGHomeSensorWindow_20_sharp from '../../svg/home/HomeSensorWindow/20_sharp.svg';
+import SVGHomeSensorWindow_24_sharp from '../../svg/home/HomeSensorWindow/24_sharp.svg';
+import SVGHomeSensorWindow_20_filled from '../../svg/home/HomeSensorWindow/20_filled.svg';
+import SVGHomeSensorWindow_24_filled from '../../svg/home/HomeSensorWindow/24_filled.svg';
+import SVGHomeSensorWindow_20_round from '../../svg/home/HomeSensorWindow/20_round.svg';
+import SVGHomeSensorWindow_24_round from '../../svg/home/HomeSensorWindow/24_round.svg';
+
+export const IconHomeSensorWindow20outlined = () => <SVGHomeSensorWindow_20_outlined />;
+export const IconHomeSensorWindow24outlined = () => <SVGHomeSensorWindow_24_outlined />;
+export const IconHomeSensorWindow20twotone = () => <SVGHomeSensorWindow_20_twotone />;
+export const IconHomeSensorWindow24twotone = () => <SVGHomeSensorWindow_24_twotone />;
+export const IconHomeSensorWindow20sharp = () => <SVGHomeSensorWindow_20_sharp />;
+export const IconHomeSensorWindow24sharp = () => <SVGHomeSensorWindow_24_sharp />;
+export const IconHomeSensorWindow20filled = () => <SVGHomeSensorWindow_20_filled />;
+export const IconHomeSensorWindow24filled = () => <SVGHomeSensorWindow_24_filled />;
+export const IconHomeSensorWindow20round = () => <SVGHomeSensorWindow_20_round />;
+export const IconHomeSensorWindow24round = () => <SVGHomeSensorWindow_24_round />;

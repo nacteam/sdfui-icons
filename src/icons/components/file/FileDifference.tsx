@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileDifference_20_outlined from '../../svg/file/FileDifference/20_outlined.svg';
+import SVGFileDifference_24_outlined from '../../svg/file/FileDifference/24_outlined.svg';
+import SVGFileDifference_20_twotone from '../../svg/file/FileDifference/20_twotone.svg';
+import SVGFileDifference_24_twotone from '../../svg/file/FileDifference/24_twotone.svg';
+import SVGFileDifference_20_sharp from '../../svg/file/FileDifference/20_sharp.svg';
+import SVGFileDifference_24_sharp from '../../svg/file/FileDifference/24_sharp.svg';
+import SVGFileDifference_20_filled from '../../svg/file/FileDifference/20_filled.svg';
+import SVGFileDifference_24_filled from '../../svg/file/FileDifference/24_filled.svg';
+import SVGFileDifference_20_round from '../../svg/file/FileDifference/20_round.svg';
+import SVGFileDifference_24_round from '../../svg/file/FileDifference/24_round.svg';
+
+export const IconFileDifference20outlined = () => <SVGFileDifference_20_outlined />;
+export const IconFileDifference24outlined = () => <SVGFileDifference_24_outlined />;
+export const IconFileDifference20twotone = () => <SVGFileDifference_20_twotone />;
+export const IconFileDifference24twotone = () => <SVGFileDifference_24_twotone />;
+export const IconFileDifference20sharp = () => <SVGFileDifference_20_sharp />;
+export const IconFileDifference24sharp = () => <SVGFileDifference_24_sharp />;
+export const IconFileDifference20filled = () => <SVGFileDifference_20_filled />;
+export const IconFileDifference24filled = () => <SVGFileDifference_24_filled />;
+export const IconFileDifference20round = () => <SVGFileDifference_20_round />;
+export const IconFileDifference24round = () => <SVGFileDifference_24_round />;

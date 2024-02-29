@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionManageHistory_20_outlined from '../../svg/action/ActionManageHistory/20_outlined.svg';
+import SVGActionManageHistory_24_outlined from '../../svg/action/ActionManageHistory/24_outlined.svg';
+import SVGActionManageHistory_20_twotone from '../../svg/action/ActionManageHistory/20_twotone.svg';
+import SVGActionManageHistory_24_twotone from '../../svg/action/ActionManageHistory/24_twotone.svg';
+import SVGActionManageHistory_20_sharp from '../../svg/action/ActionManageHistory/20_sharp.svg';
+import SVGActionManageHistory_24_sharp from '../../svg/action/ActionManageHistory/24_sharp.svg';
+import SVGActionManageHistory_20_filled from '../../svg/action/ActionManageHistory/20_filled.svg';
+import SVGActionManageHistory_24_filled from '../../svg/action/ActionManageHistory/24_filled.svg';
+import SVGActionManageHistory_20_round from '../../svg/action/ActionManageHistory/20_round.svg';
+import SVGActionManageHistory_24_round from '../../svg/action/ActionManageHistory/24_round.svg';
+
+export const IconActionManageHistory20outlined = () => <SVGActionManageHistory_20_outlined />;
+export const IconActionManageHistory24outlined = () => <SVGActionManageHistory_24_outlined />;
+export const IconActionManageHistory20twotone = () => <SVGActionManageHistory_20_twotone />;
+export const IconActionManageHistory24twotone = () => <SVGActionManageHistory_24_twotone />;
+export const IconActionManageHistory20sharp = () => <SVGActionManageHistory_20_sharp />;
+export const IconActionManageHistory24sharp = () => <SVGActionManageHistory_24_sharp />;
+export const IconActionManageHistory20filled = () => <SVGActionManageHistory_20_filled />;
+export const IconActionManageHistory24filled = () => <SVGActionManageHistory_24_filled />;
+export const IconActionManageHistory20round = () => <SVGActionManageHistory_20_round />;
+export const IconActionManageHistory24round = () => <SVGActionManageHistory_24_round />;

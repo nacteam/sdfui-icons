@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialHandshake_20_outlined from '../../svg/social/SocialHandshake/20_outlined.svg';
+import SVGSocialHandshake_24_outlined from '../../svg/social/SocialHandshake/24_outlined.svg';
+import SVGSocialHandshake_20_twotone from '../../svg/social/SocialHandshake/20_twotone.svg';
+import SVGSocialHandshake_24_twotone from '../../svg/social/SocialHandshake/24_twotone.svg';
+import SVGSocialHandshake_20_sharp from '../../svg/social/SocialHandshake/20_sharp.svg';
+import SVGSocialHandshake_24_sharp from '../../svg/social/SocialHandshake/24_sharp.svg';
+import SVGSocialHandshake_20_filled from '../../svg/social/SocialHandshake/20_filled.svg';
+import SVGSocialHandshake_24_filled from '../../svg/social/SocialHandshake/24_filled.svg';
+import SVGSocialHandshake_20_round from '../../svg/social/SocialHandshake/20_round.svg';
+import SVGSocialHandshake_24_round from '../../svg/social/SocialHandshake/24_round.svg';
+
+export const IconSocialHandshake20outlined = () => <SVGSocialHandshake_20_outlined />;
+export const IconSocialHandshake24outlined = () => <SVGSocialHandshake_24_outlined />;
+export const IconSocialHandshake20twotone = () => <SVGSocialHandshake_20_twotone />;
+export const IconSocialHandshake24twotone = () => <SVGSocialHandshake_24_twotone />;
+export const IconSocialHandshake20sharp = () => <SVGSocialHandshake_20_sharp />;
+export const IconSocialHandshake24sharp = () => <SVGSocialHandshake_24_sharp />;
+export const IconSocialHandshake20filled = () => <SVGSocialHandshake_20_filled />;
+export const IconSocialHandshake24filled = () => <SVGSocialHandshake_24_filled />;
+export const IconSocialHandshake20round = () => <SVGSocialHandshake_20_round />;
+export const IconSocialHandshake24round = () => <SVGSocialHandshake_24_round />;

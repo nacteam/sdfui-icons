@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageCurrencyRupee_20_outlined from '../../svg/image/ImageCurrencyRupee/20_outlined.svg';
+import SVGImageCurrencyRupee_24_outlined from '../../svg/image/ImageCurrencyRupee/24_outlined.svg';
+import SVGImageCurrencyRupee_20_twotone from '../../svg/image/ImageCurrencyRupee/20_twotone.svg';
+import SVGImageCurrencyRupee_24_twotone from '../../svg/image/ImageCurrencyRupee/24_twotone.svg';
+import SVGImageCurrencyRupee_20_sharp from '../../svg/image/ImageCurrencyRupee/20_sharp.svg';
+import SVGImageCurrencyRupee_24_sharp from '../../svg/image/ImageCurrencyRupee/24_sharp.svg';
+import SVGImageCurrencyRupee_20_filled from '../../svg/image/ImageCurrencyRupee/20_filled.svg';
+import SVGImageCurrencyRupee_24_filled from '../../svg/image/ImageCurrencyRupee/24_filled.svg';
+import SVGImageCurrencyRupee_20_round from '../../svg/image/ImageCurrencyRupee/20_round.svg';
+import SVGImageCurrencyRupee_24_round from '../../svg/image/ImageCurrencyRupee/24_round.svg';
+
+export const IconImageCurrencyRupee20outlined = () => <SVGImageCurrencyRupee_20_outlined />;
+export const IconImageCurrencyRupee24outlined = () => <SVGImageCurrencyRupee_24_outlined />;
+export const IconImageCurrencyRupee20twotone = () => <SVGImageCurrencyRupee_20_twotone />;
+export const IconImageCurrencyRupee24twotone = () => <SVGImageCurrencyRupee_24_twotone />;
+export const IconImageCurrencyRupee20sharp = () => <SVGImageCurrencyRupee_20_sharp />;
+export const IconImageCurrencyRupee24sharp = () => <SVGImageCurrencyRupee_24_sharp />;
+export const IconImageCurrencyRupee20filled = () => <SVGImageCurrencyRupee_20_filled />;
+export const IconImageCurrencyRupee24filled = () => <SVGImageCurrencyRupee_24_filled />;
+export const IconImageCurrencyRupee20round = () => <SVGImageCurrencyRupee_20_round />;
+export const IconImageCurrencyRupee24round = () => <SVGImageCurrencyRupee_24_round />;

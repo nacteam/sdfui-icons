@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionWidthWide_20_outlined from '../../svg/action/ActionWidthWide/20_outlined.svg';
+import SVGActionWidthWide_24_outlined from '../../svg/action/ActionWidthWide/24_outlined.svg';
+import SVGActionWidthWide_20_twotone from '../../svg/action/ActionWidthWide/20_twotone.svg';
+import SVGActionWidthWide_24_twotone from '../../svg/action/ActionWidthWide/24_twotone.svg';
+import SVGActionWidthWide_20_sharp from '../../svg/action/ActionWidthWide/20_sharp.svg';
+import SVGActionWidthWide_24_sharp from '../../svg/action/ActionWidthWide/24_sharp.svg';
+import SVGActionWidthWide_20_filled from '../../svg/action/ActionWidthWide/20_filled.svg';
+import SVGActionWidthWide_24_filled from '../../svg/action/ActionWidthWide/24_filled.svg';
+import SVGActionWidthWide_20_round from '../../svg/action/ActionWidthWide/20_round.svg';
+import SVGActionWidthWide_24_round from '../../svg/action/ActionWidthWide/24_round.svg';
+
+export const IconActionWidthWide20outlined = () => <SVGActionWidthWide_20_outlined />;
+export const IconActionWidthWide24outlined = () => <SVGActionWidthWide_24_outlined />;
+export const IconActionWidthWide20twotone = () => <SVGActionWidthWide_20_twotone />;
+export const IconActionWidthWide24twotone = () => <SVGActionWidthWide_24_twotone />;
+export const IconActionWidthWide20sharp = () => <SVGActionWidthWide_20_sharp />;
+export const IconActionWidthWide24sharp = () => <SVGActionWidthWide_24_sharp />;
+export const IconActionWidthWide20filled = () => <SVGActionWidthWide_20_filled />;
+export const IconActionWidthWide24filled = () => <SVGActionWidthWide_24_filled />;
+export const IconActionWidthWide20round = () => <SVGActionWidthWide_20_round />;
+export const IconActionWidthWide24round = () => <SVGActionWidthWide_24_round />;

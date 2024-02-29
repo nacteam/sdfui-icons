@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorRectangle_20_outlined from '../../svg/editor/EditorRectangle/20_outlined.svg';
+import SVGEditorRectangle_24_outlined from '../../svg/editor/EditorRectangle/24_outlined.svg';
+import SVGEditorRectangle_20_twotone from '../../svg/editor/EditorRectangle/20_twotone.svg';
+import SVGEditorRectangle_24_twotone from '../../svg/editor/EditorRectangle/24_twotone.svg';
+import SVGEditorRectangle_20_sharp from '../../svg/editor/EditorRectangle/20_sharp.svg';
+import SVGEditorRectangle_24_sharp from '../../svg/editor/EditorRectangle/24_sharp.svg';
+import SVGEditorRectangle_20_filled from '../../svg/editor/EditorRectangle/20_filled.svg';
+import SVGEditorRectangle_24_filled from '../../svg/editor/EditorRectangle/24_filled.svg';
+import SVGEditorRectangle_20_round from '../../svg/editor/EditorRectangle/20_round.svg';
+import SVGEditorRectangle_24_round from '../../svg/editor/EditorRectangle/24_round.svg';
+
+export const IconEditorRectangle20outlined = () => <SVGEditorRectangle_20_outlined />;
+export const IconEditorRectangle24outlined = () => <SVGEditorRectangle_24_outlined />;
+export const IconEditorRectangle20twotone = () => <SVGEditorRectangle_20_twotone />;
+export const IconEditorRectangle24twotone = () => <SVGEditorRectangle_24_twotone />;
+export const IconEditorRectangle20sharp = () => <SVGEditorRectangle_20_sharp />;
+export const IconEditorRectangle24sharp = () => <SVGEditorRectangle_24_sharp />;
+export const IconEditorRectangle20filled = () => <SVGEditorRectangle_20_filled />;
+export const IconEditorRectangle24filled = () => <SVGEditorRectangle_24_filled />;
+export const IconEditorRectangle20round = () => <SVGEditorRectangle_20_round />;
+export const IconEditorRectangle24round = () => <SVGEditorRectangle_24_round />;

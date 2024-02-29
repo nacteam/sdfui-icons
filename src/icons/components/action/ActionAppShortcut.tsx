@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAppShortcut_20_outlined from '../../svg/action/ActionAppShortcut/20_outlined.svg';
+import SVGActionAppShortcut_24_outlined from '../../svg/action/ActionAppShortcut/24_outlined.svg';
+import SVGActionAppShortcut_20_twotone from '../../svg/action/ActionAppShortcut/20_twotone.svg';
+import SVGActionAppShortcut_24_twotone from '../../svg/action/ActionAppShortcut/24_twotone.svg';
+import SVGActionAppShortcut_20_sharp from '../../svg/action/ActionAppShortcut/20_sharp.svg';
+import SVGActionAppShortcut_24_sharp from '../../svg/action/ActionAppShortcut/24_sharp.svg';
+import SVGActionAppShortcut_20_filled from '../../svg/action/ActionAppShortcut/20_filled.svg';
+import SVGActionAppShortcut_24_filled from '../../svg/action/ActionAppShortcut/24_filled.svg';
+import SVGActionAppShortcut_20_round from '../../svg/action/ActionAppShortcut/20_round.svg';
+import SVGActionAppShortcut_24_round from '../../svg/action/ActionAppShortcut/24_round.svg';
+
+export const IconActionAppShortcut20outlined = () => <SVGActionAppShortcut_20_outlined />;
+export const IconActionAppShortcut24outlined = () => <SVGActionAppShortcut_24_outlined />;
+export const IconActionAppShortcut20twotone = () => <SVGActionAppShortcut_20_twotone />;
+export const IconActionAppShortcut24twotone = () => <SVGActionAppShortcut_24_twotone />;
+export const IconActionAppShortcut20sharp = () => <SVGActionAppShortcut_20_sharp />;
+export const IconActionAppShortcut24sharp = () => <SVGActionAppShortcut_24_sharp />;
+export const IconActionAppShortcut20filled = () => <SVGActionAppShortcut_20_filled />;
+export const IconActionAppShortcut24filled = () => <SVGActionAppShortcut_24_filled />;
+export const IconActionAppShortcut20round = () => <SVGActionAppShortcut_20_round />;
+export const IconActionAppShortcut24round = () => <SVGActionAppShortcut_24_round />;

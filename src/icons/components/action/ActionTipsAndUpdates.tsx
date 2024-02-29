@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionTipsAndUpdates_20_outlined from '../../svg/action/ActionTipsAndUpdates/20_outlined.svg';
+import SVGActionTipsAndUpdates_24_outlined from '../../svg/action/ActionTipsAndUpdates/24_outlined.svg';
+import SVGActionTipsAndUpdates_20_twotone from '../../svg/action/ActionTipsAndUpdates/20_twotone.svg';
+import SVGActionTipsAndUpdates_24_twotone from '../../svg/action/ActionTipsAndUpdates/24_twotone.svg';
+import SVGActionTipsAndUpdates_20_sharp from '../../svg/action/ActionTipsAndUpdates/20_sharp.svg';
+import SVGActionTipsAndUpdates_24_sharp from '../../svg/action/ActionTipsAndUpdates/24_sharp.svg';
+import SVGActionTipsAndUpdates_20_filled from '../../svg/action/ActionTipsAndUpdates/20_filled.svg';
+import SVGActionTipsAndUpdates_24_filled from '../../svg/action/ActionTipsAndUpdates/24_filled.svg';
+import SVGActionTipsAndUpdates_20_round from '../../svg/action/ActionTipsAndUpdates/20_round.svg';
+import SVGActionTipsAndUpdates_24_round from '../../svg/action/ActionTipsAndUpdates/24_round.svg';
+
+export const IconActionTipsAndUpdates20outlined = () => <SVGActionTipsAndUpdates_20_outlined />;
+export const IconActionTipsAndUpdates24outlined = () => <SVGActionTipsAndUpdates_24_outlined />;
+export const IconActionTipsAndUpdates20twotone = () => <SVGActionTipsAndUpdates_20_twotone />;
+export const IconActionTipsAndUpdates24twotone = () => <SVGActionTipsAndUpdates_24_twotone />;
+export const IconActionTipsAndUpdates20sharp = () => <SVGActionTipsAndUpdates_20_sharp />;
+export const IconActionTipsAndUpdates24sharp = () => <SVGActionTipsAndUpdates_24_sharp />;
+export const IconActionTipsAndUpdates20filled = () => <SVGActionTipsAndUpdates_20_filled />;
+export const IconActionTipsAndUpdates24filled = () => <SVGActionTipsAndUpdates_24_filled />;
+export const IconActionTipsAndUpdates20round = () => <SVGActionTipsAndUpdates_20_round />;
+export const IconActionTipsAndUpdates24round = () => <SVGActionTipsAndUpdates_24_round />;

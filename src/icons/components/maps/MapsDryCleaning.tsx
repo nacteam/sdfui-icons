@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsDryCleaning_20_outlined from '../../svg/maps/MapsDryCleaning/20_outlined.svg';
+import SVGMapsDryCleaning_24_outlined from '../../svg/maps/MapsDryCleaning/24_outlined.svg';
+import SVGMapsDryCleaning_20_twotone from '../../svg/maps/MapsDryCleaning/20_twotone.svg';
+import SVGMapsDryCleaning_24_twotone from '../../svg/maps/MapsDryCleaning/24_twotone.svg';
+import SVGMapsDryCleaning_20_sharp from '../../svg/maps/MapsDryCleaning/20_sharp.svg';
+import SVGMapsDryCleaning_24_sharp from '../../svg/maps/MapsDryCleaning/24_sharp.svg';
+import SVGMapsDryCleaning_20_filled from '../../svg/maps/MapsDryCleaning/20_filled.svg';
+import SVGMapsDryCleaning_24_filled from '../../svg/maps/MapsDryCleaning/24_filled.svg';
+import SVGMapsDryCleaning_20_round from '../../svg/maps/MapsDryCleaning/20_round.svg';
+import SVGMapsDryCleaning_24_round from '../../svg/maps/MapsDryCleaning/24_round.svg';
+
+export const IconMapsDryCleaning20outlined = () => <SVGMapsDryCleaning_20_outlined />;
+export const IconMapsDryCleaning24outlined = () => <SVGMapsDryCleaning_24_outlined />;
+export const IconMapsDryCleaning20twotone = () => <SVGMapsDryCleaning_20_twotone />;
+export const IconMapsDryCleaning24twotone = () => <SVGMapsDryCleaning_24_twotone />;
+export const IconMapsDryCleaning20sharp = () => <SVGMapsDryCleaning_20_sharp />;
+export const IconMapsDryCleaning24sharp = () => <SVGMapsDryCleaning_24_sharp />;
+export const IconMapsDryCleaning20filled = () => <SVGMapsDryCleaning_20_filled />;
+export const IconMapsDryCleaning24filled = () => <SVGMapsDryCleaning_24_filled />;
+export const IconMapsDryCleaning20round = () => <SVGMapsDryCleaning_20_round />;
+export const IconMapsDryCleaning24round = () => <SVGMapsDryCleaning_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewCompactAlt_20_outlined from '../../svg/action/ActionViewCompactAlt/20_outlined.svg';
+import SVGActionViewCompactAlt_24_outlined from '../../svg/action/ActionViewCompactAlt/24_outlined.svg';
+import SVGActionViewCompactAlt_20_twotone from '../../svg/action/ActionViewCompactAlt/20_twotone.svg';
+import SVGActionViewCompactAlt_24_twotone from '../../svg/action/ActionViewCompactAlt/24_twotone.svg';
+import SVGActionViewCompactAlt_20_sharp from '../../svg/action/ActionViewCompactAlt/20_sharp.svg';
+import SVGActionViewCompactAlt_24_sharp from '../../svg/action/ActionViewCompactAlt/24_sharp.svg';
+import SVGActionViewCompactAlt_20_filled from '../../svg/action/ActionViewCompactAlt/20_filled.svg';
+import SVGActionViewCompactAlt_24_filled from '../../svg/action/ActionViewCompactAlt/24_filled.svg';
+import SVGActionViewCompactAlt_20_round from '../../svg/action/ActionViewCompactAlt/20_round.svg';
+import SVGActionViewCompactAlt_24_round from '../../svg/action/ActionViewCompactAlt/24_round.svg';
+
+export const IconActionViewCompactAlt20outlined = () => <SVGActionViewCompactAlt_20_outlined />;
+export const IconActionViewCompactAlt24outlined = () => <SVGActionViewCompactAlt_24_outlined />;
+export const IconActionViewCompactAlt20twotone = () => <SVGActionViewCompactAlt_20_twotone />;
+export const IconActionViewCompactAlt24twotone = () => <SVGActionViewCompactAlt_24_twotone />;
+export const IconActionViewCompactAlt20sharp = () => <SVGActionViewCompactAlt_20_sharp />;
+export const IconActionViewCompactAlt24sharp = () => <SVGActionViewCompactAlt_24_sharp />;
+export const IconActionViewCompactAlt20filled = () => <SVGActionViewCompactAlt_20_filled />;
+export const IconActionViewCompactAlt24filled = () => <SVGActionViewCompactAlt_24_filled />;
+export const IconActionViewCompactAlt20round = () => <SVGActionViewCompactAlt_20_round />;
+export const IconActionViewCompactAlt24round = () => <SVGActionViewCompactAlt_24_round />;

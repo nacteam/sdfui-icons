@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPianoOff_20_outlined from '../../svg/social/SocialPianoOff/20_outlined.svg';
+import SVGSocialPianoOff_24_outlined from '../../svg/social/SocialPianoOff/24_outlined.svg';
+import SVGSocialPianoOff_20_twotone from '../../svg/social/SocialPianoOff/20_twotone.svg';
+import SVGSocialPianoOff_24_twotone from '../../svg/social/SocialPianoOff/24_twotone.svg';
+import SVGSocialPianoOff_20_sharp from '../../svg/social/SocialPianoOff/20_sharp.svg';
+import SVGSocialPianoOff_24_sharp from '../../svg/social/SocialPianoOff/24_sharp.svg';
+import SVGSocialPianoOff_20_filled from '../../svg/social/SocialPianoOff/20_filled.svg';
+import SVGSocialPianoOff_24_filled from '../../svg/social/SocialPianoOff/24_filled.svg';
+import SVGSocialPianoOff_20_round from '../../svg/social/SocialPianoOff/20_round.svg';
+import SVGSocialPianoOff_24_round from '../../svg/social/SocialPianoOff/24_round.svg';
+
+export const IconSocialPianoOff20outlined = () => <SVGSocialPianoOff_20_outlined />;
+export const IconSocialPianoOff24outlined = () => <SVGSocialPianoOff_24_outlined />;
+export const IconSocialPianoOff20twotone = () => <SVGSocialPianoOff_20_twotone />;
+export const IconSocialPianoOff24twotone = () => <SVGSocialPianoOff_24_twotone />;
+export const IconSocialPianoOff20sharp = () => <SVGSocialPianoOff_20_sharp />;
+export const IconSocialPianoOff24sharp = () => <SVGSocialPianoOff_24_sharp />;
+export const IconSocialPianoOff20filled = () => <SVGSocialPianoOff_20_filled />;
+export const IconSocialPianoOff24filled = () => <SVGSocialPianoOff_24_filled />;
+export const IconSocialPianoOff20round = () => <SVGSocialPianoOff_20_round />;
+export const IconSocialPianoOff24round = () => <SVGSocialPianoOff_24_round />;

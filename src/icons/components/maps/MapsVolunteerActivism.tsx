@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsVolunteerActivism_20_outlined from '../../svg/maps/MapsVolunteerActivism/20_outlined.svg';
+import SVGMapsVolunteerActivism_24_outlined from '../../svg/maps/MapsVolunteerActivism/24_outlined.svg';
+import SVGMapsVolunteerActivism_20_twotone from '../../svg/maps/MapsVolunteerActivism/20_twotone.svg';
+import SVGMapsVolunteerActivism_24_twotone from '../../svg/maps/MapsVolunteerActivism/24_twotone.svg';
+import SVGMapsVolunteerActivism_20_sharp from '../../svg/maps/MapsVolunteerActivism/20_sharp.svg';
+import SVGMapsVolunteerActivism_24_sharp from '../../svg/maps/MapsVolunteerActivism/24_sharp.svg';
+import SVGMapsVolunteerActivism_20_filled from '../../svg/maps/MapsVolunteerActivism/20_filled.svg';
+import SVGMapsVolunteerActivism_24_filled from '../../svg/maps/MapsVolunteerActivism/24_filled.svg';
+import SVGMapsVolunteerActivism_20_round from '../../svg/maps/MapsVolunteerActivism/20_round.svg';
+import SVGMapsVolunteerActivism_24_round from '../../svg/maps/MapsVolunteerActivism/24_round.svg';
+
+export const IconMapsVolunteerActivism20outlined = () => <SVGMapsVolunteerActivism_20_outlined />;
+export const IconMapsVolunteerActivism24outlined = () => <SVGMapsVolunteerActivism_24_outlined />;
+export const IconMapsVolunteerActivism20twotone = () => <SVGMapsVolunteerActivism_20_twotone />;
+export const IconMapsVolunteerActivism24twotone = () => <SVGMapsVolunteerActivism_24_twotone />;
+export const IconMapsVolunteerActivism20sharp = () => <SVGMapsVolunteerActivism_20_sharp />;
+export const IconMapsVolunteerActivism24sharp = () => <SVGMapsVolunteerActivism_24_sharp />;
+export const IconMapsVolunteerActivism20filled = () => <SVGMapsVolunteerActivism_20_filled />;
+export const IconMapsVolunteerActivism24filled = () => <SVGMapsVolunteerActivism_24_filled />;
+export const IconMapsVolunteerActivism20round = () => <SVGMapsVolunteerActivism_20_round />;
+export const IconMapsVolunteerActivism24round = () => <SVGMapsVolunteerActivism_24_round />;

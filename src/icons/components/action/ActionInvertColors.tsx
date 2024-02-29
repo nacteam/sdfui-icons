@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionInvertColors_20_outlined from '../../svg/action/ActionInvertColors/20_outlined.svg';
+import SVGActionInvertColors_24_outlined from '../../svg/action/ActionInvertColors/24_outlined.svg';
+import SVGActionInvertColors_20_twotone from '../../svg/action/ActionInvertColors/20_twotone.svg';
+import SVGActionInvertColors_24_twotone from '../../svg/action/ActionInvertColors/24_twotone.svg';
+import SVGActionInvertColors_20_sharp from '../../svg/action/ActionInvertColors/20_sharp.svg';
+import SVGActionInvertColors_24_sharp from '../../svg/action/ActionInvertColors/24_sharp.svg';
+import SVGActionInvertColors_20_filled from '../../svg/action/ActionInvertColors/20_filled.svg';
+import SVGActionInvertColors_24_filled from '../../svg/action/ActionInvertColors/24_filled.svg';
+import SVGActionInvertColors_20_round from '../../svg/action/ActionInvertColors/20_round.svg';
+import SVGActionInvertColors_24_round from '../../svg/action/ActionInvertColors/24_round.svg';
+
+export const IconActionInvertColors20outlined = () => <SVGActionInvertColors_20_outlined />;
+export const IconActionInvertColors24outlined = () => <SVGActionInvertColors_24_outlined />;
+export const IconActionInvertColors20twotone = () => <SVGActionInvertColors_20_twotone />;
+export const IconActionInvertColors24twotone = () => <SVGActionInvertColors_24_twotone />;
+export const IconActionInvertColors20sharp = () => <SVGActionInvertColors_20_sharp />;
+export const IconActionInvertColors24sharp = () => <SVGActionInvertColors_24_sharp />;
+export const IconActionInvertColors20filled = () => <SVGActionInvertColors_20_filled />;
+export const IconActionInvertColors24filled = () => <SVGActionInvertColors_24_filled />;
+export const IconActionInvertColors20round = () => <SVGActionInvertColors_20_round />;
+export const IconActionInvertColors24round = () => <SVGActionInvertColors_24_round />;

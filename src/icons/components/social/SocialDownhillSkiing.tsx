@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialDownhillSkiing_20_outlined from '../../svg/social/SocialDownhillSkiing/20_outlined.svg';
+import SVGSocialDownhillSkiing_24_outlined from '../../svg/social/SocialDownhillSkiing/24_outlined.svg';
+import SVGSocialDownhillSkiing_20_twotone from '../../svg/social/SocialDownhillSkiing/20_twotone.svg';
+import SVGSocialDownhillSkiing_24_twotone from '../../svg/social/SocialDownhillSkiing/24_twotone.svg';
+import SVGSocialDownhillSkiing_20_sharp from '../../svg/social/SocialDownhillSkiing/20_sharp.svg';
+import SVGSocialDownhillSkiing_24_sharp from '../../svg/social/SocialDownhillSkiing/24_sharp.svg';
+import SVGSocialDownhillSkiing_20_filled from '../../svg/social/SocialDownhillSkiing/20_filled.svg';
+import SVGSocialDownhillSkiing_24_filled from '../../svg/social/SocialDownhillSkiing/24_filled.svg';
+import SVGSocialDownhillSkiing_20_round from '../../svg/social/SocialDownhillSkiing/20_round.svg';
+import SVGSocialDownhillSkiing_24_round from '../../svg/social/SocialDownhillSkiing/24_round.svg';
+
+export const IconSocialDownhillSkiing20outlined = () => <SVGSocialDownhillSkiing_20_outlined />;
+export const IconSocialDownhillSkiing24outlined = () => <SVGSocialDownhillSkiing_24_outlined />;
+export const IconSocialDownhillSkiing20twotone = () => <SVGSocialDownhillSkiing_20_twotone />;
+export const IconSocialDownhillSkiing24twotone = () => <SVGSocialDownhillSkiing_24_twotone />;
+export const IconSocialDownhillSkiing20sharp = () => <SVGSocialDownhillSkiing_20_sharp />;
+export const IconSocialDownhillSkiing24sharp = () => <SVGSocialDownhillSkiing_24_sharp />;
+export const IconSocialDownhillSkiing20filled = () => <SVGSocialDownhillSkiing_20_filled />;
+export const IconSocialDownhillSkiing24filled = () => <SVGSocialDownhillSkiing_24_filled />;
+export const IconSocialDownhillSkiing20round = () => <SVGSocialDownhillSkiing_20_round />;
+export const IconSocialDownhillSkiing24round = () => <SVGSocialDownhillSkiing_24_round />;

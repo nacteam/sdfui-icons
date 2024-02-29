@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsElectricalServices_20_outlined from '../../svg/maps/MapsElectricalServices/20_outlined.svg';
+import SVGMapsElectricalServices_24_outlined from '../../svg/maps/MapsElectricalServices/24_outlined.svg';
+import SVGMapsElectricalServices_20_twotone from '../../svg/maps/MapsElectricalServices/20_twotone.svg';
+import SVGMapsElectricalServices_24_twotone from '../../svg/maps/MapsElectricalServices/24_twotone.svg';
+import SVGMapsElectricalServices_20_sharp from '../../svg/maps/MapsElectricalServices/20_sharp.svg';
+import SVGMapsElectricalServices_24_sharp from '../../svg/maps/MapsElectricalServices/24_sharp.svg';
+import SVGMapsElectricalServices_20_filled from '../../svg/maps/MapsElectricalServices/20_filled.svg';
+import SVGMapsElectricalServices_24_filled from '../../svg/maps/MapsElectricalServices/24_filled.svg';
+import SVGMapsElectricalServices_20_round from '../../svg/maps/MapsElectricalServices/20_round.svg';
+import SVGMapsElectricalServices_24_round from '../../svg/maps/MapsElectricalServices/24_round.svg';
+
+export const IconMapsElectricalServices20outlined = () => <SVGMapsElectricalServices_20_outlined />;
+export const IconMapsElectricalServices24outlined = () => <SVGMapsElectricalServices_24_outlined />;
+export const IconMapsElectricalServices20twotone = () => <SVGMapsElectricalServices_20_twotone />;
+export const IconMapsElectricalServices24twotone = () => <SVGMapsElectricalServices_24_twotone />;
+export const IconMapsElectricalServices20sharp = () => <SVGMapsElectricalServices_20_sharp />;
+export const IconMapsElectricalServices24sharp = () => <SVGMapsElectricalServices_24_sharp />;
+export const IconMapsElectricalServices20filled = () => <SVGMapsElectricalServices_20_filled />;
+export const IconMapsElectricalServices24filled = () => <SVGMapsElectricalServices_24_filled />;
+export const IconMapsElectricalServices20round = () => <SVGMapsElectricalServices_20_round />;
+export const IconMapsElectricalServices24round = () => <SVGMapsElectricalServices_24_round />;

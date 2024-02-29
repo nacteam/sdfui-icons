@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionDisabledVisible_20_outlined from '../../svg/action/ActionDisabledVisible/20_outlined.svg';
+import SVGActionDisabledVisible_24_outlined from '../../svg/action/ActionDisabledVisible/24_outlined.svg';
+import SVGActionDisabledVisible_20_twotone from '../../svg/action/ActionDisabledVisible/20_twotone.svg';
+import SVGActionDisabledVisible_24_twotone from '../../svg/action/ActionDisabledVisible/24_twotone.svg';
+import SVGActionDisabledVisible_20_sharp from '../../svg/action/ActionDisabledVisible/20_sharp.svg';
+import SVGActionDisabledVisible_24_sharp from '../../svg/action/ActionDisabledVisible/24_sharp.svg';
+import SVGActionDisabledVisible_20_filled from '../../svg/action/ActionDisabledVisible/20_filled.svg';
+import SVGActionDisabledVisible_24_filled from '../../svg/action/ActionDisabledVisible/24_filled.svg';
+import SVGActionDisabledVisible_20_round from '../../svg/action/ActionDisabledVisible/20_round.svg';
+import SVGActionDisabledVisible_24_round from '../../svg/action/ActionDisabledVisible/24_round.svg';
+
+export const IconActionDisabledVisible20outlined = () => <SVGActionDisabledVisible_20_outlined />;
+export const IconActionDisabledVisible24outlined = () => <SVGActionDisabledVisible_24_outlined />;
+export const IconActionDisabledVisible20twotone = () => <SVGActionDisabledVisible_20_twotone />;
+export const IconActionDisabledVisible24twotone = () => <SVGActionDisabledVisible_24_twotone />;
+export const IconActionDisabledVisible20sharp = () => <SVGActionDisabledVisible_20_sharp />;
+export const IconActionDisabledVisible24sharp = () => <SVGActionDisabledVisible_24_sharp />;
+export const IconActionDisabledVisible20filled = () => <SVGActionDisabledVisible_20_filled />;
+export const IconActionDisabledVisible24filled = () => <SVGActionDisabledVisible_24_filled />;
+export const IconActionDisabledVisible20round = () => <SVGActionDisabledVisible_20_round />;
+export const IconActionDisabledVisible24round = () => <SVGActionDisabledVisible_24_round />;

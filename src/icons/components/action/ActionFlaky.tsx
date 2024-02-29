@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFlaky_20_outlined from '../../svg/action/ActionFlaky/20_outlined.svg';
+import SVGActionFlaky_24_outlined from '../../svg/action/ActionFlaky/24_outlined.svg';
+import SVGActionFlaky_20_twotone from '../../svg/action/ActionFlaky/20_twotone.svg';
+import SVGActionFlaky_24_twotone from '../../svg/action/ActionFlaky/24_twotone.svg';
+import SVGActionFlaky_20_sharp from '../../svg/action/ActionFlaky/20_sharp.svg';
+import SVGActionFlaky_24_sharp from '../../svg/action/ActionFlaky/24_sharp.svg';
+import SVGActionFlaky_20_filled from '../../svg/action/ActionFlaky/20_filled.svg';
+import SVGActionFlaky_24_filled from '../../svg/action/ActionFlaky/24_filled.svg';
+import SVGActionFlaky_20_round from '../../svg/action/ActionFlaky/20_round.svg';
+import SVGActionFlaky_24_round from '../../svg/action/ActionFlaky/24_round.svg';
+
+export const IconActionFlaky20outlined = () => <SVGActionFlaky_20_outlined />;
+export const IconActionFlaky24outlined = () => <SVGActionFlaky_24_outlined />;
+export const IconActionFlaky20twotone = () => <SVGActionFlaky_20_twotone />;
+export const IconActionFlaky24twotone = () => <SVGActionFlaky_24_twotone />;
+export const IconActionFlaky20sharp = () => <SVGActionFlaky_20_sharp />;
+export const IconActionFlaky24sharp = () => <SVGActionFlaky_24_sharp />;
+export const IconActionFlaky20filled = () => <SVGActionFlaky_20_filled />;
+export const IconActionFlaky24filled = () => <SVGActionFlaky_24_filled />;
+export const IconActionFlaky20round = () => <SVGActionFlaky_20_round />;
+export const IconActionFlaky24round = () => <SVGActionFlaky_24_round />;

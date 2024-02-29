@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionInstallDesktop_20_outlined from '../../svg/action/ActionInstallDesktop/20_outlined.svg';
+import SVGActionInstallDesktop_24_outlined from '../../svg/action/ActionInstallDesktop/24_outlined.svg';
+import SVGActionInstallDesktop_20_twotone from '../../svg/action/ActionInstallDesktop/20_twotone.svg';
+import SVGActionInstallDesktop_24_twotone from '../../svg/action/ActionInstallDesktop/24_twotone.svg';
+import SVGActionInstallDesktop_20_sharp from '../../svg/action/ActionInstallDesktop/20_sharp.svg';
+import SVGActionInstallDesktop_24_sharp from '../../svg/action/ActionInstallDesktop/24_sharp.svg';
+import SVGActionInstallDesktop_20_filled from '../../svg/action/ActionInstallDesktop/20_filled.svg';
+import SVGActionInstallDesktop_24_filled from '../../svg/action/ActionInstallDesktop/24_filled.svg';
+import SVGActionInstallDesktop_20_round from '../../svg/action/ActionInstallDesktop/20_round.svg';
+import SVGActionInstallDesktop_24_round from '../../svg/action/ActionInstallDesktop/24_round.svg';
+
+export const IconActionInstallDesktop20outlined = () => <SVGActionInstallDesktop_20_outlined />;
+export const IconActionInstallDesktop24outlined = () => <SVGActionInstallDesktop_24_outlined />;
+export const IconActionInstallDesktop20twotone = () => <SVGActionInstallDesktop_20_twotone />;
+export const IconActionInstallDesktop24twotone = () => <SVGActionInstallDesktop_24_twotone />;
+export const IconActionInstallDesktop20sharp = () => <SVGActionInstallDesktop_20_sharp />;
+export const IconActionInstallDesktop24sharp = () => <SVGActionInstallDesktop_24_sharp />;
+export const IconActionInstallDesktop20filled = () => <SVGActionInstallDesktop_20_filled />;
+export const IconActionInstallDesktop24filled = () => <SVGActionInstallDesktop_24_filled />;
+export const IconActionInstallDesktop20round = () => <SVGActionInstallDesktop_20_round />;
+export const IconActionInstallDesktop24round = () => <SVGActionInstallDesktop_24_round />;

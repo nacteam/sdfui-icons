@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsEditRoad_20_outlined from '../../svg/maps/MapsEditRoad/20_outlined.svg';
+import SVGMapsEditRoad_24_outlined from '../../svg/maps/MapsEditRoad/24_outlined.svg';
+import SVGMapsEditRoad_20_twotone from '../../svg/maps/MapsEditRoad/20_twotone.svg';
+import SVGMapsEditRoad_24_twotone from '../../svg/maps/MapsEditRoad/24_twotone.svg';
+import SVGMapsEditRoad_20_sharp from '../../svg/maps/MapsEditRoad/20_sharp.svg';
+import SVGMapsEditRoad_24_sharp from '../../svg/maps/MapsEditRoad/24_sharp.svg';
+import SVGMapsEditRoad_20_filled from '../../svg/maps/MapsEditRoad/20_filled.svg';
+import SVGMapsEditRoad_24_filled from '../../svg/maps/MapsEditRoad/24_filled.svg';
+import SVGMapsEditRoad_20_round from '../../svg/maps/MapsEditRoad/20_round.svg';
+import SVGMapsEditRoad_24_round from '../../svg/maps/MapsEditRoad/24_round.svg';
+
+export const IconMapsEditRoad20outlined = () => <SVGMapsEditRoad_20_outlined />;
+export const IconMapsEditRoad24outlined = () => <SVGMapsEditRoad_24_outlined />;
+export const IconMapsEditRoad20twotone = () => <SVGMapsEditRoad_20_twotone />;
+export const IconMapsEditRoad24twotone = () => <SVGMapsEditRoad_24_twotone />;
+export const IconMapsEditRoad20sharp = () => <SVGMapsEditRoad_20_sharp />;
+export const IconMapsEditRoad24sharp = () => <SVGMapsEditRoad_24_sharp />;
+export const IconMapsEditRoad20filled = () => <SVGMapsEditRoad_20_filled />;
+export const IconMapsEditRoad24filled = () => <SVGMapsEditRoad_24_filled />;
+export const IconMapsEditRoad20round = () => <SVGMapsEditRoad_20_round />;
+export const IconMapsEditRoad24round = () => <SVGMapsEditRoad_24_round />;

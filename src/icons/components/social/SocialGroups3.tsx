@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialGroups3_20_outlined from '../../svg/social/SocialGroups3/20_outlined.svg';
+import SVGSocialGroups3_24_outlined from '../../svg/social/SocialGroups3/24_outlined.svg';
+import SVGSocialGroups3_20_twotone from '../../svg/social/SocialGroups3/20_twotone.svg';
+import SVGSocialGroups3_24_twotone from '../../svg/social/SocialGroups3/24_twotone.svg';
+import SVGSocialGroups3_20_sharp from '../../svg/social/SocialGroups3/20_sharp.svg';
+import SVGSocialGroups3_24_sharp from '../../svg/social/SocialGroups3/24_sharp.svg';
+import SVGSocialGroups3_20_filled from '../../svg/social/SocialGroups3/20_filled.svg';
+import SVGSocialGroups3_24_filled from '../../svg/social/SocialGroups3/24_filled.svg';
+import SVGSocialGroups3_20_round from '../../svg/social/SocialGroups3/20_round.svg';
+import SVGSocialGroups3_24_round from '../../svg/social/SocialGroups3/24_round.svg';
+
+export const IconSocialGroups320outlined = () => <SVGSocialGroups3_20_outlined />;
+export const IconSocialGroups324outlined = () => <SVGSocialGroups3_24_outlined />;
+export const IconSocialGroups320twotone = () => <SVGSocialGroups3_20_twotone />;
+export const IconSocialGroups324twotone = () => <SVGSocialGroups3_24_twotone />;
+export const IconSocialGroups320sharp = () => <SVGSocialGroups3_20_sharp />;
+export const IconSocialGroups324sharp = () => <SVGSocialGroups3_24_sharp />;
+export const IconSocialGroups320filled = () => <SVGSocialGroups3_20_filled />;
+export const IconSocialGroups324filled = () => <SVGSocialGroups3_24_filled />;
+export const IconSocialGroups320round = () => <SVGSocialGroups3_20_round />;
+export const IconSocialGroups324round = () => <SVGSocialGroups3_24_round />;

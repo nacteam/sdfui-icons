@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAlertAutoDelete_20_outlined from '../../svg/alert/AlertAutoDelete/20_outlined.svg';
+import SVGAlertAutoDelete_24_outlined from '../../svg/alert/AlertAutoDelete/24_outlined.svg';
+import SVGAlertAutoDelete_20_twotone from '../../svg/alert/AlertAutoDelete/20_twotone.svg';
+import SVGAlertAutoDelete_24_twotone from '../../svg/alert/AlertAutoDelete/24_twotone.svg';
+import SVGAlertAutoDelete_20_sharp from '../../svg/alert/AlertAutoDelete/20_sharp.svg';
+import SVGAlertAutoDelete_24_sharp from '../../svg/alert/AlertAutoDelete/24_sharp.svg';
+import SVGAlertAutoDelete_20_filled from '../../svg/alert/AlertAutoDelete/20_filled.svg';
+import SVGAlertAutoDelete_24_filled from '../../svg/alert/AlertAutoDelete/24_filled.svg';
+import SVGAlertAutoDelete_20_round from '../../svg/alert/AlertAutoDelete/20_round.svg';
+import SVGAlertAutoDelete_24_round from '../../svg/alert/AlertAutoDelete/24_round.svg';
+
+export const IconAlertAutoDelete20outlined = () => <SVGAlertAutoDelete_20_outlined />;
+export const IconAlertAutoDelete24outlined = () => <SVGAlertAutoDelete_24_outlined />;
+export const IconAlertAutoDelete20twotone = () => <SVGAlertAutoDelete_20_twotone />;
+export const IconAlertAutoDelete24twotone = () => <SVGAlertAutoDelete_24_twotone />;
+export const IconAlertAutoDelete20sharp = () => <SVGAlertAutoDelete_20_sharp />;
+export const IconAlertAutoDelete24sharp = () => <SVGAlertAutoDelete_24_sharp />;
+export const IconAlertAutoDelete20filled = () => <SVGAlertAutoDelete_20_filled />;
+export const IconAlertAutoDelete24filled = () => <SVGAlertAutoDelete_24_filled />;
+export const IconAlertAutoDelete20round = () => <SVGAlertAutoDelete_20_round />;
+export const IconAlertAutoDelete24round = () => <SVGAlertAutoDelete_24_round />;

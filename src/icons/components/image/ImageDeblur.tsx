@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageDeblur_20_outlined from '../../svg/image/ImageDeblur/20_outlined.svg';
+import SVGImageDeblur_24_outlined from '../../svg/image/ImageDeblur/24_outlined.svg';
+import SVGImageDeblur_20_twotone from '../../svg/image/ImageDeblur/20_twotone.svg';
+import SVGImageDeblur_24_twotone from '../../svg/image/ImageDeblur/24_twotone.svg';
+import SVGImageDeblur_20_sharp from '../../svg/image/ImageDeblur/20_sharp.svg';
+import SVGImageDeblur_24_sharp from '../../svg/image/ImageDeblur/24_sharp.svg';
+import SVGImageDeblur_20_filled from '../../svg/image/ImageDeblur/20_filled.svg';
+import SVGImageDeblur_24_filled from '../../svg/image/ImageDeblur/24_filled.svg';
+import SVGImageDeblur_20_round from '../../svg/image/ImageDeblur/20_round.svg';
+import SVGImageDeblur_24_round from '../../svg/image/ImageDeblur/24_round.svg';
+
+export const IconImageDeblur20outlined = () => <SVGImageDeblur_20_outlined />;
+export const IconImageDeblur24outlined = () => <SVGImageDeblur_24_outlined />;
+export const IconImageDeblur20twotone = () => <SVGImageDeblur_20_twotone />;
+export const IconImageDeblur24twotone = () => <SVGImageDeblur_24_twotone />;
+export const IconImageDeblur20sharp = () => <SVGImageDeblur_20_sharp />;
+export const IconImageDeblur24sharp = () => <SVGImageDeblur_24_sharp />;
+export const IconImageDeblur20filled = () => <SVGImageDeblur_20_filled />;
+export const IconImageDeblur24filled = () => <SVGImageDeblur_24_filled />;
+export const IconImageDeblur20round = () => <SVGImageDeblur_20_round />;
+export const IconImageDeblur24round = () => <SVGImageDeblur_24_round />;

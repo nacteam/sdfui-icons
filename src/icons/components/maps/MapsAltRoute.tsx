@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsAltRoute_20_outlined from '../../svg/maps/MapsAltRoute/20_outlined.svg';
+import SVGMapsAltRoute_24_outlined from '../../svg/maps/MapsAltRoute/24_outlined.svg';
+import SVGMapsAltRoute_20_twotone from '../../svg/maps/MapsAltRoute/20_twotone.svg';
+import SVGMapsAltRoute_24_twotone from '../../svg/maps/MapsAltRoute/24_twotone.svg';
+import SVGMapsAltRoute_20_sharp from '../../svg/maps/MapsAltRoute/20_sharp.svg';
+import SVGMapsAltRoute_24_sharp from '../../svg/maps/MapsAltRoute/24_sharp.svg';
+import SVGMapsAltRoute_20_filled from '../../svg/maps/MapsAltRoute/20_filled.svg';
+import SVGMapsAltRoute_24_filled from '../../svg/maps/MapsAltRoute/24_filled.svg';
+import SVGMapsAltRoute_20_round from '../../svg/maps/MapsAltRoute/20_round.svg';
+import SVGMapsAltRoute_24_round from '../../svg/maps/MapsAltRoute/24_round.svg';
+
+export const IconMapsAltRoute20outlined = () => <SVGMapsAltRoute_20_outlined />;
+export const IconMapsAltRoute24outlined = () => <SVGMapsAltRoute_24_outlined />;
+export const IconMapsAltRoute20twotone = () => <SVGMapsAltRoute_20_twotone />;
+export const IconMapsAltRoute24twotone = () => <SVGMapsAltRoute_24_twotone />;
+export const IconMapsAltRoute20sharp = () => <SVGMapsAltRoute_20_sharp />;
+export const IconMapsAltRoute24sharp = () => <SVGMapsAltRoute_24_sharp />;
+export const IconMapsAltRoute20filled = () => <SVGMapsAltRoute_20_filled />;
+export const IconMapsAltRoute24filled = () => <SVGMapsAltRoute_24_filled />;
+export const IconMapsAltRoute20round = () => <SVGMapsAltRoute_20_round />;
+export const IconMapsAltRoute24round = () => <SVGMapsAltRoute_24_round />;

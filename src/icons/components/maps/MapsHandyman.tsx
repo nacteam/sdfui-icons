@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsHandyman_20_outlined from '../../svg/maps/MapsHandyman/20_outlined.svg';
+import SVGMapsHandyman_24_outlined from '../../svg/maps/MapsHandyman/24_outlined.svg';
+import SVGMapsHandyman_20_twotone from '../../svg/maps/MapsHandyman/20_twotone.svg';
+import SVGMapsHandyman_24_twotone from '../../svg/maps/MapsHandyman/24_twotone.svg';
+import SVGMapsHandyman_20_sharp from '../../svg/maps/MapsHandyman/20_sharp.svg';
+import SVGMapsHandyman_24_sharp from '../../svg/maps/MapsHandyman/24_sharp.svg';
+import SVGMapsHandyman_20_filled from '../../svg/maps/MapsHandyman/20_filled.svg';
+import SVGMapsHandyman_24_filled from '../../svg/maps/MapsHandyman/24_filled.svg';
+import SVGMapsHandyman_20_round from '../../svg/maps/MapsHandyman/20_round.svg';
+import SVGMapsHandyman_24_round from '../../svg/maps/MapsHandyman/24_round.svg';
+
+export const IconMapsHandyman20outlined = () => <SVGMapsHandyman_20_outlined />;
+export const IconMapsHandyman24outlined = () => <SVGMapsHandyman_24_outlined />;
+export const IconMapsHandyman20twotone = () => <SVGMapsHandyman_20_twotone />;
+export const IconMapsHandyman24twotone = () => <SVGMapsHandyman_24_twotone />;
+export const IconMapsHandyman20sharp = () => <SVGMapsHandyman_20_sharp />;
+export const IconMapsHandyman24sharp = () => <SVGMapsHandyman_24_sharp />;
+export const IconMapsHandyman20filled = () => <SVGMapsHandyman_20_filled />;
+export const IconMapsHandyman24filled = () => <SVGMapsHandyman_24_filled />;
+export const IconMapsHandyman20round = () => <SVGMapsHandyman_20_round />;
+export const IconMapsHandyman24round = () => <SVGMapsHandyman_24_round />;

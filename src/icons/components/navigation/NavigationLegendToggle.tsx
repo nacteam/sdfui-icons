@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNavigationLegendToggle_20_outlined from '../../svg/navigation/NavigationLegendToggle/20_outlined.svg';
+import SVGNavigationLegendToggle_24_outlined from '../../svg/navigation/NavigationLegendToggle/24_outlined.svg';
+import SVGNavigationLegendToggle_20_twotone from '../../svg/navigation/NavigationLegendToggle/20_twotone.svg';
+import SVGNavigationLegendToggle_24_twotone from '../../svg/navigation/NavigationLegendToggle/24_twotone.svg';
+import SVGNavigationLegendToggle_20_sharp from '../../svg/navigation/NavigationLegendToggle/20_sharp.svg';
+import SVGNavigationLegendToggle_24_sharp from '../../svg/navigation/NavigationLegendToggle/24_sharp.svg';
+import SVGNavigationLegendToggle_20_filled from '../../svg/navigation/NavigationLegendToggle/20_filled.svg';
+import SVGNavigationLegendToggle_24_filled from '../../svg/navigation/NavigationLegendToggle/24_filled.svg';
+import SVGNavigationLegendToggle_20_round from '../../svg/navigation/NavigationLegendToggle/20_round.svg';
+import SVGNavigationLegendToggle_24_round from '../../svg/navigation/NavigationLegendToggle/24_round.svg';
+
+export const IconNavigationLegendToggle20outlined = () => <SVGNavigationLegendToggle_20_outlined />;
+export const IconNavigationLegendToggle24outlined = () => <SVGNavigationLegendToggle_24_outlined />;
+export const IconNavigationLegendToggle20twotone = () => <SVGNavigationLegendToggle_20_twotone />;
+export const IconNavigationLegendToggle24twotone = () => <SVGNavigationLegendToggle_24_twotone />;
+export const IconNavigationLegendToggle20sharp = () => <SVGNavigationLegendToggle_20_sharp />;
+export const IconNavigationLegendToggle24sharp = () => <SVGNavigationLegendToggle_24_sharp />;
+export const IconNavigationLegendToggle20filled = () => <SVGNavigationLegendToggle_20_filled />;
+export const IconNavigationLegendToggle24filled = () => <SVGNavigationLegendToggle_24_filled />;
+export const IconNavigationLegendToggle20round = () => <SVGNavigationLegendToggle_20_round />;
+export const IconNavigationLegendToggle24round = () => <SVGNavigationLegendToggle_24_round />;

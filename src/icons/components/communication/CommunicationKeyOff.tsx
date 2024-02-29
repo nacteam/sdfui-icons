@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationKeyOff_20_outlined from '../../svg/communication/CommunicationKeyOff/20_outlined.svg';
+import SVGCommunicationKeyOff_24_outlined from '../../svg/communication/CommunicationKeyOff/24_outlined.svg';
+import SVGCommunicationKeyOff_20_twotone from '../../svg/communication/CommunicationKeyOff/20_twotone.svg';
+import SVGCommunicationKeyOff_24_twotone from '../../svg/communication/CommunicationKeyOff/24_twotone.svg';
+import SVGCommunicationKeyOff_20_sharp from '../../svg/communication/CommunicationKeyOff/20_sharp.svg';
+import SVGCommunicationKeyOff_24_sharp from '../../svg/communication/CommunicationKeyOff/24_sharp.svg';
+import SVGCommunicationKeyOff_20_filled from '../../svg/communication/CommunicationKeyOff/20_filled.svg';
+import SVGCommunicationKeyOff_24_filled from '../../svg/communication/CommunicationKeyOff/24_filled.svg';
+import SVGCommunicationKeyOff_20_round from '../../svg/communication/CommunicationKeyOff/20_round.svg';
+import SVGCommunicationKeyOff_24_round from '../../svg/communication/CommunicationKeyOff/24_round.svg';
+
+export const IconCommunicationKeyOff20outlined = () => <SVGCommunicationKeyOff_20_outlined />;
+export const IconCommunicationKeyOff24outlined = () => <SVGCommunicationKeyOff_24_outlined />;
+export const IconCommunicationKeyOff20twotone = () => <SVGCommunicationKeyOff_20_twotone />;
+export const IconCommunicationKeyOff24twotone = () => <SVGCommunicationKeyOff_24_twotone />;
+export const IconCommunicationKeyOff20sharp = () => <SVGCommunicationKeyOff_20_sharp />;
+export const IconCommunicationKeyOff24sharp = () => <SVGCommunicationKeyOff_24_sharp />;
+export const IconCommunicationKeyOff20filled = () => <SVGCommunicationKeyOff_20_filled />;
+export const IconCommunicationKeyOff24filled = () => <SVGCommunicationKeyOff_24_filled />;
+export const IconCommunicationKeyOff20round = () => <SVGCommunicationKeyOff_20_round />;
+export const IconCommunicationKeyOff24round = () => <SVGCommunicationKeyOff_24_round />;

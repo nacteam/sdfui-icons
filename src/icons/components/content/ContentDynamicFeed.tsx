@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentDynamicFeed_20_outlined from '../../svg/content/ContentDynamicFeed/20_outlined.svg';
+import SVGContentDynamicFeed_24_outlined from '../../svg/content/ContentDynamicFeed/24_outlined.svg';
+import SVGContentDynamicFeed_20_twotone from '../../svg/content/ContentDynamicFeed/20_twotone.svg';
+import SVGContentDynamicFeed_24_twotone from '../../svg/content/ContentDynamicFeed/24_twotone.svg';
+import SVGContentDynamicFeed_20_sharp from '../../svg/content/ContentDynamicFeed/20_sharp.svg';
+import SVGContentDynamicFeed_24_sharp from '../../svg/content/ContentDynamicFeed/24_sharp.svg';
+import SVGContentDynamicFeed_20_filled from '../../svg/content/ContentDynamicFeed/20_filled.svg';
+import SVGContentDynamicFeed_24_filled from '../../svg/content/ContentDynamicFeed/24_filled.svg';
+import SVGContentDynamicFeed_20_round from '../../svg/content/ContentDynamicFeed/20_round.svg';
+import SVGContentDynamicFeed_24_round from '../../svg/content/ContentDynamicFeed/24_round.svg';
+
+export const IconContentDynamicFeed20outlined = () => <SVGContentDynamicFeed_20_outlined />;
+export const IconContentDynamicFeed24outlined = () => <SVGContentDynamicFeed_24_outlined />;
+export const IconContentDynamicFeed20twotone = () => <SVGContentDynamicFeed_20_twotone />;
+export const IconContentDynamicFeed24twotone = () => <SVGContentDynamicFeed_24_twotone />;
+export const IconContentDynamicFeed20sharp = () => <SVGContentDynamicFeed_20_sharp />;
+export const IconContentDynamicFeed24sharp = () => <SVGContentDynamicFeed_24_sharp />;
+export const IconContentDynamicFeed20filled = () => <SVGContentDynamicFeed_20_filled />;
+export const IconContentDynamicFeed24filled = () => <SVGContentDynamicFeed_24_filled />;
+export const IconContentDynamicFeed20round = () => <SVGContentDynamicFeed_20_round />;
+export const IconContentDynamicFeed24round = () => <SVGContentDynamicFeed_24_round />;

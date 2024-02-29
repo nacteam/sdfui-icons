@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFreeCancellation_20_outlined from '../../svg/action/ActionFreeCancellation/20_outlined.svg';
+import SVGActionFreeCancellation_24_outlined from '../../svg/action/ActionFreeCancellation/24_outlined.svg';
+import SVGActionFreeCancellation_20_twotone from '../../svg/action/ActionFreeCancellation/20_twotone.svg';
+import SVGActionFreeCancellation_24_twotone from '../../svg/action/ActionFreeCancellation/24_twotone.svg';
+import SVGActionFreeCancellation_20_sharp from '../../svg/action/ActionFreeCancellation/20_sharp.svg';
+import SVGActionFreeCancellation_24_sharp from '../../svg/action/ActionFreeCancellation/24_sharp.svg';
+import SVGActionFreeCancellation_20_filled from '../../svg/action/ActionFreeCancellation/20_filled.svg';
+import SVGActionFreeCancellation_24_filled from '../../svg/action/ActionFreeCancellation/24_filled.svg';
+import SVGActionFreeCancellation_20_round from '../../svg/action/ActionFreeCancellation/20_round.svg';
+import SVGActionFreeCancellation_24_round from '../../svg/action/ActionFreeCancellation/24_round.svg';
+
+export const IconActionFreeCancellation20outlined = () => <SVGActionFreeCancellation_20_outlined />;
+export const IconActionFreeCancellation24outlined = () => <SVGActionFreeCancellation_24_outlined />;
+export const IconActionFreeCancellation20twotone = () => <SVGActionFreeCancellation_20_twotone />;
+export const IconActionFreeCancellation24twotone = () => <SVGActionFreeCancellation_24_twotone />;
+export const IconActionFreeCancellation20sharp = () => <SVGActionFreeCancellation_20_sharp />;
+export const IconActionFreeCancellation24sharp = () => <SVGActionFreeCancellation_24_sharp />;
+export const IconActionFreeCancellation20filled = () => <SVGActionFreeCancellation_20_filled />;
+export const IconActionFreeCancellation24filled = () => <SVGActionFreeCancellation_24_filled />;
+export const IconActionFreeCancellation20round = () => <SVGActionFreeCancellation_20_round />;
+export const IconActionFreeCancellation24round = () => <SVGActionFreeCancellation_24_round />;

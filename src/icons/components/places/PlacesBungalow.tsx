@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesBungalow_20_outlined from '../../svg/places/PlacesBungalow/20_outlined.svg';
+import SVGPlacesBungalow_24_outlined from '../../svg/places/PlacesBungalow/24_outlined.svg';
+import SVGPlacesBungalow_20_twotone from '../../svg/places/PlacesBungalow/20_twotone.svg';
+import SVGPlacesBungalow_24_twotone from '../../svg/places/PlacesBungalow/24_twotone.svg';
+import SVGPlacesBungalow_20_sharp from '../../svg/places/PlacesBungalow/20_sharp.svg';
+import SVGPlacesBungalow_24_sharp from '../../svg/places/PlacesBungalow/24_sharp.svg';
+import SVGPlacesBungalow_20_filled from '../../svg/places/PlacesBungalow/20_filled.svg';
+import SVGPlacesBungalow_24_filled from '../../svg/places/PlacesBungalow/24_filled.svg';
+import SVGPlacesBungalow_20_round from '../../svg/places/PlacesBungalow/20_round.svg';
+import SVGPlacesBungalow_24_round from '../../svg/places/PlacesBungalow/24_round.svg';
+
+export const IconPlacesBungalow20outlined = () => <SVGPlacesBungalow_20_outlined />;
+export const IconPlacesBungalow24outlined = () => <SVGPlacesBungalow_24_outlined />;
+export const IconPlacesBungalow20twotone = () => <SVGPlacesBungalow_20_twotone />;
+export const IconPlacesBungalow24twotone = () => <SVGPlacesBungalow_24_twotone />;
+export const IconPlacesBungalow20sharp = () => <SVGPlacesBungalow_20_sharp />;
+export const IconPlacesBungalow24sharp = () => <SVGPlacesBungalow_24_sharp />;
+export const IconPlacesBungalow20filled = () => <SVGPlacesBungalow_20_filled />;
+export const IconPlacesBungalow24filled = () => <SVGPlacesBungalow_24_filled />;
+export const IconPlacesBungalow20round = () => <SVGPlacesBungalow_20_round />;
+export const IconPlacesBungalow24round = () => <SVGPlacesBungalow_24_round />;

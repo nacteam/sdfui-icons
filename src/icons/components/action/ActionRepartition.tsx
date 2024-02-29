@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionRepartition_20_outlined from '../../svg/action/ActionRepartition/20_outlined.svg';
+import SVGActionRepartition_24_outlined from '../../svg/action/ActionRepartition/24_outlined.svg';
+import SVGActionRepartition_20_twotone from '../../svg/action/ActionRepartition/20_twotone.svg';
+import SVGActionRepartition_24_twotone from '../../svg/action/ActionRepartition/24_twotone.svg';
+import SVGActionRepartition_20_sharp from '../../svg/action/ActionRepartition/20_sharp.svg';
+import SVGActionRepartition_24_sharp from '../../svg/action/ActionRepartition/24_sharp.svg';
+import SVGActionRepartition_20_filled from '../../svg/action/ActionRepartition/20_filled.svg';
+import SVGActionRepartition_24_filled from '../../svg/action/ActionRepartition/24_filled.svg';
+import SVGActionRepartition_20_round from '../../svg/action/ActionRepartition/20_round.svg';
+import SVGActionRepartition_24_round from '../../svg/action/ActionRepartition/24_round.svg';
+
+export const IconActionRepartition20outlined = () => <SVGActionRepartition_20_outlined />;
+export const IconActionRepartition24outlined = () => <SVGActionRepartition_24_outlined />;
+export const IconActionRepartition20twotone = () => <SVGActionRepartition_20_twotone />;
+export const IconActionRepartition24twotone = () => <SVGActionRepartition_24_twotone />;
+export const IconActionRepartition20sharp = () => <SVGActionRepartition_20_sharp />;
+export const IconActionRepartition24sharp = () => <SVGActionRepartition_24_sharp />;
+export const IconActionRepartition20filled = () => <SVGActionRepartition_20_filled />;
+export const IconActionRepartition24filled = () => <SVGActionRepartition_24_filled />;
+export const IconActionRepartition20round = () => <SVGActionRepartition_20_round />;
+export const IconActionRepartition24round = () => <SVGActionRepartition_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorPostAdd_20_outlined from '../../svg/editor/EditorPostAdd/20_outlined.svg';
+import SVGEditorPostAdd_24_outlined from '../../svg/editor/EditorPostAdd/24_outlined.svg';
+import SVGEditorPostAdd_20_twotone from '../../svg/editor/EditorPostAdd/20_twotone.svg';
+import SVGEditorPostAdd_24_twotone from '../../svg/editor/EditorPostAdd/24_twotone.svg';
+import SVGEditorPostAdd_20_sharp from '../../svg/editor/EditorPostAdd/20_sharp.svg';
+import SVGEditorPostAdd_24_sharp from '../../svg/editor/EditorPostAdd/24_sharp.svg';
+import SVGEditorPostAdd_20_filled from '../../svg/editor/EditorPostAdd/20_filled.svg';
+import SVGEditorPostAdd_24_filled from '../../svg/editor/EditorPostAdd/24_filled.svg';
+import SVGEditorPostAdd_20_round from '../../svg/editor/EditorPostAdd/20_round.svg';
+import SVGEditorPostAdd_24_round from '../../svg/editor/EditorPostAdd/24_round.svg';
+
+export const IconEditorPostAdd20outlined = () => <SVGEditorPostAdd_20_outlined />;
+export const IconEditorPostAdd24outlined = () => <SVGEditorPostAdd_24_outlined />;
+export const IconEditorPostAdd20twotone = () => <SVGEditorPostAdd_20_twotone />;
+export const IconEditorPostAdd24twotone = () => <SVGEditorPostAdd_24_twotone />;
+export const IconEditorPostAdd20sharp = () => <SVGEditorPostAdd_20_sharp />;
+export const IconEditorPostAdd24sharp = () => <SVGEditorPostAdd_24_sharp />;
+export const IconEditorPostAdd20filled = () => <SVGEditorPostAdd_20_filled />;
+export const IconEditorPostAdd24filled = () => <SVGEditorPostAdd_24_filled />;
+export const IconEditorPostAdd20round = () => <SVGEditorPostAdd_20_round />;
+export const IconEditorPostAdd24round = () => <SVGEditorPostAdd_24_round />;

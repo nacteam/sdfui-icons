@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSensors_20_outlined from '../../svg/action/ActionSensors/20_outlined.svg';
+import SVGActionSensors_24_outlined from '../../svg/action/ActionSensors/24_outlined.svg';
+import SVGActionSensors_20_twotone from '../../svg/action/ActionSensors/20_twotone.svg';
+import SVGActionSensors_24_twotone from '../../svg/action/ActionSensors/24_twotone.svg';
+import SVGActionSensors_20_sharp from '../../svg/action/ActionSensors/20_sharp.svg';
+import SVGActionSensors_24_sharp from '../../svg/action/ActionSensors/24_sharp.svg';
+import SVGActionSensors_20_filled from '../../svg/action/ActionSensors/20_filled.svg';
+import SVGActionSensors_24_filled from '../../svg/action/ActionSensors/24_filled.svg';
+import SVGActionSensors_20_round from '../../svg/action/ActionSensors/20_round.svg';
+import SVGActionSensors_24_round from '../../svg/action/ActionSensors/24_round.svg';
+
+export const IconActionSensors20outlined = () => <SVGActionSensors_20_outlined />;
+export const IconActionSensors24outlined = () => <SVGActionSensors_24_outlined />;
+export const IconActionSensors20twotone = () => <SVGActionSensors_20_twotone />;
+export const IconActionSensors24twotone = () => <SVGActionSensors_24_twotone />;
+export const IconActionSensors20sharp = () => <SVGActionSensors_20_sharp />;
+export const IconActionSensors24sharp = () => <SVGActionSensors_24_sharp />;
+export const IconActionSensors20filled = () => <SVGActionSensors_20_filled />;
+export const IconActionSensors24filled = () => <SVGActionSensors_24_filled />;
+export const IconActionSensors20round = () => <SVGActionSensors_20_round />;
+export const IconActionSensors24round = () => <SVGActionSensors_24_round />;

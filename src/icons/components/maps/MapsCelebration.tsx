@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsCelebration_20_outlined from '../../svg/maps/MapsCelebration/20_outlined.svg';
+import SVGMapsCelebration_24_outlined from '../../svg/maps/MapsCelebration/24_outlined.svg';
+import SVGMapsCelebration_20_twotone from '../../svg/maps/MapsCelebration/20_twotone.svg';
+import SVGMapsCelebration_24_twotone from '../../svg/maps/MapsCelebration/24_twotone.svg';
+import SVGMapsCelebration_20_sharp from '../../svg/maps/MapsCelebration/20_sharp.svg';
+import SVGMapsCelebration_24_sharp from '../../svg/maps/MapsCelebration/24_sharp.svg';
+import SVGMapsCelebration_20_filled from '../../svg/maps/MapsCelebration/20_filled.svg';
+import SVGMapsCelebration_24_filled from '../../svg/maps/MapsCelebration/24_filled.svg';
+import SVGMapsCelebration_20_round from '../../svg/maps/MapsCelebration/20_round.svg';
+import SVGMapsCelebration_24_round from '../../svg/maps/MapsCelebration/24_round.svg';
+
+export const IconMapsCelebration20outlined = () => <SVGMapsCelebration_20_outlined />;
+export const IconMapsCelebration24outlined = () => <SVGMapsCelebration_24_outlined />;
+export const IconMapsCelebration20twotone = () => <SVGMapsCelebration_20_twotone />;
+export const IconMapsCelebration24twotone = () => <SVGMapsCelebration_24_twotone />;
+export const IconMapsCelebration20sharp = () => <SVGMapsCelebration_20_sharp />;
+export const IconMapsCelebration24sharp = () => <SVGMapsCelebration_24_sharp />;
+export const IconMapsCelebration20filled = () => <SVGMapsCelebration_20_filled />;
+export const IconMapsCelebration24filled = () => <SVGMapsCelebration_24_filled />;
+export const IconMapsCelebration20round = () => <SVGMapsCelebration_20_round />;
+export const IconMapsCelebration24round = () => <SVGMapsCelebration_24_round />;

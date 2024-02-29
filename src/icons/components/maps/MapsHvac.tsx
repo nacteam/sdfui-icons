@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsHvac_20_outlined from '../../svg/maps/MapsHvac/20_outlined.svg';
+import SVGMapsHvac_24_outlined from '../../svg/maps/MapsHvac/24_outlined.svg';
+import SVGMapsHvac_20_twotone from '../../svg/maps/MapsHvac/20_twotone.svg';
+import SVGMapsHvac_24_twotone from '../../svg/maps/MapsHvac/24_twotone.svg';
+import SVGMapsHvac_20_sharp from '../../svg/maps/MapsHvac/20_sharp.svg';
+import SVGMapsHvac_24_sharp from '../../svg/maps/MapsHvac/24_sharp.svg';
+import SVGMapsHvac_20_filled from '../../svg/maps/MapsHvac/20_filled.svg';
+import SVGMapsHvac_24_filled from '../../svg/maps/MapsHvac/24_filled.svg';
+import SVGMapsHvac_20_round from '../../svg/maps/MapsHvac/20_round.svg';
+import SVGMapsHvac_24_round from '../../svg/maps/MapsHvac/24_round.svg';
+
+export const IconMapsHvac20outlined = () => <SVGMapsHvac_20_outlined />;
+export const IconMapsHvac24outlined = () => <SVGMapsHvac_24_outlined />;
+export const IconMapsHvac20twotone = () => <SVGMapsHvac_20_twotone />;
+export const IconMapsHvac24twotone = () => <SVGMapsHvac_24_twotone />;
+export const IconMapsHvac20sharp = () => <SVGMapsHvac_20_sharp />;
+export const IconMapsHvac24sharp = () => <SVGMapsHvac_24_sharp />;
+export const IconMapsHvac20filled = () => <SVGMapsHvac_20_filled />;
+export const IconMapsHvac24filled = () => <SVGMapsHvac_24_filled />;
+export const IconMapsHvac20round = () => <SVGMapsHvac_20_round />;
+export const IconMapsHvac24round = () => <SVGMapsHvac_24_round />;

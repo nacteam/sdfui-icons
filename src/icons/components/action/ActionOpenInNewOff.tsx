@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionOpenInNewOff_20_outlined from '../../svg/action/ActionOpenInNewOff/20_outlined.svg';
+import SVGActionOpenInNewOff_24_outlined from '../../svg/action/ActionOpenInNewOff/24_outlined.svg';
+import SVGActionOpenInNewOff_20_twotone from '../../svg/action/ActionOpenInNewOff/20_twotone.svg';
+import SVGActionOpenInNewOff_24_twotone from '../../svg/action/ActionOpenInNewOff/24_twotone.svg';
+import SVGActionOpenInNewOff_20_sharp from '../../svg/action/ActionOpenInNewOff/20_sharp.svg';
+import SVGActionOpenInNewOff_24_sharp from '../../svg/action/ActionOpenInNewOff/24_sharp.svg';
+import SVGActionOpenInNewOff_20_filled from '../../svg/action/ActionOpenInNewOff/20_filled.svg';
+import SVGActionOpenInNewOff_24_filled from '../../svg/action/ActionOpenInNewOff/24_filled.svg';
+import SVGActionOpenInNewOff_20_round from '../../svg/action/ActionOpenInNewOff/20_round.svg';
+import SVGActionOpenInNewOff_24_round from '../../svg/action/ActionOpenInNewOff/24_round.svg';
+
+export const IconActionOpenInNewOff20outlined = () => <SVGActionOpenInNewOff_20_outlined />;
+export const IconActionOpenInNewOff24outlined = () => <SVGActionOpenInNewOff_24_outlined />;
+export const IconActionOpenInNewOff20twotone = () => <SVGActionOpenInNewOff_20_twotone />;
+export const IconActionOpenInNewOff24twotone = () => <SVGActionOpenInNewOff_24_twotone />;
+export const IconActionOpenInNewOff20sharp = () => <SVGActionOpenInNewOff_20_sharp />;
+export const IconActionOpenInNewOff24sharp = () => <SVGActionOpenInNewOff_24_sharp />;
+export const IconActionOpenInNewOff20filled = () => <SVGActionOpenInNewOff_20_filled />;
+export const IconActionOpenInNewOff24filled = () => <SVGActionOpenInNewOff_24_filled />;
+export const IconActionOpenInNewOff20round = () => <SVGActionOpenInNewOff_20_round />;
+export const IconActionOpenInNewOff24round = () => <SVGActionOpenInNewOff_24_round />;

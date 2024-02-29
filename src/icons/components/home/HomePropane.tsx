@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomePropane_20_outlined from '../../svg/home/HomePropane/20_outlined.svg';
+import SVGHomePropane_24_outlined from '../../svg/home/HomePropane/24_outlined.svg';
+import SVGHomePropane_20_twotone from '../../svg/home/HomePropane/20_twotone.svg';
+import SVGHomePropane_24_twotone from '../../svg/home/HomePropane/24_twotone.svg';
+import SVGHomePropane_20_sharp from '../../svg/home/HomePropane/20_sharp.svg';
+import SVGHomePropane_24_sharp from '../../svg/home/HomePropane/24_sharp.svg';
+import SVGHomePropane_20_filled from '../../svg/home/HomePropane/20_filled.svg';
+import SVGHomePropane_24_filled from '../../svg/home/HomePropane/24_filled.svg';
+import SVGHomePropane_20_round from '../../svg/home/HomePropane/20_round.svg';
+import SVGHomePropane_24_round from '../../svg/home/HomePropane/24_round.svg';
+
+export const IconHomePropane20outlined = () => <SVGHomePropane_20_outlined />;
+export const IconHomePropane24outlined = () => <SVGHomePropane_24_outlined />;
+export const IconHomePropane20twotone = () => <SVGHomePropane_20_twotone />;
+export const IconHomePropane24twotone = () => <SVGHomePropane_24_twotone />;
+export const IconHomePropane20sharp = () => <SVGHomePropane_20_sharp />;
+export const IconHomePropane24sharp = () => <SVGHomePropane_24_sharp />;
+export const IconHomePropane20filled = () => <SVGHomePropane_20_filled />;
+export const IconHomePropane24filled = () => <SVGHomePropane_24_filled />;
+export const IconHomePropane20round = () => <SVGHomePropane_20_round />;
+export const IconHomePropane24round = () => <SVGHomePropane_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionTranscribe_20_outlined from '../../svg/action/ActionTranscribe/20_outlined.svg';
+import SVGActionTranscribe_24_outlined from '../../svg/action/ActionTranscribe/24_outlined.svg';
+import SVGActionTranscribe_20_twotone from '../../svg/action/ActionTranscribe/20_twotone.svg';
+import SVGActionTranscribe_24_twotone from '../../svg/action/ActionTranscribe/24_twotone.svg';
+import SVGActionTranscribe_20_sharp from '../../svg/action/ActionTranscribe/20_sharp.svg';
+import SVGActionTranscribe_24_sharp from '../../svg/action/ActionTranscribe/24_sharp.svg';
+import SVGActionTranscribe_20_filled from '../../svg/action/ActionTranscribe/20_filled.svg';
+import SVGActionTranscribe_24_filled from '../../svg/action/ActionTranscribe/24_filled.svg';
+import SVGActionTranscribe_20_round from '../../svg/action/ActionTranscribe/20_round.svg';
+import SVGActionTranscribe_24_round from '../../svg/action/ActionTranscribe/24_round.svg';
+
+export const IconActionTranscribe20outlined = () => <SVGActionTranscribe_20_outlined />;
+export const IconActionTranscribe24outlined = () => <SVGActionTranscribe_24_outlined />;
+export const IconActionTranscribe20twotone = () => <SVGActionTranscribe_20_twotone />;
+export const IconActionTranscribe24twotone = () => <SVGActionTranscribe_24_twotone />;
+export const IconActionTranscribe20sharp = () => <SVGActionTranscribe_20_sharp />;
+export const IconActionTranscribe24sharp = () => <SVGActionTranscribe_24_sharp />;
+export const IconActionTranscribe20filled = () => <SVGActionTranscribe_20_filled />;
+export const IconActionTranscribe24filled = () => <SVGActionTranscribe_24_filled />;
+export const IconActionTranscribe20round = () => <SVGActionTranscribe_20_round />;
+export const IconActionTranscribe24round = () => <SVGActionTranscribe_24_round />;

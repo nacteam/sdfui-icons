@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewColumn_20_outlined from '../../svg/action/ActionViewColumn/20_outlined.svg';
+import SVGActionViewColumn_24_outlined from '../../svg/action/ActionViewColumn/24_outlined.svg';
+import SVGActionViewColumn_20_twotone from '../../svg/action/ActionViewColumn/20_twotone.svg';
+import SVGActionViewColumn_24_twotone from '../../svg/action/ActionViewColumn/24_twotone.svg';
+import SVGActionViewColumn_20_sharp from '../../svg/action/ActionViewColumn/20_sharp.svg';
+import SVGActionViewColumn_24_sharp from '../../svg/action/ActionViewColumn/24_sharp.svg';
+import SVGActionViewColumn_20_filled from '../../svg/action/ActionViewColumn/20_filled.svg';
+import SVGActionViewColumn_24_filled from '../../svg/action/ActionViewColumn/24_filled.svg';
+import SVGActionViewColumn_20_round from '../../svg/action/ActionViewColumn/20_round.svg';
+import SVGActionViewColumn_24_round from '../../svg/action/ActionViewColumn/24_round.svg';
+
+export const IconActionViewColumn20outlined = () => <SVGActionViewColumn_20_outlined />;
+export const IconActionViewColumn24outlined = () => <SVGActionViewColumn_24_outlined />;
+export const IconActionViewColumn20twotone = () => <SVGActionViewColumn_20_twotone />;
+export const IconActionViewColumn24twotone = () => <SVGActionViewColumn_24_twotone />;
+export const IconActionViewColumn20sharp = () => <SVGActionViewColumn_20_sharp />;
+export const IconActionViewColumn24sharp = () => <SVGActionViewColumn_24_sharp />;
+export const IconActionViewColumn20filled = () => <SVGActionViewColumn_20_filled />;
+export const IconActionViewColumn24filled = () => <SVGActionViewColumn_24_filled />;
+export const IconActionViewColumn20round = () => <SVGActionViewColumn_20_round />;
+export const IconActionViewColumn24round = () => <SVGActionViewColumn_24_round />;

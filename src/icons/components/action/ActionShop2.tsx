@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionShop2_20_outlined from '../../svg/action/ActionShop2/20_outlined.svg';
+import SVGActionShop2_24_outlined from '../../svg/action/ActionShop2/24_outlined.svg';
+import SVGActionShop2_20_twotone from '../../svg/action/ActionShop2/20_twotone.svg';
+import SVGActionShop2_24_twotone from '../../svg/action/ActionShop2/24_twotone.svg';
+import SVGActionShop2_20_sharp from '../../svg/action/ActionShop2/20_sharp.svg';
+import SVGActionShop2_24_sharp from '../../svg/action/ActionShop2/24_sharp.svg';
+import SVGActionShop2_20_filled from '../../svg/action/ActionShop2/20_filled.svg';
+import SVGActionShop2_24_filled from '../../svg/action/ActionShop2/24_filled.svg';
+import SVGActionShop2_20_round from '../../svg/action/ActionShop2/20_round.svg';
+import SVGActionShop2_24_round from '../../svg/action/ActionShop2/24_round.svg';
+
+export const IconActionShop220outlined = () => <SVGActionShop2_20_outlined />;
+export const IconActionShop224outlined = () => <SVGActionShop2_24_outlined />;
+export const IconActionShop220twotone = () => <SVGActionShop2_20_twotone />;
+export const IconActionShop224twotone = () => <SVGActionShop2_24_twotone />;
+export const IconActionShop220sharp = () => <SVGActionShop2_20_sharp />;
+export const IconActionShop224sharp = () => <SVGActionShop2_24_sharp />;
+export const IconActionShop220filled = () => <SVGActionShop2_20_filled />;
+export const IconActionShop224filled = () => <SVGActionShop2_24_filled />;
+export const IconActionShop220round = () => <SVGActionShop2_20_round />;
+export const IconActionShop224round = () => <SVGActionShop2_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNavigationArrowBackIosNew_20_outlined from '../../svg/navigation/NavigationArrowBackIosNew/20_outlined.svg';
+import SVGNavigationArrowBackIosNew_24_outlined from '../../svg/navigation/NavigationArrowBackIosNew/24_outlined.svg';
+import SVGNavigationArrowBackIosNew_20_twotone from '../../svg/navigation/NavigationArrowBackIosNew/20_twotone.svg';
+import SVGNavigationArrowBackIosNew_24_twotone from '../../svg/navigation/NavigationArrowBackIosNew/24_twotone.svg';
+import SVGNavigationArrowBackIosNew_20_sharp from '../../svg/navigation/NavigationArrowBackIosNew/20_sharp.svg';
+import SVGNavigationArrowBackIosNew_24_sharp from '../../svg/navigation/NavigationArrowBackIosNew/24_sharp.svg';
+import SVGNavigationArrowBackIosNew_20_filled from '../../svg/navigation/NavigationArrowBackIosNew/20_filled.svg';
+import SVGNavigationArrowBackIosNew_24_filled from '../../svg/navigation/NavigationArrowBackIosNew/24_filled.svg';
+import SVGNavigationArrowBackIosNew_20_round from '../../svg/navigation/NavigationArrowBackIosNew/20_round.svg';
+import SVGNavigationArrowBackIosNew_24_round from '../../svg/navigation/NavigationArrowBackIosNew/24_round.svg';
+
+export const IconNavigationArrowBackIosNew20outlined = () => <SVGNavigationArrowBackIosNew_20_outlined />;
+export const IconNavigationArrowBackIosNew24outlined = () => <SVGNavigationArrowBackIosNew_24_outlined />;
+export const IconNavigationArrowBackIosNew20twotone = () => <SVGNavigationArrowBackIosNew_20_twotone />;
+export const IconNavigationArrowBackIosNew24twotone = () => <SVGNavigationArrowBackIosNew_24_twotone />;
+export const IconNavigationArrowBackIosNew20sharp = () => <SVGNavigationArrowBackIosNew_20_sharp />;
+export const IconNavigationArrowBackIosNew24sharp = () => <SVGNavigationArrowBackIosNew_24_sharp />;
+export const IconNavigationArrowBackIosNew20filled = () => <SVGNavigationArrowBackIosNew_20_filled />;
+export const IconNavigationArrowBackIosNew24filled = () => <SVGNavigationArrowBackIosNew_24_filled />;
+export const IconNavigationArrowBackIosNew20round = () => <SVGNavigationArrowBackIosNew_20_round />;
+export const IconNavigationArrowBackIosNew24round = () => <SVGNavigationArrowBackIosNew_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialKayaking_20_outlined from '../../svg/social/SocialKayaking/20_outlined.svg';
+import SVGSocialKayaking_24_outlined from '../../svg/social/SocialKayaking/24_outlined.svg';
+import SVGSocialKayaking_20_twotone from '../../svg/social/SocialKayaking/20_twotone.svg';
+import SVGSocialKayaking_24_twotone from '../../svg/social/SocialKayaking/24_twotone.svg';
+import SVGSocialKayaking_20_sharp from '../../svg/social/SocialKayaking/20_sharp.svg';
+import SVGSocialKayaking_24_sharp from '../../svg/social/SocialKayaking/24_sharp.svg';
+import SVGSocialKayaking_20_filled from '../../svg/social/SocialKayaking/20_filled.svg';
+import SVGSocialKayaking_24_filled from '../../svg/social/SocialKayaking/24_filled.svg';
+import SVGSocialKayaking_20_round from '../../svg/social/SocialKayaking/20_round.svg';
+import SVGSocialKayaking_24_round from '../../svg/social/SocialKayaking/24_round.svg';
+
+export const IconSocialKayaking20outlined = () => <SVGSocialKayaking_20_outlined />;
+export const IconSocialKayaking24outlined = () => <SVGSocialKayaking_24_outlined />;
+export const IconSocialKayaking20twotone = () => <SVGSocialKayaking_20_twotone />;
+export const IconSocialKayaking24twotone = () => <SVGSocialKayaking_24_twotone />;
+export const IconSocialKayaking20sharp = () => <SVGSocialKayaking_20_sharp />;
+export const IconSocialKayaking24sharp = () => <SVGSocialKayaking_24_sharp />;
+export const IconSocialKayaking20filled = () => <SVGSocialKayaking_20_filled />;
+export const IconSocialKayaking24filled = () => <SVGSocialKayaking_24_filled />;
+export const IconSocialKayaking20round = () => <SVGSocialKayaking_20_round />;
+export const IconSocialKayaking24round = () => <SVGSocialKayaking_24_round />;

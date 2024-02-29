@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwarePointOfSale_20_outlined from '../../svg/hardware/HardwarePointOfSale/20_outlined.svg';
+import SVGHardwarePointOfSale_24_outlined from '../../svg/hardware/HardwarePointOfSale/24_outlined.svg';
+import SVGHardwarePointOfSale_20_twotone from '../../svg/hardware/HardwarePointOfSale/20_twotone.svg';
+import SVGHardwarePointOfSale_24_twotone from '../../svg/hardware/HardwarePointOfSale/24_twotone.svg';
+import SVGHardwarePointOfSale_20_sharp from '../../svg/hardware/HardwarePointOfSale/20_sharp.svg';
+import SVGHardwarePointOfSale_24_sharp from '../../svg/hardware/HardwarePointOfSale/24_sharp.svg';
+import SVGHardwarePointOfSale_20_filled from '../../svg/hardware/HardwarePointOfSale/20_filled.svg';
+import SVGHardwarePointOfSale_24_filled from '../../svg/hardware/HardwarePointOfSale/24_filled.svg';
+import SVGHardwarePointOfSale_20_round from '../../svg/hardware/HardwarePointOfSale/20_round.svg';
+import SVGHardwarePointOfSale_24_round from '../../svg/hardware/HardwarePointOfSale/24_round.svg';
+
+export const IconHardwarePointOfSale20outlined = () => <SVGHardwarePointOfSale_20_outlined />;
+export const IconHardwarePointOfSale24outlined = () => <SVGHardwarePointOfSale_24_outlined />;
+export const IconHardwarePointOfSale20twotone = () => <SVGHardwarePointOfSale_20_twotone />;
+export const IconHardwarePointOfSale24twotone = () => <SVGHardwarePointOfSale_24_twotone />;
+export const IconHardwarePointOfSale20sharp = () => <SVGHardwarePointOfSale_20_sharp />;
+export const IconHardwarePointOfSale24sharp = () => <SVGHardwarePointOfSale_24_sharp />;
+export const IconHardwarePointOfSale20filled = () => <SVGHardwarePointOfSale_20_filled />;
+export const IconHardwarePointOfSale24filled = () => <SVGHardwarePointOfSale_24_filled />;
+export const IconHardwarePointOfSale20round = () => <SVGHardwarePointOfSale_20_round />;
+export const IconHardwarePointOfSale24round = () => <SVGHardwarePointOfSale_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDevicePhishing_20_outlined from '../../svg/device/DevicePhishing/20_outlined.svg';
+import SVGDevicePhishing_24_outlined from '../../svg/device/DevicePhishing/24_outlined.svg';
+import SVGDevicePhishing_20_twotone from '../../svg/device/DevicePhishing/20_twotone.svg';
+import SVGDevicePhishing_24_twotone from '../../svg/device/DevicePhishing/24_twotone.svg';
+import SVGDevicePhishing_20_sharp from '../../svg/device/DevicePhishing/20_sharp.svg';
+import SVGDevicePhishing_24_sharp from '../../svg/device/DevicePhishing/24_sharp.svg';
+import SVGDevicePhishing_20_filled from '../../svg/device/DevicePhishing/20_filled.svg';
+import SVGDevicePhishing_24_filled from '../../svg/device/DevicePhishing/24_filled.svg';
+import SVGDevicePhishing_20_round from '../../svg/device/DevicePhishing/20_round.svg';
+import SVGDevicePhishing_24_round from '../../svg/device/DevicePhishing/24_round.svg';
+
+export const IconDevicePhishing20outlined = () => <SVGDevicePhishing_20_outlined />;
+export const IconDevicePhishing24outlined = () => <SVGDevicePhishing_24_outlined />;
+export const IconDevicePhishing20twotone = () => <SVGDevicePhishing_20_twotone />;
+export const IconDevicePhishing24twotone = () => <SVGDevicePhishing_24_twotone />;
+export const IconDevicePhishing20sharp = () => <SVGDevicePhishing_20_sharp />;
+export const IconDevicePhishing24sharp = () => <SVGDevicePhishing_24_sharp />;
+export const IconDevicePhishing20filled = () => <SVGDevicePhishing_20_filled />;
+export const IconDevicePhishing24filled = () => <SVGDevicePhishing_24_filled />;
+export const IconDevicePhishing20round = () => <SVGDevicePhishing_20_round />;
+export const IconDevicePhishing24round = () => <SVGDevicePhishing_24_round />;

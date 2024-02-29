@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceDiscount_20_outlined from '../../svg/device/DeviceDiscount/20_outlined.svg';
+import SVGDeviceDiscount_24_outlined from '../../svg/device/DeviceDiscount/24_outlined.svg';
+import SVGDeviceDiscount_20_twotone from '../../svg/device/DeviceDiscount/20_twotone.svg';
+import SVGDeviceDiscount_24_twotone from '../../svg/device/DeviceDiscount/24_twotone.svg';
+import SVGDeviceDiscount_20_sharp from '../../svg/device/DeviceDiscount/20_sharp.svg';
+import SVGDeviceDiscount_24_sharp from '../../svg/device/DeviceDiscount/24_sharp.svg';
+import SVGDeviceDiscount_20_filled from '../../svg/device/DeviceDiscount/20_filled.svg';
+import SVGDeviceDiscount_24_filled from '../../svg/device/DeviceDiscount/24_filled.svg';
+import SVGDeviceDiscount_20_round from '../../svg/device/DeviceDiscount/20_round.svg';
+import SVGDeviceDiscount_24_round from '../../svg/device/DeviceDiscount/24_round.svg';
+
+export const IconDeviceDiscount20outlined = () => <SVGDeviceDiscount_20_outlined />;
+export const IconDeviceDiscount24outlined = () => <SVGDeviceDiscount_24_outlined />;
+export const IconDeviceDiscount20twotone = () => <SVGDeviceDiscount_20_twotone />;
+export const IconDeviceDiscount24twotone = () => <SVGDeviceDiscount_24_twotone />;
+export const IconDeviceDiscount20sharp = () => <SVGDeviceDiscount_20_sharp />;
+export const IconDeviceDiscount24sharp = () => <SVGDeviceDiscount_24_sharp />;
+export const IconDeviceDiscount20filled = () => <SVGDeviceDiscount_20_filled />;
+export const IconDeviceDiscount24filled = () => <SVGDeviceDiscount_24_filled />;
+export const IconDeviceDiscount20round = () => <SVGDeviceDiscount_20_round />;
+export const IconDeviceDiscount24round = () => <SVGDeviceDiscount_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsFort_20_outlined from '../../svg/maps/MapsFort/20_outlined.svg';
+import SVGMapsFort_24_outlined from '../../svg/maps/MapsFort/24_outlined.svg';
+import SVGMapsFort_20_twotone from '../../svg/maps/MapsFort/20_twotone.svg';
+import SVGMapsFort_24_twotone from '../../svg/maps/MapsFort/24_twotone.svg';
+import SVGMapsFort_20_sharp from '../../svg/maps/MapsFort/20_sharp.svg';
+import SVGMapsFort_24_sharp from '../../svg/maps/MapsFort/24_sharp.svg';
+import SVGMapsFort_20_filled from '../../svg/maps/MapsFort/20_filled.svg';
+import SVGMapsFort_24_filled from '../../svg/maps/MapsFort/24_filled.svg';
+import SVGMapsFort_20_round from '../../svg/maps/MapsFort/20_round.svg';
+import SVGMapsFort_24_round from '../../svg/maps/MapsFort/24_round.svg';
+
+export const IconMapsFort20outlined = () => <SVGMapsFort_20_outlined />;
+export const IconMapsFort24outlined = () => <SVGMapsFort_24_outlined />;
+export const IconMapsFort20twotone = () => <SVGMapsFort_20_twotone />;
+export const IconMapsFort24twotone = () => <SVGMapsFort_24_twotone />;
+export const IconMapsFort20sharp = () => <SVGMapsFort_20_sharp />;
+export const IconMapsFort24sharp = () => <SVGMapsFort_24_sharp />;
+export const IconMapsFort20filled = () => <SVGMapsFort_20_filled />;
+export const IconMapsFort24filled = () => <SVGMapsFort_24_filled />;
+export const IconMapsFort20round = () => <SVGMapsFort_20_round />;
+export const IconMapsFort24round = () => <SVGMapsFort_24_round />;

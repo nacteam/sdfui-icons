@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionUpdateDisabled_20_outlined from '../../svg/action/ActionUpdateDisabled/20_outlined.svg';
+import SVGActionUpdateDisabled_24_outlined from '../../svg/action/ActionUpdateDisabled/24_outlined.svg';
+import SVGActionUpdateDisabled_20_twotone from '../../svg/action/ActionUpdateDisabled/20_twotone.svg';
+import SVGActionUpdateDisabled_24_twotone from '../../svg/action/ActionUpdateDisabled/24_twotone.svg';
+import SVGActionUpdateDisabled_20_sharp from '../../svg/action/ActionUpdateDisabled/20_sharp.svg';
+import SVGActionUpdateDisabled_24_sharp from '../../svg/action/ActionUpdateDisabled/24_sharp.svg';
+import SVGActionUpdateDisabled_20_filled from '../../svg/action/ActionUpdateDisabled/20_filled.svg';
+import SVGActionUpdateDisabled_24_filled from '../../svg/action/ActionUpdateDisabled/24_filled.svg';
+import SVGActionUpdateDisabled_20_round from '../../svg/action/ActionUpdateDisabled/20_round.svg';
+import SVGActionUpdateDisabled_24_round from '../../svg/action/ActionUpdateDisabled/24_round.svg';
+
+export const IconActionUpdateDisabled20outlined = () => <SVGActionUpdateDisabled_20_outlined />;
+export const IconActionUpdateDisabled24outlined = () => <SVGActionUpdateDisabled_24_outlined />;
+export const IconActionUpdateDisabled20twotone = () => <SVGActionUpdateDisabled_20_twotone />;
+export const IconActionUpdateDisabled24twotone = () => <SVGActionUpdateDisabled_24_twotone />;
+export const IconActionUpdateDisabled20sharp = () => <SVGActionUpdateDisabled_20_sharp />;
+export const IconActionUpdateDisabled24sharp = () => <SVGActionUpdateDisabled_24_sharp />;
+export const IconActionUpdateDisabled20filled = () => <SVGActionUpdateDisabled_20_filled />;
+export const IconActionUpdateDisabled24filled = () => <SVGActionUpdateDisabled_24_filled />;
+export const IconActionUpdateDisabled20round = () => <SVGActionUpdateDisabled_20_round />;
+export const IconActionUpdateDisabled24round = () => <SVGActionUpdateDisabled_24_round />;

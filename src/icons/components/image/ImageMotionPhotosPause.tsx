@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageMotionPhotosPause_20_outlined from '../../svg/image/ImageMotionPhotosPause/20_outlined.svg';
+import SVGImageMotionPhotosPause_24_outlined from '../../svg/image/ImageMotionPhotosPause/24_outlined.svg';
+import SVGImageMotionPhotosPause_20_twotone from '../../svg/image/ImageMotionPhotosPause/20_twotone.svg';
+import SVGImageMotionPhotosPause_24_twotone from '../../svg/image/ImageMotionPhotosPause/24_twotone.svg';
+import SVGImageMotionPhotosPause_20_sharp from '../../svg/image/ImageMotionPhotosPause/20_sharp.svg';
+import SVGImageMotionPhotosPause_24_sharp from '../../svg/image/ImageMotionPhotosPause/24_sharp.svg';
+import SVGImageMotionPhotosPause_20_filled from '../../svg/image/ImageMotionPhotosPause/20_filled.svg';
+import SVGImageMotionPhotosPause_24_filled from '../../svg/image/ImageMotionPhotosPause/24_filled.svg';
+import SVGImageMotionPhotosPause_20_round from '../../svg/image/ImageMotionPhotosPause/20_round.svg';
+import SVGImageMotionPhotosPause_24_round from '../../svg/image/ImageMotionPhotosPause/24_round.svg';
+
+export const IconImageMotionPhotosPause20outlined = () => <SVGImageMotionPhotosPause_20_outlined />;
+export const IconImageMotionPhotosPause24outlined = () => <SVGImageMotionPhotosPause_24_outlined />;
+export const IconImageMotionPhotosPause20twotone = () => <SVGImageMotionPhotosPause_20_twotone />;
+export const IconImageMotionPhotosPause24twotone = () => <SVGImageMotionPhotosPause_24_twotone />;
+export const IconImageMotionPhotosPause20sharp = () => <SVGImageMotionPhotosPause_20_sharp />;
+export const IconImageMotionPhotosPause24sharp = () => <SVGImageMotionPhotosPause_24_sharp />;
+export const IconImageMotionPhotosPause20filled = () => <SVGImageMotionPhotosPause_20_filled />;
+export const IconImageMotionPhotosPause24filled = () => <SVGImageMotionPhotosPause_24_filled />;
+export const IconImageMotionPhotosPause20round = () => <SVGImageMotionPhotosPause_20_round />;
+export const IconImageMotionPhotosPause24round = () => <SVGImageMotionPhotosPause_24_round />;

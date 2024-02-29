@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionEco_20_outlined from '../../svg/action/ActionEco/20_outlined.svg';
+import SVGActionEco_24_outlined from '../../svg/action/ActionEco/24_outlined.svg';
+import SVGActionEco_20_twotone from '../../svg/action/ActionEco/20_twotone.svg';
+import SVGActionEco_24_twotone from '../../svg/action/ActionEco/24_twotone.svg';
+import SVGActionEco_20_sharp from '../../svg/action/ActionEco/20_sharp.svg';
+import SVGActionEco_24_sharp from '../../svg/action/ActionEco/24_sharp.svg';
+import SVGActionEco_20_filled from '../../svg/action/ActionEco/20_filled.svg';
+import SVGActionEco_24_filled from '../../svg/action/ActionEco/24_filled.svg';
+import SVGActionEco_20_round from '../../svg/action/ActionEco/20_round.svg';
+import SVGActionEco_24_round from '../../svg/action/ActionEco/24_round.svg';
+
+export const IconActionEco20outlined = () => <SVGActionEco_20_outlined />;
+export const IconActionEco24outlined = () => <SVGActionEco_24_outlined />;
+export const IconActionEco20twotone = () => <SVGActionEco_20_twotone />;
+export const IconActionEco24twotone = () => <SVGActionEco_24_twotone />;
+export const IconActionEco20sharp = () => <SVGActionEco_20_sharp />;
+export const IconActionEco24sharp = () => <SVGActionEco_24_sharp />;
+export const IconActionEco20filled = () => <SVGActionEco_20_filled />;
+export const IconActionEco24filled = () => <SVGActionEco_24_filled />;
+export const IconActionEco20round = () => <SVGActionEco_20_round />;
+export const IconActionEco24round = () => <SVGActionEco_24_round />;

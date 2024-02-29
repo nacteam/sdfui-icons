@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialBlind_20_outlined from '../../svg/social/SocialBlind/20_outlined.svg';
+import SVGSocialBlind_24_outlined from '../../svg/social/SocialBlind/24_outlined.svg';
+import SVGSocialBlind_20_twotone from '../../svg/social/SocialBlind/20_twotone.svg';
+import SVGSocialBlind_24_twotone from '../../svg/social/SocialBlind/24_twotone.svg';
+import SVGSocialBlind_20_sharp from '../../svg/social/SocialBlind/20_sharp.svg';
+import SVGSocialBlind_24_sharp from '../../svg/social/SocialBlind/24_sharp.svg';
+import SVGSocialBlind_20_filled from '../../svg/social/SocialBlind/20_filled.svg';
+import SVGSocialBlind_24_filled from '../../svg/social/SocialBlind/24_filled.svg';
+import SVGSocialBlind_20_round from '../../svg/social/SocialBlind/20_round.svg';
+import SVGSocialBlind_24_round from '../../svg/social/SocialBlind/24_round.svg';
+
+export const IconSocialBlind20outlined = () => <SVGSocialBlind_20_outlined />;
+export const IconSocialBlind24outlined = () => <SVGSocialBlind_24_outlined />;
+export const IconSocialBlind20twotone = () => <SVGSocialBlind_20_twotone />;
+export const IconSocialBlind24twotone = () => <SVGSocialBlind_24_twotone />;
+export const IconSocialBlind20sharp = () => <SVGSocialBlind_20_sharp />;
+export const IconSocialBlind24sharp = () => <SVGSocialBlind_24_sharp />;
+export const IconSocialBlind20filled = () => <SVGSocialBlind_20_filled />;
+export const IconSocialBlind24filled = () => <SVGSocialBlind_24_filled />;
+export const IconSocialBlind20round = () => <SVGSocialBlind_20_round />;
+export const IconSocialBlind24round = () => <SVGSocialBlind_24_round />;

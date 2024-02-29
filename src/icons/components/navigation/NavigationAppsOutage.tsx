@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNavigationAppsOutage_20_outlined from '../../svg/navigation/NavigationAppsOutage/20_outlined.svg';
+import SVGNavigationAppsOutage_24_outlined from '../../svg/navigation/NavigationAppsOutage/24_outlined.svg';
+import SVGNavigationAppsOutage_20_twotone from '../../svg/navigation/NavigationAppsOutage/20_twotone.svg';
+import SVGNavigationAppsOutage_24_twotone from '../../svg/navigation/NavigationAppsOutage/24_twotone.svg';
+import SVGNavigationAppsOutage_20_sharp from '../../svg/navigation/NavigationAppsOutage/20_sharp.svg';
+import SVGNavigationAppsOutage_24_sharp from '../../svg/navigation/NavigationAppsOutage/24_sharp.svg';
+import SVGNavigationAppsOutage_20_filled from '../../svg/navigation/NavigationAppsOutage/20_filled.svg';
+import SVGNavigationAppsOutage_24_filled from '../../svg/navigation/NavigationAppsOutage/24_filled.svg';
+import SVGNavigationAppsOutage_20_round from '../../svg/navigation/NavigationAppsOutage/20_round.svg';
+import SVGNavigationAppsOutage_24_round from '../../svg/navigation/NavigationAppsOutage/24_round.svg';
+
+export const IconNavigationAppsOutage20outlined = () => <SVGNavigationAppsOutage_20_outlined />;
+export const IconNavigationAppsOutage24outlined = () => <SVGNavigationAppsOutage_24_outlined />;
+export const IconNavigationAppsOutage20twotone = () => <SVGNavigationAppsOutage_20_twotone />;
+export const IconNavigationAppsOutage24twotone = () => <SVGNavigationAppsOutage_24_twotone />;
+export const IconNavigationAppsOutage20sharp = () => <SVGNavigationAppsOutage_20_sharp />;
+export const IconNavigationAppsOutage24sharp = () => <SVGNavigationAppsOutage_24_sharp />;
+export const IconNavigationAppsOutage20filled = () => <SVGNavigationAppsOutage_20_filled />;
+export const IconNavigationAppsOutage24filled = () => <SVGNavigationAppsOutage_24_filled />;
+export const IconNavigationAppsOutage20round = () => <SVGNavigationAppsOutage_20_round />;
+export const IconNavigationAppsOutage24round = () => <SVGNavigationAppsOutage_24_round />;

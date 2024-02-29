@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialKitesurfing_20_outlined from '../../svg/social/SocialKitesurfing/20_outlined.svg';
+import SVGSocialKitesurfing_24_outlined from '../../svg/social/SocialKitesurfing/24_outlined.svg';
+import SVGSocialKitesurfing_20_twotone from '../../svg/social/SocialKitesurfing/20_twotone.svg';
+import SVGSocialKitesurfing_24_twotone from '../../svg/social/SocialKitesurfing/24_twotone.svg';
+import SVGSocialKitesurfing_20_sharp from '../../svg/social/SocialKitesurfing/20_sharp.svg';
+import SVGSocialKitesurfing_24_sharp from '../../svg/social/SocialKitesurfing/24_sharp.svg';
+import SVGSocialKitesurfing_20_filled from '../../svg/social/SocialKitesurfing/20_filled.svg';
+import SVGSocialKitesurfing_24_filled from '../../svg/social/SocialKitesurfing/24_filled.svg';
+import SVGSocialKitesurfing_20_round from '../../svg/social/SocialKitesurfing/20_round.svg';
+import SVGSocialKitesurfing_24_round from '../../svg/social/SocialKitesurfing/24_round.svg';
+
+export const IconSocialKitesurfing20outlined = () => <SVGSocialKitesurfing_20_outlined />;
+export const IconSocialKitesurfing24outlined = () => <SVGSocialKitesurfing_24_outlined />;
+export const IconSocialKitesurfing20twotone = () => <SVGSocialKitesurfing_20_twotone />;
+export const IconSocialKitesurfing24twotone = () => <SVGSocialKitesurfing_24_twotone />;
+export const IconSocialKitesurfing20sharp = () => <SVGSocialKitesurfing_20_sharp />;
+export const IconSocialKitesurfing24sharp = () => <SVGSocialKitesurfing_24_sharp />;
+export const IconSocialKitesurfing20filled = () => <SVGSocialKitesurfing_20_filled />;
+export const IconSocialKitesurfing24filled = () => <SVGSocialKitesurfing_24_filled />;
+export const IconSocialKitesurfing20round = () => <SVGSocialKitesurfing_20_round />;
+export const IconSocialKitesurfing24round = () => <SVGSocialKitesurfing_24_round />;

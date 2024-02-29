@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesSportsBar_20_outlined from '../../svg/places/PlacesSportsBar/20_outlined.svg';
+import SVGPlacesSportsBar_24_outlined from '../../svg/places/PlacesSportsBar/24_outlined.svg';
+import SVGPlacesSportsBar_20_twotone from '../../svg/places/PlacesSportsBar/20_twotone.svg';
+import SVGPlacesSportsBar_24_twotone from '../../svg/places/PlacesSportsBar/24_twotone.svg';
+import SVGPlacesSportsBar_20_sharp from '../../svg/places/PlacesSportsBar/20_sharp.svg';
+import SVGPlacesSportsBar_24_sharp from '../../svg/places/PlacesSportsBar/24_sharp.svg';
+import SVGPlacesSportsBar_20_filled from '../../svg/places/PlacesSportsBar/20_filled.svg';
+import SVGPlacesSportsBar_24_filled from '../../svg/places/PlacesSportsBar/24_filled.svg';
+import SVGPlacesSportsBar_20_round from '../../svg/places/PlacesSportsBar/20_round.svg';
+import SVGPlacesSportsBar_24_round from '../../svg/places/PlacesSportsBar/24_round.svg';
+
+export const IconPlacesSportsBar20outlined = () => <SVGPlacesSportsBar_20_outlined />;
+export const IconPlacesSportsBar24outlined = () => <SVGPlacesSportsBar_24_outlined />;
+export const IconPlacesSportsBar20twotone = () => <SVGPlacesSportsBar_20_twotone />;
+export const IconPlacesSportsBar24twotone = () => <SVGPlacesSportsBar_24_twotone />;
+export const IconPlacesSportsBar20sharp = () => <SVGPlacesSportsBar_20_sharp />;
+export const IconPlacesSportsBar24sharp = () => <SVGPlacesSportsBar_24_sharp />;
+export const IconPlacesSportsBar20filled = () => <SVGPlacesSportsBar_20_filled />;
+export const IconPlacesSportsBar24filled = () => <SVGPlacesSportsBar_24_filled />;
+export const IconPlacesSportsBar20round = () => <SVGPlacesSportsBar_20_round />;
+export const IconPlacesSportsBar24round = () => <SVGPlacesSportsBar_24_round />;

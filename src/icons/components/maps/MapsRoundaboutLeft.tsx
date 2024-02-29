@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsRoundaboutLeft_20_outlined from '../../svg/maps/MapsRoundaboutLeft/20_outlined.svg';
+import SVGMapsRoundaboutLeft_24_outlined from '../../svg/maps/MapsRoundaboutLeft/24_outlined.svg';
+import SVGMapsRoundaboutLeft_20_twotone from '../../svg/maps/MapsRoundaboutLeft/20_twotone.svg';
+import SVGMapsRoundaboutLeft_24_twotone from '../../svg/maps/MapsRoundaboutLeft/24_twotone.svg';
+import SVGMapsRoundaboutLeft_20_sharp from '../../svg/maps/MapsRoundaboutLeft/20_sharp.svg';
+import SVGMapsRoundaboutLeft_24_sharp from '../../svg/maps/MapsRoundaboutLeft/24_sharp.svg';
+import SVGMapsRoundaboutLeft_20_filled from '../../svg/maps/MapsRoundaboutLeft/20_filled.svg';
+import SVGMapsRoundaboutLeft_24_filled from '../../svg/maps/MapsRoundaboutLeft/24_filled.svg';
+import SVGMapsRoundaboutLeft_20_round from '../../svg/maps/MapsRoundaboutLeft/20_round.svg';
+import SVGMapsRoundaboutLeft_24_round from '../../svg/maps/MapsRoundaboutLeft/24_round.svg';
+
+export const IconMapsRoundaboutLeft20outlined = () => <SVGMapsRoundaboutLeft_20_outlined />;
+export const IconMapsRoundaboutLeft24outlined = () => <SVGMapsRoundaboutLeft_24_outlined />;
+export const IconMapsRoundaboutLeft20twotone = () => <SVGMapsRoundaboutLeft_20_twotone />;
+export const IconMapsRoundaboutLeft24twotone = () => <SVGMapsRoundaboutLeft_24_twotone />;
+export const IconMapsRoundaboutLeft20sharp = () => <SVGMapsRoundaboutLeft_20_sharp />;
+export const IconMapsRoundaboutLeft24sharp = () => <SVGMapsRoundaboutLeft_24_sharp />;
+export const IconMapsRoundaboutLeft20filled = () => <SVGMapsRoundaboutLeft_20_filled />;
+export const IconMapsRoundaboutLeft24filled = () => <SVGMapsRoundaboutLeft_24_filled />;
+export const IconMapsRoundaboutLeft20round = () => <SVGMapsRoundaboutLeft_20_round />;
+export const IconMapsRoundaboutLeft24round = () => <SVGMapsRoundaboutLeft_24_round />;

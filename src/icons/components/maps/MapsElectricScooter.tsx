@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsElectricScooter_20_outlined from '../../svg/maps/MapsElectricScooter/20_outlined.svg';
+import SVGMapsElectricScooter_24_outlined from '../../svg/maps/MapsElectricScooter/24_outlined.svg';
+import SVGMapsElectricScooter_20_twotone from '../../svg/maps/MapsElectricScooter/20_twotone.svg';
+import SVGMapsElectricScooter_24_twotone from '../../svg/maps/MapsElectricScooter/24_twotone.svg';
+import SVGMapsElectricScooter_20_sharp from '../../svg/maps/MapsElectricScooter/20_sharp.svg';
+import SVGMapsElectricScooter_24_sharp from '../../svg/maps/MapsElectricScooter/24_sharp.svg';
+import SVGMapsElectricScooter_20_filled from '../../svg/maps/MapsElectricScooter/20_filled.svg';
+import SVGMapsElectricScooter_24_filled from '../../svg/maps/MapsElectricScooter/24_filled.svg';
+import SVGMapsElectricScooter_20_round from '../../svg/maps/MapsElectricScooter/20_round.svg';
+import SVGMapsElectricScooter_24_round from '../../svg/maps/MapsElectricScooter/24_round.svg';
+
+export const IconMapsElectricScooter20outlined = () => <SVGMapsElectricScooter_20_outlined />;
+export const IconMapsElectricScooter24outlined = () => <SVGMapsElectricScooter_24_outlined />;
+export const IconMapsElectricScooter20twotone = () => <SVGMapsElectricScooter_20_twotone />;
+export const IconMapsElectricScooter24twotone = () => <SVGMapsElectricScooter_24_twotone />;
+export const IconMapsElectricScooter20sharp = () => <SVGMapsElectricScooter_20_sharp />;
+export const IconMapsElectricScooter24sharp = () => <SVGMapsElectricScooter_24_sharp />;
+export const IconMapsElectricScooter20filled = () => <SVGMapsElectricScooter_20_filled />;
+export const IconMapsElectricScooter24filled = () => <SVGMapsElectricScooter_24_filled />;
+export const IconMapsElectricScooter20round = () => <SVGMapsElectricScooter_20_round />;
+export const IconMapsElectricScooter24round = () => <SVGMapsElectricScooter_24_round />;

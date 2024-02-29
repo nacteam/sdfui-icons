@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeVerticalShadesClosed_20_outlined from '../../svg/home/HomeVerticalShadesClosed/20_outlined.svg';
+import SVGHomeVerticalShadesClosed_24_outlined from '../../svg/home/HomeVerticalShadesClosed/24_outlined.svg';
+import SVGHomeVerticalShadesClosed_20_twotone from '../../svg/home/HomeVerticalShadesClosed/20_twotone.svg';
+import SVGHomeVerticalShadesClosed_24_twotone from '../../svg/home/HomeVerticalShadesClosed/24_twotone.svg';
+import SVGHomeVerticalShadesClosed_20_sharp from '../../svg/home/HomeVerticalShadesClosed/20_sharp.svg';
+import SVGHomeVerticalShadesClosed_24_sharp from '../../svg/home/HomeVerticalShadesClosed/24_sharp.svg';
+import SVGHomeVerticalShadesClosed_20_filled from '../../svg/home/HomeVerticalShadesClosed/20_filled.svg';
+import SVGHomeVerticalShadesClosed_24_filled from '../../svg/home/HomeVerticalShadesClosed/24_filled.svg';
+import SVGHomeVerticalShadesClosed_20_round from '../../svg/home/HomeVerticalShadesClosed/20_round.svg';
+import SVGHomeVerticalShadesClosed_24_round from '../../svg/home/HomeVerticalShadesClosed/24_round.svg';
+
+export const IconHomeVerticalShadesClosed20outlined = () => <SVGHomeVerticalShadesClosed_20_outlined />;
+export const IconHomeVerticalShadesClosed24outlined = () => <SVGHomeVerticalShadesClosed_24_outlined />;
+export const IconHomeVerticalShadesClosed20twotone = () => <SVGHomeVerticalShadesClosed_20_twotone />;
+export const IconHomeVerticalShadesClosed24twotone = () => <SVGHomeVerticalShadesClosed_24_twotone />;
+export const IconHomeVerticalShadesClosed20sharp = () => <SVGHomeVerticalShadesClosed_20_sharp />;
+export const IconHomeVerticalShadesClosed24sharp = () => <SVGHomeVerticalShadesClosed_24_sharp />;
+export const IconHomeVerticalShadesClosed20filled = () => <SVGHomeVerticalShadesClosed_20_filled />;
+export const IconHomeVerticalShadesClosed24filled = () => <SVGHomeVerticalShadesClosed_24_filled />;
+export const IconHomeVerticalShadesClosed20round = () => <SVGHomeVerticalShadesClosed_20_round />;
+export const IconHomeVerticalShadesClosed24round = () => <SVGHomeVerticalShadesClosed_24_round />;

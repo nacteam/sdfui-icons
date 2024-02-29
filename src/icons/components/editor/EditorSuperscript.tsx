@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorSuperscript_20_outlined from '../../svg/editor/EditorSuperscript/20_outlined.svg';
+import SVGEditorSuperscript_24_outlined from '../../svg/editor/EditorSuperscript/24_outlined.svg';
+import SVGEditorSuperscript_20_twotone from '../../svg/editor/EditorSuperscript/20_twotone.svg';
+import SVGEditorSuperscript_24_twotone from '../../svg/editor/EditorSuperscript/24_twotone.svg';
+import SVGEditorSuperscript_20_sharp from '../../svg/editor/EditorSuperscript/20_sharp.svg';
+import SVGEditorSuperscript_24_sharp from '../../svg/editor/EditorSuperscript/24_sharp.svg';
+import SVGEditorSuperscript_20_filled from '../../svg/editor/EditorSuperscript/20_filled.svg';
+import SVGEditorSuperscript_24_filled from '../../svg/editor/EditorSuperscript/24_filled.svg';
+import SVGEditorSuperscript_20_round from '../../svg/editor/EditorSuperscript/20_round.svg';
+import SVGEditorSuperscript_24_round from '../../svg/editor/EditorSuperscript/24_round.svg';
+
+export const IconEditorSuperscript20outlined = () => <SVGEditorSuperscript_20_outlined />;
+export const IconEditorSuperscript24outlined = () => <SVGEditorSuperscript_24_outlined />;
+export const IconEditorSuperscript20twotone = () => <SVGEditorSuperscript_20_twotone />;
+export const IconEditorSuperscript24twotone = () => <SVGEditorSuperscript_24_twotone />;
+export const IconEditorSuperscript20sharp = () => <SVGEditorSuperscript_20_sharp />;
+export const IconEditorSuperscript24sharp = () => <SVGEditorSuperscript_24_sharp />;
+export const IconEditorSuperscript20filled = () => <SVGEditorSuperscript_20_filled />;
+export const IconEditorSuperscript24filled = () => <SVGEditorSuperscript_24_filled />;
+export const IconEditorSuperscript20round = () => <SVGEditorSuperscript_20_round />;
+export const IconEditorSuperscript24round = () => <SVGEditorSuperscript_24_round />;

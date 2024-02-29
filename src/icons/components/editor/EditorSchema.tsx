@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorSchema_20_outlined from '../../svg/editor/EditorSchema/20_outlined.svg';
+import SVGEditorSchema_24_outlined from '../../svg/editor/EditorSchema/24_outlined.svg';
+import SVGEditorSchema_20_twotone from '../../svg/editor/EditorSchema/20_twotone.svg';
+import SVGEditorSchema_24_twotone from '../../svg/editor/EditorSchema/24_twotone.svg';
+import SVGEditorSchema_20_sharp from '../../svg/editor/EditorSchema/20_sharp.svg';
+import SVGEditorSchema_24_sharp from '../../svg/editor/EditorSchema/24_sharp.svg';
+import SVGEditorSchema_20_filled from '../../svg/editor/EditorSchema/20_filled.svg';
+import SVGEditorSchema_24_filled from '../../svg/editor/EditorSchema/24_filled.svg';
+import SVGEditorSchema_20_round from '../../svg/editor/EditorSchema/20_round.svg';
+import SVGEditorSchema_24_round from '../../svg/editor/EditorSchema/24_round.svg';
+
+export const IconEditorSchema20outlined = () => <SVGEditorSchema_20_outlined />;
+export const IconEditorSchema24outlined = () => <SVGEditorSchema_24_outlined />;
+export const IconEditorSchema20twotone = () => <SVGEditorSchema_20_twotone />;
+export const IconEditorSchema24twotone = () => <SVGEditorSchema_24_twotone />;
+export const IconEditorSchema20sharp = () => <SVGEditorSchema_20_sharp />;
+export const IconEditorSchema24sharp = () => <SVGEditorSchema_24_sharp />;
+export const IconEditorSchema20filled = () => <SVGEditorSchema_20_filled />;
+export const IconEditorSchema24filled = () => <SVGEditorSchema_24_filled />;
+export const IconEditorSchema20round = () => <SVGEditorSchema_20_round />;
+export const IconEditorSchema24round = () => <SVGEditorSchema_24_round />;

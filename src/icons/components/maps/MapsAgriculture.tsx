@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsAgriculture_20_outlined from '../../svg/maps/MapsAgriculture/20_outlined.svg';
+import SVGMapsAgriculture_24_outlined from '../../svg/maps/MapsAgriculture/24_outlined.svg';
+import SVGMapsAgriculture_20_twotone from '../../svg/maps/MapsAgriculture/20_twotone.svg';
+import SVGMapsAgriculture_24_twotone from '../../svg/maps/MapsAgriculture/24_twotone.svg';
+import SVGMapsAgriculture_20_sharp from '../../svg/maps/MapsAgriculture/20_sharp.svg';
+import SVGMapsAgriculture_24_sharp from '../../svg/maps/MapsAgriculture/24_sharp.svg';
+import SVGMapsAgriculture_20_filled from '../../svg/maps/MapsAgriculture/20_filled.svg';
+import SVGMapsAgriculture_24_filled from '../../svg/maps/MapsAgriculture/24_filled.svg';
+import SVGMapsAgriculture_20_round from '../../svg/maps/MapsAgriculture/20_round.svg';
+import SVGMapsAgriculture_24_round from '../../svg/maps/MapsAgriculture/24_round.svg';
+
+export const IconMapsAgriculture20outlined = () => <SVGMapsAgriculture_20_outlined />;
+export const IconMapsAgriculture24outlined = () => <SVGMapsAgriculture_24_outlined />;
+export const IconMapsAgriculture20twotone = () => <SVGMapsAgriculture_20_twotone />;
+export const IconMapsAgriculture24twotone = () => <SVGMapsAgriculture_24_twotone />;
+export const IconMapsAgriculture20sharp = () => <SVGMapsAgriculture_20_sharp />;
+export const IconMapsAgriculture24sharp = () => <SVGMapsAgriculture_24_sharp />;
+export const IconMapsAgriculture20filled = () => <SVGMapsAgriculture_20_filled />;
+export const IconMapsAgriculture24filled = () => <SVGMapsAgriculture_24_filled />;
+export const IconMapsAgriculture20round = () => <SVGMapsAgriculture_20_round />;
+export const IconMapsAgriculture24round = () => <SVGMapsAgriculture_24_round />;

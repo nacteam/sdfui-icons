@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFactCheck_20_outlined from '../../svg/action/ActionFactCheck/20_outlined.svg';
+import SVGActionFactCheck_24_outlined from '../../svg/action/ActionFactCheck/24_outlined.svg';
+import SVGActionFactCheck_20_twotone from '../../svg/action/ActionFactCheck/20_twotone.svg';
+import SVGActionFactCheck_24_twotone from '../../svg/action/ActionFactCheck/24_twotone.svg';
+import SVGActionFactCheck_20_sharp from '../../svg/action/ActionFactCheck/20_sharp.svg';
+import SVGActionFactCheck_24_sharp from '../../svg/action/ActionFactCheck/24_sharp.svg';
+import SVGActionFactCheck_20_filled from '../../svg/action/ActionFactCheck/20_filled.svg';
+import SVGActionFactCheck_24_filled from '../../svg/action/ActionFactCheck/24_filled.svg';
+import SVGActionFactCheck_20_round from '../../svg/action/ActionFactCheck/20_round.svg';
+import SVGActionFactCheck_24_round from '../../svg/action/ActionFactCheck/24_round.svg';
+
+export const IconActionFactCheck20outlined = () => <SVGActionFactCheck_20_outlined />;
+export const IconActionFactCheck24outlined = () => <SVGActionFactCheck_24_outlined />;
+export const IconActionFactCheck20twotone = () => <SVGActionFactCheck_20_twotone />;
+export const IconActionFactCheck24twotone = () => <SVGActionFactCheck_24_twotone />;
+export const IconActionFactCheck20sharp = () => <SVGActionFactCheck_20_sharp />;
+export const IconActionFactCheck24sharp = () => <SVGActionFactCheck_24_sharp />;
+export const IconActionFactCheck20filled = () => <SVGActionFactCheck_20_filled />;
+export const IconActionFactCheck24filled = () => <SVGActionFactCheck_24_filled />;
+export const IconActionFactCheck20round = () => <SVGActionFactCheck_20_round />;
+export const IconActionFactCheck24round = () => <SVGActionFactCheck_24_round />;

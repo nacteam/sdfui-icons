@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentChangeCircle_20_outlined from '../../svg/content/ContentChangeCircle/20_outlined.svg';
+import SVGContentChangeCircle_24_outlined from '../../svg/content/ContentChangeCircle/24_outlined.svg';
+import SVGContentChangeCircle_20_twotone from '../../svg/content/ContentChangeCircle/20_twotone.svg';
+import SVGContentChangeCircle_24_twotone from '../../svg/content/ContentChangeCircle/24_twotone.svg';
+import SVGContentChangeCircle_20_sharp from '../../svg/content/ContentChangeCircle/20_sharp.svg';
+import SVGContentChangeCircle_24_sharp from '../../svg/content/ContentChangeCircle/24_sharp.svg';
+import SVGContentChangeCircle_20_filled from '../../svg/content/ContentChangeCircle/20_filled.svg';
+import SVGContentChangeCircle_24_filled from '../../svg/content/ContentChangeCircle/24_filled.svg';
+import SVGContentChangeCircle_20_round from '../../svg/content/ContentChangeCircle/20_round.svg';
+import SVGContentChangeCircle_24_round from '../../svg/content/ContentChangeCircle/24_round.svg';
+
+export const IconContentChangeCircle20outlined = () => <SVGContentChangeCircle_20_outlined />;
+export const IconContentChangeCircle24outlined = () => <SVGContentChangeCircle_24_outlined />;
+export const IconContentChangeCircle20twotone = () => <SVGContentChangeCircle_20_twotone />;
+export const IconContentChangeCircle24twotone = () => <SVGContentChangeCircle_24_twotone />;
+export const IconContentChangeCircle20sharp = () => <SVGContentChangeCircle_20_sharp />;
+export const IconContentChangeCircle24sharp = () => <SVGContentChangeCircle_24_sharp />;
+export const IconContentChangeCircle20filled = () => <SVGContentChangeCircle_20_filled />;
+export const IconContentChangeCircle24filled = () => <SVGContentChangeCircle_24_filled />;
+export const IconContentChangeCircle20round = () => <SVGContentChangeCircle_20_round />;
+export const IconContentChangeCircle24round = () => <SVGContentChangeCircle_24_round />;

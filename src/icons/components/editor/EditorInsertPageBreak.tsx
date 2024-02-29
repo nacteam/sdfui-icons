@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorInsertPageBreak_20_outlined from '../../svg/editor/EditorInsertPageBreak/20_outlined.svg';
+import SVGEditorInsertPageBreak_24_outlined from '../../svg/editor/EditorInsertPageBreak/24_outlined.svg';
+import SVGEditorInsertPageBreak_20_twotone from '../../svg/editor/EditorInsertPageBreak/20_twotone.svg';
+import SVGEditorInsertPageBreak_24_twotone from '../../svg/editor/EditorInsertPageBreak/24_twotone.svg';
+import SVGEditorInsertPageBreak_20_sharp from '../../svg/editor/EditorInsertPageBreak/20_sharp.svg';
+import SVGEditorInsertPageBreak_24_sharp from '../../svg/editor/EditorInsertPageBreak/24_sharp.svg';
+import SVGEditorInsertPageBreak_20_filled from '../../svg/editor/EditorInsertPageBreak/20_filled.svg';
+import SVGEditorInsertPageBreak_24_filled from '../../svg/editor/EditorInsertPageBreak/24_filled.svg';
+import SVGEditorInsertPageBreak_20_round from '../../svg/editor/EditorInsertPageBreak/20_round.svg';
+import SVGEditorInsertPageBreak_24_round from '../../svg/editor/EditorInsertPageBreak/24_round.svg';
+
+export const IconEditorInsertPageBreak20outlined = () => <SVGEditorInsertPageBreak_20_outlined />;
+export const IconEditorInsertPageBreak24outlined = () => <SVGEditorInsertPageBreak_24_outlined />;
+export const IconEditorInsertPageBreak20twotone = () => <SVGEditorInsertPageBreak_20_twotone />;
+export const IconEditorInsertPageBreak24twotone = () => <SVGEditorInsertPageBreak_24_twotone />;
+export const IconEditorInsertPageBreak20sharp = () => <SVGEditorInsertPageBreak_20_sharp />;
+export const IconEditorInsertPageBreak24sharp = () => <SVGEditorInsertPageBreak_24_sharp />;
+export const IconEditorInsertPageBreak20filled = () => <SVGEditorInsertPageBreak_20_filled />;
+export const IconEditorInsertPageBreak24filled = () => <SVGEditorInsertPageBreak_24_filled />;
+export const IconEditorInsertPageBreak20round = () => <SVGEditorInsertPageBreak_20_round />;
+export const IconEditorInsertPageBreak24round = () => <SVGEditorInsertPageBreak_24_round />;

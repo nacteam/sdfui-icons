@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageIncompleteCircle_20_outlined from '../../svg/image/ImageIncompleteCircle/20_outlined.svg';
+import SVGImageIncompleteCircle_24_outlined from '../../svg/image/ImageIncompleteCircle/24_outlined.svg';
+import SVGImageIncompleteCircle_20_twotone from '../../svg/image/ImageIncompleteCircle/20_twotone.svg';
+import SVGImageIncompleteCircle_24_twotone from '../../svg/image/ImageIncompleteCircle/24_twotone.svg';
+import SVGImageIncompleteCircle_20_sharp from '../../svg/image/ImageIncompleteCircle/20_sharp.svg';
+import SVGImageIncompleteCircle_24_sharp from '../../svg/image/ImageIncompleteCircle/24_sharp.svg';
+import SVGImageIncompleteCircle_20_filled from '../../svg/image/ImageIncompleteCircle/20_filled.svg';
+import SVGImageIncompleteCircle_24_filled from '../../svg/image/ImageIncompleteCircle/24_filled.svg';
+import SVGImageIncompleteCircle_20_round from '../../svg/image/ImageIncompleteCircle/20_round.svg';
+import SVGImageIncompleteCircle_24_round from '../../svg/image/ImageIncompleteCircle/24_round.svg';
+
+export const IconImageIncompleteCircle20outlined = () => <SVGImageIncompleteCircle_20_outlined />;
+export const IconImageIncompleteCircle24outlined = () => <SVGImageIncompleteCircle_24_outlined />;
+export const IconImageIncompleteCircle20twotone = () => <SVGImageIncompleteCircle_20_twotone />;
+export const IconImageIncompleteCircle24twotone = () => <SVGImageIncompleteCircle_24_twotone />;
+export const IconImageIncompleteCircle20sharp = () => <SVGImageIncompleteCircle_20_sharp />;
+export const IconImageIncompleteCircle24sharp = () => <SVGImageIncompleteCircle_24_sharp />;
+export const IconImageIncompleteCircle20filled = () => <SVGImageIncompleteCircle_20_filled />;
+export const IconImageIncompleteCircle24filled = () => <SVGImageIncompleteCircle_24_filled />;
+export const IconImageIncompleteCircle20round = () => <SVGImageIncompleteCircle_20_round />;
+export const IconImageIncompleteCircle24round = () => <SVGImageIncompleteCircle_24_round />;

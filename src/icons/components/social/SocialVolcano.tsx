@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialVolcano_20_outlined from '../../svg/social/SocialVolcano/20_outlined.svg';
+import SVGSocialVolcano_24_outlined from '../../svg/social/SocialVolcano/24_outlined.svg';
+import SVGSocialVolcano_20_twotone from '../../svg/social/SocialVolcano/20_twotone.svg';
+import SVGSocialVolcano_24_twotone from '../../svg/social/SocialVolcano/24_twotone.svg';
+import SVGSocialVolcano_20_sharp from '../../svg/social/SocialVolcano/20_sharp.svg';
+import SVGSocialVolcano_24_sharp from '../../svg/social/SocialVolcano/24_sharp.svg';
+import SVGSocialVolcano_20_filled from '../../svg/social/SocialVolcano/20_filled.svg';
+import SVGSocialVolcano_24_filled from '../../svg/social/SocialVolcano/24_filled.svg';
+import SVGSocialVolcano_20_round from '../../svg/social/SocialVolcano/20_round.svg';
+import SVGSocialVolcano_24_round from '../../svg/social/SocialVolcano/24_round.svg';
+
+export const IconSocialVolcano20outlined = () => <SVGSocialVolcano_20_outlined />;
+export const IconSocialVolcano24outlined = () => <SVGSocialVolcano_24_outlined />;
+export const IconSocialVolcano20twotone = () => <SVGSocialVolcano_20_twotone />;
+export const IconSocialVolcano24twotone = () => <SVGSocialVolcano_24_twotone />;
+export const IconSocialVolcano20sharp = () => <SVGSocialVolcano_20_sharp />;
+export const IconSocialVolcano24sharp = () => <SVGSocialVolcano_24_sharp />;
+export const IconSocialVolcano20filled = () => <SVGSocialVolcano_20_filled />;
+export const IconSocialVolcano24filled = () => <SVGSocialVolcano_24_filled />;
+export const IconSocialVolcano20round = () => <SVGSocialVolcano_20_round />;
+export const IconSocialVolcano24round = () => <SVGSocialVolcano_24_round />;

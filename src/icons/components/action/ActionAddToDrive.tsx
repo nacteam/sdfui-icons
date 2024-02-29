@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAddToDrive_20_outlined from '../../svg/action/ActionAddToDrive/20_outlined.svg';
+import SVGActionAddToDrive_24_outlined from '../../svg/action/ActionAddToDrive/24_outlined.svg';
+import SVGActionAddToDrive_20_twotone from '../../svg/action/ActionAddToDrive/20_twotone.svg';
+import SVGActionAddToDrive_24_twotone from '../../svg/action/ActionAddToDrive/24_twotone.svg';
+import SVGActionAddToDrive_20_sharp from '../../svg/action/ActionAddToDrive/20_sharp.svg';
+import SVGActionAddToDrive_24_sharp from '../../svg/action/ActionAddToDrive/24_sharp.svg';
+import SVGActionAddToDrive_20_filled from '../../svg/action/ActionAddToDrive/20_filled.svg';
+import SVGActionAddToDrive_24_filled from '../../svg/action/ActionAddToDrive/24_filled.svg';
+import SVGActionAddToDrive_20_round from '../../svg/action/ActionAddToDrive/20_round.svg';
+import SVGActionAddToDrive_24_round from '../../svg/action/ActionAddToDrive/24_round.svg';
+
+export const IconActionAddToDrive20outlined = () => <SVGActionAddToDrive_20_outlined />;
+export const IconActionAddToDrive24outlined = () => <SVGActionAddToDrive_24_outlined />;
+export const IconActionAddToDrive20twotone = () => <SVGActionAddToDrive_20_twotone />;
+export const IconActionAddToDrive24twotone = () => <SVGActionAddToDrive_24_twotone />;
+export const IconActionAddToDrive20sharp = () => <SVGActionAddToDrive_20_sharp />;
+export const IconActionAddToDrive24sharp = () => <SVGActionAddToDrive_24_sharp />;
+export const IconActionAddToDrive20filled = () => <SVGActionAddToDrive_20_filled />;
+export const IconActionAddToDrive24filled = () => <SVGActionAddToDrive_24_filled />;
+export const IconActionAddToDrive20round = () => <SVGActionAddToDrive_20_round />;
+export const IconActionAddToDrive24round = () => <SVGActionAddToDrive_24_round />;

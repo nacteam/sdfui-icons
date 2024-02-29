@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMarkChatUnread_20_outlined from '../../svg/communication/CommunicationMarkChatUnread/20_outlined.svg';
+import SVGCommunicationMarkChatUnread_24_outlined from '../../svg/communication/CommunicationMarkChatUnread/24_outlined.svg';
+import SVGCommunicationMarkChatUnread_20_twotone from '../../svg/communication/CommunicationMarkChatUnread/20_twotone.svg';
+import SVGCommunicationMarkChatUnread_24_twotone from '../../svg/communication/CommunicationMarkChatUnread/24_twotone.svg';
+import SVGCommunicationMarkChatUnread_20_sharp from '../../svg/communication/CommunicationMarkChatUnread/20_sharp.svg';
+import SVGCommunicationMarkChatUnread_24_sharp from '../../svg/communication/CommunicationMarkChatUnread/24_sharp.svg';
+import SVGCommunicationMarkChatUnread_20_filled from '../../svg/communication/CommunicationMarkChatUnread/20_filled.svg';
+import SVGCommunicationMarkChatUnread_24_filled from '../../svg/communication/CommunicationMarkChatUnread/24_filled.svg';
+import SVGCommunicationMarkChatUnread_20_round from '../../svg/communication/CommunicationMarkChatUnread/20_round.svg';
+import SVGCommunicationMarkChatUnread_24_round from '../../svg/communication/CommunicationMarkChatUnread/24_round.svg';
+
+export const IconCommunicationMarkChatUnread20outlined = () => <SVGCommunicationMarkChatUnread_20_outlined />;
+export const IconCommunicationMarkChatUnread24outlined = () => <SVGCommunicationMarkChatUnread_24_outlined />;
+export const IconCommunicationMarkChatUnread20twotone = () => <SVGCommunicationMarkChatUnread_20_twotone />;
+export const IconCommunicationMarkChatUnread24twotone = () => <SVGCommunicationMarkChatUnread_24_twotone />;
+export const IconCommunicationMarkChatUnread20sharp = () => <SVGCommunicationMarkChatUnread_20_sharp />;
+export const IconCommunicationMarkChatUnread24sharp = () => <SVGCommunicationMarkChatUnread_24_sharp />;
+export const IconCommunicationMarkChatUnread20filled = () => <SVGCommunicationMarkChatUnread_20_filled />;
+export const IconCommunicationMarkChatUnread24filled = () => <SVGCommunicationMarkChatUnread_24_filled />;
+export const IconCommunicationMarkChatUnread20round = () => <SVGCommunicationMarkChatUnread_20_round />;
+export const IconCommunicationMarkChatUnread24round = () => <SVGCommunicationMarkChatUnread_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsEmergencyRecording_20_outlined from '../../svg/maps/MapsEmergencyRecording/20_outlined.svg';
+import SVGMapsEmergencyRecording_24_outlined from '../../svg/maps/MapsEmergencyRecording/24_outlined.svg';
+import SVGMapsEmergencyRecording_20_twotone from '../../svg/maps/MapsEmergencyRecording/20_twotone.svg';
+import SVGMapsEmergencyRecording_24_twotone from '../../svg/maps/MapsEmergencyRecording/24_twotone.svg';
+import SVGMapsEmergencyRecording_20_sharp from '../../svg/maps/MapsEmergencyRecording/20_sharp.svg';
+import SVGMapsEmergencyRecording_24_sharp from '../../svg/maps/MapsEmergencyRecording/24_sharp.svg';
+import SVGMapsEmergencyRecording_20_filled from '../../svg/maps/MapsEmergencyRecording/20_filled.svg';
+import SVGMapsEmergencyRecording_24_filled from '../../svg/maps/MapsEmergencyRecording/24_filled.svg';
+import SVGMapsEmergencyRecording_20_round from '../../svg/maps/MapsEmergencyRecording/20_round.svg';
+import SVGMapsEmergencyRecording_24_round from '../../svg/maps/MapsEmergencyRecording/24_round.svg';
+
+export const IconMapsEmergencyRecording20outlined = () => <SVGMapsEmergencyRecording_20_outlined />;
+export const IconMapsEmergencyRecording24outlined = () => <SVGMapsEmergencyRecording_24_outlined />;
+export const IconMapsEmergencyRecording20twotone = () => <SVGMapsEmergencyRecording_20_twotone />;
+export const IconMapsEmergencyRecording24twotone = () => <SVGMapsEmergencyRecording_24_twotone />;
+export const IconMapsEmergencyRecording20sharp = () => <SVGMapsEmergencyRecording_20_sharp />;
+export const IconMapsEmergencyRecording24sharp = () => <SVGMapsEmergencyRecording_24_sharp />;
+export const IconMapsEmergencyRecording20filled = () => <SVGMapsEmergencyRecording_20_filled />;
+export const IconMapsEmergencyRecording24filled = () => <SVGMapsEmergencyRecording_24_filled />;
+export const IconMapsEmergencyRecording20round = () => <SVGMapsEmergencyRecording_20_round />;
+export const IconMapsEmergencyRecording24round = () => <SVGMapsEmergencyRecording_24_round />;

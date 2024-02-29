@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSnowshoeing_20_outlined from '../../svg/social/SocialSnowshoeing/20_outlined.svg';
+import SVGSocialSnowshoeing_24_outlined from '../../svg/social/SocialSnowshoeing/24_outlined.svg';
+import SVGSocialSnowshoeing_20_twotone from '../../svg/social/SocialSnowshoeing/20_twotone.svg';
+import SVGSocialSnowshoeing_24_twotone from '../../svg/social/SocialSnowshoeing/24_twotone.svg';
+import SVGSocialSnowshoeing_20_sharp from '../../svg/social/SocialSnowshoeing/20_sharp.svg';
+import SVGSocialSnowshoeing_24_sharp from '../../svg/social/SocialSnowshoeing/24_sharp.svg';
+import SVGSocialSnowshoeing_20_filled from '../../svg/social/SocialSnowshoeing/20_filled.svg';
+import SVGSocialSnowshoeing_24_filled from '../../svg/social/SocialSnowshoeing/24_filled.svg';
+import SVGSocialSnowshoeing_20_round from '../../svg/social/SocialSnowshoeing/20_round.svg';
+import SVGSocialSnowshoeing_24_round from '../../svg/social/SocialSnowshoeing/24_round.svg';
+
+export const IconSocialSnowshoeing20outlined = () => <SVGSocialSnowshoeing_20_outlined />;
+export const IconSocialSnowshoeing24outlined = () => <SVGSocialSnowshoeing_24_outlined />;
+export const IconSocialSnowshoeing20twotone = () => <SVGSocialSnowshoeing_20_twotone />;
+export const IconSocialSnowshoeing24twotone = () => <SVGSocialSnowshoeing_24_twotone />;
+export const IconSocialSnowshoeing20sharp = () => <SVGSocialSnowshoeing_20_sharp />;
+export const IconSocialSnowshoeing24sharp = () => <SVGSocialSnowshoeing_24_sharp />;
+export const IconSocialSnowshoeing20filled = () => <SVGSocialSnowshoeing_20_filled />;
+export const IconSocialSnowshoeing24filled = () => <SVGSocialSnowshoeing_24_filled />;
+export const IconSocialSnowshoeing20round = () => <SVGSocialSnowshoeing_20_round />;
+export const IconSocialSnowshoeing24round = () => <SVGSocialSnowshoeing_24_round />;

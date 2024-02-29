@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageViewCompact_20_outlined from '../../svg/image/ImageViewCompact/20_outlined.svg';
+import SVGImageViewCompact_24_outlined from '../../svg/image/ImageViewCompact/24_outlined.svg';
+import SVGImageViewCompact_20_twotone from '../../svg/image/ImageViewCompact/20_twotone.svg';
+import SVGImageViewCompact_24_twotone from '../../svg/image/ImageViewCompact/24_twotone.svg';
+import SVGImageViewCompact_20_sharp from '../../svg/image/ImageViewCompact/20_sharp.svg';
+import SVGImageViewCompact_24_sharp from '../../svg/image/ImageViewCompact/24_sharp.svg';
+import SVGImageViewCompact_20_filled from '../../svg/image/ImageViewCompact/20_filled.svg';
+import SVGImageViewCompact_24_filled from '../../svg/image/ImageViewCompact/24_filled.svg';
+import SVGImageViewCompact_20_round from '../../svg/image/ImageViewCompact/20_round.svg';
+import SVGImageViewCompact_24_round from '../../svg/image/ImageViewCompact/24_round.svg';
+
+export const IconImageViewCompact20outlined = () => <SVGImageViewCompact_20_outlined />;
+export const IconImageViewCompact24outlined = () => <SVGImageViewCompact_24_outlined />;
+export const IconImageViewCompact20twotone = () => <SVGImageViewCompact_20_twotone />;
+export const IconImageViewCompact24twotone = () => <SVGImageViewCompact_24_twotone />;
+export const IconImageViewCompact20sharp = () => <SVGImageViewCompact_20_sharp />;
+export const IconImageViewCompact24sharp = () => <SVGImageViewCompact_24_sharp />;
+export const IconImageViewCompact20filled = () => <SVGImageViewCompact_20_filled />;
+export const IconImageViewCompact24filled = () => <SVGImageViewCompact_24_filled />;
+export const IconImageViewCompact20round = () => <SVGImageViewCompact_20_round />;
+export const IconImageViewCompact24round = () => <SVGImageViewCompact_24_round />;

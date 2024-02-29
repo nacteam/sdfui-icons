@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialScoreboard_20_outlined from '../../svg/social/SocialScoreboard/20_outlined.svg';
+import SVGSocialScoreboard_24_outlined from '../../svg/social/SocialScoreboard/24_outlined.svg';
+import SVGSocialScoreboard_20_twotone from '../../svg/social/SocialScoreboard/20_twotone.svg';
+import SVGSocialScoreboard_24_twotone from '../../svg/social/SocialScoreboard/24_twotone.svg';
+import SVGSocialScoreboard_20_sharp from '../../svg/social/SocialScoreboard/20_sharp.svg';
+import SVGSocialScoreboard_24_sharp from '../../svg/social/SocialScoreboard/24_sharp.svg';
+import SVGSocialScoreboard_20_filled from '../../svg/social/SocialScoreboard/20_filled.svg';
+import SVGSocialScoreboard_24_filled from '../../svg/social/SocialScoreboard/24_filled.svg';
+import SVGSocialScoreboard_20_round from '../../svg/social/SocialScoreboard/20_round.svg';
+import SVGSocialScoreboard_24_round from '../../svg/social/SocialScoreboard/24_round.svg';
+
+export const IconSocialScoreboard20outlined = () => <SVGSocialScoreboard_20_outlined />;
+export const IconSocialScoreboard24outlined = () => <SVGSocialScoreboard_24_outlined />;
+export const IconSocialScoreboard20twotone = () => <SVGSocialScoreboard_20_twotone />;
+export const IconSocialScoreboard24twotone = () => <SVGSocialScoreboard_24_twotone />;
+export const IconSocialScoreboard20sharp = () => <SVGSocialScoreboard_20_sharp />;
+export const IconSocialScoreboard24sharp = () => <SVGSocialScoreboard_24_sharp />;
+export const IconSocialScoreboard20filled = () => <SVGSocialScoreboard_20_filled />;
+export const IconSocialScoreboard24filled = () => <SVGSocialScoreboard_24_filled />;
+export const IconSocialScoreboard20round = () => <SVGSocialScoreboard_20_round />;
+export const IconSocialScoreboard24round = () => <SVGSocialScoreboard_24_round />;

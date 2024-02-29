@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSearchOff_20_outlined from '../../svg/action/ActionSearchOff/20_outlined.svg';
+import SVGActionSearchOff_24_outlined from '../../svg/action/ActionSearchOff/24_outlined.svg';
+import SVGActionSearchOff_20_twotone from '../../svg/action/ActionSearchOff/20_twotone.svg';
+import SVGActionSearchOff_24_twotone from '../../svg/action/ActionSearchOff/24_twotone.svg';
+import SVGActionSearchOff_20_sharp from '../../svg/action/ActionSearchOff/20_sharp.svg';
+import SVGActionSearchOff_24_sharp from '../../svg/action/ActionSearchOff/24_sharp.svg';
+import SVGActionSearchOff_20_filled from '../../svg/action/ActionSearchOff/20_filled.svg';
+import SVGActionSearchOff_24_filled from '../../svg/action/ActionSearchOff/24_filled.svg';
+import SVGActionSearchOff_20_round from '../../svg/action/ActionSearchOff/20_round.svg';
+import SVGActionSearchOff_24_round from '../../svg/action/ActionSearchOff/24_round.svg';
+
+export const IconActionSearchOff20outlined = () => <SVGActionSearchOff_20_outlined />;
+export const IconActionSearchOff24outlined = () => <SVGActionSearchOff_24_outlined />;
+export const IconActionSearchOff20twotone = () => <SVGActionSearchOff_20_twotone />;
+export const IconActionSearchOff24twotone = () => <SVGActionSearchOff_24_twotone />;
+export const IconActionSearchOff20sharp = () => <SVGActionSearchOff_20_sharp />;
+export const IconActionSearchOff24sharp = () => <SVGActionSearchOff_24_sharp />;
+export const IconActionSearchOff20filled = () => <SVGActionSearchOff_20_filled />;
+export const IconActionSearchOff24filled = () => <SVGActionSearchOff_24_filled />;
+export const IconActionSearchOff20round = () => <SVGActionSearchOff_20_round />;
+export const IconActionSearchOff24round = () => <SVGActionSearchOff_24_round />;

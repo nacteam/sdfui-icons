@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsMuseum_20_outlined from '../../svg/maps/MapsMuseum/20_outlined.svg';
+import SVGMapsMuseum_24_outlined from '../../svg/maps/MapsMuseum/24_outlined.svg';
+import SVGMapsMuseum_20_twotone from '../../svg/maps/MapsMuseum/20_twotone.svg';
+import SVGMapsMuseum_24_twotone from '../../svg/maps/MapsMuseum/24_twotone.svg';
+import SVGMapsMuseum_20_sharp from '../../svg/maps/MapsMuseum/20_sharp.svg';
+import SVGMapsMuseum_24_sharp from '../../svg/maps/MapsMuseum/24_sharp.svg';
+import SVGMapsMuseum_20_filled from '../../svg/maps/MapsMuseum/20_filled.svg';
+import SVGMapsMuseum_24_filled from '../../svg/maps/MapsMuseum/24_filled.svg';
+import SVGMapsMuseum_20_round from '../../svg/maps/MapsMuseum/20_round.svg';
+import SVGMapsMuseum_24_round from '../../svg/maps/MapsMuseum/24_round.svg';
+
+export const IconMapsMuseum20outlined = () => <SVGMapsMuseum_20_outlined />;
+export const IconMapsMuseum24outlined = () => <SVGMapsMuseum_24_outlined />;
+export const IconMapsMuseum20twotone = () => <SVGMapsMuseum_20_twotone />;
+export const IconMapsMuseum24twotone = () => <SVGMapsMuseum_24_twotone />;
+export const IconMapsMuseum20sharp = () => <SVGMapsMuseum_20_sharp />;
+export const IconMapsMuseum24sharp = () => <SVGMapsMuseum_24_sharp />;
+export const IconMapsMuseum20filled = () => <SVGMapsMuseum_20_filled />;
+export const IconMapsMuseum24filled = () => <SVGMapsMuseum_24_filled />;
+export const IconMapsMuseum20round = () => <SVGMapsMuseum_20_round />;
+export const IconMapsMuseum24round = () => <SVGMapsMuseum_24_round />;

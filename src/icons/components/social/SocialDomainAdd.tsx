@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialDomainAdd_20_outlined from '../../svg/social/SocialDomainAdd/20_outlined.svg';
+import SVGSocialDomainAdd_24_outlined from '../../svg/social/SocialDomainAdd/24_outlined.svg';
+import SVGSocialDomainAdd_20_twotone from '../../svg/social/SocialDomainAdd/20_twotone.svg';
+import SVGSocialDomainAdd_24_twotone from '../../svg/social/SocialDomainAdd/24_twotone.svg';
+import SVGSocialDomainAdd_20_sharp from '../../svg/social/SocialDomainAdd/20_sharp.svg';
+import SVGSocialDomainAdd_24_sharp from '../../svg/social/SocialDomainAdd/24_sharp.svg';
+import SVGSocialDomainAdd_20_filled from '../../svg/social/SocialDomainAdd/20_filled.svg';
+import SVGSocialDomainAdd_24_filled from '../../svg/social/SocialDomainAdd/24_filled.svg';
+import SVGSocialDomainAdd_20_round from '../../svg/social/SocialDomainAdd/20_round.svg';
+import SVGSocialDomainAdd_24_round from '../../svg/social/SocialDomainAdd/24_round.svg';
+
+export const IconSocialDomainAdd20outlined = () => <SVGSocialDomainAdd_20_outlined />;
+export const IconSocialDomainAdd24outlined = () => <SVGSocialDomainAdd_24_outlined />;
+export const IconSocialDomainAdd20twotone = () => <SVGSocialDomainAdd_20_twotone />;
+export const IconSocialDomainAdd24twotone = () => <SVGSocialDomainAdd_24_twotone />;
+export const IconSocialDomainAdd20sharp = () => <SVGSocialDomainAdd_20_sharp />;
+export const IconSocialDomainAdd24sharp = () => <SVGSocialDomainAdd_24_sharp />;
+export const IconSocialDomainAdd20filled = () => <SVGSocialDomainAdd_20_filled />;
+export const IconSocialDomainAdd24filled = () => <SVGSocialDomainAdd_24_filled />;
+export const IconSocialDomainAdd20round = () => <SVGSocialDomainAdd_20_round />;
+export const IconSocialDomainAdd24round = () => <SVGSocialDomainAdd_24_round />;

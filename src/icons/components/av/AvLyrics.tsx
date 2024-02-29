@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvLyrics_20_outlined from '../../svg/av/AvLyrics/20_outlined.svg';
+import SVGAvLyrics_24_outlined from '../../svg/av/AvLyrics/24_outlined.svg';
+import SVGAvLyrics_20_twotone from '../../svg/av/AvLyrics/20_twotone.svg';
+import SVGAvLyrics_24_twotone from '../../svg/av/AvLyrics/24_twotone.svg';
+import SVGAvLyrics_20_sharp from '../../svg/av/AvLyrics/20_sharp.svg';
+import SVGAvLyrics_24_sharp from '../../svg/av/AvLyrics/24_sharp.svg';
+import SVGAvLyrics_20_filled from '../../svg/av/AvLyrics/20_filled.svg';
+import SVGAvLyrics_24_filled from '../../svg/av/AvLyrics/24_filled.svg';
+import SVGAvLyrics_20_round from '../../svg/av/AvLyrics/20_round.svg';
+import SVGAvLyrics_24_round from '../../svg/av/AvLyrics/24_round.svg';
+
+export const IconAvLyrics20outlined = () => <SVGAvLyrics_20_outlined />;
+export const IconAvLyrics24outlined = () => <SVGAvLyrics_24_outlined />;
+export const IconAvLyrics20twotone = () => <SVGAvLyrics_20_twotone />;
+export const IconAvLyrics24twotone = () => <SVGAvLyrics_24_twotone />;
+export const IconAvLyrics20sharp = () => <SVGAvLyrics_20_sharp />;
+export const IconAvLyrics24sharp = () => <SVGAvLyrics_24_sharp />;
+export const IconAvLyrics20filled = () => <SVGAvLyrics_20_filled />;
+export const IconAvLyrics24filled = () => <SVGAvLyrics_24_filled />;
+export const IconAvLyrics20round = () => <SVGAvLyrics_20_round />;
+export const IconAvLyrics24round = () => <SVGAvLyrics_24_round />;

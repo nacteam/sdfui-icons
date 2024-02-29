@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSwipeLeft_20_outlined from '../../svg/action/ActionSwipeLeft/20_outlined.svg';
+import SVGActionSwipeLeft_24_outlined from '../../svg/action/ActionSwipeLeft/24_outlined.svg';
+import SVGActionSwipeLeft_20_twotone from '../../svg/action/ActionSwipeLeft/20_twotone.svg';
+import SVGActionSwipeLeft_24_twotone from '../../svg/action/ActionSwipeLeft/24_twotone.svg';
+import SVGActionSwipeLeft_20_sharp from '../../svg/action/ActionSwipeLeft/20_sharp.svg';
+import SVGActionSwipeLeft_24_sharp from '../../svg/action/ActionSwipeLeft/24_sharp.svg';
+import SVGActionSwipeLeft_20_filled from '../../svg/action/ActionSwipeLeft/20_filled.svg';
+import SVGActionSwipeLeft_24_filled from '../../svg/action/ActionSwipeLeft/24_filled.svg';
+import SVGActionSwipeLeft_20_round from '../../svg/action/ActionSwipeLeft/20_round.svg';
+import SVGActionSwipeLeft_24_round from '../../svg/action/ActionSwipeLeft/24_round.svg';
+
+export const IconActionSwipeLeft20outlined = () => <SVGActionSwipeLeft_20_outlined />;
+export const IconActionSwipeLeft24outlined = () => <SVGActionSwipeLeft_24_outlined />;
+export const IconActionSwipeLeft20twotone = () => <SVGActionSwipeLeft_20_twotone />;
+export const IconActionSwipeLeft24twotone = () => <SVGActionSwipeLeft_24_twotone />;
+export const IconActionSwipeLeft20sharp = () => <SVGActionSwipeLeft_20_sharp />;
+export const IconActionSwipeLeft24sharp = () => <SVGActionSwipeLeft_24_sharp />;
+export const IconActionSwipeLeft20filled = () => <SVGActionSwipeLeft_20_filled />;
+export const IconActionSwipeLeft24filled = () => <SVGActionSwipeLeft_24_filled />;
+export const IconActionSwipeLeft20round = () => <SVGActionSwipeLeft_20_round />;
+export const IconActionSwipeLeft24round = () => <SVGActionSwipeLeft_24_round />;

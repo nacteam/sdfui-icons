@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsEditLocationAlt_20_outlined from '../../svg/maps/MapsEditLocationAlt/20_outlined.svg';
+import SVGMapsEditLocationAlt_24_outlined from '../../svg/maps/MapsEditLocationAlt/24_outlined.svg';
+import SVGMapsEditLocationAlt_20_twotone from '../../svg/maps/MapsEditLocationAlt/20_twotone.svg';
+import SVGMapsEditLocationAlt_24_twotone from '../../svg/maps/MapsEditLocationAlt/24_twotone.svg';
+import SVGMapsEditLocationAlt_20_sharp from '../../svg/maps/MapsEditLocationAlt/20_sharp.svg';
+import SVGMapsEditLocationAlt_24_sharp from '../../svg/maps/MapsEditLocationAlt/24_sharp.svg';
+import SVGMapsEditLocationAlt_20_filled from '../../svg/maps/MapsEditLocationAlt/20_filled.svg';
+import SVGMapsEditLocationAlt_24_filled from '../../svg/maps/MapsEditLocationAlt/24_filled.svg';
+import SVGMapsEditLocationAlt_20_round from '../../svg/maps/MapsEditLocationAlt/20_round.svg';
+import SVGMapsEditLocationAlt_24_round from '../../svg/maps/MapsEditLocationAlt/24_round.svg';
+
+export const IconMapsEditLocationAlt20outlined = () => <SVGMapsEditLocationAlt_20_outlined />;
+export const IconMapsEditLocationAlt24outlined = () => <SVGMapsEditLocationAlt_24_outlined />;
+export const IconMapsEditLocationAlt20twotone = () => <SVGMapsEditLocationAlt_20_twotone />;
+export const IconMapsEditLocationAlt24twotone = () => <SVGMapsEditLocationAlt_24_twotone />;
+export const IconMapsEditLocationAlt20sharp = () => <SVGMapsEditLocationAlt_20_sharp />;
+export const IconMapsEditLocationAlt24sharp = () => <SVGMapsEditLocationAlt_24_sharp />;
+export const IconMapsEditLocationAlt20filled = () => <SVGMapsEditLocationAlt_20_filled />;
+export const IconMapsEditLocationAlt24filled = () => <SVGMapsEditLocationAlt_24_filled />;
+export const IconMapsEditLocationAlt20round = () => <SVGMapsEditLocationAlt_20_round />;
+export const IconMapsEditLocationAlt24round = () => <SVGMapsEditLocationAlt_24_round />;

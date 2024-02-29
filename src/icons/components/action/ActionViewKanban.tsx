@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewKanban_20_outlined from '../../svg/action/ActionViewKanban/20_outlined.svg';
+import SVGActionViewKanban_24_outlined from '../../svg/action/ActionViewKanban/24_outlined.svg';
+import SVGActionViewKanban_20_twotone from '../../svg/action/ActionViewKanban/20_twotone.svg';
+import SVGActionViewKanban_24_twotone from '../../svg/action/ActionViewKanban/24_twotone.svg';
+import SVGActionViewKanban_20_sharp from '../../svg/action/ActionViewKanban/20_sharp.svg';
+import SVGActionViewKanban_24_sharp from '../../svg/action/ActionViewKanban/24_sharp.svg';
+import SVGActionViewKanban_20_filled from '../../svg/action/ActionViewKanban/20_filled.svg';
+import SVGActionViewKanban_24_filled from '../../svg/action/ActionViewKanban/24_filled.svg';
+import SVGActionViewKanban_20_round from '../../svg/action/ActionViewKanban/20_round.svg';
+import SVGActionViewKanban_24_round from '../../svg/action/ActionViewKanban/24_round.svg';
+
+export const IconActionViewKanban20outlined = () => <SVGActionViewKanban_20_outlined />;
+export const IconActionViewKanban24outlined = () => <SVGActionViewKanban_24_outlined />;
+export const IconActionViewKanban20twotone = () => <SVGActionViewKanban_20_twotone />;
+export const IconActionViewKanban24twotone = () => <SVGActionViewKanban_24_twotone />;
+export const IconActionViewKanban20sharp = () => <SVGActionViewKanban_20_sharp />;
+export const IconActionViewKanban24sharp = () => <SVGActionViewKanban_24_sharp />;
+export const IconActionViewKanban20filled = () => <SVGActionViewKanban_20_filled />;
+export const IconActionViewKanban24filled = () => <SVGActionViewKanban_24_filled />;
+export const IconActionViewKanban20round = () => <SVGActionViewKanban_20_round />;
+export const IconActionViewKanban24round = () => <SVGActionViewKanban_24_round />;

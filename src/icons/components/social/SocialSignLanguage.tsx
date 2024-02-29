@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSignLanguage_20_outlined from '../../svg/social/SocialSignLanguage/20_outlined.svg';
+import SVGSocialSignLanguage_24_outlined from '../../svg/social/SocialSignLanguage/24_outlined.svg';
+import SVGSocialSignLanguage_20_twotone from '../../svg/social/SocialSignLanguage/20_twotone.svg';
+import SVGSocialSignLanguage_24_twotone from '../../svg/social/SocialSignLanguage/24_twotone.svg';
+import SVGSocialSignLanguage_20_sharp from '../../svg/social/SocialSignLanguage/20_sharp.svg';
+import SVGSocialSignLanguage_24_sharp from '../../svg/social/SocialSignLanguage/24_sharp.svg';
+import SVGSocialSignLanguage_20_filled from '../../svg/social/SocialSignLanguage/20_filled.svg';
+import SVGSocialSignLanguage_24_filled from '../../svg/social/SocialSignLanguage/24_filled.svg';
+import SVGSocialSignLanguage_20_round from '../../svg/social/SocialSignLanguage/20_round.svg';
+import SVGSocialSignLanguage_24_round from '../../svg/social/SocialSignLanguage/24_round.svg';
+
+export const IconSocialSignLanguage20outlined = () => <SVGSocialSignLanguage_20_outlined />;
+export const IconSocialSignLanguage24outlined = () => <SVGSocialSignLanguage_24_outlined />;
+export const IconSocialSignLanguage20twotone = () => <SVGSocialSignLanguage_20_twotone />;
+export const IconSocialSignLanguage24twotone = () => <SVGSocialSignLanguage_24_twotone />;
+export const IconSocialSignLanguage20sharp = () => <SVGSocialSignLanguage_20_sharp />;
+export const IconSocialSignLanguage24sharp = () => <SVGSocialSignLanguage_24_sharp />;
+export const IconSocialSignLanguage20filled = () => <SVGSocialSignLanguage_20_filled />;
+export const IconSocialSignLanguage24filled = () => <SVGSocialSignLanguage_24_filled />;
+export const IconSocialSignLanguage20round = () => <SVGSocialSignLanguage_20_round />;
+export const IconSocialSignLanguage24round = () => <SVGSocialSignLanguage_24_round />;

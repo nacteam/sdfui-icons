@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialNordicWalking_20_outlined from '../../svg/social/SocialNordicWalking/20_outlined.svg';
+import SVGSocialNordicWalking_24_outlined from '../../svg/social/SocialNordicWalking/24_outlined.svg';
+import SVGSocialNordicWalking_20_twotone from '../../svg/social/SocialNordicWalking/20_twotone.svg';
+import SVGSocialNordicWalking_24_twotone from '../../svg/social/SocialNordicWalking/24_twotone.svg';
+import SVGSocialNordicWalking_20_sharp from '../../svg/social/SocialNordicWalking/20_sharp.svg';
+import SVGSocialNordicWalking_24_sharp from '../../svg/social/SocialNordicWalking/24_sharp.svg';
+import SVGSocialNordicWalking_20_filled from '../../svg/social/SocialNordicWalking/20_filled.svg';
+import SVGSocialNordicWalking_24_filled from '../../svg/social/SocialNordicWalking/24_filled.svg';
+import SVGSocialNordicWalking_20_round from '../../svg/social/SocialNordicWalking/20_round.svg';
+import SVGSocialNordicWalking_24_round from '../../svg/social/SocialNordicWalking/24_round.svg';
+
+export const IconSocialNordicWalking20outlined = () => <SVGSocialNordicWalking_20_outlined />;
+export const IconSocialNordicWalking24outlined = () => <SVGSocialNordicWalking_24_outlined />;
+export const IconSocialNordicWalking20twotone = () => <SVGSocialNordicWalking_20_twotone />;
+export const IconSocialNordicWalking24twotone = () => <SVGSocialNordicWalking_24_twotone />;
+export const IconSocialNordicWalking20sharp = () => <SVGSocialNordicWalking_20_sharp />;
+export const IconSocialNordicWalking24sharp = () => <SVGSocialNordicWalking_24_sharp />;
+export const IconSocialNordicWalking20filled = () => <SVGSocialNordicWalking_20_filled />;
+export const IconSocialNordicWalking24filled = () => <SVGSocialNordicWalking_24_filled />;
+export const IconSocialNordicWalking20round = () => <SVGSocialNordicWalking_20_round />;
+export const IconSocialNordicWalking24round = () => <SVGSocialNordicWalking_24_round />;

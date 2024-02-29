@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialAssistWalker_20_outlined from '../../svg/social/SocialAssistWalker/20_outlined.svg';
+import SVGSocialAssistWalker_24_outlined from '../../svg/social/SocialAssistWalker/24_outlined.svg';
+import SVGSocialAssistWalker_20_twotone from '../../svg/social/SocialAssistWalker/20_twotone.svg';
+import SVGSocialAssistWalker_24_twotone from '../../svg/social/SocialAssistWalker/24_twotone.svg';
+import SVGSocialAssistWalker_20_sharp from '../../svg/social/SocialAssistWalker/20_sharp.svg';
+import SVGSocialAssistWalker_24_sharp from '../../svg/social/SocialAssistWalker/24_sharp.svg';
+import SVGSocialAssistWalker_20_filled from '../../svg/social/SocialAssistWalker/20_filled.svg';
+import SVGSocialAssistWalker_24_filled from '../../svg/social/SocialAssistWalker/24_filled.svg';
+import SVGSocialAssistWalker_20_round from '../../svg/social/SocialAssistWalker/20_round.svg';
+import SVGSocialAssistWalker_24_round from '../../svg/social/SocialAssistWalker/24_round.svg';
+
+export const IconSocialAssistWalker20outlined = () => <SVGSocialAssistWalker_20_outlined />;
+export const IconSocialAssistWalker24outlined = () => <SVGSocialAssistWalker_24_outlined />;
+export const IconSocialAssistWalker20twotone = () => <SVGSocialAssistWalker_20_twotone />;
+export const IconSocialAssistWalker24twotone = () => <SVGSocialAssistWalker_24_twotone />;
+export const IconSocialAssistWalker20sharp = () => <SVGSocialAssistWalker_20_sharp />;
+export const IconSocialAssistWalker24sharp = () => <SVGSocialAssistWalker_24_sharp />;
+export const IconSocialAssistWalker20filled = () => <SVGSocialAssistWalker_20_filled />;
+export const IconSocialAssistWalker24filled = () => <SVGSocialAssistWalker_24_filled />;
+export const IconSocialAssistWalker20round = () => <SVGSocialAssistWalker_20_round />;
+export const IconSocialAssistWalker24round = () => <SVGSocialAssistWalker_24_round />;

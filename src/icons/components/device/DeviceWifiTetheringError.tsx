@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceWifiTetheringError_20_outlined from '../../svg/device/DeviceWifiTetheringError/20_outlined.svg';
+import SVGDeviceWifiTetheringError_24_outlined from '../../svg/device/DeviceWifiTetheringError/24_outlined.svg';
+import SVGDeviceWifiTetheringError_20_twotone from '../../svg/device/DeviceWifiTetheringError/20_twotone.svg';
+import SVGDeviceWifiTetheringError_24_twotone from '../../svg/device/DeviceWifiTetheringError/24_twotone.svg';
+import SVGDeviceWifiTetheringError_20_sharp from '../../svg/device/DeviceWifiTetheringError/20_sharp.svg';
+import SVGDeviceWifiTetheringError_24_sharp from '../../svg/device/DeviceWifiTetheringError/24_sharp.svg';
+import SVGDeviceWifiTetheringError_20_filled from '../../svg/device/DeviceWifiTetheringError/20_filled.svg';
+import SVGDeviceWifiTetheringError_24_filled from '../../svg/device/DeviceWifiTetheringError/24_filled.svg';
+import SVGDeviceWifiTetheringError_20_round from '../../svg/device/DeviceWifiTetheringError/20_round.svg';
+import SVGDeviceWifiTetheringError_24_round from '../../svg/device/DeviceWifiTetheringError/24_round.svg';
+
+export const IconDeviceWifiTetheringError20outlined = () => <SVGDeviceWifiTetheringError_20_outlined />;
+export const IconDeviceWifiTetheringError24outlined = () => <SVGDeviceWifiTetheringError_24_outlined />;
+export const IconDeviceWifiTetheringError20twotone = () => <SVGDeviceWifiTetheringError_20_twotone />;
+export const IconDeviceWifiTetheringError24twotone = () => <SVGDeviceWifiTetheringError_24_twotone />;
+export const IconDeviceWifiTetheringError20sharp = () => <SVGDeviceWifiTetheringError_20_sharp />;
+export const IconDeviceWifiTetheringError24sharp = () => <SVGDeviceWifiTetheringError_24_sharp />;
+export const IconDeviceWifiTetheringError20filled = () => <SVGDeviceWifiTetheringError_20_filled />;
+export const IconDeviceWifiTetheringError24filled = () => <SVGDeviceWifiTetheringError_24_filled />;
+export const IconDeviceWifiTetheringError20round = () => <SVGDeviceWifiTetheringError_20_round />;
+export const IconDeviceWifiTetheringError24round = () => <SVGDeviceWifiTetheringError_24_round />;

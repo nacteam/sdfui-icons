@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageTimerOff_20_outlined from '../../svg/image/ImageTimerOff/20_outlined.svg';
+import SVGImageTimerOff_24_outlined from '../../svg/image/ImageTimerOff/24_outlined.svg';
+import SVGImageTimerOff_20_twotone from '../../svg/image/ImageTimerOff/20_twotone.svg';
+import SVGImageTimerOff_24_twotone from '../../svg/image/ImageTimerOff/24_twotone.svg';
+import SVGImageTimerOff_20_sharp from '../../svg/image/ImageTimerOff/20_sharp.svg';
+import SVGImageTimerOff_24_sharp from '../../svg/image/ImageTimerOff/24_sharp.svg';
+import SVGImageTimerOff_20_filled from '../../svg/image/ImageTimerOff/20_filled.svg';
+import SVGImageTimerOff_24_filled from '../../svg/image/ImageTimerOff/24_filled.svg';
+import SVGImageTimerOff_20_round from '../../svg/image/ImageTimerOff/20_round.svg';
+import SVGImageTimerOff_24_round from '../../svg/image/ImageTimerOff/24_round.svg';
+
+export const IconImageTimerOff20outlined = () => <SVGImageTimerOff_20_outlined />;
+export const IconImageTimerOff24outlined = () => <SVGImageTimerOff_24_outlined />;
+export const IconImageTimerOff20twotone = () => <SVGImageTimerOff_20_twotone />;
+export const IconImageTimerOff24twotone = () => <SVGImageTimerOff_24_twotone />;
+export const IconImageTimerOff20sharp = () => <SVGImageTimerOff_20_sharp />;
+export const IconImageTimerOff24sharp = () => <SVGImageTimerOff_24_sharp />;
+export const IconImageTimerOff20filled = () => <SVGImageTimerOff_20_filled />;
+export const IconImageTimerOff24filled = () => <SVGImageTimerOff_24_filled />;
+export const IconImageTimerOff20round = () => <SVGImageTimerOff_20_round />;
+export const IconImageTimerOff24round = () => <SVGImageTimerOff_24_round />;

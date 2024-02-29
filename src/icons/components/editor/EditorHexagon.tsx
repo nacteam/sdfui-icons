@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorHexagon_20_outlined from '../../svg/editor/EditorHexagon/20_outlined.svg';
+import SVGEditorHexagon_24_outlined from '../../svg/editor/EditorHexagon/24_outlined.svg';
+import SVGEditorHexagon_20_twotone from '../../svg/editor/EditorHexagon/20_twotone.svg';
+import SVGEditorHexagon_24_twotone from '../../svg/editor/EditorHexagon/24_twotone.svg';
+import SVGEditorHexagon_20_sharp from '../../svg/editor/EditorHexagon/20_sharp.svg';
+import SVGEditorHexagon_24_sharp from '../../svg/editor/EditorHexagon/24_sharp.svg';
+import SVGEditorHexagon_20_filled from '../../svg/editor/EditorHexagon/20_filled.svg';
+import SVGEditorHexagon_24_filled from '../../svg/editor/EditorHexagon/24_filled.svg';
+import SVGEditorHexagon_20_round from '../../svg/editor/EditorHexagon/20_round.svg';
+import SVGEditorHexagon_24_round from '../../svg/editor/EditorHexagon/24_round.svg';
+
+export const IconEditorHexagon20outlined = () => <SVGEditorHexagon_20_outlined />;
+export const IconEditorHexagon24outlined = () => <SVGEditorHexagon_24_outlined />;
+export const IconEditorHexagon20twotone = () => <SVGEditorHexagon_20_twotone />;
+export const IconEditorHexagon24twotone = () => <SVGEditorHexagon_24_twotone />;
+export const IconEditorHexagon20sharp = () => <SVGEditorHexagon_20_sharp />;
+export const IconEditorHexagon24sharp = () => <SVGEditorHexagon_24_sharp />;
+export const IconEditorHexagon20filled = () => <SVGEditorHexagon_20_filled />;
+export const IconEditorHexagon24filled = () => <SVGEditorHexagon_24_filled />;
+export const IconEditorHexagon20round = () => <SVGEditorHexagon_20_round />;
+export const IconEditorHexagon24round = () => <SVGEditorHexagon_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorHeight_20_outlined from '../../svg/editor/EditorHeight/20_outlined.svg';
+import SVGEditorHeight_24_outlined from '../../svg/editor/EditorHeight/24_outlined.svg';
+import SVGEditorHeight_20_twotone from '../../svg/editor/EditorHeight/20_twotone.svg';
+import SVGEditorHeight_24_twotone from '../../svg/editor/EditorHeight/24_twotone.svg';
+import SVGEditorHeight_20_sharp from '../../svg/editor/EditorHeight/20_sharp.svg';
+import SVGEditorHeight_24_sharp from '../../svg/editor/EditorHeight/24_sharp.svg';
+import SVGEditorHeight_20_filled from '../../svg/editor/EditorHeight/20_filled.svg';
+import SVGEditorHeight_24_filled from '../../svg/editor/EditorHeight/24_filled.svg';
+import SVGEditorHeight_20_round from '../../svg/editor/EditorHeight/20_round.svg';
+import SVGEditorHeight_24_round from '../../svg/editor/EditorHeight/24_round.svg';
+
+export const IconEditorHeight20outlined = () => <SVGEditorHeight_20_outlined />;
+export const IconEditorHeight24outlined = () => <SVGEditorHeight_24_outlined />;
+export const IconEditorHeight20twotone = () => <SVGEditorHeight_20_twotone />;
+export const IconEditorHeight24twotone = () => <SVGEditorHeight_24_twotone />;
+export const IconEditorHeight20sharp = () => <SVGEditorHeight_20_sharp />;
+export const IconEditorHeight24sharp = () => <SVGEditorHeight_24_sharp />;
+export const IconEditorHeight20filled = () => <SVGEditorHeight_20_filled />;
+export const IconEditorHeight24filled = () => <SVGEditorHeight_24_filled />;
+export const IconEditorHeight20round = () => <SVGEditorHeight_20_round />;
+export const IconEditorHeight24round = () => <SVGEditorHeight_24_round />;

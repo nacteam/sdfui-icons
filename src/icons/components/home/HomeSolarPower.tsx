@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeSolarPower_20_outlined from '../../svg/home/HomeSolarPower/20_outlined.svg';
+import SVGHomeSolarPower_24_outlined from '../../svg/home/HomeSolarPower/24_outlined.svg';
+import SVGHomeSolarPower_20_twotone from '../../svg/home/HomeSolarPower/20_twotone.svg';
+import SVGHomeSolarPower_24_twotone from '../../svg/home/HomeSolarPower/24_twotone.svg';
+import SVGHomeSolarPower_20_sharp from '../../svg/home/HomeSolarPower/20_sharp.svg';
+import SVGHomeSolarPower_24_sharp from '../../svg/home/HomeSolarPower/24_sharp.svg';
+import SVGHomeSolarPower_20_filled from '../../svg/home/HomeSolarPower/20_filled.svg';
+import SVGHomeSolarPower_24_filled from '../../svg/home/HomeSolarPower/24_filled.svg';
+import SVGHomeSolarPower_20_round from '../../svg/home/HomeSolarPower/20_round.svg';
+import SVGHomeSolarPower_24_round from '../../svg/home/HomeSolarPower/24_round.svg';
+
+export const IconHomeSolarPower20outlined = () => <SVGHomeSolarPower_20_outlined />;
+export const IconHomeSolarPower24outlined = () => <SVGHomeSolarPower_24_outlined />;
+export const IconHomeSolarPower20twotone = () => <SVGHomeSolarPower_20_twotone />;
+export const IconHomeSolarPower24twotone = () => <SVGHomeSolarPower_24_twotone />;
+export const IconHomeSolarPower20sharp = () => <SVGHomeSolarPower_20_sharp />;
+export const IconHomeSolarPower24sharp = () => <SVGHomeSolarPower_24_sharp />;
+export const IconHomeSolarPower20filled = () => <SVGHomeSolarPower_20_filled />;
+export const IconHomeSolarPower24filled = () => <SVGHomeSolarPower_24_filled />;
+export const IconHomeSolarPower20round = () => <SVGHomeSolarPower_20_round />;
+export const IconHomeSolarPower24round = () => <SVGHomeSolarPower_24_round />;

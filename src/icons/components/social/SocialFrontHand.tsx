@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialFrontHand_20_outlined from '../../svg/social/SocialFrontHand/20_outlined.svg';
+import SVGSocialFrontHand_24_outlined from '../../svg/social/SocialFrontHand/24_outlined.svg';
+import SVGSocialFrontHand_20_twotone from '../../svg/social/SocialFrontHand/20_twotone.svg';
+import SVGSocialFrontHand_24_twotone from '../../svg/social/SocialFrontHand/24_twotone.svg';
+import SVGSocialFrontHand_20_sharp from '../../svg/social/SocialFrontHand/20_sharp.svg';
+import SVGSocialFrontHand_24_sharp from '../../svg/social/SocialFrontHand/24_sharp.svg';
+import SVGSocialFrontHand_20_filled from '../../svg/social/SocialFrontHand/20_filled.svg';
+import SVGSocialFrontHand_24_filled from '../../svg/social/SocialFrontHand/24_filled.svg';
+import SVGSocialFrontHand_20_round from '../../svg/social/SocialFrontHand/20_round.svg';
+import SVGSocialFrontHand_24_round from '../../svg/social/SocialFrontHand/24_round.svg';
+
+export const IconSocialFrontHand20outlined = () => <SVGSocialFrontHand_20_outlined />;
+export const IconSocialFrontHand24outlined = () => <SVGSocialFrontHand_24_outlined />;
+export const IconSocialFrontHand20twotone = () => <SVGSocialFrontHand_20_twotone />;
+export const IconSocialFrontHand24twotone = () => <SVGSocialFrontHand_24_twotone />;
+export const IconSocialFrontHand20sharp = () => <SVGSocialFrontHand_20_sharp />;
+export const IconSocialFrontHand24sharp = () => <SVGSocialFrontHand_24_sharp />;
+export const IconSocialFrontHand20filled = () => <SVGSocialFrontHand_20_filled />;
+export const IconSocialFrontHand24filled = () => <SVGSocialFrontHand_24_filled />;
+export const IconSocialFrontHand20round = () => <SVGSocialFrontHand_20_round />;
+export const IconSocialFrontHand24round = () => <SVGSocialFrontHand_24_round />;

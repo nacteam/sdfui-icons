@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareStart_20_outlined from '../../svg/hardware/HardwareStart/20_outlined.svg';
+import SVGHardwareStart_24_outlined from '../../svg/hardware/HardwareStart/24_outlined.svg';
+import SVGHardwareStart_20_twotone from '../../svg/hardware/HardwareStart/20_twotone.svg';
+import SVGHardwareStart_24_twotone from '../../svg/hardware/HardwareStart/24_twotone.svg';
+import SVGHardwareStart_20_sharp from '../../svg/hardware/HardwareStart/20_sharp.svg';
+import SVGHardwareStart_24_sharp from '../../svg/hardware/HardwareStart/24_sharp.svg';
+import SVGHardwareStart_20_filled from '../../svg/hardware/HardwareStart/20_filled.svg';
+import SVGHardwareStart_24_filled from '../../svg/hardware/HardwareStart/24_filled.svg';
+import SVGHardwareStart_20_round from '../../svg/hardware/HardwareStart/20_round.svg';
+import SVGHardwareStart_24_round from '../../svg/hardware/HardwareStart/24_round.svg';
+
+export const IconHardwareStart20outlined = () => <SVGHardwareStart_20_outlined />;
+export const IconHardwareStart24outlined = () => <SVGHardwareStart_24_outlined />;
+export const IconHardwareStart20twotone = () => <SVGHardwareStart_20_twotone />;
+export const IconHardwareStart24twotone = () => <SVGHardwareStart_24_twotone />;
+export const IconHardwareStart20sharp = () => <SVGHardwareStart_20_sharp />;
+export const IconHardwareStart24sharp = () => <SVGHardwareStart_24_sharp />;
+export const IconHardwareStart20filled = () => <SVGHardwareStart_20_filled />;
+export const IconHardwareStart24filled = () => <SVGHardwareStart_24_filled />;
+export const IconHardwareStart20round = () => <SVGHardwareStart_20_round />;
+export const IconHardwareStart24round = () => <SVGHardwareStart_24_round />;

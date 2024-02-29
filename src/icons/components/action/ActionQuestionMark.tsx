@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionQuestionMark_20_outlined from '../../svg/action/ActionQuestionMark/20_outlined.svg';
+import SVGActionQuestionMark_24_outlined from '../../svg/action/ActionQuestionMark/24_outlined.svg';
+import SVGActionQuestionMark_20_twotone from '../../svg/action/ActionQuestionMark/20_twotone.svg';
+import SVGActionQuestionMark_24_twotone from '../../svg/action/ActionQuestionMark/24_twotone.svg';
+import SVGActionQuestionMark_20_sharp from '../../svg/action/ActionQuestionMark/20_sharp.svg';
+import SVGActionQuestionMark_24_sharp from '../../svg/action/ActionQuestionMark/24_sharp.svg';
+import SVGActionQuestionMark_20_filled from '../../svg/action/ActionQuestionMark/20_filled.svg';
+import SVGActionQuestionMark_24_filled from '../../svg/action/ActionQuestionMark/24_filled.svg';
+import SVGActionQuestionMark_20_round from '../../svg/action/ActionQuestionMark/20_round.svg';
+import SVGActionQuestionMark_24_round from '../../svg/action/ActionQuestionMark/24_round.svg';
+
+export const IconActionQuestionMark20outlined = () => <SVGActionQuestionMark_20_outlined />;
+export const IconActionQuestionMark24outlined = () => <SVGActionQuestionMark_24_outlined />;
+export const IconActionQuestionMark20twotone = () => <SVGActionQuestionMark_20_twotone />;
+export const IconActionQuestionMark24twotone = () => <SVGActionQuestionMark_24_twotone />;
+export const IconActionQuestionMark20sharp = () => <SVGActionQuestionMark_20_sharp />;
+export const IconActionQuestionMark24sharp = () => <SVGActionQuestionMark_24_sharp />;
+export const IconActionQuestionMark20filled = () => <SVGActionQuestionMark_20_filled />;
+export const IconActionQuestionMark24filled = () => <SVGActionQuestionMark_24_filled />;
+export const IconActionQuestionMark20round = () => <SVGActionQuestionMark_20_round />;
+export const IconActionQuestionMark24round = () => <SVGActionQuestionMark_24_round />;

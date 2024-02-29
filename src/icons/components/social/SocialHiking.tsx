@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialHiking_20_outlined from '../../svg/social/SocialHiking/20_outlined.svg';
+import SVGSocialHiking_24_outlined from '../../svg/social/SocialHiking/24_outlined.svg';
+import SVGSocialHiking_20_twotone from '../../svg/social/SocialHiking/20_twotone.svg';
+import SVGSocialHiking_24_twotone from '../../svg/social/SocialHiking/24_twotone.svg';
+import SVGSocialHiking_20_sharp from '../../svg/social/SocialHiking/20_sharp.svg';
+import SVGSocialHiking_24_sharp from '../../svg/social/SocialHiking/24_sharp.svg';
+import SVGSocialHiking_20_filled from '../../svg/social/SocialHiking/20_filled.svg';
+import SVGSocialHiking_24_filled from '../../svg/social/SocialHiking/24_filled.svg';
+import SVGSocialHiking_20_round from '../../svg/social/SocialHiking/20_round.svg';
+import SVGSocialHiking_24_round from '../../svg/social/SocialHiking/24_round.svg';
+
+export const IconSocialHiking20outlined = () => <SVGSocialHiking_20_outlined />;
+export const IconSocialHiking24outlined = () => <SVGSocialHiking_24_outlined />;
+export const IconSocialHiking20twotone = () => <SVGSocialHiking_20_twotone />;
+export const IconSocialHiking24twotone = () => <SVGSocialHiking_24_twotone />;
+export const IconSocialHiking20sharp = () => <SVGSocialHiking_20_sharp />;
+export const IconSocialHiking24sharp = () => <SVGSocialHiking_24_sharp />;
+export const IconSocialHiking20filled = () => <SVGSocialHiking_20_filled />;
+export const IconSocialHiking24filled = () => <SVGSocialHiking_24_filled />;
+export const IconSocialHiking20round = () => <SVGSocialHiking_20_round />;
+export const IconSocialHiking24round = () => <SVGSocialHiking_24_round />;

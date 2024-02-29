@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationNat_20_outlined from '../../svg/communication/CommunicationNat/20_outlined.svg';
+import SVGCommunicationNat_24_outlined from '../../svg/communication/CommunicationNat/24_outlined.svg';
+import SVGCommunicationNat_20_twotone from '../../svg/communication/CommunicationNat/20_twotone.svg';
+import SVGCommunicationNat_24_twotone from '../../svg/communication/CommunicationNat/24_twotone.svg';
+import SVGCommunicationNat_20_sharp from '../../svg/communication/CommunicationNat/20_sharp.svg';
+import SVGCommunicationNat_24_sharp from '../../svg/communication/CommunicationNat/24_sharp.svg';
+import SVGCommunicationNat_20_filled from '../../svg/communication/CommunicationNat/20_filled.svg';
+import SVGCommunicationNat_24_filled from '../../svg/communication/CommunicationNat/24_filled.svg';
+import SVGCommunicationNat_20_round from '../../svg/communication/CommunicationNat/20_round.svg';
+import SVGCommunicationNat_24_round from '../../svg/communication/CommunicationNat/24_round.svg';
+
+export const IconCommunicationNat20outlined = () => <SVGCommunicationNat_20_outlined />;
+export const IconCommunicationNat24outlined = () => <SVGCommunicationNat_24_outlined />;
+export const IconCommunicationNat20twotone = () => <SVGCommunicationNat_20_twotone />;
+export const IconCommunicationNat24twotone = () => <SVGCommunicationNat_24_twotone />;
+export const IconCommunicationNat20sharp = () => <SVGCommunicationNat_20_sharp />;
+export const IconCommunicationNat24sharp = () => <SVGCommunicationNat_24_sharp />;
+export const IconCommunicationNat20filled = () => <SVGCommunicationNat_20_filled />;
+export const IconCommunicationNat24filled = () => <SVGCommunicationNat_24_filled />;
+export const IconCommunicationNat20round = () => <SVGCommunicationNat_20_round />;
+export const IconCommunicationNat24round = () => <SVGCommunicationNat_24_round />;

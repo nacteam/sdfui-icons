@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsMiscellaneousServices_20_outlined from '../../svg/maps/MapsMiscellaneousServices/20_outlined.svg';
+import SVGMapsMiscellaneousServices_24_outlined from '../../svg/maps/MapsMiscellaneousServices/24_outlined.svg';
+import SVGMapsMiscellaneousServices_20_twotone from '../../svg/maps/MapsMiscellaneousServices/20_twotone.svg';
+import SVGMapsMiscellaneousServices_24_twotone from '../../svg/maps/MapsMiscellaneousServices/24_twotone.svg';
+import SVGMapsMiscellaneousServices_20_sharp from '../../svg/maps/MapsMiscellaneousServices/20_sharp.svg';
+import SVGMapsMiscellaneousServices_24_sharp from '../../svg/maps/MapsMiscellaneousServices/24_sharp.svg';
+import SVGMapsMiscellaneousServices_20_filled from '../../svg/maps/MapsMiscellaneousServices/20_filled.svg';
+import SVGMapsMiscellaneousServices_24_filled from '../../svg/maps/MapsMiscellaneousServices/24_filled.svg';
+import SVGMapsMiscellaneousServices_20_round from '../../svg/maps/MapsMiscellaneousServices/20_round.svg';
+import SVGMapsMiscellaneousServices_24_round from '../../svg/maps/MapsMiscellaneousServices/24_round.svg';
+
+export const IconMapsMiscellaneousServices20outlined = () => <SVGMapsMiscellaneousServices_20_outlined />;
+export const IconMapsMiscellaneousServices24outlined = () => <SVGMapsMiscellaneousServices_24_outlined />;
+export const IconMapsMiscellaneousServices20twotone = () => <SVGMapsMiscellaneousServices_20_twotone />;
+export const IconMapsMiscellaneousServices24twotone = () => <SVGMapsMiscellaneousServices_24_twotone />;
+export const IconMapsMiscellaneousServices20sharp = () => <SVGMapsMiscellaneousServices_20_sharp />;
+export const IconMapsMiscellaneousServices24sharp = () => <SVGMapsMiscellaneousServices_24_sharp />;
+export const IconMapsMiscellaneousServices20filled = () => <SVGMapsMiscellaneousServices_20_filled />;
+export const IconMapsMiscellaneousServices24filled = () => <SVGMapsMiscellaneousServices_24_filled />;
+export const IconMapsMiscellaneousServices20round = () => <SVGMapsMiscellaneousServices_20_round />;
+export const IconMapsMiscellaneousServices24round = () => <SVGMapsMiscellaneousServices_24_round />;

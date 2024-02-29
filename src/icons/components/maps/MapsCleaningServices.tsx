@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsCleaningServices_20_outlined from '../../svg/maps/MapsCleaningServices/20_outlined.svg';
+import SVGMapsCleaningServices_24_outlined from '../../svg/maps/MapsCleaningServices/24_outlined.svg';
+import SVGMapsCleaningServices_20_twotone from '../../svg/maps/MapsCleaningServices/20_twotone.svg';
+import SVGMapsCleaningServices_24_twotone from '../../svg/maps/MapsCleaningServices/24_twotone.svg';
+import SVGMapsCleaningServices_20_sharp from '../../svg/maps/MapsCleaningServices/20_sharp.svg';
+import SVGMapsCleaningServices_24_sharp from '../../svg/maps/MapsCleaningServices/24_sharp.svg';
+import SVGMapsCleaningServices_20_filled from '../../svg/maps/MapsCleaningServices/20_filled.svg';
+import SVGMapsCleaningServices_24_filled from '../../svg/maps/MapsCleaningServices/24_filled.svg';
+import SVGMapsCleaningServices_20_round from '../../svg/maps/MapsCleaningServices/20_round.svg';
+import SVGMapsCleaningServices_24_round from '../../svg/maps/MapsCleaningServices/24_round.svg';
+
+export const IconMapsCleaningServices20outlined = () => <SVGMapsCleaningServices_20_outlined />;
+export const IconMapsCleaningServices24outlined = () => <SVGMapsCleaningServices_24_outlined />;
+export const IconMapsCleaningServices20twotone = () => <SVGMapsCleaningServices_20_twotone />;
+export const IconMapsCleaningServices24twotone = () => <SVGMapsCleaningServices_24_twotone />;
+export const IconMapsCleaningServices20sharp = () => <SVGMapsCleaningServices_20_sharp />;
+export const IconMapsCleaningServices24sharp = () => <SVGMapsCleaningServices_24_sharp />;
+export const IconMapsCleaningServices20filled = () => <SVGMapsCleaningServices_20_filled />;
+export const IconMapsCleaningServices24filled = () => <SVGMapsCleaningServices_24_filled />;
+export const IconMapsCleaningServices20round = () => <SVGMapsCleaningServices_20_round />;
+export const IconMapsCleaningServices24round = () => <SVGMapsCleaningServices_24_round />;

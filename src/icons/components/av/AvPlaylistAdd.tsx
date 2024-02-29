@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvPlaylistAdd_20_outlined from '../../svg/av/AvPlaylistAdd/20_outlined.svg';
+import SVGAvPlaylistAdd_24_outlined from '../../svg/av/AvPlaylistAdd/24_outlined.svg';
+import SVGAvPlaylistAdd_20_twotone from '../../svg/av/AvPlaylistAdd/20_twotone.svg';
+import SVGAvPlaylistAdd_24_twotone from '../../svg/av/AvPlaylistAdd/24_twotone.svg';
+import SVGAvPlaylistAdd_20_sharp from '../../svg/av/AvPlaylistAdd/20_sharp.svg';
+import SVGAvPlaylistAdd_24_sharp from '../../svg/av/AvPlaylistAdd/24_sharp.svg';
+import SVGAvPlaylistAdd_20_filled from '../../svg/av/AvPlaylistAdd/20_filled.svg';
+import SVGAvPlaylistAdd_24_filled from '../../svg/av/AvPlaylistAdd/24_filled.svg';
+import SVGAvPlaylistAdd_20_round from '../../svg/av/AvPlaylistAdd/20_round.svg';
+import SVGAvPlaylistAdd_24_round from '../../svg/av/AvPlaylistAdd/24_round.svg';
+
+export const IconAvPlaylistAdd20outlined = () => <SVGAvPlaylistAdd_20_outlined />;
+export const IconAvPlaylistAdd24outlined = () => <SVGAvPlaylistAdd_24_outlined />;
+export const IconAvPlaylistAdd20twotone = () => <SVGAvPlaylistAdd_20_twotone />;
+export const IconAvPlaylistAdd24twotone = () => <SVGAvPlaylistAdd_24_twotone />;
+export const IconAvPlaylistAdd20sharp = () => <SVGAvPlaylistAdd_20_sharp />;
+export const IconAvPlaylistAdd24sharp = () => <SVGAvPlaylistAdd_24_sharp />;
+export const IconAvPlaylistAdd20filled = () => <SVGAvPlaylistAdd_20_filled />;
+export const IconAvPlaylistAdd24filled = () => <SVGAvPlaylistAdd_24_filled />;
+export const IconAvPlaylistAdd20round = () => <SVGAvPlaylistAdd_20_round />;
+export const IconAvPlaylistAdd24round = () => <SVGAvPlaylistAdd_24_round />;

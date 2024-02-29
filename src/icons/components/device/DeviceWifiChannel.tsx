@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceWifiChannel_20_outlined from '../../svg/device/DeviceWifiChannel/20_outlined.svg';
+import SVGDeviceWifiChannel_24_outlined from '../../svg/device/DeviceWifiChannel/24_outlined.svg';
+import SVGDeviceWifiChannel_20_twotone from '../../svg/device/DeviceWifiChannel/20_twotone.svg';
+import SVGDeviceWifiChannel_24_twotone from '../../svg/device/DeviceWifiChannel/24_twotone.svg';
+import SVGDeviceWifiChannel_20_sharp from '../../svg/device/DeviceWifiChannel/20_sharp.svg';
+import SVGDeviceWifiChannel_24_sharp from '../../svg/device/DeviceWifiChannel/24_sharp.svg';
+import SVGDeviceWifiChannel_20_filled from '../../svg/device/DeviceWifiChannel/20_filled.svg';
+import SVGDeviceWifiChannel_24_filled from '../../svg/device/DeviceWifiChannel/24_filled.svg';
+import SVGDeviceWifiChannel_20_round from '../../svg/device/DeviceWifiChannel/20_round.svg';
+import SVGDeviceWifiChannel_24_round from '../../svg/device/DeviceWifiChannel/24_round.svg';
+
+export const IconDeviceWifiChannel20outlined = () => <SVGDeviceWifiChannel_20_outlined />;
+export const IconDeviceWifiChannel24outlined = () => <SVGDeviceWifiChannel_24_outlined />;
+export const IconDeviceWifiChannel20twotone = () => <SVGDeviceWifiChannel_20_twotone />;
+export const IconDeviceWifiChannel24twotone = () => <SVGDeviceWifiChannel_24_twotone />;
+export const IconDeviceWifiChannel20sharp = () => <SVGDeviceWifiChannel_20_sharp />;
+export const IconDeviceWifiChannel24sharp = () => <SVGDeviceWifiChannel_24_sharp />;
+export const IconDeviceWifiChannel20filled = () => <SVGDeviceWifiChannel_20_filled />;
+export const IconDeviceWifiChannel24filled = () => <SVGDeviceWifiChannel_24_filled />;
+export const IconDeviceWifiChannel20round = () => <SVGDeviceWifiChannel_20_round />;
+export const IconDeviceWifiChannel24round = () => <SVGDeviceWifiChannel_24_round />;

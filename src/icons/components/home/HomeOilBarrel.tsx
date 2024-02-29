@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeOilBarrel_20_outlined from '../../svg/home/HomeOilBarrel/20_outlined.svg';
+import SVGHomeOilBarrel_24_outlined from '../../svg/home/HomeOilBarrel/24_outlined.svg';
+import SVGHomeOilBarrel_20_twotone from '../../svg/home/HomeOilBarrel/20_twotone.svg';
+import SVGHomeOilBarrel_24_twotone from '../../svg/home/HomeOilBarrel/24_twotone.svg';
+import SVGHomeOilBarrel_20_sharp from '../../svg/home/HomeOilBarrel/20_sharp.svg';
+import SVGHomeOilBarrel_24_sharp from '../../svg/home/HomeOilBarrel/24_sharp.svg';
+import SVGHomeOilBarrel_20_filled from '../../svg/home/HomeOilBarrel/20_filled.svg';
+import SVGHomeOilBarrel_24_filled from '../../svg/home/HomeOilBarrel/24_filled.svg';
+import SVGHomeOilBarrel_20_round from '../../svg/home/HomeOilBarrel/20_round.svg';
+import SVGHomeOilBarrel_24_round from '../../svg/home/HomeOilBarrel/24_round.svg';
+
+export const IconHomeOilBarrel20outlined = () => <SVGHomeOilBarrel_20_outlined />;
+export const IconHomeOilBarrel24outlined = () => <SVGHomeOilBarrel_24_outlined />;
+export const IconHomeOilBarrel20twotone = () => <SVGHomeOilBarrel_20_twotone />;
+export const IconHomeOilBarrel24twotone = () => <SVGHomeOilBarrel_24_twotone />;
+export const IconHomeOilBarrel20sharp = () => <SVGHomeOilBarrel_20_sharp />;
+export const IconHomeOilBarrel24sharp = () => <SVGHomeOilBarrel_24_sharp />;
+export const IconHomeOilBarrel20filled = () => <SVGHomeOilBarrel_20_filled />;
+export const IconHomeOilBarrel24filled = () => <SVGHomeOilBarrel_24_filled />;
+export const IconHomeOilBarrel20round = () => <SVGHomeOilBarrel_20_round />;
+export const IconHomeOilBarrel24round = () => <SVGHomeOilBarrel_24_round />;

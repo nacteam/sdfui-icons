@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvAudioFile_20_outlined from '../../svg/av/AvAudioFile/20_outlined.svg';
+import SVGAvAudioFile_24_outlined from '../../svg/av/AvAudioFile/24_outlined.svg';
+import SVGAvAudioFile_20_twotone from '../../svg/av/AvAudioFile/20_twotone.svg';
+import SVGAvAudioFile_24_twotone from '../../svg/av/AvAudioFile/24_twotone.svg';
+import SVGAvAudioFile_20_sharp from '../../svg/av/AvAudioFile/20_sharp.svg';
+import SVGAvAudioFile_24_sharp from '../../svg/av/AvAudioFile/24_sharp.svg';
+import SVGAvAudioFile_20_filled from '../../svg/av/AvAudioFile/20_filled.svg';
+import SVGAvAudioFile_24_filled from '../../svg/av/AvAudioFile/24_filled.svg';
+import SVGAvAudioFile_20_round from '../../svg/av/AvAudioFile/20_round.svg';
+import SVGAvAudioFile_24_round from '../../svg/av/AvAudioFile/24_round.svg';
+
+export const IconAvAudioFile20outlined = () => <SVGAvAudioFile_20_outlined />;
+export const IconAvAudioFile24outlined = () => <SVGAvAudioFile_24_outlined />;
+export const IconAvAudioFile20twotone = () => <SVGAvAudioFile_20_twotone />;
+export const IconAvAudioFile24twotone = () => <SVGAvAudioFile_24_twotone />;
+export const IconAvAudioFile20sharp = () => <SVGAvAudioFile_20_sharp />;
+export const IconAvAudioFile24sharp = () => <SVGAvAudioFile_24_sharp />;
+export const IconAvAudioFile20filled = () => <SVGAvAudioFile_20_filled />;
+export const IconAvAudioFile24filled = () => <SVGAvAudioFile_24_filled />;
+export const IconAvAudioFile20round = () => <SVGAvAudioFile_20_round />;
+export const IconAvAudioFile24round = () => <SVGAvAudioFile_24_round />;

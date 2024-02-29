@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesCabin_20_outlined from '../../svg/places/PlacesCabin/20_outlined.svg';
+import SVGPlacesCabin_24_outlined from '../../svg/places/PlacesCabin/24_outlined.svg';
+import SVGPlacesCabin_20_twotone from '../../svg/places/PlacesCabin/20_twotone.svg';
+import SVGPlacesCabin_24_twotone from '../../svg/places/PlacesCabin/24_twotone.svg';
+import SVGPlacesCabin_20_sharp from '../../svg/places/PlacesCabin/20_sharp.svg';
+import SVGPlacesCabin_24_sharp from '../../svg/places/PlacesCabin/24_sharp.svg';
+import SVGPlacesCabin_20_filled from '../../svg/places/PlacesCabin/20_filled.svg';
+import SVGPlacesCabin_24_filled from '../../svg/places/PlacesCabin/24_filled.svg';
+import SVGPlacesCabin_20_round from '../../svg/places/PlacesCabin/20_round.svg';
+import SVGPlacesCabin_24_round from '../../svg/places/PlacesCabin/24_round.svg';
+
+export const IconPlacesCabin20outlined = () => <SVGPlacesCabin_20_outlined />;
+export const IconPlacesCabin24outlined = () => <SVGPlacesCabin_24_outlined />;
+export const IconPlacesCabin20twotone = () => <SVGPlacesCabin_20_twotone />;
+export const IconPlacesCabin24twotone = () => <SVGPlacesCabin_24_twotone />;
+export const IconPlacesCabin20sharp = () => <SVGPlacesCabin_20_sharp />;
+export const IconPlacesCabin24sharp = () => <SVGPlacesCabin_24_sharp />;
+export const IconPlacesCabin20filled = () => <SVGPlacesCabin_20_filled />;
+export const IconPlacesCabin24filled = () => <SVGPlacesCabin_24_filled />;
+export const IconPlacesCabin20round = () => <SVGPlacesCabin_20_round />;
+export const IconPlacesCabin24round = () => <SVGPlacesCabin_24_round />;

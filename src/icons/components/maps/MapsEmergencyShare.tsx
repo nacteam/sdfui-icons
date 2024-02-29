@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsEmergencyShare_20_outlined from '../../svg/maps/MapsEmergencyShare/20_outlined.svg';
+import SVGMapsEmergencyShare_24_outlined from '../../svg/maps/MapsEmergencyShare/24_outlined.svg';
+import SVGMapsEmergencyShare_20_twotone from '../../svg/maps/MapsEmergencyShare/20_twotone.svg';
+import SVGMapsEmergencyShare_24_twotone from '../../svg/maps/MapsEmergencyShare/24_twotone.svg';
+import SVGMapsEmergencyShare_20_sharp from '../../svg/maps/MapsEmergencyShare/20_sharp.svg';
+import SVGMapsEmergencyShare_24_sharp from '../../svg/maps/MapsEmergencyShare/24_sharp.svg';
+import SVGMapsEmergencyShare_20_filled from '../../svg/maps/MapsEmergencyShare/20_filled.svg';
+import SVGMapsEmergencyShare_24_filled from '../../svg/maps/MapsEmergencyShare/24_filled.svg';
+import SVGMapsEmergencyShare_20_round from '../../svg/maps/MapsEmergencyShare/20_round.svg';
+import SVGMapsEmergencyShare_24_round from '../../svg/maps/MapsEmergencyShare/24_round.svg';
+
+export const IconMapsEmergencyShare20outlined = () => <SVGMapsEmergencyShare_20_outlined />;
+export const IconMapsEmergencyShare24outlined = () => <SVGMapsEmergencyShare_24_outlined />;
+export const IconMapsEmergencyShare20twotone = () => <SVGMapsEmergencyShare_20_twotone />;
+export const IconMapsEmergencyShare24twotone = () => <SVGMapsEmergencyShare_24_twotone />;
+export const IconMapsEmergencyShare20sharp = () => <SVGMapsEmergencyShare_20_sharp />;
+export const IconMapsEmergencyShare24sharp = () => <SVGMapsEmergencyShare_24_sharp />;
+export const IconMapsEmergencyShare20filled = () => <SVGMapsEmergencyShare_20_filled />;
+export const IconMapsEmergencyShare24filled = () => <SVGMapsEmergencyShare_24_filled />;
+export const IconMapsEmergencyShare20round = () => <SVGMapsEmergencyShare_20_round />;
+export const IconMapsEmergencyShare24round = () => <SVGMapsEmergencyShare_24_round />;

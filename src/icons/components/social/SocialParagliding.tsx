@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialParagliding_20_outlined from '../../svg/social/SocialParagliding/20_outlined.svg';
+import SVGSocialParagliding_24_outlined from '../../svg/social/SocialParagliding/24_outlined.svg';
+import SVGSocialParagliding_20_twotone from '../../svg/social/SocialParagliding/20_twotone.svg';
+import SVGSocialParagliding_24_twotone from '../../svg/social/SocialParagliding/24_twotone.svg';
+import SVGSocialParagliding_20_sharp from '../../svg/social/SocialParagliding/20_sharp.svg';
+import SVGSocialParagliding_24_sharp from '../../svg/social/SocialParagliding/24_sharp.svg';
+import SVGSocialParagliding_20_filled from '../../svg/social/SocialParagliding/20_filled.svg';
+import SVGSocialParagliding_24_filled from '../../svg/social/SocialParagliding/24_filled.svg';
+import SVGSocialParagliding_20_round from '../../svg/social/SocialParagliding/20_round.svg';
+import SVGSocialParagliding_24_round from '../../svg/social/SocialParagliding/24_round.svg';
+
+export const IconSocialParagliding20outlined = () => <SVGSocialParagliding_20_outlined />;
+export const IconSocialParagliding24outlined = () => <SVGSocialParagliding_24_outlined />;
+export const IconSocialParagliding20twotone = () => <SVGSocialParagliding_20_twotone />;
+export const IconSocialParagliding24twotone = () => <SVGSocialParagliding_24_twotone />;
+export const IconSocialParagliding20sharp = () => <SVGSocialParagliding_20_sharp />;
+export const IconSocialParagliding24sharp = () => <SVGSocialParagliding_24_sharp />;
+export const IconSocialParagliding20filled = () => <SVGSocialParagliding_20_filled />;
+export const IconSocialParagliding24filled = () => <SVGSocialParagliding_24_filled />;
+export const IconSocialParagliding20round = () => <SVGSocialParagliding_20_round />;
+export const IconSocialParagliding24round = () => <SVGSocialParagliding_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsSignpost_20_outlined from '../../svg/maps/MapsSignpost/20_outlined.svg';
+import SVGMapsSignpost_24_outlined from '../../svg/maps/MapsSignpost/24_outlined.svg';
+import SVGMapsSignpost_20_twotone from '../../svg/maps/MapsSignpost/20_twotone.svg';
+import SVGMapsSignpost_24_twotone from '../../svg/maps/MapsSignpost/24_twotone.svg';
+import SVGMapsSignpost_20_sharp from '../../svg/maps/MapsSignpost/20_sharp.svg';
+import SVGMapsSignpost_24_sharp from '../../svg/maps/MapsSignpost/24_sharp.svg';
+import SVGMapsSignpost_20_filled from '../../svg/maps/MapsSignpost/20_filled.svg';
+import SVGMapsSignpost_24_filled from '../../svg/maps/MapsSignpost/24_filled.svg';
+import SVGMapsSignpost_20_round from '../../svg/maps/MapsSignpost/20_round.svg';
+import SVGMapsSignpost_24_round from '../../svg/maps/MapsSignpost/24_round.svg';
+
+export const IconMapsSignpost20outlined = () => <SVGMapsSignpost_20_outlined />;
+export const IconMapsSignpost24outlined = () => <SVGMapsSignpost_24_outlined />;
+export const IconMapsSignpost20twotone = () => <SVGMapsSignpost_20_twotone />;
+export const IconMapsSignpost24twotone = () => <SVGMapsSignpost_24_twotone />;
+export const IconMapsSignpost20sharp = () => <SVGMapsSignpost_20_sharp />;
+export const IconMapsSignpost24sharp = () => <SVGMapsSignpost_24_sharp />;
+export const IconMapsSignpost20filled = () => <SVGMapsSignpost_20_filled />;
+export const IconMapsSignpost24filled = () => <SVGMapsSignpost_24_filled />;
+export const IconMapsSignpost20round = () => <SVGMapsSignpost_20_round />;
+export const IconMapsSignpost24round = () => <SVGMapsSignpost_24_round />;

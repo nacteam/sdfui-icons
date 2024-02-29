@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageFlipCameraIos_20_outlined from '../../svg/image/ImageFlipCameraIos/20_outlined.svg';
+import SVGImageFlipCameraIos_24_outlined from '../../svg/image/ImageFlipCameraIos/24_outlined.svg';
+import SVGImageFlipCameraIos_20_twotone from '../../svg/image/ImageFlipCameraIos/20_twotone.svg';
+import SVGImageFlipCameraIos_24_twotone from '../../svg/image/ImageFlipCameraIos/24_twotone.svg';
+import SVGImageFlipCameraIos_20_sharp from '../../svg/image/ImageFlipCameraIos/20_sharp.svg';
+import SVGImageFlipCameraIos_24_sharp from '../../svg/image/ImageFlipCameraIos/24_sharp.svg';
+import SVGImageFlipCameraIos_20_filled from '../../svg/image/ImageFlipCameraIos/20_filled.svg';
+import SVGImageFlipCameraIos_24_filled from '../../svg/image/ImageFlipCameraIos/24_filled.svg';
+import SVGImageFlipCameraIos_20_round from '../../svg/image/ImageFlipCameraIos/20_round.svg';
+import SVGImageFlipCameraIos_24_round from '../../svg/image/ImageFlipCameraIos/24_round.svg';
+
+export const IconImageFlipCameraIos20outlined = () => <SVGImageFlipCameraIos_20_outlined />;
+export const IconImageFlipCameraIos24outlined = () => <SVGImageFlipCameraIos_24_outlined />;
+export const IconImageFlipCameraIos20twotone = () => <SVGImageFlipCameraIos_20_twotone />;
+export const IconImageFlipCameraIos24twotone = () => <SVGImageFlipCameraIos_24_twotone />;
+export const IconImageFlipCameraIos20sharp = () => <SVGImageFlipCameraIos_20_sharp />;
+export const IconImageFlipCameraIos24sharp = () => <SVGImageFlipCameraIos_24_sharp />;
+export const IconImageFlipCameraIos20filled = () => <SVGImageFlipCameraIos_20_filled />;
+export const IconImageFlipCameraIos24filled = () => <SVGImageFlipCameraIos_24_filled />;
+export const IconImageFlipCameraIos20round = () => <SVGImageFlipCameraIos_20_round />;
+export const IconImageFlipCameraIos24round = () => <SVGImageFlipCameraIos_24_round />;

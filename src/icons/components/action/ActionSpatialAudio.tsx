@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSpatialAudio_20_outlined from '../../svg/action/ActionSpatialAudio/20_outlined.svg';
+import SVGActionSpatialAudio_24_outlined from '../../svg/action/ActionSpatialAudio/24_outlined.svg';
+import SVGActionSpatialAudio_20_twotone from '../../svg/action/ActionSpatialAudio/20_twotone.svg';
+import SVGActionSpatialAudio_24_twotone from '../../svg/action/ActionSpatialAudio/24_twotone.svg';
+import SVGActionSpatialAudio_20_sharp from '../../svg/action/ActionSpatialAudio/20_sharp.svg';
+import SVGActionSpatialAudio_24_sharp from '../../svg/action/ActionSpatialAudio/24_sharp.svg';
+import SVGActionSpatialAudio_20_filled from '../../svg/action/ActionSpatialAudio/20_filled.svg';
+import SVGActionSpatialAudio_24_filled from '../../svg/action/ActionSpatialAudio/24_filled.svg';
+import SVGActionSpatialAudio_20_round from '../../svg/action/ActionSpatialAudio/20_round.svg';
+import SVGActionSpatialAudio_24_round from '../../svg/action/ActionSpatialAudio/24_round.svg';
+
+export const IconActionSpatialAudio20outlined = () => <SVGActionSpatialAudio_20_outlined />;
+export const IconActionSpatialAudio24outlined = () => <SVGActionSpatialAudio_24_outlined />;
+export const IconActionSpatialAudio20twotone = () => <SVGActionSpatialAudio_20_twotone />;
+export const IconActionSpatialAudio24twotone = () => <SVGActionSpatialAudio_24_twotone />;
+export const IconActionSpatialAudio20sharp = () => <SVGActionSpatialAudio_20_sharp />;
+export const IconActionSpatialAudio24sharp = () => <SVGActionSpatialAudio_24_sharp />;
+export const IconActionSpatialAudio20filled = () => <SVGActionSpatialAudio_20_filled />;
+export const IconActionSpatialAudio24filled = () => <SVGActionSpatialAudio_24_filled />;
+export const IconActionSpatialAudio20round = () => <SVGActionSpatialAudio_20_round />;
+export const IconActionSpatialAudio24round = () => <SVGActionSpatialAudio_24_round />;

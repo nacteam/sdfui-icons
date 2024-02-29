@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentBiotech_20_outlined from '../../svg/content/ContentBiotech/20_outlined.svg';
+import SVGContentBiotech_24_outlined from '../../svg/content/ContentBiotech/24_outlined.svg';
+import SVGContentBiotech_20_twotone from '../../svg/content/ContentBiotech/20_twotone.svg';
+import SVGContentBiotech_24_twotone from '../../svg/content/ContentBiotech/24_twotone.svg';
+import SVGContentBiotech_20_sharp from '../../svg/content/ContentBiotech/20_sharp.svg';
+import SVGContentBiotech_24_sharp from '../../svg/content/ContentBiotech/24_sharp.svg';
+import SVGContentBiotech_20_filled from '../../svg/content/ContentBiotech/20_filled.svg';
+import SVGContentBiotech_24_filled from '../../svg/content/ContentBiotech/24_filled.svg';
+import SVGContentBiotech_20_round from '../../svg/content/ContentBiotech/20_round.svg';
+import SVGContentBiotech_24_round from '../../svg/content/ContentBiotech/24_round.svg';
+
+export const IconContentBiotech20outlined = () => <SVGContentBiotech_20_outlined />;
+export const IconContentBiotech24outlined = () => <SVGContentBiotech_24_outlined />;
+export const IconContentBiotech20twotone = () => <SVGContentBiotech_20_twotone />;
+export const IconContentBiotech24twotone = () => <SVGContentBiotech_24_twotone />;
+export const IconContentBiotech20sharp = () => <SVGContentBiotech_20_sharp />;
+export const IconContentBiotech24sharp = () => <SVGContentBiotech_24_sharp />;
+export const IconContentBiotech20filled = () => <SVGContentBiotech_20_filled />;
+export const IconContentBiotech24filled = () => <SVGContentBiotech_24_filled />;
+export const IconContentBiotech20round = () => <SVGContentBiotech_20_round />;
+export const IconContentBiotech24round = () => <SVGContentBiotech_24_round />;

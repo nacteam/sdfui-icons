@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareKeyboardOptionKey_20_outlined from '../../svg/hardware/HardwareKeyboardOptionKey/20_outlined.svg';
+import SVGHardwareKeyboardOptionKey_24_outlined from '../../svg/hardware/HardwareKeyboardOptionKey/24_outlined.svg';
+import SVGHardwareKeyboardOptionKey_20_twotone from '../../svg/hardware/HardwareKeyboardOptionKey/20_twotone.svg';
+import SVGHardwareKeyboardOptionKey_24_twotone from '../../svg/hardware/HardwareKeyboardOptionKey/24_twotone.svg';
+import SVGHardwareKeyboardOptionKey_20_sharp from '../../svg/hardware/HardwareKeyboardOptionKey/20_sharp.svg';
+import SVGHardwareKeyboardOptionKey_24_sharp from '../../svg/hardware/HardwareKeyboardOptionKey/24_sharp.svg';
+import SVGHardwareKeyboardOptionKey_20_filled from '../../svg/hardware/HardwareKeyboardOptionKey/20_filled.svg';
+import SVGHardwareKeyboardOptionKey_24_filled from '../../svg/hardware/HardwareKeyboardOptionKey/24_filled.svg';
+import SVGHardwareKeyboardOptionKey_20_round from '../../svg/hardware/HardwareKeyboardOptionKey/20_round.svg';
+import SVGHardwareKeyboardOptionKey_24_round from '../../svg/hardware/HardwareKeyboardOptionKey/24_round.svg';
+
+export const IconHardwareKeyboardOptionKey20outlined = () => <SVGHardwareKeyboardOptionKey_20_outlined />;
+export const IconHardwareKeyboardOptionKey24outlined = () => <SVGHardwareKeyboardOptionKey_24_outlined />;
+export const IconHardwareKeyboardOptionKey20twotone = () => <SVGHardwareKeyboardOptionKey_20_twotone />;
+export const IconHardwareKeyboardOptionKey24twotone = () => <SVGHardwareKeyboardOptionKey_24_twotone />;
+export const IconHardwareKeyboardOptionKey20sharp = () => <SVGHardwareKeyboardOptionKey_20_sharp />;
+export const IconHardwareKeyboardOptionKey24sharp = () => <SVGHardwareKeyboardOptionKey_24_sharp />;
+export const IconHardwareKeyboardOptionKey20filled = () => <SVGHardwareKeyboardOptionKey_20_filled />;
+export const IconHardwareKeyboardOptionKey24filled = () => <SVGHardwareKeyboardOptionKey_24_filled />;
+export const IconHardwareKeyboardOptionKey20round = () => <SVGHardwareKeyboardOptionKey_20_round />;
+export const IconHardwareKeyboardOptionKey24round = () => <SVGHardwareKeyboardOptionKey_24_round />;

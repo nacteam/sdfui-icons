@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationReadMore_20_outlined from '../../svg/communication/CommunicationReadMore/20_outlined.svg';
+import SVGCommunicationReadMore_24_outlined from '../../svg/communication/CommunicationReadMore/24_outlined.svg';
+import SVGCommunicationReadMore_20_twotone from '../../svg/communication/CommunicationReadMore/20_twotone.svg';
+import SVGCommunicationReadMore_24_twotone from '../../svg/communication/CommunicationReadMore/24_twotone.svg';
+import SVGCommunicationReadMore_20_sharp from '../../svg/communication/CommunicationReadMore/20_sharp.svg';
+import SVGCommunicationReadMore_24_sharp from '../../svg/communication/CommunicationReadMore/24_sharp.svg';
+import SVGCommunicationReadMore_20_filled from '../../svg/communication/CommunicationReadMore/20_filled.svg';
+import SVGCommunicationReadMore_24_filled from '../../svg/communication/CommunicationReadMore/24_filled.svg';
+import SVGCommunicationReadMore_20_round from '../../svg/communication/CommunicationReadMore/20_round.svg';
+import SVGCommunicationReadMore_24_round from '../../svg/communication/CommunicationReadMore/24_round.svg';
+
+export const IconCommunicationReadMore20outlined = () => <SVGCommunicationReadMore_20_outlined />;
+export const IconCommunicationReadMore24outlined = () => <SVGCommunicationReadMore_24_outlined />;
+export const IconCommunicationReadMore20twotone = () => <SVGCommunicationReadMore_20_twotone />;
+export const IconCommunicationReadMore24twotone = () => <SVGCommunicationReadMore_24_twotone />;
+export const IconCommunicationReadMore20sharp = () => <SVGCommunicationReadMore_20_sharp />;
+export const IconCommunicationReadMore24sharp = () => <SVGCommunicationReadMore_24_sharp />;
+export const IconCommunicationReadMore20filled = () => <SVGCommunicationReadMore_20_filled />;
+export const IconCommunicationReadMore24filled = () => <SVGCommunicationReadMore_24_filled />;
+export const IconCommunicationReadMore20round = () => <SVGCommunicationReadMore_20_round />;
+export const IconCommunicationReadMore24round = () => <SVGCommunicationReadMore_24_round />;

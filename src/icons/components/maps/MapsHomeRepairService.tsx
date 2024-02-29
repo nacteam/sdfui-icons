@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsHomeRepairService_20_outlined from '../../svg/maps/MapsHomeRepairService/20_outlined.svg';
+import SVGMapsHomeRepairService_24_outlined from '../../svg/maps/MapsHomeRepairService/24_outlined.svg';
+import SVGMapsHomeRepairService_20_twotone from '../../svg/maps/MapsHomeRepairService/20_twotone.svg';
+import SVGMapsHomeRepairService_24_twotone from '../../svg/maps/MapsHomeRepairService/24_twotone.svg';
+import SVGMapsHomeRepairService_20_sharp from '../../svg/maps/MapsHomeRepairService/20_sharp.svg';
+import SVGMapsHomeRepairService_24_sharp from '../../svg/maps/MapsHomeRepairService/24_sharp.svg';
+import SVGMapsHomeRepairService_20_filled from '../../svg/maps/MapsHomeRepairService/20_filled.svg';
+import SVGMapsHomeRepairService_24_filled from '../../svg/maps/MapsHomeRepairService/24_filled.svg';
+import SVGMapsHomeRepairService_20_round from '../../svg/maps/MapsHomeRepairService/20_round.svg';
+import SVGMapsHomeRepairService_24_round from '../../svg/maps/MapsHomeRepairService/24_round.svg';
+
+export const IconMapsHomeRepairService20outlined = () => <SVGMapsHomeRepairService_20_outlined />;
+export const IconMapsHomeRepairService24outlined = () => <SVGMapsHomeRepairService_24_outlined />;
+export const IconMapsHomeRepairService20twotone = () => <SVGMapsHomeRepairService_20_twotone />;
+export const IconMapsHomeRepairService24twotone = () => <SVGMapsHomeRepairService_24_twotone />;
+export const IconMapsHomeRepairService20sharp = () => <SVGMapsHomeRepairService_20_sharp />;
+export const IconMapsHomeRepairService24sharp = () => <SVGMapsHomeRepairService_24_sharp />;
+export const IconMapsHomeRepairService20filled = () => <SVGMapsHomeRepairService_20_filled />;
+export const IconMapsHomeRepairService24filled = () => <SVGMapsHomeRepairService_24_filled />;
+export const IconMapsHomeRepairService20round = () => <SVGMapsHomeRepairService_20_round />;
+export const IconMapsHomeRepairService24round = () => <SVGMapsHomeRepairService_24_round />;

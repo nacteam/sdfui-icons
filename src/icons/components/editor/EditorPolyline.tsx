@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorPolyline_20_outlined from '../../svg/editor/EditorPolyline/20_outlined.svg';
+import SVGEditorPolyline_24_outlined from '../../svg/editor/EditorPolyline/24_outlined.svg';
+import SVGEditorPolyline_20_twotone from '../../svg/editor/EditorPolyline/20_twotone.svg';
+import SVGEditorPolyline_24_twotone from '../../svg/editor/EditorPolyline/24_twotone.svg';
+import SVGEditorPolyline_20_sharp from '../../svg/editor/EditorPolyline/20_sharp.svg';
+import SVGEditorPolyline_24_sharp from '../../svg/editor/EditorPolyline/24_sharp.svg';
+import SVGEditorPolyline_20_filled from '../../svg/editor/EditorPolyline/20_filled.svg';
+import SVGEditorPolyline_24_filled from '../../svg/editor/EditorPolyline/24_filled.svg';
+import SVGEditorPolyline_20_round from '../../svg/editor/EditorPolyline/20_round.svg';
+import SVGEditorPolyline_24_round from '../../svg/editor/EditorPolyline/24_round.svg';
+
+export const IconEditorPolyline20outlined = () => <SVGEditorPolyline_20_outlined />;
+export const IconEditorPolyline24outlined = () => <SVGEditorPolyline_24_outlined />;
+export const IconEditorPolyline20twotone = () => <SVGEditorPolyline_20_twotone />;
+export const IconEditorPolyline24twotone = () => <SVGEditorPolyline_24_twotone />;
+export const IconEditorPolyline20sharp = () => <SVGEditorPolyline_20_sharp />;
+export const IconEditorPolyline24sharp = () => <SVGEditorPolyline_24_sharp />;
+export const IconEditorPolyline20filled = () => <SVGEditorPolyline_20_filled />;
+export const IconEditorPolyline24filled = () => <SVGEditorPolyline_24_filled />;
+export const IconEditorPolyline20round = () => <SVGEditorPolyline_20_round />;
+export const IconEditorPolyline24round = () => <SVGEditorPolyline_24_round />;

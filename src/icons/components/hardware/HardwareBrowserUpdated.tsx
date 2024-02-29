@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHardwareBrowserUpdated_20_outlined from '../../svg/hardware/HardwareBrowserUpdated/20_outlined.svg';
+import SVGHardwareBrowserUpdated_24_outlined from '../../svg/hardware/HardwareBrowserUpdated/24_outlined.svg';
+import SVGHardwareBrowserUpdated_20_twotone from '../../svg/hardware/HardwareBrowserUpdated/20_twotone.svg';
+import SVGHardwareBrowserUpdated_24_twotone from '../../svg/hardware/HardwareBrowserUpdated/24_twotone.svg';
+import SVGHardwareBrowserUpdated_20_sharp from '../../svg/hardware/HardwareBrowserUpdated/20_sharp.svg';
+import SVGHardwareBrowserUpdated_24_sharp from '../../svg/hardware/HardwareBrowserUpdated/24_sharp.svg';
+import SVGHardwareBrowserUpdated_20_filled from '../../svg/hardware/HardwareBrowserUpdated/20_filled.svg';
+import SVGHardwareBrowserUpdated_24_filled from '../../svg/hardware/HardwareBrowserUpdated/24_filled.svg';
+import SVGHardwareBrowserUpdated_20_round from '../../svg/hardware/HardwareBrowserUpdated/20_round.svg';
+import SVGHardwareBrowserUpdated_24_round from '../../svg/hardware/HardwareBrowserUpdated/24_round.svg';
+
+export const IconHardwareBrowserUpdated20outlined = () => <SVGHardwareBrowserUpdated_20_outlined />;
+export const IconHardwareBrowserUpdated24outlined = () => <SVGHardwareBrowserUpdated_24_outlined />;
+export const IconHardwareBrowserUpdated20twotone = () => <SVGHardwareBrowserUpdated_20_twotone />;
+export const IconHardwareBrowserUpdated24twotone = () => <SVGHardwareBrowserUpdated_24_twotone />;
+export const IconHardwareBrowserUpdated20sharp = () => <SVGHardwareBrowserUpdated_20_sharp />;
+export const IconHardwareBrowserUpdated24sharp = () => <SVGHardwareBrowserUpdated_24_sharp />;
+export const IconHardwareBrowserUpdated20filled = () => <SVGHardwareBrowserUpdated_20_filled />;
+export const IconHardwareBrowserUpdated24filled = () => <SVGHardwareBrowserUpdated_24_filled />;
+export const IconHardwareBrowserUpdated20round = () => <SVGHardwareBrowserUpdated_20_round />;
+export const IconHardwareBrowserUpdated24round = () => <SVGHardwareBrowserUpdated_24_round />;

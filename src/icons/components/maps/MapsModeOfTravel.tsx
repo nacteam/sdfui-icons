@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsModeOfTravel_20_outlined from '../../svg/maps/MapsModeOfTravel/20_outlined.svg';
+import SVGMapsModeOfTravel_24_outlined from '../../svg/maps/MapsModeOfTravel/24_outlined.svg';
+import SVGMapsModeOfTravel_20_twotone from '../../svg/maps/MapsModeOfTravel/20_twotone.svg';
+import SVGMapsModeOfTravel_24_twotone from '../../svg/maps/MapsModeOfTravel/24_twotone.svg';
+import SVGMapsModeOfTravel_20_sharp from '../../svg/maps/MapsModeOfTravel/20_sharp.svg';
+import SVGMapsModeOfTravel_24_sharp from '../../svg/maps/MapsModeOfTravel/24_sharp.svg';
+import SVGMapsModeOfTravel_20_filled from '../../svg/maps/MapsModeOfTravel/20_filled.svg';
+import SVGMapsModeOfTravel_24_filled from '../../svg/maps/MapsModeOfTravel/24_filled.svg';
+import SVGMapsModeOfTravel_20_round from '../../svg/maps/MapsModeOfTravel/20_round.svg';
+import SVGMapsModeOfTravel_24_round from '../../svg/maps/MapsModeOfTravel/24_round.svg';
+
+export const IconMapsModeOfTravel20outlined = () => <SVGMapsModeOfTravel_20_outlined />;
+export const IconMapsModeOfTravel24outlined = () => <SVGMapsModeOfTravel_24_outlined />;
+export const IconMapsModeOfTravel20twotone = () => <SVGMapsModeOfTravel_20_twotone />;
+export const IconMapsModeOfTravel24twotone = () => <SVGMapsModeOfTravel_24_twotone />;
+export const IconMapsModeOfTravel20sharp = () => <SVGMapsModeOfTravel_20_sharp />;
+export const IconMapsModeOfTravel24sharp = () => <SVGMapsModeOfTravel_24_sharp />;
+export const IconMapsModeOfTravel20filled = () => <SVGMapsModeOfTravel_20_filled />;
+export const IconMapsModeOfTravel24filled = () => <SVGMapsModeOfTravel_24_filled />;
+export const IconMapsModeOfTravel20round = () => <SVGMapsModeOfTravel_20_round />;
+export const IconMapsModeOfTravel24round = () => <SVGMapsModeOfTravel_24_round />;

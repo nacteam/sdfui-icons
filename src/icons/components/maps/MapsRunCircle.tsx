@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsRunCircle_20_outlined from '../../svg/maps/MapsRunCircle/20_outlined.svg';
+import SVGMapsRunCircle_24_outlined from '../../svg/maps/MapsRunCircle/24_outlined.svg';
+import SVGMapsRunCircle_20_twotone from '../../svg/maps/MapsRunCircle/20_twotone.svg';
+import SVGMapsRunCircle_24_twotone from '../../svg/maps/MapsRunCircle/24_twotone.svg';
+import SVGMapsRunCircle_20_sharp from '../../svg/maps/MapsRunCircle/20_sharp.svg';
+import SVGMapsRunCircle_24_sharp from '../../svg/maps/MapsRunCircle/24_sharp.svg';
+import SVGMapsRunCircle_20_filled from '../../svg/maps/MapsRunCircle/20_filled.svg';
+import SVGMapsRunCircle_24_filled from '../../svg/maps/MapsRunCircle/24_filled.svg';
+import SVGMapsRunCircle_20_round from '../../svg/maps/MapsRunCircle/20_round.svg';
+import SVGMapsRunCircle_24_round from '../../svg/maps/MapsRunCircle/24_round.svg';
+
+export const IconMapsRunCircle20outlined = () => <SVGMapsRunCircle_20_outlined />;
+export const IconMapsRunCircle24outlined = () => <SVGMapsRunCircle_24_outlined />;
+export const IconMapsRunCircle20twotone = () => <SVGMapsRunCircle_20_twotone />;
+export const IconMapsRunCircle24twotone = () => <SVGMapsRunCircle_24_twotone />;
+export const IconMapsRunCircle20sharp = () => <SVGMapsRunCircle_20_sharp />;
+export const IconMapsRunCircle24sharp = () => <SVGMapsRunCircle_24_sharp />;
+export const IconMapsRunCircle20filled = () => <SVGMapsRunCircle_20_filled />;
+export const IconMapsRunCircle24filled = () => <SVGMapsRunCircle_24_filled />;
+export const IconMapsRunCircle20round = () => <SVGMapsRunCircle_20_round />;
+export const IconMapsRunCircle24round = () => <SVGMapsRunCircle_24_round />;

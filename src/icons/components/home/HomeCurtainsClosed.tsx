@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeCurtainsClosed_20_outlined from '../../svg/home/HomeCurtainsClosed/20_outlined.svg';
+import SVGHomeCurtainsClosed_24_outlined from '../../svg/home/HomeCurtainsClosed/24_outlined.svg';
+import SVGHomeCurtainsClosed_20_twotone from '../../svg/home/HomeCurtainsClosed/20_twotone.svg';
+import SVGHomeCurtainsClosed_24_twotone from '../../svg/home/HomeCurtainsClosed/24_twotone.svg';
+import SVGHomeCurtainsClosed_20_sharp from '../../svg/home/HomeCurtainsClosed/20_sharp.svg';
+import SVGHomeCurtainsClosed_24_sharp from '../../svg/home/HomeCurtainsClosed/24_sharp.svg';
+import SVGHomeCurtainsClosed_20_filled from '../../svg/home/HomeCurtainsClosed/20_filled.svg';
+import SVGHomeCurtainsClosed_24_filled from '../../svg/home/HomeCurtainsClosed/24_filled.svg';
+import SVGHomeCurtainsClosed_20_round from '../../svg/home/HomeCurtainsClosed/20_round.svg';
+import SVGHomeCurtainsClosed_24_round from '../../svg/home/HomeCurtainsClosed/24_round.svg';
+
+export const IconHomeCurtainsClosed20outlined = () => <SVGHomeCurtainsClosed_20_outlined />;
+export const IconHomeCurtainsClosed24outlined = () => <SVGHomeCurtainsClosed_24_outlined />;
+export const IconHomeCurtainsClosed20twotone = () => <SVGHomeCurtainsClosed_20_twotone />;
+export const IconHomeCurtainsClosed24twotone = () => <SVGHomeCurtainsClosed_24_twotone />;
+export const IconHomeCurtainsClosed20sharp = () => <SVGHomeCurtainsClosed_20_sharp />;
+export const IconHomeCurtainsClosed24sharp = () => <SVGHomeCurtainsClosed_24_sharp />;
+export const IconHomeCurtainsClosed20filled = () => <SVGHomeCurtainsClosed_20_filled />;
+export const IconHomeCurtainsClosed24filled = () => <SVGHomeCurtainsClosed_24_filled />;
+export const IconHomeCurtainsClosed20round = () => <SVGHomeCurtainsClosed_20_round />;
+export const IconHomeCurtainsClosed24round = () => <SVGHomeCurtainsClosed_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionWebhook_20_outlined from '../../svg/action/ActionWebhook/20_outlined.svg';
+import SVGActionWebhook_24_outlined from '../../svg/action/ActionWebhook/24_outlined.svg';
+import SVGActionWebhook_20_twotone from '../../svg/action/ActionWebhook/20_twotone.svg';
+import SVGActionWebhook_24_twotone from '../../svg/action/ActionWebhook/24_twotone.svg';
+import SVGActionWebhook_20_sharp from '../../svg/action/ActionWebhook/20_sharp.svg';
+import SVGActionWebhook_24_sharp from '../../svg/action/ActionWebhook/24_sharp.svg';
+import SVGActionWebhook_20_filled from '../../svg/action/ActionWebhook/20_filled.svg';
+import SVGActionWebhook_24_filled from '../../svg/action/ActionWebhook/24_filled.svg';
+import SVGActionWebhook_20_round from '../../svg/action/ActionWebhook/20_round.svg';
+import SVGActionWebhook_24_round from '../../svg/action/ActionWebhook/24_round.svg';
+
+export const IconActionWebhook20outlined = () => <SVGActionWebhook_20_outlined />;
+export const IconActionWebhook24outlined = () => <SVGActionWebhook_24_outlined />;
+export const IconActionWebhook20twotone = () => <SVGActionWebhook_20_twotone />;
+export const IconActionWebhook24twotone = () => <SVGActionWebhook_24_twotone />;
+export const IconActionWebhook20sharp = () => <SVGActionWebhook_20_sharp />;
+export const IconActionWebhook24sharp = () => <SVGActionWebhook_24_sharp />;
+export const IconActionWebhook20filled = () => <SVGActionWebhook_20_filled />;
+export const IconActionWebhook24filled = () => <SVGActionWebhook_24_filled />;
+export const IconActionWebhook20round = () => <SVGActionWebhook_20_round />;
+export const IconActionWebhook24round = () => <SVGActionWebhook_24_round />;

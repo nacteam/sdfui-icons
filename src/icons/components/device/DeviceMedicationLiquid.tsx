@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceMedicationLiquid_20_outlined from '../../svg/device/DeviceMedicationLiquid/20_outlined.svg';
+import SVGDeviceMedicationLiquid_24_outlined from '../../svg/device/DeviceMedicationLiquid/24_outlined.svg';
+import SVGDeviceMedicationLiquid_20_twotone from '../../svg/device/DeviceMedicationLiquid/20_twotone.svg';
+import SVGDeviceMedicationLiquid_24_twotone from '../../svg/device/DeviceMedicationLiquid/24_twotone.svg';
+import SVGDeviceMedicationLiquid_20_sharp from '../../svg/device/DeviceMedicationLiquid/20_sharp.svg';
+import SVGDeviceMedicationLiquid_24_sharp from '../../svg/device/DeviceMedicationLiquid/24_sharp.svg';
+import SVGDeviceMedicationLiquid_20_filled from '../../svg/device/DeviceMedicationLiquid/20_filled.svg';
+import SVGDeviceMedicationLiquid_24_filled from '../../svg/device/DeviceMedicationLiquid/24_filled.svg';
+import SVGDeviceMedicationLiquid_20_round from '../../svg/device/DeviceMedicationLiquid/20_round.svg';
+import SVGDeviceMedicationLiquid_24_round from '../../svg/device/DeviceMedicationLiquid/24_round.svg';
+
+export const IconDeviceMedicationLiquid20outlined = () => <SVGDeviceMedicationLiquid_20_outlined />;
+export const IconDeviceMedicationLiquid24outlined = () => <SVGDeviceMedicationLiquid_24_outlined />;
+export const IconDeviceMedicationLiquid20twotone = () => <SVGDeviceMedicationLiquid_20_twotone />;
+export const IconDeviceMedicationLiquid24twotone = () => <SVGDeviceMedicationLiquid_24_twotone />;
+export const IconDeviceMedicationLiquid20sharp = () => <SVGDeviceMedicationLiquid_20_sharp />;
+export const IconDeviceMedicationLiquid24sharp = () => <SVGDeviceMedicationLiquid_24_sharp />;
+export const IconDeviceMedicationLiquid20filled = () => <SVGDeviceMedicationLiquid_20_filled />;
+export const IconDeviceMedicationLiquid24filled = () => <SVGDeviceMedicationLiquid_24_filled />;
+export const IconDeviceMedicationLiquid20round = () => <SVGDeviceMedicationLiquid_20_round />;
+export const IconDeviceMedicationLiquid24round = () => <SVGDeviceMedicationLiquid_24_round />;

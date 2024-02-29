@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsWarehouse_20_outlined from '../../svg/maps/MapsWarehouse/20_outlined.svg';
+import SVGMapsWarehouse_24_outlined from '../../svg/maps/MapsWarehouse/24_outlined.svg';
+import SVGMapsWarehouse_20_twotone from '../../svg/maps/MapsWarehouse/20_twotone.svg';
+import SVGMapsWarehouse_24_twotone from '../../svg/maps/MapsWarehouse/24_twotone.svg';
+import SVGMapsWarehouse_20_sharp from '../../svg/maps/MapsWarehouse/20_sharp.svg';
+import SVGMapsWarehouse_24_sharp from '../../svg/maps/MapsWarehouse/24_sharp.svg';
+import SVGMapsWarehouse_20_filled from '../../svg/maps/MapsWarehouse/20_filled.svg';
+import SVGMapsWarehouse_24_filled from '../../svg/maps/MapsWarehouse/24_filled.svg';
+import SVGMapsWarehouse_20_round from '../../svg/maps/MapsWarehouse/20_round.svg';
+import SVGMapsWarehouse_24_round from '../../svg/maps/MapsWarehouse/24_round.svg';
+
+export const IconMapsWarehouse20outlined = () => <SVGMapsWarehouse_20_outlined />;
+export const IconMapsWarehouse24outlined = () => <SVGMapsWarehouse_24_outlined />;
+export const IconMapsWarehouse20twotone = () => <SVGMapsWarehouse_20_twotone />;
+export const IconMapsWarehouse24twotone = () => <SVGMapsWarehouse_24_twotone />;
+export const IconMapsWarehouse20sharp = () => <SVGMapsWarehouse_20_sharp />;
+export const IconMapsWarehouse24sharp = () => <SVGMapsWarehouse_24_sharp />;
+export const IconMapsWarehouse20filled = () => <SVGMapsWarehouse_20_filled />;
+export const IconMapsWarehouse24filled = () => <SVGMapsWarehouse_24_filled />;
+export const IconMapsWarehouse20round = () => <SVGMapsWarehouse_20_round />;
+export const IconMapsWarehouse24round = () => <SVGMapsWarehouse_24_round />;

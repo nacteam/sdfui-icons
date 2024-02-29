@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionPinInvoke_20_outlined from '../../svg/action/ActionPinInvoke/20_outlined.svg';
+import SVGActionPinInvoke_24_outlined from '../../svg/action/ActionPinInvoke/24_outlined.svg';
+import SVGActionPinInvoke_20_twotone from '../../svg/action/ActionPinInvoke/20_twotone.svg';
+import SVGActionPinInvoke_24_twotone from '../../svg/action/ActionPinInvoke/24_twotone.svg';
+import SVGActionPinInvoke_20_sharp from '../../svg/action/ActionPinInvoke/20_sharp.svg';
+import SVGActionPinInvoke_24_sharp from '../../svg/action/ActionPinInvoke/24_sharp.svg';
+import SVGActionPinInvoke_20_filled from '../../svg/action/ActionPinInvoke/20_filled.svg';
+import SVGActionPinInvoke_24_filled from '../../svg/action/ActionPinInvoke/24_filled.svg';
+import SVGActionPinInvoke_20_round from '../../svg/action/ActionPinInvoke/20_round.svg';
+import SVGActionPinInvoke_24_round from '../../svg/action/ActionPinInvoke/24_round.svg';
+
+export const IconActionPinInvoke20outlined = () => <SVGActionPinInvoke_20_outlined />;
+export const IconActionPinInvoke24outlined = () => <SVGActionPinInvoke_24_outlined />;
+export const IconActionPinInvoke20twotone = () => <SVGActionPinInvoke_20_twotone />;
+export const IconActionPinInvoke24twotone = () => <SVGActionPinInvoke_24_twotone />;
+export const IconActionPinInvoke20sharp = () => <SVGActionPinInvoke_20_sharp />;
+export const IconActionPinInvoke24sharp = () => <SVGActionPinInvoke_24_sharp />;
+export const IconActionPinInvoke20filled = () => <SVGActionPinInvoke_20_filled />;
+export const IconActionPinInvoke24filled = () => <SVGActionPinInvoke_24_filled />;
+export const IconActionPinInvoke20round = () => <SVGActionPinInvoke_20_round />;
+export const IconActionPinInvoke24round = () => <SVGActionPinInvoke_24_round />;

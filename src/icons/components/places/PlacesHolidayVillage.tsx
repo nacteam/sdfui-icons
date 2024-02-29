@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesHolidayVillage_20_outlined from '../../svg/places/PlacesHolidayVillage/20_outlined.svg';
+import SVGPlacesHolidayVillage_24_outlined from '../../svg/places/PlacesHolidayVillage/24_outlined.svg';
+import SVGPlacesHolidayVillage_20_twotone from '../../svg/places/PlacesHolidayVillage/20_twotone.svg';
+import SVGPlacesHolidayVillage_24_twotone from '../../svg/places/PlacesHolidayVillage/24_twotone.svg';
+import SVGPlacesHolidayVillage_20_sharp from '../../svg/places/PlacesHolidayVillage/20_sharp.svg';
+import SVGPlacesHolidayVillage_24_sharp from '../../svg/places/PlacesHolidayVillage/24_sharp.svg';
+import SVGPlacesHolidayVillage_20_filled from '../../svg/places/PlacesHolidayVillage/20_filled.svg';
+import SVGPlacesHolidayVillage_24_filled from '../../svg/places/PlacesHolidayVillage/24_filled.svg';
+import SVGPlacesHolidayVillage_20_round from '../../svg/places/PlacesHolidayVillage/20_round.svg';
+import SVGPlacesHolidayVillage_24_round from '../../svg/places/PlacesHolidayVillage/24_round.svg';
+
+export const IconPlacesHolidayVillage20outlined = () => <SVGPlacesHolidayVillage_20_outlined />;
+export const IconPlacesHolidayVillage24outlined = () => <SVGPlacesHolidayVillage_24_outlined />;
+export const IconPlacesHolidayVillage20twotone = () => <SVGPlacesHolidayVillage_20_twotone />;
+export const IconPlacesHolidayVillage24twotone = () => <SVGPlacesHolidayVillage_24_twotone />;
+export const IconPlacesHolidayVillage20sharp = () => <SVGPlacesHolidayVillage_20_sharp />;
+export const IconPlacesHolidayVillage24sharp = () => <SVGPlacesHolidayVillage_24_sharp />;
+export const IconPlacesHolidayVillage20filled = () => <SVGPlacesHolidayVillage_20_filled />;
+export const IconPlacesHolidayVillage24filled = () => <SVGPlacesHolidayVillage_24_filled />;
+export const IconPlacesHolidayVillage20round = () => <SVGPlacesHolidayVillage_20_round />;
+export const IconPlacesHolidayVillage24round = () => <SVGPlacesHolidayVillage_24_round />;

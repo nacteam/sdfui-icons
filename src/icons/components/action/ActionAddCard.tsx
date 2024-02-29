@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAddCard_20_outlined from '../../svg/action/ActionAddCard/20_outlined.svg';
+import SVGActionAddCard_24_outlined from '../../svg/action/ActionAddCard/24_outlined.svg';
+import SVGActionAddCard_20_twotone from '../../svg/action/ActionAddCard/20_twotone.svg';
+import SVGActionAddCard_24_twotone from '../../svg/action/ActionAddCard/24_twotone.svg';
+import SVGActionAddCard_20_sharp from '../../svg/action/ActionAddCard/20_sharp.svg';
+import SVGActionAddCard_24_sharp from '../../svg/action/ActionAddCard/24_sharp.svg';
+import SVGActionAddCard_20_filled from '../../svg/action/ActionAddCard/20_filled.svg';
+import SVGActionAddCard_24_filled from '../../svg/action/ActionAddCard/24_filled.svg';
+import SVGActionAddCard_20_round from '../../svg/action/ActionAddCard/20_round.svg';
+import SVGActionAddCard_24_round from '../../svg/action/ActionAddCard/24_round.svg';
+
+export const IconActionAddCard20outlined = () => <SVGActionAddCard_20_outlined />;
+export const IconActionAddCard24outlined = () => <SVGActionAddCard_24_outlined />;
+export const IconActionAddCard20twotone = () => <SVGActionAddCard_20_twotone />;
+export const IconActionAddCard24twotone = () => <SVGActionAddCard_24_twotone />;
+export const IconActionAddCard20sharp = () => <SVGActionAddCard_20_sharp />;
+export const IconActionAddCard24sharp = () => <SVGActionAddCard_24_sharp />;
+export const IconActionAddCard20filled = () => <SVGActionAddCard_20_filled />;
+export const IconActionAddCard24filled = () => <SVGActionAddCard_24_filled />;
+export const IconActionAddCard20round = () => <SVGActionAddCard_20_round />;
+export const IconActionAddCard24round = () => <SVGActionAddCard_24_round />;

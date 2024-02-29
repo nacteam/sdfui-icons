@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSwitchAccessShortcutAdd_20_outlined from '../../svg/action/ActionSwitchAccessShortcutAdd/20_outlined.svg';
+import SVGActionSwitchAccessShortcutAdd_24_outlined from '../../svg/action/ActionSwitchAccessShortcutAdd/24_outlined.svg';
+import SVGActionSwitchAccessShortcutAdd_20_twotone from '../../svg/action/ActionSwitchAccessShortcutAdd/20_twotone.svg';
+import SVGActionSwitchAccessShortcutAdd_24_twotone from '../../svg/action/ActionSwitchAccessShortcutAdd/24_twotone.svg';
+import SVGActionSwitchAccessShortcutAdd_20_sharp from '../../svg/action/ActionSwitchAccessShortcutAdd/20_sharp.svg';
+import SVGActionSwitchAccessShortcutAdd_24_sharp from '../../svg/action/ActionSwitchAccessShortcutAdd/24_sharp.svg';
+import SVGActionSwitchAccessShortcutAdd_20_filled from '../../svg/action/ActionSwitchAccessShortcutAdd/20_filled.svg';
+import SVGActionSwitchAccessShortcutAdd_24_filled from '../../svg/action/ActionSwitchAccessShortcutAdd/24_filled.svg';
+import SVGActionSwitchAccessShortcutAdd_20_round from '../../svg/action/ActionSwitchAccessShortcutAdd/20_round.svg';
+import SVGActionSwitchAccessShortcutAdd_24_round from '../../svg/action/ActionSwitchAccessShortcutAdd/24_round.svg';
+
+export const IconActionSwitchAccessShortcutAdd20outlined = () => <SVGActionSwitchAccessShortcutAdd_20_outlined />;
+export const IconActionSwitchAccessShortcutAdd24outlined = () => <SVGActionSwitchAccessShortcutAdd_24_outlined />;
+export const IconActionSwitchAccessShortcutAdd20twotone = () => <SVGActionSwitchAccessShortcutAdd_20_twotone />;
+export const IconActionSwitchAccessShortcutAdd24twotone = () => <SVGActionSwitchAccessShortcutAdd_24_twotone />;
+export const IconActionSwitchAccessShortcutAdd20sharp = () => <SVGActionSwitchAccessShortcutAdd_20_sharp />;
+export const IconActionSwitchAccessShortcutAdd24sharp = () => <SVGActionSwitchAccessShortcutAdd_24_sharp />;
+export const IconActionSwitchAccessShortcutAdd20filled = () => <SVGActionSwitchAccessShortcutAdd_20_filled />;
+export const IconActionSwitchAccessShortcutAdd24filled = () => <SVGActionSwitchAccessShortcutAdd_24_filled />;
+export const IconActionSwitchAccessShortcutAdd20round = () => <SVGActionSwitchAccessShortcutAdd_20_round />;
+export const IconActionSwitchAccessShortcutAdd24round = () => <SVGActionSwitchAccessShortcutAdd_24_round />;

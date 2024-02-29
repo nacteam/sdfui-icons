@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionTerminal_20_outlined from '../../svg/action/ActionTerminal/20_outlined.svg';
+import SVGActionTerminal_24_outlined from '../../svg/action/ActionTerminal/24_outlined.svg';
+import SVGActionTerminal_20_twotone from '../../svg/action/ActionTerminal/20_twotone.svg';
+import SVGActionTerminal_24_twotone from '../../svg/action/ActionTerminal/24_twotone.svg';
+import SVGActionTerminal_20_sharp from '../../svg/action/ActionTerminal/20_sharp.svg';
+import SVGActionTerminal_24_sharp from '../../svg/action/ActionTerminal/24_sharp.svg';
+import SVGActionTerminal_20_filled from '../../svg/action/ActionTerminal/20_filled.svg';
+import SVGActionTerminal_24_filled from '../../svg/action/ActionTerminal/24_filled.svg';
+import SVGActionTerminal_20_round from '../../svg/action/ActionTerminal/20_round.svg';
+import SVGActionTerminal_24_round from '../../svg/action/ActionTerminal/24_round.svg';
+
+export const IconActionTerminal20outlined = () => <SVGActionTerminal_20_outlined />;
+export const IconActionTerminal24outlined = () => <SVGActionTerminal_24_outlined />;
+export const IconActionTerminal20twotone = () => <SVGActionTerminal_20_twotone />;
+export const IconActionTerminal24twotone = () => <SVGActionTerminal_24_twotone />;
+export const IconActionTerminal20sharp = () => <SVGActionTerminal_20_sharp />;
+export const IconActionTerminal24sharp = () => <SVGActionTerminal_24_sharp />;
+export const IconActionTerminal20filled = () => <SVGActionTerminal_20_filled />;
+export const IconActionTerminal24filled = () => <SVGActionTerminal_24_filled />;
+export const IconActionTerminal20round = () => <SVGActionTerminal_20_round />;
+export const IconActionTerminal24round = () => <SVGActionTerminal_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialConstruction_20_outlined from '../../svg/social/SocialConstruction/20_outlined.svg';
+import SVGSocialConstruction_24_outlined from '../../svg/social/SocialConstruction/24_outlined.svg';
+import SVGSocialConstruction_20_twotone from '../../svg/social/SocialConstruction/20_twotone.svg';
+import SVGSocialConstruction_24_twotone from '../../svg/social/SocialConstruction/24_twotone.svg';
+import SVGSocialConstruction_20_sharp from '../../svg/social/SocialConstruction/20_sharp.svg';
+import SVGSocialConstruction_24_sharp from '../../svg/social/SocialConstruction/24_sharp.svg';
+import SVGSocialConstruction_20_filled from '../../svg/social/SocialConstruction/20_filled.svg';
+import SVGSocialConstruction_24_filled from '../../svg/social/SocialConstruction/24_filled.svg';
+import SVGSocialConstruction_20_round from '../../svg/social/SocialConstruction/20_round.svg';
+import SVGSocialConstruction_24_round from '../../svg/social/SocialConstruction/24_round.svg';
+
+export const IconSocialConstruction20outlined = () => <SVGSocialConstruction_20_outlined />;
+export const IconSocialConstruction24outlined = () => <SVGSocialConstruction_24_outlined />;
+export const IconSocialConstruction20twotone = () => <SVGSocialConstruction_20_twotone />;
+export const IconSocialConstruction24twotone = () => <SVGSocialConstruction_24_twotone />;
+export const IconSocialConstruction20sharp = () => <SVGSocialConstruction_20_sharp />;
+export const IconSocialConstruction24sharp = () => <SVGSocialConstruction_24_sharp />;
+export const IconSocialConstruction20filled = () => <SVGSocialConstruction_20_filled />;
+export const IconSocialConstruction24filled = () => <SVGSocialConstruction_24_filled />;
+export const IconSocialConstruction20round = () => <SVGSocialConstruction_20_round />;
+export const IconSocialConstruction24round = () => <SVGSocialConstruction_24_round />;

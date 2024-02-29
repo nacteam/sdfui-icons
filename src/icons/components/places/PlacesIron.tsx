@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesIron_20_outlined from '../../svg/places/PlacesIron/20_outlined.svg';
+import SVGPlacesIron_24_outlined from '../../svg/places/PlacesIron/24_outlined.svg';
+import SVGPlacesIron_20_twotone from '../../svg/places/PlacesIron/20_twotone.svg';
+import SVGPlacesIron_24_twotone from '../../svg/places/PlacesIron/24_twotone.svg';
+import SVGPlacesIron_20_sharp from '../../svg/places/PlacesIron/20_sharp.svg';
+import SVGPlacesIron_24_sharp from '../../svg/places/PlacesIron/24_sharp.svg';
+import SVGPlacesIron_20_filled from '../../svg/places/PlacesIron/20_filled.svg';
+import SVGPlacesIron_24_filled from '../../svg/places/PlacesIron/24_filled.svg';
+import SVGPlacesIron_20_round from '../../svg/places/PlacesIron/20_round.svg';
+import SVGPlacesIron_24_round from '../../svg/places/PlacesIron/24_round.svg';
+
+export const IconPlacesIron20outlined = () => <SVGPlacesIron_20_outlined />;
+export const IconPlacesIron24outlined = () => <SVGPlacesIron_24_outlined />;
+export const IconPlacesIron20twotone = () => <SVGPlacesIron_20_twotone />;
+export const IconPlacesIron24twotone = () => <SVGPlacesIron_24_twotone />;
+export const IconPlacesIron20sharp = () => <SVGPlacesIron_20_sharp />;
+export const IconPlacesIron24sharp = () => <SVGPlacesIron_24_sharp />;
+export const IconPlacesIron20filled = () => <SVGPlacesIron_20_filled />;
+export const IconPlacesIron24filled = () => <SVGPlacesIron_24_filled />;
+export const IconPlacesIron20round = () => <SVGPlacesIron_20_round />;
+export const IconPlacesIron24round = () => <SVGPlacesIron_24_round />;

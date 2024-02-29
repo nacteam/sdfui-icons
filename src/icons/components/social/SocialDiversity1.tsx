@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialDiversity1_20_outlined from '../../svg/social/SocialDiversity1/20_outlined.svg';
+import SVGSocialDiversity1_24_outlined from '../../svg/social/SocialDiversity1/24_outlined.svg';
+import SVGSocialDiversity1_20_twotone from '../../svg/social/SocialDiversity1/20_twotone.svg';
+import SVGSocialDiversity1_24_twotone from '../../svg/social/SocialDiversity1/24_twotone.svg';
+import SVGSocialDiversity1_20_sharp from '../../svg/social/SocialDiversity1/20_sharp.svg';
+import SVGSocialDiversity1_24_sharp from '../../svg/social/SocialDiversity1/24_sharp.svg';
+import SVGSocialDiversity1_20_filled from '../../svg/social/SocialDiversity1/20_filled.svg';
+import SVGSocialDiversity1_24_filled from '../../svg/social/SocialDiversity1/24_filled.svg';
+import SVGSocialDiversity1_20_round from '../../svg/social/SocialDiversity1/20_round.svg';
+import SVGSocialDiversity1_24_round from '../../svg/social/SocialDiversity1/24_round.svg';
+
+export const IconSocialDiversity120outlined = () => <SVGSocialDiversity1_20_outlined />;
+export const IconSocialDiversity124outlined = () => <SVGSocialDiversity1_24_outlined />;
+export const IconSocialDiversity120twotone = () => <SVGSocialDiversity1_20_twotone />;
+export const IconSocialDiversity124twotone = () => <SVGSocialDiversity1_24_twotone />;
+export const IconSocialDiversity120sharp = () => <SVGSocialDiversity1_20_sharp />;
+export const IconSocialDiversity124sharp = () => <SVGSocialDiversity1_24_sharp />;
+export const IconSocialDiversity120filled = () => <SVGSocialDiversity1_20_filled />;
+export const IconSocialDiversity124filled = () => <SVGSocialDiversity1_24_filled />;
+export const IconSocialDiversity120round = () => <SVGSocialDiversity1_20_round />;
+export const IconSocialDiversity124round = () => <SVGSocialDiversity1_24_round />;

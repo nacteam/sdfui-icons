@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionBookmarkAdd_20_outlined from '../../svg/action/ActionBookmarkAdd/20_outlined.svg';
+import SVGActionBookmarkAdd_24_outlined from '../../svg/action/ActionBookmarkAdd/24_outlined.svg';
+import SVGActionBookmarkAdd_20_twotone from '../../svg/action/ActionBookmarkAdd/20_twotone.svg';
+import SVGActionBookmarkAdd_24_twotone from '../../svg/action/ActionBookmarkAdd/24_twotone.svg';
+import SVGActionBookmarkAdd_20_sharp from '../../svg/action/ActionBookmarkAdd/20_sharp.svg';
+import SVGActionBookmarkAdd_24_sharp from '../../svg/action/ActionBookmarkAdd/24_sharp.svg';
+import SVGActionBookmarkAdd_20_filled from '../../svg/action/ActionBookmarkAdd/20_filled.svg';
+import SVGActionBookmarkAdd_24_filled from '../../svg/action/ActionBookmarkAdd/24_filled.svg';
+import SVGActionBookmarkAdd_20_round from '../../svg/action/ActionBookmarkAdd/20_round.svg';
+import SVGActionBookmarkAdd_24_round from '../../svg/action/ActionBookmarkAdd/24_round.svg';
+
+export const IconActionBookmarkAdd20outlined = () => <SVGActionBookmarkAdd_20_outlined />;
+export const IconActionBookmarkAdd24outlined = () => <SVGActionBookmarkAdd_24_outlined />;
+export const IconActionBookmarkAdd20twotone = () => <SVGActionBookmarkAdd_20_twotone />;
+export const IconActionBookmarkAdd24twotone = () => <SVGActionBookmarkAdd_24_twotone />;
+export const IconActionBookmarkAdd20sharp = () => <SVGActionBookmarkAdd_20_sharp />;
+export const IconActionBookmarkAdd24sharp = () => <SVGActionBookmarkAdd_24_sharp />;
+export const IconActionBookmarkAdd20filled = () => <SVGActionBookmarkAdd_20_filled />;
+export const IconActionBookmarkAdd24filled = () => <SVGActionBookmarkAdd_24_filled />;
+export const IconActionBookmarkAdd20round = () => <SVGActionBookmarkAdd_20_round />;
+export const IconActionBookmarkAdd24round = () => <SVGActionBookmarkAdd_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialWallet_20_outlined from '../../svg/social/SocialWallet/20_outlined.svg';
+import SVGSocialWallet_24_outlined from '../../svg/social/SocialWallet/24_outlined.svg';
+import SVGSocialWallet_20_twotone from '../../svg/social/SocialWallet/20_twotone.svg';
+import SVGSocialWallet_24_twotone from '../../svg/social/SocialWallet/24_twotone.svg';
+import SVGSocialWallet_20_sharp from '../../svg/social/SocialWallet/20_sharp.svg';
+import SVGSocialWallet_24_sharp from '../../svg/social/SocialWallet/24_sharp.svg';
+import SVGSocialWallet_20_filled from '../../svg/social/SocialWallet/20_filled.svg';
+import SVGSocialWallet_24_filled from '../../svg/social/SocialWallet/24_filled.svg';
+import SVGSocialWallet_20_round from '../../svg/social/SocialWallet/20_round.svg';
+import SVGSocialWallet_24_round from '../../svg/social/SocialWallet/24_round.svg';
+
+export const IconSocialWallet20outlined = () => <SVGSocialWallet_20_outlined />;
+export const IconSocialWallet24outlined = () => <SVGSocialWallet_24_outlined />;
+export const IconSocialWallet20twotone = () => <SVGSocialWallet_20_twotone />;
+export const IconSocialWallet24twotone = () => <SVGSocialWallet_24_twotone />;
+export const IconSocialWallet20sharp = () => <SVGSocialWallet_20_sharp />;
+export const IconSocialWallet24sharp = () => <SVGSocialWallet_24_sharp />;
+export const IconSocialWallet20filled = () => <SVGSocialWallet_20_filled />;
+export const IconSocialWallet24filled = () => <SVGSocialWallet_24_filled />;
+export const IconSocialWallet20round = () => <SVGSocialWallet_20_round />;
+export const IconSocialWallet24round = () => <SVGSocialWallet_24_round />;

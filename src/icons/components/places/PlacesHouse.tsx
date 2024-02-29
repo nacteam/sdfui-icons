@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesHouse_20_outlined from '../../svg/places/PlacesHouse/20_outlined.svg';
+import SVGPlacesHouse_24_outlined from '../../svg/places/PlacesHouse/24_outlined.svg';
+import SVGPlacesHouse_20_twotone from '../../svg/places/PlacesHouse/20_twotone.svg';
+import SVGPlacesHouse_24_twotone from '../../svg/places/PlacesHouse/24_twotone.svg';
+import SVGPlacesHouse_20_sharp from '../../svg/places/PlacesHouse/20_sharp.svg';
+import SVGPlacesHouse_24_sharp from '../../svg/places/PlacesHouse/24_sharp.svg';
+import SVGPlacesHouse_20_filled from '../../svg/places/PlacesHouse/20_filled.svg';
+import SVGPlacesHouse_24_filled from '../../svg/places/PlacesHouse/24_filled.svg';
+import SVGPlacesHouse_20_round from '../../svg/places/PlacesHouse/20_round.svg';
+import SVGPlacesHouse_24_round from '../../svg/places/PlacesHouse/24_round.svg';
+
+export const IconPlacesHouse20outlined = () => <SVGPlacesHouse_20_outlined />;
+export const IconPlacesHouse24outlined = () => <SVGPlacesHouse_24_outlined />;
+export const IconPlacesHouse20twotone = () => <SVGPlacesHouse_20_twotone />;
+export const IconPlacesHouse24twotone = () => <SVGPlacesHouse_24_twotone />;
+export const IconPlacesHouse20sharp = () => <SVGPlacesHouse_20_sharp />;
+export const IconPlacesHouse24sharp = () => <SVGPlacesHouse_24_sharp />;
+export const IconPlacesHouse20filled = () => <SVGPlacesHouse_20_filled />;
+export const IconPlacesHouse24filled = () => <SVGPlacesHouse_24_filled />;
+export const IconPlacesHouse20round = () => <SVGPlacesHouse_20_round />;
+export const IconPlacesHouse24round = () => <SVGPlacesHouse_24_round />;

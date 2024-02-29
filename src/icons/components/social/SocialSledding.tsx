@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSledding_20_outlined from '../../svg/social/SocialSledding/20_outlined.svg';
+import SVGSocialSledding_24_outlined from '../../svg/social/SocialSledding/24_outlined.svg';
+import SVGSocialSledding_20_twotone from '../../svg/social/SocialSledding/20_twotone.svg';
+import SVGSocialSledding_24_twotone from '../../svg/social/SocialSledding/24_twotone.svg';
+import SVGSocialSledding_20_sharp from '../../svg/social/SocialSledding/20_sharp.svg';
+import SVGSocialSledding_24_sharp from '../../svg/social/SocialSledding/24_sharp.svg';
+import SVGSocialSledding_20_filled from '../../svg/social/SocialSledding/20_filled.svg';
+import SVGSocialSledding_24_filled from '../../svg/social/SocialSledding/24_filled.svg';
+import SVGSocialSledding_20_round from '../../svg/social/SocialSledding/20_round.svg';
+import SVGSocialSledding_24_round from '../../svg/social/SocialSledding/24_round.svg';
+
+export const IconSocialSledding20outlined = () => <SVGSocialSledding_20_outlined />;
+export const IconSocialSledding24outlined = () => <SVGSocialSledding_24_outlined />;
+export const IconSocialSledding20twotone = () => <SVGSocialSledding_20_twotone />;
+export const IconSocialSledding24twotone = () => <SVGSocialSledding_24_twotone />;
+export const IconSocialSledding20sharp = () => <SVGSocialSledding_20_sharp />;
+export const IconSocialSledding24sharp = () => <SVGSocialSledding_24_sharp />;
+export const IconSocialSledding20filled = () => <SVGSocialSledding_20_filled />;
+export const IconSocialSledding24filled = () => <SVGSocialSledding_24_filled />;
+export const IconSocialSledding20round = () => <SVGSocialSledding_20_round />;
+export const IconSocialSledding24round = () => <SVGSocialSledding_24_round />;

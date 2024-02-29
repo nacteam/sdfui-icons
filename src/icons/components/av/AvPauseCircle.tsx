@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvPauseCircle_20_outlined from '../../svg/av/AvPauseCircle/20_outlined.svg';
+import SVGAvPauseCircle_24_outlined from '../../svg/av/AvPauseCircle/24_outlined.svg';
+import SVGAvPauseCircle_20_twotone from '../../svg/av/AvPauseCircle/20_twotone.svg';
+import SVGAvPauseCircle_24_twotone from '../../svg/av/AvPauseCircle/24_twotone.svg';
+import SVGAvPauseCircle_20_sharp from '../../svg/av/AvPauseCircle/20_sharp.svg';
+import SVGAvPauseCircle_24_sharp from '../../svg/av/AvPauseCircle/24_sharp.svg';
+import SVGAvPauseCircle_20_filled from '../../svg/av/AvPauseCircle/20_filled.svg';
+import SVGAvPauseCircle_24_filled from '../../svg/av/AvPauseCircle/24_filled.svg';
+import SVGAvPauseCircle_20_round from '../../svg/av/AvPauseCircle/20_round.svg';
+import SVGAvPauseCircle_24_round from '../../svg/av/AvPauseCircle/24_round.svg';
+
+export const IconAvPauseCircle20outlined = () => <SVGAvPauseCircle_20_outlined />;
+export const IconAvPauseCircle24outlined = () => <SVGAvPauseCircle_24_outlined />;
+export const IconAvPauseCircle20twotone = () => <SVGAvPauseCircle_20_twotone />;
+export const IconAvPauseCircle24twotone = () => <SVGAvPauseCircle_24_twotone />;
+export const IconAvPauseCircle20sharp = () => <SVGAvPauseCircle_20_sharp />;
+export const IconAvPauseCircle24sharp = () => <SVGAvPauseCircle_24_sharp />;
+export const IconAvPauseCircle20filled = () => <SVGAvPauseCircle_20_filled />;
+export const IconAvPauseCircle24filled = () => <SVGAvPauseCircle_24_filled />;
+export const IconAvPauseCircle20round = () => <SVGAvPauseCircle_20_round />;
+export const IconAvPauseCircle24round = () => <SVGAvPauseCircle_24_round />;

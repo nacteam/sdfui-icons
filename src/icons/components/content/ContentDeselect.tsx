@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentDeselect_20_outlined from '../../svg/content/ContentDeselect/20_outlined.svg';
+import SVGContentDeselect_24_outlined from '../../svg/content/ContentDeselect/24_outlined.svg';
+import SVGContentDeselect_20_twotone from '../../svg/content/ContentDeselect/20_twotone.svg';
+import SVGContentDeselect_24_twotone from '../../svg/content/ContentDeselect/24_twotone.svg';
+import SVGContentDeselect_20_sharp from '../../svg/content/ContentDeselect/20_sharp.svg';
+import SVGContentDeselect_24_sharp from '../../svg/content/ContentDeselect/24_sharp.svg';
+import SVGContentDeselect_20_filled from '../../svg/content/ContentDeselect/20_filled.svg';
+import SVGContentDeselect_24_filled from '../../svg/content/ContentDeselect/24_filled.svg';
+import SVGContentDeselect_20_round from '../../svg/content/ContentDeselect/20_round.svg';
+import SVGContentDeselect_24_round from '../../svg/content/ContentDeselect/24_round.svg';
+
+export const IconContentDeselect20outlined = () => <SVGContentDeselect_20_outlined />;
+export const IconContentDeselect24outlined = () => <SVGContentDeselect_24_outlined />;
+export const IconContentDeselect20twotone = () => <SVGContentDeselect_20_twotone />;
+export const IconContentDeselect24twotone = () => <SVGContentDeselect_24_twotone />;
+export const IconContentDeselect20sharp = () => <SVGContentDeselect_20_sharp />;
+export const IconContentDeselect24sharp = () => <SVGContentDeselect_24_sharp />;
+export const IconContentDeselect20filled = () => <SVGContentDeselect_20_filled />;
+export const IconContentDeselect24filled = () => <SVGContentDeselect_24_filled />;
+export const IconContentDeselect20round = () => <SVGContentDeselect_20_round />;
+export const IconContentDeselect24round = () => <SVGContentDeselect_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentStackedBarChart_20_outlined from '../../svg/content/ContentStackedBarChart/20_outlined.svg';
+import SVGContentStackedBarChart_24_outlined from '../../svg/content/ContentStackedBarChart/24_outlined.svg';
+import SVGContentStackedBarChart_20_twotone from '../../svg/content/ContentStackedBarChart/20_twotone.svg';
+import SVGContentStackedBarChart_24_twotone from '../../svg/content/ContentStackedBarChart/24_twotone.svg';
+import SVGContentStackedBarChart_20_sharp from '../../svg/content/ContentStackedBarChart/20_sharp.svg';
+import SVGContentStackedBarChart_24_sharp from '../../svg/content/ContentStackedBarChart/24_sharp.svg';
+import SVGContentStackedBarChart_20_filled from '../../svg/content/ContentStackedBarChart/20_filled.svg';
+import SVGContentStackedBarChart_24_filled from '../../svg/content/ContentStackedBarChart/24_filled.svg';
+import SVGContentStackedBarChart_20_round from '../../svg/content/ContentStackedBarChart/20_round.svg';
+import SVGContentStackedBarChart_24_round from '../../svg/content/ContentStackedBarChart/24_round.svg';
+
+export const IconContentStackedBarChart20outlined = () => <SVGContentStackedBarChart_20_outlined />;
+export const IconContentStackedBarChart24outlined = () => <SVGContentStackedBarChart_24_outlined />;
+export const IconContentStackedBarChart20twotone = () => <SVGContentStackedBarChart_20_twotone />;
+export const IconContentStackedBarChart24twotone = () => <SVGContentStackedBarChart_24_twotone />;
+export const IconContentStackedBarChart20sharp = () => <SVGContentStackedBarChart_20_sharp />;
+export const IconContentStackedBarChart24sharp = () => <SVGContentStackedBarChart_24_sharp />;
+export const IconContentStackedBarChart20filled = () => <SVGContentStackedBarChart_20_filled />;
+export const IconContentStackedBarChart24filled = () => <SVGContentStackedBarChart_24_filled />;
+export const IconContentStackedBarChart20round = () => <SVGContentStackedBarChart_20_round />;
+export const IconContentStackedBarChart24round = () => <SVGContentStackedBarChart_24_round />;

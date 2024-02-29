@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialCrueltyFree_20_outlined from '../../svg/social/SocialCrueltyFree/20_outlined.svg';
+import SVGSocialCrueltyFree_24_outlined from '../../svg/social/SocialCrueltyFree/24_outlined.svg';
+import SVGSocialCrueltyFree_20_twotone from '../../svg/social/SocialCrueltyFree/20_twotone.svg';
+import SVGSocialCrueltyFree_24_twotone from '../../svg/social/SocialCrueltyFree/24_twotone.svg';
+import SVGSocialCrueltyFree_20_sharp from '../../svg/social/SocialCrueltyFree/20_sharp.svg';
+import SVGSocialCrueltyFree_24_sharp from '../../svg/social/SocialCrueltyFree/24_sharp.svg';
+import SVGSocialCrueltyFree_20_filled from '../../svg/social/SocialCrueltyFree/20_filled.svg';
+import SVGSocialCrueltyFree_24_filled from '../../svg/social/SocialCrueltyFree/24_filled.svg';
+import SVGSocialCrueltyFree_20_round from '../../svg/social/SocialCrueltyFree/20_round.svg';
+import SVGSocialCrueltyFree_24_round from '../../svg/social/SocialCrueltyFree/24_round.svg';
+
+export const IconSocialCrueltyFree20outlined = () => <SVGSocialCrueltyFree_20_outlined />;
+export const IconSocialCrueltyFree24outlined = () => <SVGSocialCrueltyFree_24_outlined />;
+export const IconSocialCrueltyFree20twotone = () => <SVGSocialCrueltyFree_20_twotone />;
+export const IconSocialCrueltyFree24twotone = () => <SVGSocialCrueltyFree_24_twotone />;
+export const IconSocialCrueltyFree20sharp = () => <SVGSocialCrueltyFree_20_sharp />;
+export const IconSocialCrueltyFree24sharp = () => <SVGSocialCrueltyFree_24_sharp />;
+export const IconSocialCrueltyFree20filled = () => <SVGSocialCrueltyFree_20_filled />;
+export const IconSocialCrueltyFree24filled = () => <SVGSocialCrueltyFree_24_filled />;
+export const IconSocialCrueltyFree20round = () => <SVGSocialCrueltyFree_20_round />;
+export const IconSocialCrueltyFree24round = () => <SVGSocialCrueltyFree_24_round />;

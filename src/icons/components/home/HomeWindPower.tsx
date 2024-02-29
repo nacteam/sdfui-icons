@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeWindPower_20_outlined from '../../svg/home/HomeWindPower/20_outlined.svg';
+import SVGHomeWindPower_24_outlined from '../../svg/home/HomeWindPower/24_outlined.svg';
+import SVGHomeWindPower_20_twotone from '../../svg/home/HomeWindPower/20_twotone.svg';
+import SVGHomeWindPower_24_twotone from '../../svg/home/HomeWindPower/24_twotone.svg';
+import SVGHomeWindPower_20_sharp from '../../svg/home/HomeWindPower/20_sharp.svg';
+import SVGHomeWindPower_24_sharp from '../../svg/home/HomeWindPower/24_sharp.svg';
+import SVGHomeWindPower_20_filled from '../../svg/home/HomeWindPower/20_filled.svg';
+import SVGHomeWindPower_24_filled from '../../svg/home/HomeWindPower/24_filled.svg';
+import SVGHomeWindPower_20_round from '../../svg/home/HomeWindPower/20_round.svg';
+import SVGHomeWindPower_24_round from '../../svg/home/HomeWindPower/24_round.svg';
+
+export const IconHomeWindPower20outlined = () => <SVGHomeWindPower_20_outlined />;
+export const IconHomeWindPower24outlined = () => <SVGHomeWindPower_24_outlined />;
+export const IconHomeWindPower20twotone = () => <SVGHomeWindPower_20_twotone />;
+export const IconHomeWindPower24twotone = () => <SVGHomeWindPower_24_twotone />;
+export const IconHomeWindPower20sharp = () => <SVGHomeWindPower_20_sharp />;
+export const IconHomeWindPower24sharp = () => <SVGHomeWindPower_24_sharp />;
+export const IconHomeWindPower20filled = () => <SVGHomeWindPower_20_filled />;
+export const IconHomeWindPower24filled = () => <SVGHomeWindPower_24_filled />;
+export const IconHomeWindPower20round = () => <SVGHomeWindPower_20_round />;
+export const IconHomeWindPower24round = () => <SVGHomeWindPower_24_round />;

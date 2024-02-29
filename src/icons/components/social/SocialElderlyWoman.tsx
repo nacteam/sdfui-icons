@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialElderlyWoman_20_outlined from '../../svg/social/SocialElderlyWoman/20_outlined.svg';
+import SVGSocialElderlyWoman_24_outlined from '../../svg/social/SocialElderlyWoman/24_outlined.svg';
+import SVGSocialElderlyWoman_20_twotone from '../../svg/social/SocialElderlyWoman/20_twotone.svg';
+import SVGSocialElderlyWoman_24_twotone from '../../svg/social/SocialElderlyWoman/24_twotone.svg';
+import SVGSocialElderlyWoman_20_sharp from '../../svg/social/SocialElderlyWoman/20_sharp.svg';
+import SVGSocialElderlyWoman_24_sharp from '../../svg/social/SocialElderlyWoman/24_sharp.svg';
+import SVGSocialElderlyWoman_20_filled from '../../svg/social/SocialElderlyWoman/20_filled.svg';
+import SVGSocialElderlyWoman_24_filled from '../../svg/social/SocialElderlyWoman/24_filled.svg';
+import SVGSocialElderlyWoman_20_round from '../../svg/social/SocialElderlyWoman/20_round.svg';
+import SVGSocialElderlyWoman_24_round from '../../svg/social/SocialElderlyWoman/24_round.svg';
+
+export const IconSocialElderlyWoman20outlined = () => <SVGSocialElderlyWoman_20_outlined />;
+export const IconSocialElderlyWoman24outlined = () => <SVGSocialElderlyWoman_24_outlined />;
+export const IconSocialElderlyWoman20twotone = () => <SVGSocialElderlyWoman_20_twotone />;
+export const IconSocialElderlyWoman24twotone = () => <SVGSocialElderlyWoman_24_twotone />;
+export const IconSocialElderlyWoman20sharp = () => <SVGSocialElderlyWoman_20_sharp />;
+export const IconSocialElderlyWoman24sharp = () => <SVGSocialElderlyWoman_24_sharp />;
+export const IconSocialElderlyWoman20filled = () => <SVGSocialElderlyWoman_20_filled />;
+export const IconSocialElderlyWoman24filled = () => <SVGSocialElderlyWoman_24_filled />;
+export const IconSocialElderlyWoman20round = () => <SVGSocialElderlyWoman_20_round />;
+export const IconSocialElderlyWoman24round = () => <SVGSocialElderlyWoman_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationSpoke_20_outlined from '../../svg/communication/CommunicationSpoke/20_outlined.svg';
+import SVGCommunicationSpoke_24_outlined from '../../svg/communication/CommunicationSpoke/24_outlined.svg';
+import SVGCommunicationSpoke_20_twotone from '../../svg/communication/CommunicationSpoke/20_twotone.svg';
+import SVGCommunicationSpoke_24_twotone from '../../svg/communication/CommunicationSpoke/24_twotone.svg';
+import SVGCommunicationSpoke_20_sharp from '../../svg/communication/CommunicationSpoke/20_sharp.svg';
+import SVGCommunicationSpoke_24_sharp from '../../svg/communication/CommunicationSpoke/24_sharp.svg';
+import SVGCommunicationSpoke_20_filled from '../../svg/communication/CommunicationSpoke/20_filled.svg';
+import SVGCommunicationSpoke_24_filled from '../../svg/communication/CommunicationSpoke/24_filled.svg';
+import SVGCommunicationSpoke_20_round from '../../svg/communication/CommunicationSpoke/20_round.svg';
+import SVGCommunicationSpoke_24_round from '../../svg/communication/CommunicationSpoke/24_round.svg';
+
+export const IconCommunicationSpoke20outlined = () => <SVGCommunicationSpoke_20_outlined />;
+export const IconCommunicationSpoke24outlined = () => <SVGCommunicationSpoke_24_outlined />;
+export const IconCommunicationSpoke20twotone = () => <SVGCommunicationSpoke_20_twotone />;
+export const IconCommunicationSpoke24twotone = () => <SVGCommunicationSpoke_24_twotone />;
+export const IconCommunicationSpoke20sharp = () => <SVGCommunicationSpoke_20_sharp />;
+export const IconCommunicationSpoke24sharp = () => <SVGCommunicationSpoke_24_sharp />;
+export const IconCommunicationSpoke20filled = () => <SVGCommunicationSpoke_20_filled />;
+export const IconCommunicationSpoke24filled = () => <SVGCommunicationSpoke_24_filled />;
+export const IconCommunicationSpoke20round = () => <SVGCommunicationSpoke_20_round />;
+export const IconCommunicationSpoke24round = () => <SVGCommunicationSpoke_24_round />;

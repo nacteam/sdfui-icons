@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPrecisionManufacturing_20_outlined from '../../svg/social/SocialPrecisionManufacturing/20_outlined.svg';
+import SVGSocialPrecisionManufacturing_24_outlined from '../../svg/social/SocialPrecisionManufacturing/24_outlined.svg';
+import SVGSocialPrecisionManufacturing_20_twotone from '../../svg/social/SocialPrecisionManufacturing/20_twotone.svg';
+import SVGSocialPrecisionManufacturing_24_twotone from '../../svg/social/SocialPrecisionManufacturing/24_twotone.svg';
+import SVGSocialPrecisionManufacturing_20_sharp from '../../svg/social/SocialPrecisionManufacturing/20_sharp.svg';
+import SVGSocialPrecisionManufacturing_24_sharp from '../../svg/social/SocialPrecisionManufacturing/24_sharp.svg';
+import SVGSocialPrecisionManufacturing_20_filled from '../../svg/social/SocialPrecisionManufacturing/20_filled.svg';
+import SVGSocialPrecisionManufacturing_24_filled from '../../svg/social/SocialPrecisionManufacturing/24_filled.svg';
+import SVGSocialPrecisionManufacturing_20_round from '../../svg/social/SocialPrecisionManufacturing/20_round.svg';
+import SVGSocialPrecisionManufacturing_24_round from '../../svg/social/SocialPrecisionManufacturing/24_round.svg';
+
+export const IconSocialPrecisionManufacturing20outlined = () => <SVGSocialPrecisionManufacturing_20_outlined />;
+export const IconSocialPrecisionManufacturing24outlined = () => <SVGSocialPrecisionManufacturing_24_outlined />;
+export const IconSocialPrecisionManufacturing20twotone = () => <SVGSocialPrecisionManufacturing_20_twotone />;
+export const IconSocialPrecisionManufacturing24twotone = () => <SVGSocialPrecisionManufacturing_24_twotone />;
+export const IconSocialPrecisionManufacturing20sharp = () => <SVGSocialPrecisionManufacturing_20_sharp />;
+export const IconSocialPrecisionManufacturing24sharp = () => <SVGSocialPrecisionManufacturing_24_sharp />;
+export const IconSocialPrecisionManufacturing20filled = () => <SVGSocialPrecisionManufacturing_20_filled />;
+export const IconSocialPrecisionManufacturing24filled = () => <SVGSocialPrecisionManufacturing_24_filled />;
+export const IconSocialPrecisionManufacturing20round = () => <SVGSocialPrecisionManufacturing_20_round />;
+export const IconSocialPrecisionManufacturing24round = () => <SVGSocialPrecisionManufacturing_24_round />;

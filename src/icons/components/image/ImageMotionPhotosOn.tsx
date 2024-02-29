@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageMotionPhotosOn_20_outlined from '../../svg/image/ImageMotionPhotosOn/20_outlined.svg';
+import SVGImageMotionPhotosOn_24_outlined from '../../svg/image/ImageMotionPhotosOn/24_outlined.svg';
+import SVGImageMotionPhotosOn_20_twotone from '../../svg/image/ImageMotionPhotosOn/20_twotone.svg';
+import SVGImageMotionPhotosOn_24_twotone from '../../svg/image/ImageMotionPhotosOn/24_twotone.svg';
+import SVGImageMotionPhotosOn_20_sharp from '../../svg/image/ImageMotionPhotosOn/20_sharp.svg';
+import SVGImageMotionPhotosOn_24_sharp from '../../svg/image/ImageMotionPhotosOn/24_sharp.svg';
+import SVGImageMotionPhotosOn_20_filled from '../../svg/image/ImageMotionPhotosOn/20_filled.svg';
+import SVGImageMotionPhotosOn_24_filled from '../../svg/image/ImageMotionPhotosOn/24_filled.svg';
+import SVGImageMotionPhotosOn_20_round from '../../svg/image/ImageMotionPhotosOn/20_round.svg';
+import SVGImageMotionPhotosOn_24_round from '../../svg/image/ImageMotionPhotosOn/24_round.svg';
+
+export const IconImageMotionPhotosOn20outlined = () => <SVGImageMotionPhotosOn_20_outlined />;
+export const IconImageMotionPhotosOn24outlined = () => <SVGImageMotionPhotosOn_24_outlined />;
+export const IconImageMotionPhotosOn20twotone = () => <SVGImageMotionPhotosOn_20_twotone />;
+export const IconImageMotionPhotosOn24twotone = () => <SVGImageMotionPhotosOn_24_twotone />;
+export const IconImageMotionPhotosOn20sharp = () => <SVGImageMotionPhotosOn_20_sharp />;
+export const IconImageMotionPhotosOn24sharp = () => <SVGImageMotionPhotosOn_24_sharp />;
+export const IconImageMotionPhotosOn20filled = () => <SVGImageMotionPhotosOn_20_filled />;
+export const IconImageMotionPhotosOn24filled = () => <SVGImageMotionPhotosOn_24_filled />;
+export const IconImageMotionPhotosOn20round = () => <SVGImageMotionPhotosOn_20_round />;
+export const IconImageMotionPhotosOn24round = () => <SVGImageMotionPhotosOn_24_round />;

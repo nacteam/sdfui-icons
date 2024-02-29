@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialPersonAddAlt1_20_outlined from '../../svg/social/SocialPersonAddAlt1/20_outlined.svg';
+import SVGSocialPersonAddAlt1_24_outlined from '../../svg/social/SocialPersonAddAlt1/24_outlined.svg';
+import SVGSocialPersonAddAlt1_20_twotone from '../../svg/social/SocialPersonAddAlt1/20_twotone.svg';
+import SVGSocialPersonAddAlt1_24_twotone from '../../svg/social/SocialPersonAddAlt1/24_twotone.svg';
+import SVGSocialPersonAddAlt1_20_sharp from '../../svg/social/SocialPersonAddAlt1/20_sharp.svg';
+import SVGSocialPersonAddAlt1_24_sharp from '../../svg/social/SocialPersonAddAlt1/24_sharp.svg';
+import SVGSocialPersonAddAlt1_20_filled from '../../svg/social/SocialPersonAddAlt1/20_filled.svg';
+import SVGSocialPersonAddAlt1_24_filled from '../../svg/social/SocialPersonAddAlt1/24_filled.svg';
+import SVGSocialPersonAddAlt1_20_round from '../../svg/social/SocialPersonAddAlt1/20_round.svg';
+import SVGSocialPersonAddAlt1_24_round from '../../svg/social/SocialPersonAddAlt1/24_round.svg';
+
+export const IconSocialPersonAddAlt120outlined = () => <SVGSocialPersonAddAlt1_20_outlined />;
+export const IconSocialPersonAddAlt124outlined = () => <SVGSocialPersonAddAlt1_24_outlined />;
+export const IconSocialPersonAddAlt120twotone = () => <SVGSocialPersonAddAlt1_20_twotone />;
+export const IconSocialPersonAddAlt124twotone = () => <SVGSocialPersonAddAlt1_24_twotone />;
+export const IconSocialPersonAddAlt120sharp = () => <SVGSocialPersonAddAlt1_20_sharp />;
+export const IconSocialPersonAddAlt124sharp = () => <SVGSocialPersonAddAlt1_24_sharp />;
+export const IconSocialPersonAddAlt120filled = () => <SVGSocialPersonAddAlt1_20_filled />;
+export const IconSocialPersonAddAlt124filled = () => <SVGSocialPersonAddAlt1_24_filled />;
+export const IconSocialPersonAddAlt120round = () => <SVGSocialPersonAddAlt1_20_round />;
+export const IconSocialPersonAddAlt124round = () => <SVGSocialPersonAddAlt1_24_round />;

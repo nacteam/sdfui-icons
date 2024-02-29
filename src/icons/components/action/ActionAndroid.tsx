@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionAndroid_20_outlined from '../../svg/action/ActionAndroid/20_outlined.svg';
+import SVGActionAndroid_24_outlined from '../../svg/action/ActionAndroid/24_outlined.svg';
+import SVGActionAndroid_20_twotone from '../../svg/action/ActionAndroid/20_twotone.svg';
+import SVGActionAndroid_24_twotone from '../../svg/action/ActionAndroid/24_twotone.svg';
+import SVGActionAndroid_20_sharp from '../../svg/action/ActionAndroid/20_sharp.svg';
+import SVGActionAndroid_24_sharp from '../../svg/action/ActionAndroid/24_sharp.svg';
+import SVGActionAndroid_20_filled from '../../svg/action/ActionAndroid/20_filled.svg';
+import SVGActionAndroid_24_filled from '../../svg/action/ActionAndroid/24_filled.svg';
+import SVGActionAndroid_20_round from '../../svg/action/ActionAndroid/20_round.svg';
+import SVGActionAndroid_24_round from '../../svg/action/ActionAndroid/24_round.svg';
+
+export const IconActionAndroid20outlined = () => <SVGActionAndroid_20_outlined />;
+export const IconActionAndroid24outlined = () => <SVGActionAndroid_24_outlined />;
+export const IconActionAndroid20twotone = () => <SVGActionAndroid_20_twotone />;
+export const IconActionAndroid24twotone = () => <SVGActionAndroid_24_twotone />;
+export const IconActionAndroid20sharp = () => <SVGActionAndroid_20_sharp />;
+export const IconActionAndroid24sharp = () => <SVGActionAndroid_24_sharp />;
+export const IconActionAndroid20filled = () => <SVGActionAndroid_20_filled />;
+export const IconActionAndroid24filled = () => <SVGActionAndroid_24_filled />;
+export const IconActionAndroid20round = () => <SVGActionAndroid_20_round />;
+export const IconActionAndroid24round = () => <SVGActionAndroid_24_round />;

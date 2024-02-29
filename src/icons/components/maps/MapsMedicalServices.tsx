@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsMedicalServices_20_outlined from '../../svg/maps/MapsMedicalServices/20_outlined.svg';
+import SVGMapsMedicalServices_24_outlined from '../../svg/maps/MapsMedicalServices/24_outlined.svg';
+import SVGMapsMedicalServices_20_twotone from '../../svg/maps/MapsMedicalServices/20_twotone.svg';
+import SVGMapsMedicalServices_24_twotone from '../../svg/maps/MapsMedicalServices/24_twotone.svg';
+import SVGMapsMedicalServices_20_sharp from '../../svg/maps/MapsMedicalServices/20_sharp.svg';
+import SVGMapsMedicalServices_24_sharp from '../../svg/maps/MapsMedicalServices/24_sharp.svg';
+import SVGMapsMedicalServices_20_filled from '../../svg/maps/MapsMedicalServices/20_filled.svg';
+import SVGMapsMedicalServices_24_filled from '../../svg/maps/MapsMedicalServices/24_filled.svg';
+import SVGMapsMedicalServices_20_round from '../../svg/maps/MapsMedicalServices/20_round.svg';
+import SVGMapsMedicalServices_24_round from '../../svg/maps/MapsMedicalServices/24_round.svg';
+
+export const IconMapsMedicalServices20outlined = () => <SVGMapsMedicalServices_20_outlined />;
+export const IconMapsMedicalServices24outlined = () => <SVGMapsMedicalServices_24_outlined />;
+export const IconMapsMedicalServices20twotone = () => <SVGMapsMedicalServices_20_twotone />;
+export const IconMapsMedicalServices24twotone = () => <SVGMapsMedicalServices_24_twotone />;
+export const IconMapsMedicalServices20sharp = () => <SVGMapsMedicalServices_20_sharp />;
+export const IconMapsMedicalServices24sharp = () => <SVGMapsMedicalServices_24_sharp />;
+export const IconMapsMedicalServices20filled = () => <SVGMapsMedicalServices_20_filled />;
+export const IconMapsMedicalServices24filled = () => <SVGMapsMedicalServices_24_filled />;
+export const IconMapsMedicalServices20round = () => <SVGMapsMedicalServices_20_round />;
+export const IconMapsMedicalServices24round = () => <SVGMapsMedicalServices_24_round />;

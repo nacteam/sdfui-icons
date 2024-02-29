@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionSubtitlesOff_20_outlined from '../../svg/action/ActionSubtitlesOff/20_outlined.svg';
+import SVGActionSubtitlesOff_24_outlined from '../../svg/action/ActionSubtitlesOff/24_outlined.svg';
+import SVGActionSubtitlesOff_20_twotone from '../../svg/action/ActionSubtitlesOff/20_twotone.svg';
+import SVGActionSubtitlesOff_24_twotone from '../../svg/action/ActionSubtitlesOff/24_twotone.svg';
+import SVGActionSubtitlesOff_20_sharp from '../../svg/action/ActionSubtitlesOff/20_sharp.svg';
+import SVGActionSubtitlesOff_24_sharp from '../../svg/action/ActionSubtitlesOff/24_sharp.svg';
+import SVGActionSubtitlesOff_20_filled from '../../svg/action/ActionSubtitlesOff/20_filled.svg';
+import SVGActionSubtitlesOff_24_filled from '../../svg/action/ActionSubtitlesOff/24_filled.svg';
+import SVGActionSubtitlesOff_20_round from '../../svg/action/ActionSubtitlesOff/20_round.svg';
+import SVGActionSubtitlesOff_24_round from '../../svg/action/ActionSubtitlesOff/24_round.svg';
+
+export const IconActionSubtitlesOff20outlined = () => <SVGActionSubtitlesOff_20_outlined />;
+export const IconActionSubtitlesOff24outlined = () => <SVGActionSubtitlesOff_24_outlined />;
+export const IconActionSubtitlesOff20twotone = () => <SVGActionSubtitlesOff_20_twotone />;
+export const IconActionSubtitlesOff24twotone = () => <SVGActionSubtitlesOff_24_twotone />;
+export const IconActionSubtitlesOff20sharp = () => <SVGActionSubtitlesOff_20_sharp />;
+export const IconActionSubtitlesOff24sharp = () => <SVGActionSubtitlesOff_24_sharp />;
+export const IconActionSubtitlesOff20filled = () => <SVGActionSubtitlesOff_20_filled />;
+export const IconActionSubtitlesOff24filled = () => <SVGActionSubtitlesOff_24_filled />;
+export const IconActionSubtitlesOff20round = () => <SVGActionSubtitlesOff_20_round />;
+export const IconActionSubtitlesOff24round = () => <SVGActionSubtitlesOff_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGHomeElectricMeter_20_outlined from '../../svg/home/HomeElectricMeter/20_outlined.svg';
+import SVGHomeElectricMeter_24_outlined from '../../svg/home/HomeElectricMeter/24_outlined.svg';
+import SVGHomeElectricMeter_20_twotone from '../../svg/home/HomeElectricMeter/20_twotone.svg';
+import SVGHomeElectricMeter_24_twotone from '../../svg/home/HomeElectricMeter/24_twotone.svg';
+import SVGHomeElectricMeter_20_sharp from '../../svg/home/HomeElectricMeter/20_sharp.svg';
+import SVGHomeElectricMeter_24_sharp from '../../svg/home/HomeElectricMeter/24_sharp.svg';
+import SVGHomeElectricMeter_20_filled from '../../svg/home/HomeElectricMeter/20_filled.svg';
+import SVGHomeElectricMeter_24_filled from '../../svg/home/HomeElectricMeter/24_filled.svg';
+import SVGHomeElectricMeter_20_round from '../../svg/home/HomeElectricMeter/20_round.svg';
+import SVGHomeElectricMeter_24_round from '../../svg/home/HomeElectricMeter/24_round.svg';
+
+export const IconHomeElectricMeter20outlined = () => <SVGHomeElectricMeter_20_outlined />;
+export const IconHomeElectricMeter24outlined = () => <SVGHomeElectricMeter_24_outlined />;
+export const IconHomeElectricMeter20twotone = () => <SVGHomeElectricMeter_20_twotone />;
+export const IconHomeElectricMeter24twotone = () => <SVGHomeElectricMeter_24_twotone />;
+export const IconHomeElectricMeter20sharp = () => <SVGHomeElectricMeter_20_sharp />;
+export const IconHomeElectricMeter24sharp = () => <SVGHomeElectricMeter_24_sharp />;
+export const IconHomeElectricMeter20filled = () => <SVGHomeElectricMeter_20_filled />;
+export const IconHomeElectricMeter24filled = () => <SVGHomeElectricMeter_24_filled />;
+export const IconHomeElectricMeter20round = () => <SVGHomeElectricMeter_20_round />;
+export const IconHomeElectricMeter24round = () => <SVGHomeElectricMeter_24_round />;

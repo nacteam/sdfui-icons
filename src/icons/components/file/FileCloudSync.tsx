@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileCloudSync_20_outlined from '../../svg/file/FileCloudSync/20_outlined.svg';
+import SVGFileCloudSync_24_outlined from '../../svg/file/FileCloudSync/24_outlined.svg';
+import SVGFileCloudSync_20_twotone from '../../svg/file/FileCloudSync/20_twotone.svg';
+import SVGFileCloudSync_24_twotone from '../../svg/file/FileCloudSync/24_twotone.svg';
+import SVGFileCloudSync_20_sharp from '../../svg/file/FileCloudSync/20_sharp.svg';
+import SVGFileCloudSync_24_sharp from '../../svg/file/FileCloudSync/24_sharp.svg';
+import SVGFileCloudSync_20_filled from '../../svg/file/FileCloudSync/20_filled.svg';
+import SVGFileCloudSync_24_filled from '../../svg/file/FileCloudSync/24_filled.svg';
+import SVGFileCloudSync_20_round from '../../svg/file/FileCloudSync/20_round.svg';
+import SVGFileCloudSync_24_round from '../../svg/file/FileCloudSync/24_round.svg';
+
+export const IconFileCloudSync20outlined = () => <SVGFileCloudSync_20_outlined />;
+export const IconFileCloudSync24outlined = () => <SVGFileCloudSync_24_outlined />;
+export const IconFileCloudSync20twotone = () => <SVGFileCloudSync_20_twotone />;
+export const IconFileCloudSync24twotone = () => <SVGFileCloudSync_24_twotone />;
+export const IconFileCloudSync20sharp = () => <SVGFileCloudSync_20_sharp />;
+export const IconFileCloudSync24sharp = () => <SVGFileCloudSync_24_sharp />;
+export const IconFileCloudSync20filled = () => <SVGFileCloudSync_20_filled />;
+export const IconFileCloudSync24filled = () => <SVGFileCloudSync_24_filled />;
+export const IconFileCloudSync20round = () => <SVGFileCloudSync_20_round />;
+export const IconFileCloudSync24round = () => <SVGFileCloudSync_24_round />;

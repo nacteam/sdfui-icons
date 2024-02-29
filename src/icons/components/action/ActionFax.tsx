@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFax_20_outlined from '../../svg/action/ActionFax/20_outlined.svg';
+import SVGActionFax_24_outlined from '../../svg/action/ActionFax/24_outlined.svg';
+import SVGActionFax_20_twotone from '../../svg/action/ActionFax/20_twotone.svg';
+import SVGActionFax_24_twotone from '../../svg/action/ActionFax/24_twotone.svg';
+import SVGActionFax_20_sharp from '../../svg/action/ActionFax/20_sharp.svg';
+import SVGActionFax_24_sharp from '../../svg/action/ActionFax/24_sharp.svg';
+import SVGActionFax_20_filled from '../../svg/action/ActionFax/20_filled.svg';
+import SVGActionFax_24_filled from '../../svg/action/ActionFax/24_filled.svg';
+import SVGActionFax_20_round from '../../svg/action/ActionFax/20_round.svg';
+import SVGActionFax_24_round from '../../svg/action/ActionFax/24_round.svg';
+
+export const IconActionFax20outlined = () => <SVGActionFax_20_outlined />;
+export const IconActionFax24outlined = () => <SVGActionFax_24_outlined />;
+export const IconActionFax20twotone = () => <SVGActionFax_20_twotone />;
+export const IconActionFax24twotone = () => <SVGActionFax_24_twotone />;
+export const IconActionFax20sharp = () => <SVGActionFax_20_sharp />;
+export const IconActionFax24sharp = () => <SVGActionFax_24_sharp />;
+export const IconActionFax20filled = () => <SVGActionFax_20_filled />;
+export const IconActionFax24filled = () => <SVGActionFax_24_filled />;
+export const IconActionFax20round = () => <SVGActionFax_20_round />;
+export const IconActionFax24round = () => <SVGActionFax_24_round />;

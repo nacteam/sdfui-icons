@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewTimeline_20_outlined from '../../svg/action/ActionViewTimeline/20_outlined.svg';
+import SVGActionViewTimeline_24_outlined from '../../svg/action/ActionViewTimeline/24_outlined.svg';
+import SVGActionViewTimeline_20_twotone from '../../svg/action/ActionViewTimeline/20_twotone.svg';
+import SVGActionViewTimeline_24_twotone from '../../svg/action/ActionViewTimeline/24_twotone.svg';
+import SVGActionViewTimeline_20_sharp from '../../svg/action/ActionViewTimeline/20_sharp.svg';
+import SVGActionViewTimeline_24_sharp from '../../svg/action/ActionViewTimeline/24_sharp.svg';
+import SVGActionViewTimeline_20_filled from '../../svg/action/ActionViewTimeline/20_filled.svg';
+import SVGActionViewTimeline_24_filled from '../../svg/action/ActionViewTimeline/24_filled.svg';
+import SVGActionViewTimeline_20_round from '../../svg/action/ActionViewTimeline/20_round.svg';
+import SVGActionViewTimeline_24_round from '../../svg/action/ActionViewTimeline/24_round.svg';
+
+export const IconActionViewTimeline20outlined = () => <SVGActionViewTimeline_20_outlined />;
+export const IconActionViewTimeline24outlined = () => <SVGActionViewTimeline_24_outlined />;
+export const IconActionViewTimeline20twotone = () => <SVGActionViewTimeline_20_twotone />;
+export const IconActionViewTimeline24twotone = () => <SVGActionViewTimeline_24_twotone />;
+export const IconActionViewTimeline20sharp = () => <SVGActionViewTimeline_20_sharp />;
+export const IconActionViewTimeline24sharp = () => <SVGActionViewTimeline_24_sharp />;
+export const IconActionViewTimeline20filled = () => <SVGActionViewTimeline_20_filled />;
+export const IconActionViewTimeline24filled = () => <SVGActionViewTimeline_24_filled />;
+export const IconActionViewTimeline20round = () => <SVGActionViewTimeline_20_round />;
+export const IconActionViewTimeline24round = () => <SVGActionViewTimeline_24_round />;

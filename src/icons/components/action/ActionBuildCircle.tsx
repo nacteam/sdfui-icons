@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionBuildCircle_20_outlined from '../../svg/action/ActionBuildCircle/20_outlined.svg';
+import SVGActionBuildCircle_24_outlined from '../../svg/action/ActionBuildCircle/24_outlined.svg';
+import SVGActionBuildCircle_20_twotone from '../../svg/action/ActionBuildCircle/20_twotone.svg';
+import SVGActionBuildCircle_24_twotone from '../../svg/action/ActionBuildCircle/24_twotone.svg';
+import SVGActionBuildCircle_20_sharp from '../../svg/action/ActionBuildCircle/20_sharp.svg';
+import SVGActionBuildCircle_24_sharp from '../../svg/action/ActionBuildCircle/24_sharp.svg';
+import SVGActionBuildCircle_20_filled from '../../svg/action/ActionBuildCircle/20_filled.svg';
+import SVGActionBuildCircle_24_filled from '../../svg/action/ActionBuildCircle/24_filled.svg';
+import SVGActionBuildCircle_20_round from '../../svg/action/ActionBuildCircle/20_round.svg';
+import SVGActionBuildCircle_24_round from '../../svg/action/ActionBuildCircle/24_round.svg';
+
+export const IconActionBuildCircle20outlined = () => <SVGActionBuildCircle_20_outlined />;
+export const IconActionBuildCircle24outlined = () => <SVGActionBuildCircle_24_outlined />;
+export const IconActionBuildCircle20twotone = () => <SVGActionBuildCircle_20_twotone />;
+export const IconActionBuildCircle24twotone = () => <SVGActionBuildCircle_24_twotone />;
+export const IconActionBuildCircle20sharp = () => <SVGActionBuildCircle_20_sharp />;
+export const IconActionBuildCircle24sharp = () => <SVGActionBuildCircle_24_sharp />;
+export const IconActionBuildCircle20filled = () => <SVGActionBuildCircle_20_filled />;
+export const IconActionBuildCircle24filled = () => <SVGActionBuildCircle_24_filled />;
+export const IconActionBuildCircle20round = () => <SVGActionBuildCircle_20_round />;
+export const IconActionBuildCircle24round = () => <SVGActionBuildCircle_24_round />;

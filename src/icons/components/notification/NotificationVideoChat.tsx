@@ -1,0 +1,22 @@
+import React from "react";
+import SVGNotificationVideoChat_20_outlined from '../../svg/notification/NotificationVideoChat/20_outlined.svg';
+import SVGNotificationVideoChat_24_outlined from '../../svg/notification/NotificationVideoChat/24_outlined.svg';
+import SVGNotificationVideoChat_20_twotone from '../../svg/notification/NotificationVideoChat/20_twotone.svg';
+import SVGNotificationVideoChat_24_twotone from '../../svg/notification/NotificationVideoChat/24_twotone.svg';
+import SVGNotificationVideoChat_20_sharp from '../../svg/notification/NotificationVideoChat/20_sharp.svg';
+import SVGNotificationVideoChat_24_sharp from '../../svg/notification/NotificationVideoChat/24_sharp.svg';
+import SVGNotificationVideoChat_20_filled from '../../svg/notification/NotificationVideoChat/20_filled.svg';
+import SVGNotificationVideoChat_24_filled from '../../svg/notification/NotificationVideoChat/24_filled.svg';
+import SVGNotificationVideoChat_20_round from '../../svg/notification/NotificationVideoChat/20_round.svg';
+import SVGNotificationVideoChat_24_round from '../../svg/notification/NotificationVideoChat/24_round.svg';
+
+export const IconNotificationVideoChat20outlined = () => <SVGNotificationVideoChat_20_outlined />;
+export const IconNotificationVideoChat24outlined = () => <SVGNotificationVideoChat_24_outlined />;
+export const IconNotificationVideoChat20twotone = () => <SVGNotificationVideoChat_20_twotone />;
+export const IconNotificationVideoChat24twotone = () => <SVGNotificationVideoChat_24_twotone />;
+export const IconNotificationVideoChat20sharp = () => <SVGNotificationVideoChat_20_sharp />;
+export const IconNotificationVideoChat24sharp = () => <SVGNotificationVideoChat_24_sharp />;
+export const IconNotificationVideoChat20filled = () => <SVGNotificationVideoChat_20_filled />;
+export const IconNotificationVideoChat24filled = () => <SVGNotificationVideoChat_24_filled />;
+export const IconNotificationVideoChat20round = () => <SVGNotificationVideoChat_20_round />;
+export const IconNotificationVideoChat24round = () => <SVGNotificationVideoChat_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialFemale_20_outlined from '../../svg/social/SocialFemale/20_outlined.svg';
+import SVGSocialFemale_24_outlined from '../../svg/social/SocialFemale/24_outlined.svg';
+import SVGSocialFemale_20_twotone from '../../svg/social/SocialFemale/20_twotone.svg';
+import SVGSocialFemale_24_twotone from '../../svg/social/SocialFemale/24_twotone.svg';
+import SVGSocialFemale_20_sharp from '../../svg/social/SocialFemale/20_sharp.svg';
+import SVGSocialFemale_24_sharp from '../../svg/social/SocialFemale/24_sharp.svg';
+import SVGSocialFemale_20_filled from '../../svg/social/SocialFemale/20_filled.svg';
+import SVGSocialFemale_24_filled from '../../svg/social/SocialFemale/24_filled.svg';
+import SVGSocialFemale_20_round from '../../svg/social/SocialFemale/20_round.svg';
+import SVGSocialFemale_24_round from '../../svg/social/SocialFemale/24_round.svg';
+
+export const IconSocialFemale20outlined = () => <SVGSocialFemale_20_outlined />;
+export const IconSocialFemale24outlined = () => <SVGSocialFemale_24_outlined />;
+export const IconSocialFemale20twotone = () => <SVGSocialFemale_20_twotone />;
+export const IconSocialFemale24twotone = () => <SVGSocialFemale_24_twotone />;
+export const IconSocialFemale20sharp = () => <SVGSocialFemale_20_sharp />;
+export const IconSocialFemale24sharp = () => <SVGSocialFemale_24_sharp />;
+export const IconSocialFemale20filled = () => <SVGSocialFemale_20_filled />;
+export const IconSocialFemale24filled = () => <SVGSocialFemale_24_filled />;
+export const IconSocialFemale20round = () => <SVGSocialFemale_20_round />;
+export const IconSocialFemale24round = () => <SVGSocialFemale_24_round />;

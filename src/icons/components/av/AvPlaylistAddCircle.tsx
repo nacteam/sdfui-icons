@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvPlaylistAddCircle_20_outlined from '../../svg/av/AvPlaylistAddCircle/20_outlined.svg';
+import SVGAvPlaylistAddCircle_24_outlined from '../../svg/av/AvPlaylistAddCircle/24_outlined.svg';
+import SVGAvPlaylistAddCircle_20_twotone from '../../svg/av/AvPlaylistAddCircle/20_twotone.svg';
+import SVGAvPlaylistAddCircle_24_twotone from '../../svg/av/AvPlaylistAddCircle/24_twotone.svg';
+import SVGAvPlaylistAddCircle_20_sharp from '../../svg/av/AvPlaylistAddCircle/20_sharp.svg';
+import SVGAvPlaylistAddCircle_24_sharp from '../../svg/av/AvPlaylistAddCircle/24_sharp.svg';
+import SVGAvPlaylistAddCircle_20_filled from '../../svg/av/AvPlaylistAddCircle/20_filled.svg';
+import SVGAvPlaylistAddCircle_24_filled from '../../svg/av/AvPlaylistAddCircle/24_filled.svg';
+import SVGAvPlaylistAddCircle_20_round from '../../svg/av/AvPlaylistAddCircle/20_round.svg';
+import SVGAvPlaylistAddCircle_24_round from '../../svg/av/AvPlaylistAddCircle/24_round.svg';
+
+export const IconAvPlaylistAddCircle20outlined = () => <SVGAvPlaylistAddCircle_20_outlined />;
+export const IconAvPlaylistAddCircle24outlined = () => <SVGAvPlaylistAddCircle_24_outlined />;
+export const IconAvPlaylistAddCircle20twotone = () => <SVGAvPlaylistAddCircle_20_twotone />;
+export const IconAvPlaylistAddCircle24twotone = () => <SVGAvPlaylistAddCircle_24_twotone />;
+export const IconAvPlaylistAddCircle20sharp = () => <SVGAvPlaylistAddCircle_20_sharp />;
+export const IconAvPlaylistAddCircle24sharp = () => <SVGAvPlaylistAddCircle_24_sharp />;
+export const IconAvPlaylistAddCircle20filled = () => <SVGAvPlaylistAddCircle_20_filled />;
+export const IconAvPlaylistAddCircle24filled = () => <SVGAvPlaylistAddCircle_24_filled />;
+export const IconAvPlaylistAddCircle20round = () => <SVGAvPlaylistAddCircle_20_round />;
+export const IconAvPlaylistAddCircle24round = () => <SVGAvPlaylistAddCircle_24_round />;

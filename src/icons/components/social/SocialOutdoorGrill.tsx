@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialOutdoorGrill_20_outlined from '../../svg/social/SocialOutdoorGrill/20_outlined.svg';
+import SVGSocialOutdoorGrill_24_outlined from '../../svg/social/SocialOutdoorGrill/24_outlined.svg';
+import SVGSocialOutdoorGrill_20_twotone from '../../svg/social/SocialOutdoorGrill/20_twotone.svg';
+import SVGSocialOutdoorGrill_24_twotone from '../../svg/social/SocialOutdoorGrill/24_twotone.svg';
+import SVGSocialOutdoorGrill_20_sharp from '../../svg/social/SocialOutdoorGrill/20_sharp.svg';
+import SVGSocialOutdoorGrill_24_sharp from '../../svg/social/SocialOutdoorGrill/24_sharp.svg';
+import SVGSocialOutdoorGrill_20_filled from '../../svg/social/SocialOutdoorGrill/20_filled.svg';
+import SVGSocialOutdoorGrill_24_filled from '../../svg/social/SocialOutdoorGrill/24_filled.svg';
+import SVGSocialOutdoorGrill_20_round from '../../svg/social/SocialOutdoorGrill/20_round.svg';
+import SVGSocialOutdoorGrill_24_round from '../../svg/social/SocialOutdoorGrill/24_round.svg';
+
+export const IconSocialOutdoorGrill20outlined = () => <SVGSocialOutdoorGrill_20_outlined />;
+export const IconSocialOutdoorGrill24outlined = () => <SVGSocialOutdoorGrill_24_outlined />;
+export const IconSocialOutdoorGrill20twotone = () => <SVGSocialOutdoorGrill_20_twotone />;
+export const IconSocialOutdoorGrill24twotone = () => <SVGSocialOutdoorGrill_24_twotone />;
+export const IconSocialOutdoorGrill20sharp = () => <SVGSocialOutdoorGrill_20_sharp />;
+export const IconSocialOutdoorGrill24sharp = () => <SVGSocialOutdoorGrill_24_sharp />;
+export const IconSocialOutdoorGrill20filled = () => <SVGSocialOutdoorGrill_20_filled />;
+export const IconSocialOutdoorGrill24filled = () => <SVGSocialOutdoorGrill_24_filled />;
+export const IconSocialOutdoorGrill20round = () => <SVGSocialOutdoorGrill_20_round />;
+export const IconSocialOutdoorGrill24round = () => <SVGSocialOutdoorGrill_24_round />;

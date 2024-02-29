@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewQuilt_20_outlined from '../../svg/action/ActionViewQuilt/20_outlined.svg';
+import SVGActionViewQuilt_24_outlined from '../../svg/action/ActionViewQuilt/24_outlined.svg';
+import SVGActionViewQuilt_20_twotone from '../../svg/action/ActionViewQuilt/20_twotone.svg';
+import SVGActionViewQuilt_24_twotone from '../../svg/action/ActionViewQuilt/24_twotone.svg';
+import SVGActionViewQuilt_20_sharp from '../../svg/action/ActionViewQuilt/20_sharp.svg';
+import SVGActionViewQuilt_24_sharp from '../../svg/action/ActionViewQuilt/24_sharp.svg';
+import SVGActionViewQuilt_20_filled from '../../svg/action/ActionViewQuilt/20_filled.svg';
+import SVGActionViewQuilt_24_filled from '../../svg/action/ActionViewQuilt/24_filled.svg';
+import SVGActionViewQuilt_20_round from '../../svg/action/ActionViewQuilt/20_round.svg';
+import SVGActionViewQuilt_24_round from '../../svg/action/ActionViewQuilt/24_round.svg';
+
+export const IconActionViewQuilt20outlined = () => <SVGActionViewQuilt_20_outlined />;
+export const IconActionViewQuilt24outlined = () => <SVGActionViewQuilt_24_outlined />;
+export const IconActionViewQuilt20twotone = () => <SVGActionViewQuilt_20_twotone />;
+export const IconActionViewQuilt24twotone = () => <SVGActionViewQuilt_24_twotone />;
+export const IconActionViewQuilt20sharp = () => <SVGActionViewQuilt_20_sharp />;
+export const IconActionViewQuilt24sharp = () => <SVGActionViewQuilt_24_sharp />;
+export const IconActionViewQuilt20filled = () => <SVGActionViewQuilt_20_filled />;
+export const IconActionViewQuilt24filled = () => <SVGActionViewQuilt_24_filled />;
+export const IconActionViewQuilt20round = () => <SVGActionViewQuilt_20_round />;
+export const IconActionViewQuilt24round = () => <SVGActionViewQuilt_24_round />;

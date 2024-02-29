@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsBasketball_20_outlined from '../../svg/social/SocialSportsBasketball/20_outlined.svg';
+import SVGSocialSportsBasketball_24_outlined from '../../svg/social/SocialSportsBasketball/24_outlined.svg';
+import SVGSocialSportsBasketball_20_twotone from '../../svg/social/SocialSportsBasketball/20_twotone.svg';
+import SVGSocialSportsBasketball_24_twotone from '../../svg/social/SocialSportsBasketball/24_twotone.svg';
+import SVGSocialSportsBasketball_20_sharp from '../../svg/social/SocialSportsBasketball/20_sharp.svg';
+import SVGSocialSportsBasketball_24_sharp from '../../svg/social/SocialSportsBasketball/24_sharp.svg';
+import SVGSocialSportsBasketball_20_filled from '../../svg/social/SocialSportsBasketball/20_filled.svg';
+import SVGSocialSportsBasketball_24_filled from '../../svg/social/SocialSportsBasketball/24_filled.svg';
+import SVGSocialSportsBasketball_20_round from '../../svg/social/SocialSportsBasketball/20_round.svg';
+import SVGSocialSportsBasketball_24_round from '../../svg/social/SocialSportsBasketball/24_round.svg';
+
+export const IconSocialSportsBasketball20outlined = () => <SVGSocialSportsBasketball_20_outlined />;
+export const IconSocialSportsBasketball24outlined = () => <SVGSocialSportsBasketball_24_outlined />;
+export const IconSocialSportsBasketball20twotone = () => <SVGSocialSportsBasketball_20_twotone />;
+export const IconSocialSportsBasketball24twotone = () => <SVGSocialSportsBasketball_24_twotone />;
+export const IconSocialSportsBasketball20sharp = () => <SVGSocialSportsBasketball_20_sharp />;
+export const IconSocialSportsBasketball24sharp = () => <SVGSocialSportsBasketball_24_sharp />;
+export const IconSocialSportsBasketball20filled = () => <SVGSocialSportsBasketball_20_filled />;
+export const IconSocialSportsBasketball24filled = () => <SVGSocialSportsBasketball_24_filled />;
+export const IconSocialSportsBasketball20round = () => <SVGSocialSportsBasketball_20_round />;
+export const IconSocialSportsBasketball24round = () => <SVGSocialSportsBasketball_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorQueryStats_20_outlined from '../../svg/editor/EditorQueryStats/20_outlined.svg';
+import SVGEditorQueryStats_24_outlined from '../../svg/editor/EditorQueryStats/24_outlined.svg';
+import SVGEditorQueryStats_20_twotone from '../../svg/editor/EditorQueryStats/20_twotone.svg';
+import SVGEditorQueryStats_24_twotone from '../../svg/editor/EditorQueryStats/24_twotone.svg';
+import SVGEditorQueryStats_20_sharp from '../../svg/editor/EditorQueryStats/20_sharp.svg';
+import SVGEditorQueryStats_24_sharp from '../../svg/editor/EditorQueryStats/24_sharp.svg';
+import SVGEditorQueryStats_20_filled from '../../svg/editor/EditorQueryStats/20_filled.svg';
+import SVGEditorQueryStats_24_filled from '../../svg/editor/EditorQueryStats/24_filled.svg';
+import SVGEditorQueryStats_20_round from '../../svg/editor/EditorQueryStats/20_round.svg';
+import SVGEditorQueryStats_24_round from '../../svg/editor/EditorQueryStats/24_round.svg';
+
+export const IconEditorQueryStats20outlined = () => <SVGEditorQueryStats_20_outlined />;
+export const IconEditorQueryStats24outlined = () => <SVGEditorQueryStats_24_outlined />;
+export const IconEditorQueryStats20twotone = () => <SVGEditorQueryStats_20_twotone />;
+export const IconEditorQueryStats24twotone = () => <SVGEditorQueryStats_24_twotone />;
+export const IconEditorQueryStats20sharp = () => <SVGEditorQueryStats_20_sharp />;
+export const IconEditorQueryStats24sharp = () => <SVGEditorQueryStats_24_sharp />;
+export const IconEditorQueryStats20filled = () => <SVGEditorQueryStats_20_filled />;
+export const IconEditorQueryStats24filled = () => <SVGEditorQueryStats_24_filled />;
+export const IconEditorQueryStats20round = () => <SVGEditorQueryStats_20_round />;
+export const IconEditorQueryStats24round = () => <SVGEditorQueryStats_24_round />;

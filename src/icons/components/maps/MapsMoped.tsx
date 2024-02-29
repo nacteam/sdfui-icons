@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsMoped_20_outlined from '../../svg/maps/MapsMoped/20_outlined.svg';
+import SVGMapsMoped_24_outlined from '../../svg/maps/MapsMoped/24_outlined.svg';
+import SVGMapsMoped_20_twotone from '../../svg/maps/MapsMoped/20_twotone.svg';
+import SVGMapsMoped_24_twotone from '../../svg/maps/MapsMoped/24_twotone.svg';
+import SVGMapsMoped_20_sharp from '../../svg/maps/MapsMoped/20_sharp.svg';
+import SVGMapsMoped_24_sharp from '../../svg/maps/MapsMoped/24_sharp.svg';
+import SVGMapsMoped_20_filled from '../../svg/maps/MapsMoped/20_filled.svg';
+import SVGMapsMoped_24_filled from '../../svg/maps/MapsMoped/24_filled.svg';
+import SVGMapsMoped_20_round from '../../svg/maps/MapsMoped/20_round.svg';
+import SVGMapsMoped_24_round from '../../svg/maps/MapsMoped/24_round.svg';
+
+export const IconMapsMoped20outlined = () => <SVGMapsMoped_20_outlined />;
+export const IconMapsMoped24outlined = () => <SVGMapsMoped_24_outlined />;
+export const IconMapsMoped20twotone = () => <SVGMapsMoped_20_twotone />;
+export const IconMapsMoped24twotone = () => <SVGMapsMoped_24_twotone />;
+export const IconMapsMoped20sharp = () => <SVGMapsMoped_20_sharp />;
+export const IconMapsMoped24sharp = () => <SVGMapsMoped_24_sharp />;
+export const IconMapsMoped20filled = () => <SVGMapsMoped_20_filled />;
+export const IconMapsMoped24filled = () => <SVGMapsMoped_24_filled />;
+export const IconMapsMoped20round = () => <SVGMapsMoped_20_round />;
+export const IconMapsMoped24round = () => <SVGMapsMoped_24_round />;

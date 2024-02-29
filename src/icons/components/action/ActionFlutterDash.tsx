@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionFlutterDash_20_outlined from '../../svg/action/ActionFlutterDash/20_outlined.svg';
+import SVGActionFlutterDash_24_outlined from '../../svg/action/ActionFlutterDash/24_outlined.svg';
+import SVGActionFlutterDash_20_twotone from '../../svg/action/ActionFlutterDash/20_twotone.svg';
+import SVGActionFlutterDash_24_twotone from '../../svg/action/ActionFlutterDash/24_twotone.svg';
+import SVGActionFlutterDash_20_sharp from '../../svg/action/ActionFlutterDash/20_sharp.svg';
+import SVGActionFlutterDash_24_sharp from '../../svg/action/ActionFlutterDash/24_sharp.svg';
+import SVGActionFlutterDash_20_filled from '../../svg/action/ActionFlutterDash/20_filled.svg';
+import SVGActionFlutterDash_24_filled from '../../svg/action/ActionFlutterDash/24_filled.svg';
+import SVGActionFlutterDash_20_round from '../../svg/action/ActionFlutterDash/20_round.svg';
+import SVGActionFlutterDash_24_round from '../../svg/action/ActionFlutterDash/24_round.svg';
+
+export const IconActionFlutterDash20outlined = () => <SVGActionFlutterDash_20_outlined />;
+export const IconActionFlutterDash24outlined = () => <SVGActionFlutterDash_24_outlined />;
+export const IconActionFlutterDash20twotone = () => <SVGActionFlutterDash_20_twotone />;
+export const IconActionFlutterDash24twotone = () => <SVGActionFlutterDash_24_twotone />;
+export const IconActionFlutterDash20sharp = () => <SVGActionFlutterDash_20_sharp />;
+export const IconActionFlutterDash24sharp = () => <SVGActionFlutterDash_24_sharp />;
+export const IconActionFlutterDash20filled = () => <SVGActionFlutterDash_20_filled />;
+export const IconActionFlutterDash24filled = () => <SVGActionFlutterDash_24_filled />;
+export const IconActionFlutterDash20round = () => <SVGActionFlutterDash_20_round />;
+export const IconActionFlutterDash24round = () => <SVGActionFlutterDash_24_round />;

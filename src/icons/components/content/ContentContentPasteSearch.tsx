@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentContentPasteSearch_20_outlined from '../../svg/content/ContentContentPasteSearch/20_outlined.svg';
+import SVGContentContentPasteSearch_24_outlined from '../../svg/content/ContentContentPasteSearch/24_outlined.svg';
+import SVGContentContentPasteSearch_20_twotone from '../../svg/content/ContentContentPasteSearch/20_twotone.svg';
+import SVGContentContentPasteSearch_24_twotone from '../../svg/content/ContentContentPasteSearch/24_twotone.svg';
+import SVGContentContentPasteSearch_20_sharp from '../../svg/content/ContentContentPasteSearch/20_sharp.svg';
+import SVGContentContentPasteSearch_24_sharp from '../../svg/content/ContentContentPasteSearch/24_sharp.svg';
+import SVGContentContentPasteSearch_20_filled from '../../svg/content/ContentContentPasteSearch/20_filled.svg';
+import SVGContentContentPasteSearch_24_filled from '../../svg/content/ContentContentPasteSearch/24_filled.svg';
+import SVGContentContentPasteSearch_20_round from '../../svg/content/ContentContentPasteSearch/20_round.svg';
+import SVGContentContentPasteSearch_24_round from '../../svg/content/ContentContentPasteSearch/24_round.svg';
+
+export const IconContentContentPasteSearch20outlined = () => <SVGContentContentPasteSearch_20_outlined />;
+export const IconContentContentPasteSearch24outlined = () => <SVGContentContentPasteSearch_24_outlined />;
+export const IconContentContentPasteSearch20twotone = () => <SVGContentContentPasteSearch_20_twotone />;
+export const IconContentContentPasteSearch24twotone = () => <SVGContentContentPasteSearch_24_twotone />;
+export const IconContentContentPasteSearch20sharp = () => <SVGContentContentPasteSearch_20_sharp />;
+export const IconContentContentPasteSearch24sharp = () => <SVGContentContentPasteSearch_24_sharp />;
+export const IconContentContentPasteSearch20filled = () => <SVGContentContentPasteSearch_20_filled />;
+export const IconContentContentPasteSearch24filled = () => <SVGContentContentPasteSearch_24_filled />;
+export const IconContentContentPasteSearch20round = () => <SVGContentContentPasteSearch_20_round />;
+export const IconContentContentPasteSearch24round = () => <SVGContentContentPasteSearch_24_round />;

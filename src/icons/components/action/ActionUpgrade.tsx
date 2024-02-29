@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionUpgrade_20_outlined from '../../svg/action/ActionUpgrade/20_outlined.svg';
+import SVGActionUpgrade_24_outlined from '../../svg/action/ActionUpgrade/24_outlined.svg';
+import SVGActionUpgrade_20_twotone from '../../svg/action/ActionUpgrade/20_twotone.svg';
+import SVGActionUpgrade_24_twotone from '../../svg/action/ActionUpgrade/24_twotone.svg';
+import SVGActionUpgrade_20_sharp from '../../svg/action/ActionUpgrade/20_sharp.svg';
+import SVGActionUpgrade_24_sharp from '../../svg/action/ActionUpgrade/24_sharp.svg';
+import SVGActionUpgrade_20_filled from '../../svg/action/ActionUpgrade/20_filled.svg';
+import SVGActionUpgrade_24_filled from '../../svg/action/ActionUpgrade/24_filled.svg';
+import SVGActionUpgrade_20_round from '../../svg/action/ActionUpgrade/20_round.svg';
+import SVGActionUpgrade_24_round from '../../svg/action/ActionUpgrade/24_round.svg';
+
+export const IconActionUpgrade20outlined = () => <SVGActionUpgrade_20_outlined />;
+export const IconActionUpgrade24outlined = () => <SVGActionUpgrade_24_outlined />;
+export const IconActionUpgrade20twotone = () => <SVGActionUpgrade_20_twotone />;
+export const IconActionUpgrade24twotone = () => <SVGActionUpgrade_24_twotone />;
+export const IconActionUpgrade20sharp = () => <SVGActionUpgrade_20_sharp />;
+export const IconActionUpgrade24sharp = () => <SVGActionUpgrade_24_sharp />;
+export const IconActionUpgrade20filled = () => <SVGActionUpgrade_20_filled />;
+export const IconActionUpgrade24filled = () => <SVGActionUpgrade_24_filled />;
+export const IconActionUpgrade20round = () => <SVGActionUpgrade_20_round />;
+export const IconActionUpgrade24round = () => <SVGActionUpgrade_24_round />;

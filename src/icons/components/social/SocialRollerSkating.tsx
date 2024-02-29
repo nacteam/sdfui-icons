@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialRollerSkating_20_outlined from '../../svg/social/SocialRollerSkating/20_outlined.svg';
+import SVGSocialRollerSkating_24_outlined from '../../svg/social/SocialRollerSkating/24_outlined.svg';
+import SVGSocialRollerSkating_20_twotone from '../../svg/social/SocialRollerSkating/20_twotone.svg';
+import SVGSocialRollerSkating_24_twotone from '../../svg/social/SocialRollerSkating/24_twotone.svg';
+import SVGSocialRollerSkating_20_sharp from '../../svg/social/SocialRollerSkating/20_sharp.svg';
+import SVGSocialRollerSkating_24_sharp from '../../svg/social/SocialRollerSkating/24_sharp.svg';
+import SVGSocialRollerSkating_20_filled from '../../svg/social/SocialRollerSkating/20_filled.svg';
+import SVGSocialRollerSkating_24_filled from '../../svg/social/SocialRollerSkating/24_filled.svg';
+import SVGSocialRollerSkating_20_round from '../../svg/social/SocialRollerSkating/20_round.svg';
+import SVGSocialRollerSkating_24_round from '../../svg/social/SocialRollerSkating/24_round.svg';
+
+export const IconSocialRollerSkating20outlined = () => <SVGSocialRollerSkating_20_outlined />;
+export const IconSocialRollerSkating24outlined = () => <SVGSocialRollerSkating_24_outlined />;
+export const IconSocialRollerSkating20twotone = () => <SVGSocialRollerSkating_20_twotone />;
+export const IconSocialRollerSkating24twotone = () => <SVGSocialRollerSkating_24_twotone />;
+export const IconSocialRollerSkating20sharp = () => <SVGSocialRollerSkating_20_sharp />;
+export const IconSocialRollerSkating24sharp = () => <SVGSocialRollerSkating_24_sharp />;
+export const IconSocialRollerSkating20filled = () => <SVGSocialRollerSkating_20_filled />;
+export const IconSocialRollerSkating24filled = () => <SVGSocialRollerSkating_24_filled />;
+export const IconSocialRollerSkating20round = () => <SVGSocialRollerSkating_20_round />;
+export const IconSocialRollerSkating24round = () => <SVGSocialRollerSkating_24_round />;

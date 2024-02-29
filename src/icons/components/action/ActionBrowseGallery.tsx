@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionBrowseGallery_20_outlined from '../../svg/action/ActionBrowseGallery/20_outlined.svg';
+import SVGActionBrowseGallery_24_outlined from '../../svg/action/ActionBrowseGallery/24_outlined.svg';
+import SVGActionBrowseGallery_20_twotone from '../../svg/action/ActionBrowseGallery/20_twotone.svg';
+import SVGActionBrowseGallery_24_twotone from '../../svg/action/ActionBrowseGallery/24_twotone.svg';
+import SVGActionBrowseGallery_20_sharp from '../../svg/action/ActionBrowseGallery/20_sharp.svg';
+import SVGActionBrowseGallery_24_sharp from '../../svg/action/ActionBrowseGallery/24_sharp.svg';
+import SVGActionBrowseGallery_20_filled from '../../svg/action/ActionBrowseGallery/20_filled.svg';
+import SVGActionBrowseGallery_24_filled from '../../svg/action/ActionBrowseGallery/24_filled.svg';
+import SVGActionBrowseGallery_20_round from '../../svg/action/ActionBrowseGallery/20_round.svg';
+import SVGActionBrowseGallery_24_round from '../../svg/action/ActionBrowseGallery/24_round.svg';
+
+export const IconActionBrowseGallery20outlined = () => <SVGActionBrowseGallery_20_outlined />;
+export const IconActionBrowseGallery24outlined = () => <SVGActionBrowseGallery_24_outlined />;
+export const IconActionBrowseGallery20twotone = () => <SVGActionBrowseGallery_20_twotone />;
+export const IconActionBrowseGallery24twotone = () => <SVGActionBrowseGallery_24_twotone />;
+export const IconActionBrowseGallery20sharp = () => <SVGActionBrowseGallery_20_sharp />;
+export const IconActionBrowseGallery24sharp = () => <SVGActionBrowseGallery_24_sharp />;
+export const IconActionBrowseGallery20filled = () => <SVGActionBrowseGallery_20_filled />;
+export const IconActionBrowseGallery24filled = () => <SVGActionBrowseGallery_24_filled />;
+export const IconActionBrowseGallery20round = () => <SVGActionBrowseGallery_20_round />;
+export const IconActionBrowseGallery24round = () => <SVGActionBrowseGallery_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionModelTraining_20_outlined from '../../svg/action/ActionModelTraining/20_outlined.svg';
+import SVGActionModelTraining_24_outlined from '../../svg/action/ActionModelTraining/24_outlined.svg';
+import SVGActionModelTraining_20_twotone from '../../svg/action/ActionModelTraining/20_twotone.svg';
+import SVGActionModelTraining_24_twotone from '../../svg/action/ActionModelTraining/24_twotone.svg';
+import SVGActionModelTraining_20_sharp from '../../svg/action/ActionModelTraining/20_sharp.svg';
+import SVGActionModelTraining_24_sharp from '../../svg/action/ActionModelTraining/24_sharp.svg';
+import SVGActionModelTraining_20_filled from '../../svg/action/ActionModelTraining/20_filled.svg';
+import SVGActionModelTraining_24_filled from '../../svg/action/ActionModelTraining/24_filled.svg';
+import SVGActionModelTraining_20_round from '../../svg/action/ActionModelTraining/20_round.svg';
+import SVGActionModelTraining_24_round from '../../svg/action/ActionModelTraining/24_round.svg';
+
+export const IconActionModelTraining20outlined = () => <SVGActionModelTraining_20_outlined />;
+export const IconActionModelTraining24outlined = () => <SVGActionModelTraining_24_outlined />;
+export const IconActionModelTraining20twotone = () => <SVGActionModelTraining_20_twotone />;
+export const IconActionModelTraining24twotone = () => <SVGActionModelTraining_24_twotone />;
+export const IconActionModelTraining20sharp = () => <SVGActionModelTraining_20_sharp />;
+export const IconActionModelTraining24sharp = () => <SVGActionModelTraining_24_sharp />;
+export const IconActionModelTraining20filled = () => <SVGActionModelTraining_20_filled />;
+export const IconActionModelTraining24filled = () => <SVGActionModelTraining_24_filled />;
+export const IconActionModelTraining20round = () => <SVGActionModelTraining_20_round />;
+export const IconActionModelTraining24round = () => <SVGActionModelTraining_24_round />;

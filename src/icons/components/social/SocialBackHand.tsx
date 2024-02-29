@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialBackHand_20_outlined from '../../svg/social/SocialBackHand/20_outlined.svg';
+import SVGSocialBackHand_24_outlined from '../../svg/social/SocialBackHand/24_outlined.svg';
+import SVGSocialBackHand_20_twotone from '../../svg/social/SocialBackHand/20_twotone.svg';
+import SVGSocialBackHand_24_twotone from '../../svg/social/SocialBackHand/24_twotone.svg';
+import SVGSocialBackHand_20_sharp from '../../svg/social/SocialBackHand/20_sharp.svg';
+import SVGSocialBackHand_24_sharp from '../../svg/social/SocialBackHand/24_sharp.svg';
+import SVGSocialBackHand_20_filled from '../../svg/social/SocialBackHand/20_filled.svg';
+import SVGSocialBackHand_24_filled from '../../svg/social/SocialBackHand/24_filled.svg';
+import SVGSocialBackHand_20_round from '../../svg/social/SocialBackHand/20_round.svg';
+import SVGSocialBackHand_24_round from '../../svg/social/SocialBackHand/24_round.svg';
+
+export const IconSocialBackHand20outlined = () => <SVGSocialBackHand_20_outlined />;
+export const IconSocialBackHand24outlined = () => <SVGSocialBackHand_24_outlined />;
+export const IconSocialBackHand20twotone = () => <SVGSocialBackHand_20_twotone />;
+export const IconSocialBackHand24twotone = () => <SVGSocialBackHand_24_twotone />;
+export const IconSocialBackHand20sharp = () => <SVGSocialBackHand_20_sharp />;
+export const IconSocialBackHand24sharp = () => <SVGSocialBackHand_24_sharp />;
+export const IconSocialBackHand20filled = () => <SVGSocialBackHand_20_filled />;
+export const IconSocialBackHand24filled = () => <SVGSocialBackHand_24_filled />;
+export const IconSocialBackHand20round = () => <SVGSocialBackHand_20_round />;
+export const IconSocialBackHand24round = () => <SVGSocialBackHand_24_round />;

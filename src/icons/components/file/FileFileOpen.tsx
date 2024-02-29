@@ -1,0 +1,22 @@
+import React from "react";
+import SVGFileFileOpen_20_outlined from '../../svg/file/FileFileOpen/20_outlined.svg';
+import SVGFileFileOpen_24_outlined from '../../svg/file/FileFileOpen/24_outlined.svg';
+import SVGFileFileOpen_20_twotone from '../../svg/file/FileFileOpen/20_twotone.svg';
+import SVGFileFileOpen_24_twotone from '../../svg/file/FileFileOpen/24_twotone.svg';
+import SVGFileFileOpen_20_sharp from '../../svg/file/FileFileOpen/20_sharp.svg';
+import SVGFileFileOpen_24_sharp from '../../svg/file/FileFileOpen/24_sharp.svg';
+import SVGFileFileOpen_20_filled from '../../svg/file/FileFileOpen/20_filled.svg';
+import SVGFileFileOpen_24_filled from '../../svg/file/FileFileOpen/24_filled.svg';
+import SVGFileFileOpen_20_round from '../../svg/file/FileFileOpen/20_round.svg';
+import SVGFileFileOpen_24_round from '../../svg/file/FileFileOpen/24_round.svg';
+
+export const IconFileFileOpen20outlined = () => <SVGFileFileOpen_20_outlined />;
+export const IconFileFileOpen24outlined = () => <SVGFileFileOpen_24_outlined />;
+export const IconFileFileOpen20twotone = () => <SVGFileFileOpen_20_twotone />;
+export const IconFileFileOpen24twotone = () => <SVGFileFileOpen_24_twotone />;
+export const IconFileFileOpen20sharp = () => <SVGFileFileOpen_20_sharp />;
+export const IconFileFileOpen24sharp = () => <SVGFileFileOpen_24_sharp />;
+export const IconFileFileOpen20filled = () => <SVGFileFileOpen_20_filled />;
+export const IconFileFileOpen24filled = () => <SVGFileFileOpen_24_filled />;
+export const IconFileFileOpen20round = () => <SVGFileFileOpen_20_round />;
+export const IconFileFileOpen24round = () => <SVGFileFileOpen_24_round />;

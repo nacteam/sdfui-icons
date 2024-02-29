@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceMacroOff_20_outlined from '../../svg/device/DeviceMacroOff/20_outlined.svg';
+import SVGDeviceMacroOff_24_outlined from '../../svg/device/DeviceMacroOff/24_outlined.svg';
+import SVGDeviceMacroOff_20_twotone from '../../svg/device/DeviceMacroOff/20_twotone.svg';
+import SVGDeviceMacroOff_24_twotone from '../../svg/device/DeviceMacroOff/24_twotone.svg';
+import SVGDeviceMacroOff_20_sharp from '../../svg/device/DeviceMacroOff/20_sharp.svg';
+import SVGDeviceMacroOff_24_sharp from '../../svg/device/DeviceMacroOff/24_sharp.svg';
+import SVGDeviceMacroOff_20_filled from '../../svg/device/DeviceMacroOff/20_filled.svg';
+import SVGDeviceMacroOff_24_filled from '../../svg/device/DeviceMacroOff/24_filled.svg';
+import SVGDeviceMacroOff_20_round from '../../svg/device/DeviceMacroOff/20_round.svg';
+import SVGDeviceMacroOff_24_round from '../../svg/device/DeviceMacroOff/24_round.svg';
+
+export const IconDeviceMacroOff20outlined = () => <SVGDeviceMacroOff_20_outlined />;
+export const IconDeviceMacroOff24outlined = () => <SVGDeviceMacroOff_24_outlined />;
+export const IconDeviceMacroOff20twotone = () => <SVGDeviceMacroOff_20_twotone />;
+export const IconDeviceMacroOff24twotone = () => <SVGDeviceMacroOff_24_twotone />;
+export const IconDeviceMacroOff20sharp = () => <SVGDeviceMacroOff_20_sharp />;
+export const IconDeviceMacroOff24sharp = () => <SVGDeviceMacroOff_24_sharp />;
+export const IconDeviceMacroOff20filled = () => <SVGDeviceMacroOff_20_filled />;
+export const IconDeviceMacroOff24filled = () => <SVGDeviceMacroOff_24_filled />;
+export const IconDeviceMacroOff20round = () => <SVGDeviceMacroOff_20_round />;
+export const IconDeviceMacroOff24round = () => <SVGDeviceMacroOff_24_round />;

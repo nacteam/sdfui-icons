@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialWaterDrop_20_outlined from '../../svg/social/SocialWaterDrop/20_outlined.svg';
+import SVGSocialWaterDrop_24_outlined from '../../svg/social/SocialWaterDrop/24_outlined.svg';
+import SVGSocialWaterDrop_20_twotone from '../../svg/social/SocialWaterDrop/20_twotone.svg';
+import SVGSocialWaterDrop_24_twotone from '../../svg/social/SocialWaterDrop/24_twotone.svg';
+import SVGSocialWaterDrop_20_sharp from '../../svg/social/SocialWaterDrop/20_sharp.svg';
+import SVGSocialWaterDrop_24_sharp from '../../svg/social/SocialWaterDrop/24_sharp.svg';
+import SVGSocialWaterDrop_20_filled from '../../svg/social/SocialWaterDrop/20_filled.svg';
+import SVGSocialWaterDrop_24_filled from '../../svg/social/SocialWaterDrop/24_filled.svg';
+import SVGSocialWaterDrop_20_round from '../../svg/social/SocialWaterDrop/20_round.svg';
+import SVGSocialWaterDrop_24_round from '../../svg/social/SocialWaterDrop/24_round.svg';
+
+export const IconSocialWaterDrop20outlined = () => <SVGSocialWaterDrop_20_outlined />;
+export const IconSocialWaterDrop24outlined = () => <SVGSocialWaterDrop_24_outlined />;
+export const IconSocialWaterDrop20twotone = () => <SVGSocialWaterDrop_20_twotone />;
+export const IconSocialWaterDrop24twotone = () => <SVGSocialWaterDrop_24_twotone />;
+export const IconSocialWaterDrop20sharp = () => <SVGSocialWaterDrop_20_sharp />;
+export const IconSocialWaterDrop24sharp = () => <SVGSocialWaterDrop_24_sharp />;
+export const IconSocialWaterDrop20filled = () => <SVGSocialWaterDrop_20_filled />;
+export const IconSocialWaterDrop24filled = () => <SVGSocialWaterDrop_24_filled />;
+export const IconSocialWaterDrop20round = () => <SVGSocialWaterDrop_20_round />;
+export const IconSocialWaterDrop24round = () => <SVGSocialWaterDrop_24_round />;

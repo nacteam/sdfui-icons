@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationCoPresent_20_outlined from '../../svg/communication/CommunicationCoPresent/20_outlined.svg';
+import SVGCommunicationCoPresent_24_outlined from '../../svg/communication/CommunicationCoPresent/24_outlined.svg';
+import SVGCommunicationCoPresent_20_twotone from '../../svg/communication/CommunicationCoPresent/20_twotone.svg';
+import SVGCommunicationCoPresent_24_twotone from '../../svg/communication/CommunicationCoPresent/24_twotone.svg';
+import SVGCommunicationCoPresent_20_sharp from '../../svg/communication/CommunicationCoPresent/20_sharp.svg';
+import SVGCommunicationCoPresent_24_sharp from '../../svg/communication/CommunicationCoPresent/24_sharp.svg';
+import SVGCommunicationCoPresent_20_filled from '../../svg/communication/CommunicationCoPresent/20_filled.svg';
+import SVGCommunicationCoPresent_24_filled from '../../svg/communication/CommunicationCoPresent/24_filled.svg';
+import SVGCommunicationCoPresent_20_round from '../../svg/communication/CommunicationCoPresent/20_round.svg';
+import SVGCommunicationCoPresent_24_round from '../../svg/communication/CommunicationCoPresent/24_round.svg';
+
+export const IconCommunicationCoPresent20outlined = () => <SVGCommunicationCoPresent_20_outlined />;
+export const IconCommunicationCoPresent24outlined = () => <SVGCommunicationCoPresent_24_outlined />;
+export const IconCommunicationCoPresent20twotone = () => <SVGCommunicationCoPresent_20_twotone />;
+export const IconCommunicationCoPresent24twotone = () => <SVGCommunicationCoPresent_24_twotone />;
+export const IconCommunicationCoPresent20sharp = () => <SVGCommunicationCoPresent_20_sharp />;
+export const IconCommunicationCoPresent24sharp = () => <SVGCommunicationCoPresent_24_sharp />;
+export const IconCommunicationCoPresent20filled = () => <SVGCommunicationCoPresent_20_filled />;
+export const IconCommunicationCoPresent24filled = () => <SVGCommunicationCoPresent_24_filled />;
+export const IconCommunicationCoPresent20round = () => <SVGCommunicationCoPresent_20_round />;
+export const IconCommunicationCoPresent24round = () => <SVGCommunicationCoPresent_24_round />;

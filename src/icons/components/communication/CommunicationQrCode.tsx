@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationQrCode_20_outlined from '../../svg/communication/CommunicationQrCode/20_outlined.svg';
+import SVGCommunicationQrCode_24_outlined from '../../svg/communication/CommunicationQrCode/24_outlined.svg';
+import SVGCommunicationQrCode_20_twotone from '../../svg/communication/CommunicationQrCode/20_twotone.svg';
+import SVGCommunicationQrCode_24_twotone from '../../svg/communication/CommunicationQrCode/24_twotone.svg';
+import SVGCommunicationQrCode_20_sharp from '../../svg/communication/CommunicationQrCode/20_sharp.svg';
+import SVGCommunicationQrCode_24_sharp from '../../svg/communication/CommunicationQrCode/24_sharp.svg';
+import SVGCommunicationQrCode_20_filled from '../../svg/communication/CommunicationQrCode/20_filled.svg';
+import SVGCommunicationQrCode_24_filled from '../../svg/communication/CommunicationQrCode/24_filled.svg';
+import SVGCommunicationQrCode_20_round from '../../svg/communication/CommunicationQrCode/20_round.svg';
+import SVGCommunicationQrCode_24_round from '../../svg/communication/CommunicationQrCode/24_round.svg';
+
+export const IconCommunicationQrCode20outlined = () => <SVGCommunicationQrCode_20_outlined />;
+export const IconCommunicationQrCode24outlined = () => <SVGCommunicationQrCode_24_outlined />;
+export const IconCommunicationQrCode20twotone = () => <SVGCommunicationQrCode_20_twotone />;
+export const IconCommunicationQrCode24twotone = () => <SVGCommunicationQrCode_24_twotone />;
+export const IconCommunicationQrCode20sharp = () => <SVGCommunicationQrCode_20_sharp />;
+export const IconCommunicationQrCode24sharp = () => <SVGCommunicationQrCode_24_sharp />;
+export const IconCommunicationQrCode20filled = () => <SVGCommunicationQrCode_20_filled />;
+export const IconCommunicationQrCode24filled = () => <SVGCommunicationQrCode_24_filled />;
+export const IconCommunicationQrCode20round = () => <SVGCommunicationQrCode_20_round />;
+export const IconCommunicationQrCode24round = () => <SVGCommunicationQrCode_24_round />;

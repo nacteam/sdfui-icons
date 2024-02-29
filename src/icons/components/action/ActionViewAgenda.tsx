@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewAgenda_20_outlined from '../../svg/action/ActionViewAgenda/20_outlined.svg';
+import SVGActionViewAgenda_24_outlined from '../../svg/action/ActionViewAgenda/24_outlined.svg';
+import SVGActionViewAgenda_20_twotone from '../../svg/action/ActionViewAgenda/20_twotone.svg';
+import SVGActionViewAgenda_24_twotone from '../../svg/action/ActionViewAgenda/24_twotone.svg';
+import SVGActionViewAgenda_20_sharp from '../../svg/action/ActionViewAgenda/20_sharp.svg';
+import SVGActionViewAgenda_24_sharp from '../../svg/action/ActionViewAgenda/24_sharp.svg';
+import SVGActionViewAgenda_20_filled from '../../svg/action/ActionViewAgenda/20_filled.svg';
+import SVGActionViewAgenda_24_filled from '../../svg/action/ActionViewAgenda/24_filled.svg';
+import SVGActionViewAgenda_20_round from '../../svg/action/ActionViewAgenda/20_round.svg';
+import SVGActionViewAgenda_24_round from '../../svg/action/ActionViewAgenda/24_round.svg';
+
+export const IconActionViewAgenda20outlined = () => <SVGActionViewAgenda_20_outlined />;
+export const IconActionViewAgenda24outlined = () => <SVGActionViewAgenda_24_outlined />;
+export const IconActionViewAgenda20twotone = () => <SVGActionViewAgenda_20_twotone />;
+export const IconActionViewAgenda24twotone = () => <SVGActionViewAgenda_24_twotone />;
+export const IconActionViewAgenda20sharp = () => <SVGActionViewAgenda_20_sharp />;
+export const IconActionViewAgenda24sharp = () => <SVGActionViewAgenda_24_sharp />;
+export const IconActionViewAgenda20filled = () => <SVGActionViewAgenda_20_filled />;
+export const IconActionViewAgenda24filled = () => <SVGActionViewAgenda_24_filled />;
+export const IconActionViewAgenda20round = () => <SVGActionViewAgenda_20_round />;
+export const IconActionViewAgenda24round = () => <SVGActionViewAgenda_24_round />;

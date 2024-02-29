@@ -1,0 +1,22 @@
+import React from "react";
+import SVGContentContentPasteOff_20_outlined from '../../svg/content/ContentContentPasteOff/20_outlined.svg';
+import SVGContentContentPasteOff_24_outlined from '../../svg/content/ContentContentPasteOff/24_outlined.svg';
+import SVGContentContentPasteOff_20_twotone from '../../svg/content/ContentContentPasteOff/20_twotone.svg';
+import SVGContentContentPasteOff_24_twotone from '../../svg/content/ContentContentPasteOff/24_twotone.svg';
+import SVGContentContentPasteOff_20_sharp from '../../svg/content/ContentContentPasteOff/20_sharp.svg';
+import SVGContentContentPasteOff_24_sharp from '../../svg/content/ContentContentPasteOff/24_sharp.svg';
+import SVGContentContentPasteOff_20_filled from '../../svg/content/ContentContentPasteOff/20_filled.svg';
+import SVGContentContentPasteOff_24_filled from '../../svg/content/ContentContentPasteOff/24_filled.svg';
+import SVGContentContentPasteOff_20_round from '../../svg/content/ContentContentPasteOff/20_round.svg';
+import SVGContentContentPasteOff_24_round from '../../svg/content/ContentContentPasteOff/24_round.svg';
+
+export const IconContentContentPasteOff20outlined = () => <SVGContentContentPasteOff_20_outlined />;
+export const IconContentContentPasteOff24outlined = () => <SVGContentContentPasteOff_24_outlined />;
+export const IconContentContentPasteOff20twotone = () => <SVGContentContentPasteOff_20_twotone />;
+export const IconContentContentPasteOff24twotone = () => <SVGContentContentPasteOff_24_twotone />;
+export const IconContentContentPasteOff20sharp = () => <SVGContentContentPasteOff_20_sharp />;
+export const IconContentContentPasteOff24sharp = () => <SVGContentContentPasteOff_24_sharp />;
+export const IconContentContentPasteOff20filled = () => <SVGContentContentPasteOff_20_filled />;
+export const IconContentContentPasteOff24filled = () => <SVGContentContentPasteOff_24_filled />;
+export const IconContentContentPasteOff20round = () => <SVGContentContentPasteOff_20_round />;
+export const IconContentContentPasteOff24round = () => <SVGContentContentPasteOff_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGAvHearingDisabled_20_outlined from '../../svg/av/AvHearingDisabled/20_outlined.svg';
+import SVGAvHearingDisabled_24_outlined from '../../svg/av/AvHearingDisabled/24_outlined.svg';
+import SVGAvHearingDisabled_20_twotone from '../../svg/av/AvHearingDisabled/20_twotone.svg';
+import SVGAvHearingDisabled_24_twotone from '../../svg/av/AvHearingDisabled/24_twotone.svg';
+import SVGAvHearingDisabled_20_sharp from '../../svg/av/AvHearingDisabled/20_sharp.svg';
+import SVGAvHearingDisabled_24_sharp from '../../svg/av/AvHearingDisabled/24_sharp.svg';
+import SVGAvHearingDisabled_20_filled from '../../svg/av/AvHearingDisabled/20_filled.svg';
+import SVGAvHearingDisabled_24_filled from '../../svg/av/AvHearingDisabled/24_filled.svg';
+import SVGAvHearingDisabled_20_round from '../../svg/av/AvHearingDisabled/20_round.svg';
+import SVGAvHearingDisabled_24_round from '../../svg/av/AvHearingDisabled/24_round.svg';
+
+export const IconAvHearingDisabled20outlined = () => <SVGAvHearingDisabled_20_outlined />;
+export const IconAvHearingDisabled24outlined = () => <SVGAvHearingDisabled_24_outlined />;
+export const IconAvHearingDisabled20twotone = () => <SVGAvHearingDisabled_20_twotone />;
+export const IconAvHearingDisabled24twotone = () => <SVGAvHearingDisabled_24_twotone />;
+export const IconAvHearingDisabled20sharp = () => <SVGAvHearingDisabled_20_sharp />;
+export const IconAvHearingDisabled24sharp = () => <SVGAvHearingDisabled_24_sharp />;
+export const IconAvHearingDisabled20filled = () => <SVGAvHearingDisabled_20_filled />;
+export const IconAvHearingDisabled24filled = () => <SVGAvHearingDisabled_24_filled />;
+export const IconAvHearingDisabled20round = () => <SVGAvHearingDisabled_20_round />;
+export const IconAvHearingDisabled24round = () => <SVGAvHearingDisabled_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGImageWbTwilight_20_outlined from '../../svg/image/ImageWbTwilight/20_outlined.svg';
+import SVGImageWbTwilight_24_outlined from '../../svg/image/ImageWbTwilight/24_outlined.svg';
+import SVGImageWbTwilight_20_twotone from '../../svg/image/ImageWbTwilight/20_twotone.svg';
+import SVGImageWbTwilight_24_twotone from '../../svg/image/ImageWbTwilight/24_twotone.svg';
+import SVGImageWbTwilight_20_sharp from '../../svg/image/ImageWbTwilight/20_sharp.svg';
+import SVGImageWbTwilight_24_sharp from '../../svg/image/ImageWbTwilight/24_sharp.svg';
+import SVGImageWbTwilight_20_filled from '../../svg/image/ImageWbTwilight/20_filled.svg';
+import SVGImageWbTwilight_24_filled from '../../svg/image/ImageWbTwilight/24_filled.svg';
+import SVGImageWbTwilight_20_round from '../../svg/image/ImageWbTwilight/20_round.svg';
+import SVGImageWbTwilight_24_round from '../../svg/image/ImageWbTwilight/24_round.svg';
+
+export const IconImageWbTwilight20outlined = () => <SVGImageWbTwilight_20_outlined />;
+export const IconImageWbTwilight24outlined = () => <SVGImageWbTwilight_24_outlined />;
+export const IconImageWbTwilight20twotone = () => <SVGImageWbTwilight_20_twotone />;
+export const IconImageWbTwilight24twotone = () => <SVGImageWbTwilight_24_twotone />;
+export const IconImageWbTwilight20sharp = () => <SVGImageWbTwilight_20_sharp />;
+export const IconImageWbTwilight24sharp = () => <SVGImageWbTwilight_24_sharp />;
+export const IconImageWbTwilight20filled = () => <SVGImageWbTwilight_20_filled />;
+export const IconImageWbTwilight24filled = () => <SVGImageWbTwilight_24_filled />;
+export const IconImageWbTwilight20round = () => <SVGImageWbTwilight_20_round />;
+export const IconImageWbTwilight24round = () => <SVGImageWbTwilight_24_round />;

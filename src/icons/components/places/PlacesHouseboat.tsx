@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesHouseboat_20_outlined from '../../svg/places/PlacesHouseboat/20_outlined.svg';
+import SVGPlacesHouseboat_24_outlined from '../../svg/places/PlacesHouseboat/24_outlined.svg';
+import SVGPlacesHouseboat_20_twotone from '../../svg/places/PlacesHouseboat/20_twotone.svg';
+import SVGPlacesHouseboat_24_twotone from '../../svg/places/PlacesHouseboat/24_twotone.svg';
+import SVGPlacesHouseboat_20_sharp from '../../svg/places/PlacesHouseboat/20_sharp.svg';
+import SVGPlacesHouseboat_24_sharp from '../../svg/places/PlacesHouseboat/24_sharp.svg';
+import SVGPlacesHouseboat_20_filled from '../../svg/places/PlacesHouseboat/20_filled.svg';
+import SVGPlacesHouseboat_24_filled from '../../svg/places/PlacesHouseboat/24_filled.svg';
+import SVGPlacesHouseboat_20_round from '../../svg/places/PlacesHouseboat/20_round.svg';
+import SVGPlacesHouseboat_24_round from '../../svg/places/PlacesHouseboat/24_round.svg';
+
+export const IconPlacesHouseboat20outlined = () => <SVGPlacesHouseboat_20_outlined />;
+export const IconPlacesHouseboat24outlined = () => <SVGPlacesHouseboat_24_outlined />;
+export const IconPlacesHouseboat20twotone = () => <SVGPlacesHouseboat_20_twotone />;
+export const IconPlacesHouseboat24twotone = () => <SVGPlacesHouseboat_24_twotone />;
+export const IconPlacesHouseboat20sharp = () => <SVGPlacesHouseboat_20_sharp />;
+export const IconPlacesHouseboat24sharp = () => <SVGPlacesHouseboat_24_sharp />;
+export const IconPlacesHouseboat20filled = () => <SVGPlacesHouseboat_20_filled />;
+export const IconPlacesHouseboat24filled = () => <SVGPlacesHouseboat_24_filled />;
+export const IconPlacesHouseboat20round = () => <SVGPlacesHouseboat_20_round />;
+export const IconPlacesHouseboat24round = () => <SVGPlacesHouseboat_24_round />;

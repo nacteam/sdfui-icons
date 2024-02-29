@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsSailing_20_outlined from '../../svg/maps/MapsSailing/20_outlined.svg';
+import SVGMapsSailing_24_outlined from '../../svg/maps/MapsSailing/24_outlined.svg';
+import SVGMapsSailing_20_twotone from '../../svg/maps/MapsSailing/20_twotone.svg';
+import SVGMapsSailing_24_twotone from '../../svg/maps/MapsSailing/24_twotone.svg';
+import SVGMapsSailing_20_sharp from '../../svg/maps/MapsSailing/20_sharp.svg';
+import SVGMapsSailing_24_sharp from '../../svg/maps/MapsSailing/24_sharp.svg';
+import SVGMapsSailing_20_filled from '../../svg/maps/MapsSailing/20_filled.svg';
+import SVGMapsSailing_24_filled from '../../svg/maps/MapsSailing/24_filled.svg';
+import SVGMapsSailing_20_round from '../../svg/maps/MapsSailing/20_round.svg';
+import SVGMapsSailing_24_round from '../../svg/maps/MapsSailing/24_round.svg';
+
+export const IconMapsSailing20outlined = () => <SVGMapsSailing_20_outlined />;
+export const IconMapsSailing24outlined = () => <SVGMapsSailing_24_outlined />;
+export const IconMapsSailing20twotone = () => <SVGMapsSailing_20_twotone />;
+export const IconMapsSailing24twotone = () => <SVGMapsSailing_24_twotone />;
+export const IconMapsSailing20sharp = () => <SVGMapsSailing_20_sharp />;
+export const IconMapsSailing24sharp = () => <SVGMapsSailing_24_sharp />;
+export const IconMapsSailing20filled = () => <SVGMapsSailing_20_filled />;
+export const IconMapsSailing24filled = () => <SVGMapsSailing_24_filled />;
+export const IconMapsSailing20round = () => <SVGMapsSailing_20_round />;
+export const IconMapsSailing24round = () => <SVGMapsSailing_24_round />;

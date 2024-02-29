@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialHeartBroken_20_outlined from '../../svg/social/SocialHeartBroken/20_outlined.svg';
+import SVGSocialHeartBroken_24_outlined from '../../svg/social/SocialHeartBroken/24_outlined.svg';
+import SVGSocialHeartBroken_20_twotone from '../../svg/social/SocialHeartBroken/20_twotone.svg';
+import SVGSocialHeartBroken_24_twotone from '../../svg/social/SocialHeartBroken/24_twotone.svg';
+import SVGSocialHeartBroken_20_sharp from '../../svg/social/SocialHeartBroken/20_sharp.svg';
+import SVGSocialHeartBroken_24_sharp from '../../svg/social/SocialHeartBroken/24_sharp.svg';
+import SVGSocialHeartBroken_20_filled from '../../svg/social/SocialHeartBroken/20_filled.svg';
+import SVGSocialHeartBroken_24_filled from '../../svg/social/SocialHeartBroken/24_filled.svg';
+import SVGSocialHeartBroken_20_round from '../../svg/social/SocialHeartBroken/20_round.svg';
+import SVGSocialHeartBroken_24_round from '../../svg/social/SocialHeartBroken/24_round.svg';
+
+export const IconSocialHeartBroken20outlined = () => <SVGSocialHeartBroken_20_outlined />;
+export const IconSocialHeartBroken24outlined = () => <SVGSocialHeartBroken_24_outlined />;
+export const IconSocialHeartBroken20twotone = () => <SVGSocialHeartBroken_20_twotone />;
+export const IconSocialHeartBroken24twotone = () => <SVGSocialHeartBroken_24_twotone />;
+export const IconSocialHeartBroken20sharp = () => <SVGSocialHeartBroken_20_sharp />;
+export const IconSocialHeartBroken24sharp = () => <SVGSocialHeartBroken_24_sharp />;
+export const IconSocialHeartBroken20filled = () => <SVGSocialHeartBroken_20_filled />;
+export const IconSocialHeartBroken24filled = () => <SVGSocialHeartBroken_24_filled />;
+export const IconSocialHeartBroken20round = () => <SVGSocialHeartBroken_20_round />;
+export const IconSocialHeartBroken24round = () => <SVGSocialHeartBroken_24_round />;

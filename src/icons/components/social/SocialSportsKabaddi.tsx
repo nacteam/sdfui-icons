@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialSportsKabaddi_20_outlined from '../../svg/social/SocialSportsKabaddi/20_outlined.svg';
+import SVGSocialSportsKabaddi_24_outlined from '../../svg/social/SocialSportsKabaddi/24_outlined.svg';
+import SVGSocialSportsKabaddi_20_twotone from '../../svg/social/SocialSportsKabaddi/20_twotone.svg';
+import SVGSocialSportsKabaddi_24_twotone from '../../svg/social/SocialSportsKabaddi/24_twotone.svg';
+import SVGSocialSportsKabaddi_20_sharp from '../../svg/social/SocialSportsKabaddi/20_sharp.svg';
+import SVGSocialSportsKabaddi_24_sharp from '../../svg/social/SocialSportsKabaddi/24_sharp.svg';
+import SVGSocialSportsKabaddi_20_filled from '../../svg/social/SocialSportsKabaddi/20_filled.svg';
+import SVGSocialSportsKabaddi_24_filled from '../../svg/social/SocialSportsKabaddi/24_filled.svg';
+import SVGSocialSportsKabaddi_20_round from '../../svg/social/SocialSportsKabaddi/20_round.svg';
+import SVGSocialSportsKabaddi_24_round from '../../svg/social/SocialSportsKabaddi/24_round.svg';
+
+export const IconSocialSportsKabaddi20outlined = () => <SVGSocialSportsKabaddi_20_outlined />;
+export const IconSocialSportsKabaddi24outlined = () => <SVGSocialSportsKabaddi_24_outlined />;
+export const IconSocialSportsKabaddi20twotone = () => <SVGSocialSportsKabaddi_20_twotone />;
+export const IconSocialSportsKabaddi24twotone = () => <SVGSocialSportsKabaddi_24_twotone />;
+export const IconSocialSportsKabaddi20sharp = () => <SVGSocialSportsKabaddi_20_sharp />;
+export const IconSocialSportsKabaddi24sharp = () => <SVGSocialSportsKabaddi_24_sharp />;
+export const IconSocialSportsKabaddi20filled = () => <SVGSocialSportsKabaddi_20_filled />;
+export const IconSocialSportsKabaddi24filled = () => <SVGSocialSportsKabaddi_24_filled />;
+export const IconSocialSportsKabaddi20round = () => <SVGSocialSportsKabaddi_20_round />;
+export const IconSocialSportsKabaddi24round = () => <SVGSocialSportsKabaddi_24_round />;

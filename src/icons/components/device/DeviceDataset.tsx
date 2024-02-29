@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceDataset_20_outlined from '../../svg/device/DeviceDataset/20_outlined.svg';
+import SVGDeviceDataset_24_outlined from '../../svg/device/DeviceDataset/24_outlined.svg';
+import SVGDeviceDataset_20_twotone from '../../svg/device/DeviceDataset/20_twotone.svg';
+import SVGDeviceDataset_24_twotone from '../../svg/device/DeviceDataset/24_twotone.svg';
+import SVGDeviceDataset_20_sharp from '../../svg/device/DeviceDataset/20_sharp.svg';
+import SVGDeviceDataset_24_sharp from '../../svg/device/DeviceDataset/24_sharp.svg';
+import SVGDeviceDataset_20_filled from '../../svg/device/DeviceDataset/20_filled.svg';
+import SVGDeviceDataset_24_filled from '../../svg/device/DeviceDataset/24_filled.svg';
+import SVGDeviceDataset_20_round from '../../svg/device/DeviceDataset/20_round.svg';
+import SVGDeviceDataset_24_round from '../../svg/device/DeviceDataset/24_round.svg';
+
+export const IconDeviceDataset20outlined = () => <SVGDeviceDataset_20_outlined />;
+export const IconDeviceDataset24outlined = () => <SVGDeviceDataset_24_outlined />;
+export const IconDeviceDataset20twotone = () => <SVGDeviceDataset_20_twotone />;
+export const IconDeviceDataset24twotone = () => <SVGDeviceDataset_24_twotone />;
+export const IconDeviceDataset20sharp = () => <SVGDeviceDataset_20_sharp />;
+export const IconDeviceDataset24sharp = () => <SVGDeviceDataset_24_sharp />;
+export const IconDeviceDataset20filled = () => <SVGDeviceDataset_20_filled />;
+export const IconDeviceDataset24filled = () => <SVGDeviceDataset_24_filled />;
+export const IconDeviceDataset20round = () => <SVGDeviceDataset_20_round />;
+export const IconDeviceDataset24round = () => <SVGDeviceDataset_24_round />;

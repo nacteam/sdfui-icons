@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorTextDecrease_20_outlined from '../../svg/editor/EditorTextDecrease/20_outlined.svg';
+import SVGEditorTextDecrease_24_outlined from '../../svg/editor/EditorTextDecrease/24_outlined.svg';
+import SVGEditorTextDecrease_20_twotone from '../../svg/editor/EditorTextDecrease/20_twotone.svg';
+import SVGEditorTextDecrease_24_twotone from '../../svg/editor/EditorTextDecrease/24_twotone.svg';
+import SVGEditorTextDecrease_20_sharp from '../../svg/editor/EditorTextDecrease/20_sharp.svg';
+import SVGEditorTextDecrease_24_sharp from '../../svg/editor/EditorTextDecrease/24_sharp.svg';
+import SVGEditorTextDecrease_20_filled from '../../svg/editor/EditorTextDecrease/20_filled.svg';
+import SVGEditorTextDecrease_24_filled from '../../svg/editor/EditorTextDecrease/24_filled.svg';
+import SVGEditorTextDecrease_20_round from '../../svg/editor/EditorTextDecrease/20_round.svg';
+import SVGEditorTextDecrease_24_round from '../../svg/editor/EditorTextDecrease/24_round.svg';
+
+export const IconEditorTextDecrease20outlined = () => <SVGEditorTextDecrease_20_outlined />;
+export const IconEditorTextDecrease24outlined = () => <SVGEditorTextDecrease_24_outlined />;
+export const IconEditorTextDecrease20twotone = () => <SVGEditorTextDecrease_20_twotone />;
+export const IconEditorTextDecrease24twotone = () => <SVGEditorTextDecrease_24_twotone />;
+export const IconEditorTextDecrease20sharp = () => <SVGEditorTextDecrease_20_sharp />;
+export const IconEditorTextDecrease24sharp = () => <SVGEditorTextDecrease_24_sharp />;
+export const IconEditorTextDecrease20filled = () => <SVGEditorTextDecrease_20_filled />;
+export const IconEditorTextDecrease24filled = () => <SVGEditorTextDecrease_24_filled />;
+export const IconEditorTextDecrease20round = () => <SVGEditorTextDecrease_20_round />;
+export const IconEditorTextDecrease24round = () => <SVGEditorTextDecrease_24_round />;

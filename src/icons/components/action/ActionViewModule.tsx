@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewModule_20_outlined from '../../svg/action/ActionViewModule/20_outlined.svg';
+import SVGActionViewModule_24_outlined from '../../svg/action/ActionViewModule/24_outlined.svg';
+import SVGActionViewModule_20_twotone from '../../svg/action/ActionViewModule/20_twotone.svg';
+import SVGActionViewModule_24_twotone from '../../svg/action/ActionViewModule/24_twotone.svg';
+import SVGActionViewModule_20_sharp from '../../svg/action/ActionViewModule/20_sharp.svg';
+import SVGActionViewModule_24_sharp from '../../svg/action/ActionViewModule/24_sharp.svg';
+import SVGActionViewModule_20_filled from '../../svg/action/ActionViewModule/20_filled.svg';
+import SVGActionViewModule_24_filled from '../../svg/action/ActionViewModule/24_filled.svg';
+import SVGActionViewModule_20_round from '../../svg/action/ActionViewModule/20_round.svg';
+import SVGActionViewModule_24_round from '../../svg/action/ActionViewModule/24_round.svg';
+
+export const IconActionViewModule20outlined = () => <SVGActionViewModule_20_outlined />;
+export const IconActionViewModule24outlined = () => <SVGActionViewModule_24_outlined />;
+export const IconActionViewModule20twotone = () => <SVGActionViewModule_20_twotone />;
+export const IconActionViewModule24twotone = () => <SVGActionViewModule_24_twotone />;
+export const IconActionViewModule20sharp = () => <SVGActionViewModule_20_sharp />;
+export const IconActionViewModule24sharp = () => <SVGActionViewModule_24_sharp />;
+export const IconActionViewModule20filled = () => <SVGActionViewModule_20_filled />;
+export const IconActionViewModule24filled = () => <SVGActionViewModule_24_filled />;
+export const IconActionViewModule20round = () => <SVGActionViewModule_20_round />;
+export const IconActionViewModule24round = () => <SVGActionViewModule_24_round />;

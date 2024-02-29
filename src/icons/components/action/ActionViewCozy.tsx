@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionViewCozy_20_outlined from '../../svg/action/ActionViewCozy/20_outlined.svg';
+import SVGActionViewCozy_24_outlined from '../../svg/action/ActionViewCozy/24_outlined.svg';
+import SVGActionViewCozy_20_twotone from '../../svg/action/ActionViewCozy/20_twotone.svg';
+import SVGActionViewCozy_24_twotone from '../../svg/action/ActionViewCozy/24_twotone.svg';
+import SVGActionViewCozy_20_sharp from '../../svg/action/ActionViewCozy/20_sharp.svg';
+import SVGActionViewCozy_24_sharp from '../../svg/action/ActionViewCozy/24_sharp.svg';
+import SVGActionViewCozy_20_filled from '../../svg/action/ActionViewCozy/20_filled.svg';
+import SVGActionViewCozy_24_filled from '../../svg/action/ActionViewCozy/24_filled.svg';
+import SVGActionViewCozy_20_round from '../../svg/action/ActionViewCozy/20_round.svg';
+import SVGActionViewCozy_24_round from '../../svg/action/ActionViewCozy/24_round.svg';
+
+export const IconActionViewCozy20outlined = () => <SVGActionViewCozy_20_outlined />;
+export const IconActionViewCozy24outlined = () => <SVGActionViewCozy_24_outlined />;
+export const IconActionViewCozy20twotone = () => <SVGActionViewCozy_20_twotone />;
+export const IconActionViewCozy24twotone = () => <SVGActionViewCozy_24_twotone />;
+export const IconActionViewCozy20sharp = () => <SVGActionViewCozy_20_sharp />;
+export const IconActionViewCozy24sharp = () => <SVGActionViewCozy_24_sharp />;
+export const IconActionViewCozy20filled = () => <SVGActionViewCozy_20_filled />;
+export const IconActionViewCozy24filled = () => <SVGActionViewCozy_24_filled />;
+export const IconActionViewCozy20round = () => <SVGActionViewCozy_20_round />;
+export const IconActionViewCozy24round = () => <SVGActionViewCozy_24_round />;

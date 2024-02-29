@@ -1,0 +1,22 @@
+import React from "react";
+import SVGCommunicationMailLock_20_outlined from '../../svg/communication/CommunicationMailLock/20_outlined.svg';
+import SVGCommunicationMailLock_24_outlined from '../../svg/communication/CommunicationMailLock/24_outlined.svg';
+import SVGCommunicationMailLock_20_twotone from '../../svg/communication/CommunicationMailLock/20_twotone.svg';
+import SVGCommunicationMailLock_24_twotone from '../../svg/communication/CommunicationMailLock/24_twotone.svg';
+import SVGCommunicationMailLock_20_sharp from '../../svg/communication/CommunicationMailLock/20_sharp.svg';
+import SVGCommunicationMailLock_24_sharp from '../../svg/communication/CommunicationMailLock/24_sharp.svg';
+import SVGCommunicationMailLock_20_filled from '../../svg/communication/CommunicationMailLock/20_filled.svg';
+import SVGCommunicationMailLock_24_filled from '../../svg/communication/CommunicationMailLock/24_filled.svg';
+import SVGCommunicationMailLock_20_round from '../../svg/communication/CommunicationMailLock/20_round.svg';
+import SVGCommunicationMailLock_24_round from '../../svg/communication/CommunicationMailLock/24_round.svg';
+
+export const IconCommunicationMailLock20outlined = () => <SVGCommunicationMailLock_20_outlined />;
+export const IconCommunicationMailLock24outlined = () => <SVGCommunicationMailLock_24_outlined />;
+export const IconCommunicationMailLock20twotone = () => <SVGCommunicationMailLock_20_twotone />;
+export const IconCommunicationMailLock24twotone = () => <SVGCommunicationMailLock_24_twotone />;
+export const IconCommunicationMailLock20sharp = () => <SVGCommunicationMailLock_20_sharp />;
+export const IconCommunicationMailLock24sharp = () => <SVGCommunicationMailLock_24_sharp />;
+export const IconCommunicationMailLock20filled = () => <SVGCommunicationMailLock_20_filled />;
+export const IconCommunicationMailLock24filled = () => <SVGCommunicationMailLock_24_filled />;
+export const IconCommunicationMailLock20round = () => <SVGCommunicationMailLock_20_round />;
+export const IconCommunicationMailLock24round = () => <SVGCommunicationMailLock_24_round />;

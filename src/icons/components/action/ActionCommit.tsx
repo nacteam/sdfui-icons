@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionCommit_20_outlined from '../../svg/action/ActionCommit/20_outlined.svg';
+import SVGActionCommit_24_outlined from '../../svg/action/ActionCommit/24_outlined.svg';
+import SVGActionCommit_20_twotone from '../../svg/action/ActionCommit/20_twotone.svg';
+import SVGActionCommit_24_twotone from '../../svg/action/ActionCommit/24_twotone.svg';
+import SVGActionCommit_20_sharp from '../../svg/action/ActionCommit/20_sharp.svg';
+import SVGActionCommit_24_sharp from '../../svg/action/ActionCommit/24_sharp.svg';
+import SVGActionCommit_20_filled from '../../svg/action/ActionCommit/20_filled.svg';
+import SVGActionCommit_24_filled from '../../svg/action/ActionCommit/24_filled.svg';
+import SVGActionCommit_20_round from '../../svg/action/ActionCommit/20_round.svg';
+import SVGActionCommit_24_round from '../../svg/action/ActionCommit/24_round.svg';
+
+export const IconActionCommit20outlined = () => <SVGActionCommit_20_outlined />;
+export const IconActionCommit24outlined = () => <SVGActionCommit_24_outlined />;
+export const IconActionCommit20twotone = () => <SVGActionCommit_20_twotone />;
+export const IconActionCommit24twotone = () => <SVGActionCommit_24_twotone />;
+export const IconActionCommit20sharp = () => <SVGActionCommit_20_sharp />;
+export const IconActionCommit24sharp = () => <SVGActionCommit_24_sharp />;
+export const IconActionCommit20filled = () => <SVGActionCommit_20_filled />;
+export const IconActionCommit24filled = () => <SVGActionCommit_24_filled />;
+export const IconActionCommit20round = () => <SVGActionCommit_20_round />;
+export const IconActionCommit24round = () => <SVGActionCommit_24_round />;

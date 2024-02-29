@@ -1,0 +1,22 @@
+import React from "react";
+import SVGPlacesChalet_20_outlined from '../../svg/places/PlacesChalet/20_outlined.svg';
+import SVGPlacesChalet_24_outlined from '../../svg/places/PlacesChalet/24_outlined.svg';
+import SVGPlacesChalet_20_twotone from '../../svg/places/PlacesChalet/20_twotone.svg';
+import SVGPlacesChalet_24_twotone from '../../svg/places/PlacesChalet/24_twotone.svg';
+import SVGPlacesChalet_20_sharp from '../../svg/places/PlacesChalet/20_sharp.svg';
+import SVGPlacesChalet_24_sharp from '../../svg/places/PlacesChalet/24_sharp.svg';
+import SVGPlacesChalet_20_filled from '../../svg/places/PlacesChalet/20_filled.svg';
+import SVGPlacesChalet_24_filled from '../../svg/places/PlacesChalet/24_filled.svg';
+import SVGPlacesChalet_20_round from '../../svg/places/PlacesChalet/20_round.svg';
+import SVGPlacesChalet_24_round from '../../svg/places/PlacesChalet/24_round.svg';
+
+export const IconPlacesChalet20outlined = () => <SVGPlacesChalet_20_outlined />;
+export const IconPlacesChalet24outlined = () => <SVGPlacesChalet_24_outlined />;
+export const IconPlacesChalet20twotone = () => <SVGPlacesChalet_20_twotone />;
+export const IconPlacesChalet24twotone = () => <SVGPlacesChalet_24_twotone />;
+export const IconPlacesChalet20sharp = () => <SVGPlacesChalet_20_sharp />;
+export const IconPlacesChalet24sharp = () => <SVGPlacesChalet_24_sharp />;
+export const IconPlacesChalet20filled = () => <SVGPlacesChalet_20_filled />;
+export const IconPlacesChalet24filled = () => <SVGPlacesChalet_24_filled />;
+export const IconPlacesChalet20round = () => <SVGPlacesChalet_20_round />;
+export const IconPlacesChalet24round = () => <SVGPlacesChalet_24_round />;

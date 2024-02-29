@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceNetworkWifi1Bar_20_outlined from '../../svg/device/DeviceNetworkWifi1Bar/20_outlined.svg';
+import SVGDeviceNetworkWifi1Bar_24_outlined from '../../svg/device/DeviceNetworkWifi1Bar/24_outlined.svg';
+import SVGDeviceNetworkWifi1Bar_20_twotone from '../../svg/device/DeviceNetworkWifi1Bar/20_twotone.svg';
+import SVGDeviceNetworkWifi1Bar_24_twotone from '../../svg/device/DeviceNetworkWifi1Bar/24_twotone.svg';
+import SVGDeviceNetworkWifi1Bar_20_sharp from '../../svg/device/DeviceNetworkWifi1Bar/20_sharp.svg';
+import SVGDeviceNetworkWifi1Bar_24_sharp from '../../svg/device/DeviceNetworkWifi1Bar/24_sharp.svg';
+import SVGDeviceNetworkWifi1Bar_20_filled from '../../svg/device/DeviceNetworkWifi1Bar/20_filled.svg';
+import SVGDeviceNetworkWifi1Bar_24_filled from '../../svg/device/DeviceNetworkWifi1Bar/24_filled.svg';
+import SVGDeviceNetworkWifi1Bar_20_round from '../../svg/device/DeviceNetworkWifi1Bar/20_round.svg';
+import SVGDeviceNetworkWifi1Bar_24_round from '../../svg/device/DeviceNetworkWifi1Bar/24_round.svg';
+
+export const IconDeviceNetworkWifi1Bar20outlined = () => <SVGDeviceNetworkWifi1Bar_20_outlined />;
+export const IconDeviceNetworkWifi1Bar24outlined = () => <SVGDeviceNetworkWifi1Bar_24_outlined />;
+export const IconDeviceNetworkWifi1Bar20twotone = () => <SVGDeviceNetworkWifi1Bar_20_twotone />;
+export const IconDeviceNetworkWifi1Bar24twotone = () => <SVGDeviceNetworkWifi1Bar_24_twotone />;
+export const IconDeviceNetworkWifi1Bar20sharp = () => <SVGDeviceNetworkWifi1Bar_20_sharp />;
+export const IconDeviceNetworkWifi1Bar24sharp = () => <SVGDeviceNetworkWifi1Bar_24_sharp />;
+export const IconDeviceNetworkWifi1Bar20filled = () => <SVGDeviceNetworkWifi1Bar_20_filled />;
+export const IconDeviceNetworkWifi1Bar24filled = () => <SVGDeviceNetworkWifi1Bar_24_filled />;
+export const IconDeviceNetworkWifi1Bar20round = () => <SVGDeviceNetworkWifi1Bar_20_round />;
+export const IconDeviceNetworkWifi1Bar24round = () => <SVGDeviceNetworkWifi1Bar_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSearchTableBar_20_outlined from '../../svg/search/SearchTableBar/20_outlined.svg';
+import SVGSearchTableBar_24_outlined from '../../svg/search/SearchTableBar/24_outlined.svg';
+import SVGSearchTableBar_20_twotone from '../../svg/search/SearchTableBar/20_twotone.svg';
+import SVGSearchTableBar_24_twotone from '../../svg/search/SearchTableBar/24_twotone.svg';
+import SVGSearchTableBar_20_sharp from '../../svg/search/SearchTableBar/20_sharp.svg';
+import SVGSearchTableBar_24_sharp from '../../svg/search/SearchTableBar/24_sharp.svg';
+import SVGSearchTableBar_20_filled from '../../svg/search/SearchTableBar/20_filled.svg';
+import SVGSearchTableBar_24_filled from '../../svg/search/SearchTableBar/24_filled.svg';
+import SVGSearchTableBar_20_round from '../../svg/search/SearchTableBar/20_round.svg';
+import SVGSearchTableBar_24_round from '../../svg/search/SearchTableBar/24_round.svg';
+
+export const IconSearchTableBar20outlined = () => <SVGSearchTableBar_20_outlined />;
+export const IconSearchTableBar24outlined = () => <SVGSearchTableBar_24_outlined />;
+export const IconSearchTableBar20twotone = () => <SVGSearchTableBar_20_twotone />;
+export const IconSearchTableBar24twotone = () => <SVGSearchTableBar_24_twotone />;
+export const IconSearchTableBar20sharp = () => <SVGSearchTableBar_20_sharp />;
+export const IconSearchTableBar24sharp = () => <SVGSearchTableBar_24_sharp />;
+export const IconSearchTableBar20filled = () => <SVGSearchTableBar_20_filled />;
+export const IconSearchTableBar24filled = () => <SVGSearchTableBar_24_filled />;
+export const IconSearchTableBar20round = () => <SVGSearchTableBar_20_round />;
+export const IconSearchTableBar24round = () => <SVGSearchTableBar_24_round />;

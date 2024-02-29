@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialCookie_20_outlined from '../../svg/social/SocialCookie/20_outlined.svg';
+import SVGSocialCookie_24_outlined from '../../svg/social/SocialCookie/24_outlined.svg';
+import SVGSocialCookie_20_twotone from '../../svg/social/SocialCookie/20_twotone.svg';
+import SVGSocialCookie_24_twotone from '../../svg/social/SocialCookie/24_twotone.svg';
+import SVGSocialCookie_20_sharp from '../../svg/social/SocialCookie/20_sharp.svg';
+import SVGSocialCookie_24_sharp from '../../svg/social/SocialCookie/24_sharp.svg';
+import SVGSocialCookie_20_filled from '../../svg/social/SocialCookie/20_filled.svg';
+import SVGSocialCookie_24_filled from '../../svg/social/SocialCookie/24_filled.svg';
+import SVGSocialCookie_20_round from '../../svg/social/SocialCookie/20_round.svg';
+import SVGSocialCookie_24_round from '../../svg/social/SocialCookie/24_round.svg';
+
+export const IconSocialCookie20outlined = () => <SVGSocialCookie_20_outlined />;
+export const IconSocialCookie24outlined = () => <SVGSocialCookie_24_outlined />;
+export const IconSocialCookie20twotone = () => <SVGSocialCookie_20_twotone />;
+export const IconSocialCookie24twotone = () => <SVGSocialCookie_24_twotone />;
+export const IconSocialCookie20sharp = () => <SVGSocialCookie_20_sharp />;
+export const IconSocialCookie24sharp = () => <SVGSocialCookie_24_sharp />;
+export const IconSocialCookie20filled = () => <SVGSocialCookie_20_filled />;
+export const IconSocialCookie24filled = () => <SVGSocialCookie_24_filled />;
+export const IconSocialCookie20round = () => <SVGSocialCookie_20_round />;
+export const IconSocialCookie24round = () => <SVGSocialCookie_24_round />;

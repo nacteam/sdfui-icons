@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsStadium_20_outlined from '../../svg/maps/MapsStadium/20_outlined.svg';
+import SVGMapsStadium_24_outlined from '../../svg/maps/MapsStadium/24_outlined.svg';
+import SVGMapsStadium_20_twotone from '../../svg/maps/MapsStadium/20_twotone.svg';
+import SVGMapsStadium_24_twotone from '../../svg/maps/MapsStadium/24_twotone.svg';
+import SVGMapsStadium_20_sharp from '../../svg/maps/MapsStadium/20_sharp.svg';
+import SVGMapsStadium_24_sharp from '../../svg/maps/MapsStadium/24_sharp.svg';
+import SVGMapsStadium_20_filled from '../../svg/maps/MapsStadium/20_filled.svg';
+import SVGMapsStadium_24_filled from '../../svg/maps/MapsStadium/24_filled.svg';
+import SVGMapsStadium_20_round from '../../svg/maps/MapsStadium/20_round.svg';
+import SVGMapsStadium_24_round from '../../svg/maps/MapsStadium/24_round.svg';
+
+export const IconMapsStadium20outlined = () => <SVGMapsStadium_20_outlined />;
+export const IconMapsStadium24outlined = () => <SVGMapsStadium_24_outlined />;
+export const IconMapsStadium20twotone = () => <SVGMapsStadium_20_twotone />;
+export const IconMapsStadium24twotone = () => <SVGMapsStadium_24_twotone />;
+export const IconMapsStadium20sharp = () => <SVGMapsStadium_20_sharp />;
+export const IconMapsStadium24sharp = () => <SVGMapsStadium_24_sharp />;
+export const IconMapsStadium20filled = () => <SVGMapsStadium_20_filled />;
+export const IconMapsStadium24filled = () => <SVGMapsStadium_24_filled />;
+export const IconMapsStadium20round = () => <SVGMapsStadium_20_round />;
+export const IconMapsStadium24round = () => <SVGMapsStadium_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGMapsLocalAirport_20_outlined from '../../svg/maps/MapsLocalAirport/20_outlined.svg';
+import SVGMapsLocalAirport_24_outlined from '../../svg/maps/MapsLocalAirport/24_outlined.svg';
+import SVGMapsLocalAirport_20_twotone from '../../svg/maps/MapsLocalAirport/20_twotone.svg';
+import SVGMapsLocalAirport_24_twotone from '../../svg/maps/MapsLocalAirport/24_twotone.svg';
+import SVGMapsLocalAirport_20_sharp from '../../svg/maps/MapsLocalAirport/20_sharp.svg';
+import SVGMapsLocalAirport_24_sharp from '../../svg/maps/MapsLocalAirport/24_sharp.svg';
+import SVGMapsLocalAirport_20_filled from '../../svg/maps/MapsLocalAirport/20_filled.svg';
+import SVGMapsLocalAirport_24_filled from '../../svg/maps/MapsLocalAirport/24_filled.svg';
+import SVGMapsLocalAirport_20_round from '../../svg/maps/MapsLocalAirport/20_round.svg';
+import SVGMapsLocalAirport_24_round from '../../svg/maps/MapsLocalAirport/24_round.svg';
+
+export const IconMapsLocalAirport20outlined = () => <SVGMapsLocalAirport_20_outlined />;
+export const IconMapsLocalAirport24outlined = () => <SVGMapsLocalAirport_24_outlined />;
+export const IconMapsLocalAirport20twotone = () => <SVGMapsLocalAirport_20_twotone />;
+export const IconMapsLocalAirport24twotone = () => <SVGMapsLocalAirport_24_twotone />;
+export const IconMapsLocalAirport20sharp = () => <SVGMapsLocalAirport_20_sharp />;
+export const IconMapsLocalAirport24sharp = () => <SVGMapsLocalAirport_24_sharp />;
+export const IconMapsLocalAirport20filled = () => <SVGMapsLocalAirport_20_filled />;
+export const IconMapsLocalAirport24filled = () => <SVGMapsLocalAirport_24_filled />;
+export const IconMapsLocalAirport20round = () => <SVGMapsLocalAirport_20_round />;
+export const IconMapsLocalAirport24round = () => <SVGMapsLocalAirport_24_round />;

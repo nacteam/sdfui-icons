@@ -1,0 +1,22 @@
+import React from "react";
+import SVGDeviceScreenshotMonitor_20_outlined from '../../svg/device/DeviceScreenshotMonitor/20_outlined.svg';
+import SVGDeviceScreenshotMonitor_24_outlined from '../../svg/device/DeviceScreenshotMonitor/24_outlined.svg';
+import SVGDeviceScreenshotMonitor_20_twotone from '../../svg/device/DeviceScreenshotMonitor/20_twotone.svg';
+import SVGDeviceScreenshotMonitor_24_twotone from '../../svg/device/DeviceScreenshotMonitor/24_twotone.svg';
+import SVGDeviceScreenshotMonitor_20_sharp from '../../svg/device/DeviceScreenshotMonitor/20_sharp.svg';
+import SVGDeviceScreenshotMonitor_24_sharp from '../../svg/device/DeviceScreenshotMonitor/24_sharp.svg';
+import SVGDeviceScreenshotMonitor_20_filled from '../../svg/device/DeviceScreenshotMonitor/20_filled.svg';
+import SVGDeviceScreenshotMonitor_24_filled from '../../svg/device/DeviceScreenshotMonitor/24_filled.svg';
+import SVGDeviceScreenshotMonitor_20_round from '../../svg/device/DeviceScreenshotMonitor/20_round.svg';
+import SVGDeviceScreenshotMonitor_24_round from '../../svg/device/DeviceScreenshotMonitor/24_round.svg';
+
+export const IconDeviceScreenshotMonitor20outlined = () => <SVGDeviceScreenshotMonitor_20_outlined />;
+export const IconDeviceScreenshotMonitor24outlined = () => <SVGDeviceScreenshotMonitor_24_outlined />;
+export const IconDeviceScreenshotMonitor20twotone = () => <SVGDeviceScreenshotMonitor_20_twotone />;
+export const IconDeviceScreenshotMonitor24twotone = () => <SVGDeviceScreenshotMonitor_24_twotone />;
+export const IconDeviceScreenshotMonitor20sharp = () => <SVGDeviceScreenshotMonitor_20_sharp />;
+export const IconDeviceScreenshotMonitor24sharp = () => <SVGDeviceScreenshotMonitor_24_sharp />;
+export const IconDeviceScreenshotMonitor20filled = () => <SVGDeviceScreenshotMonitor_20_filled />;
+export const IconDeviceScreenshotMonitor24filled = () => <SVGDeviceScreenshotMonitor_24_filled />;
+export const IconDeviceScreenshotMonitor20round = () => <SVGDeviceScreenshotMonitor_20_round />;
+export const IconDeviceScreenshotMonitor24round = () => <SVGDeviceScreenshotMonitor_24_round />;

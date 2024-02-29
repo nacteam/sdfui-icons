@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionOnDeviceTraining_20_outlined from '../../svg/action/ActionOnDeviceTraining/20_outlined.svg';
+import SVGActionOnDeviceTraining_24_outlined from '../../svg/action/ActionOnDeviceTraining/24_outlined.svg';
+import SVGActionOnDeviceTraining_20_twotone from '../../svg/action/ActionOnDeviceTraining/20_twotone.svg';
+import SVGActionOnDeviceTraining_24_twotone from '../../svg/action/ActionOnDeviceTraining/24_twotone.svg';
+import SVGActionOnDeviceTraining_20_sharp from '../../svg/action/ActionOnDeviceTraining/20_sharp.svg';
+import SVGActionOnDeviceTraining_24_sharp from '../../svg/action/ActionOnDeviceTraining/24_sharp.svg';
+import SVGActionOnDeviceTraining_20_filled from '../../svg/action/ActionOnDeviceTraining/20_filled.svg';
+import SVGActionOnDeviceTraining_24_filled from '../../svg/action/ActionOnDeviceTraining/24_filled.svg';
+import SVGActionOnDeviceTraining_20_round from '../../svg/action/ActionOnDeviceTraining/20_round.svg';
+import SVGActionOnDeviceTraining_24_round from '../../svg/action/ActionOnDeviceTraining/24_round.svg';
+
+export const IconActionOnDeviceTraining20outlined = () => <SVGActionOnDeviceTraining_20_outlined />;
+export const IconActionOnDeviceTraining24outlined = () => <SVGActionOnDeviceTraining_24_outlined />;
+export const IconActionOnDeviceTraining20twotone = () => <SVGActionOnDeviceTraining_20_twotone />;
+export const IconActionOnDeviceTraining24twotone = () => <SVGActionOnDeviceTraining_24_twotone />;
+export const IconActionOnDeviceTraining20sharp = () => <SVGActionOnDeviceTraining_20_sharp />;
+export const IconActionOnDeviceTraining24sharp = () => <SVGActionOnDeviceTraining_24_sharp />;
+export const IconActionOnDeviceTraining20filled = () => <SVGActionOnDeviceTraining_20_filled />;
+export const IconActionOnDeviceTraining24filled = () => <SVGActionOnDeviceTraining_24_filled />;
+export const IconActionOnDeviceTraining20round = () => <SVGActionOnDeviceTraining_20_round />;
+export const IconActionOnDeviceTraining24round = () => <SVGActionOnDeviceTraining_24_round />;

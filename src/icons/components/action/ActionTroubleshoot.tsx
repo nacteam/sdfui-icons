@@ -1,0 +1,22 @@
+import React from "react";
+import SVGActionTroubleshoot_20_outlined from '../../svg/action/ActionTroubleshoot/20_outlined.svg';
+import SVGActionTroubleshoot_24_outlined from '../../svg/action/ActionTroubleshoot/24_outlined.svg';
+import SVGActionTroubleshoot_20_twotone from '../../svg/action/ActionTroubleshoot/20_twotone.svg';
+import SVGActionTroubleshoot_24_twotone from '../../svg/action/ActionTroubleshoot/24_twotone.svg';
+import SVGActionTroubleshoot_20_sharp from '../../svg/action/ActionTroubleshoot/20_sharp.svg';
+import SVGActionTroubleshoot_24_sharp from '../../svg/action/ActionTroubleshoot/24_sharp.svg';
+import SVGActionTroubleshoot_20_filled from '../../svg/action/ActionTroubleshoot/20_filled.svg';
+import SVGActionTroubleshoot_24_filled from '../../svg/action/ActionTroubleshoot/24_filled.svg';
+import SVGActionTroubleshoot_20_round from '../../svg/action/ActionTroubleshoot/20_round.svg';
+import SVGActionTroubleshoot_24_round from '../../svg/action/ActionTroubleshoot/24_round.svg';
+
+export const IconActionTroubleshoot20outlined = () => <SVGActionTroubleshoot_20_outlined />;
+export const IconActionTroubleshoot24outlined = () => <SVGActionTroubleshoot_24_outlined />;
+export const IconActionTroubleshoot20twotone = () => <SVGActionTroubleshoot_20_twotone />;
+export const IconActionTroubleshoot24twotone = () => <SVGActionTroubleshoot_24_twotone />;
+export const IconActionTroubleshoot20sharp = () => <SVGActionTroubleshoot_20_sharp />;
+export const IconActionTroubleshoot24sharp = () => <SVGActionTroubleshoot_24_sharp />;
+export const IconActionTroubleshoot20filled = () => <SVGActionTroubleshoot_20_filled />;
+export const IconActionTroubleshoot24filled = () => <SVGActionTroubleshoot_24_filled />;
+export const IconActionTroubleshoot20round = () => <SVGActionTroubleshoot_20_round />;
+export const IconActionTroubleshoot24round = () => <SVGActionTroubleshoot_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGSocialWhatsapp_20_outlined from '../../svg/social/SocialWhatsapp/20_outlined.svg';
+import SVGSocialWhatsapp_24_outlined from '../../svg/social/SocialWhatsapp/24_outlined.svg';
+import SVGSocialWhatsapp_20_twotone from '../../svg/social/SocialWhatsapp/20_twotone.svg';
+import SVGSocialWhatsapp_24_twotone from '../../svg/social/SocialWhatsapp/24_twotone.svg';
+import SVGSocialWhatsapp_20_sharp from '../../svg/social/SocialWhatsapp/20_sharp.svg';
+import SVGSocialWhatsapp_24_sharp from '../../svg/social/SocialWhatsapp/24_sharp.svg';
+import SVGSocialWhatsapp_20_filled from '../../svg/social/SocialWhatsapp/20_filled.svg';
+import SVGSocialWhatsapp_24_filled from '../../svg/social/SocialWhatsapp/24_filled.svg';
+import SVGSocialWhatsapp_20_round from '../../svg/social/SocialWhatsapp/20_round.svg';
+import SVGSocialWhatsapp_24_round from '../../svg/social/SocialWhatsapp/24_round.svg';
+
+export const IconSocialWhatsapp20outlined = () => <SVGSocialWhatsapp_20_outlined />;
+export const IconSocialWhatsapp24outlined = () => <SVGSocialWhatsapp_24_outlined />;
+export const IconSocialWhatsapp20twotone = () => <SVGSocialWhatsapp_20_twotone />;
+export const IconSocialWhatsapp24twotone = () => <SVGSocialWhatsapp_24_twotone />;
+export const IconSocialWhatsapp20sharp = () => <SVGSocialWhatsapp_20_sharp />;
+export const IconSocialWhatsapp24sharp = () => <SVGSocialWhatsapp_24_sharp />;
+export const IconSocialWhatsapp20filled = () => <SVGSocialWhatsapp_20_filled />;
+export const IconSocialWhatsapp24filled = () => <SVGSocialWhatsapp_24_filled />;
+export const IconSocialWhatsapp20round = () => <SVGSocialWhatsapp_20_round />;
+export const IconSocialWhatsapp24round = () => <SVGSocialWhatsapp_24_round />;

@@ -1,0 +1,22 @@
+import React from "react";
+import SVGEditorChecklist_20_outlined from '../../svg/editor/EditorChecklist/20_outlined.svg';
+import SVGEditorChecklist_24_outlined from '../../svg/editor/EditorChecklist/24_outlined.svg';
+import SVGEditorChecklist_20_twotone from '../../svg/editor/EditorChecklist/20_twotone.svg';
+import SVGEditorChecklist_24_twotone from '../../svg/editor/EditorChecklist/24_twotone.svg';
+import SVGEditorChecklist_20_sharp from '../../svg/editor/EditorChecklist/20_sharp.svg';
+import SVGEditorChecklist_24_sharp from '../../svg/editor/EditorChecklist/24_sharp.svg';
+import SVGEditorChecklist_20_filled from '../../svg/editor/EditorChecklist/20_filled.svg';
+import SVGEditorChecklist_24_filled from '../../svg/editor/EditorChecklist/24_filled.svg';
+import SVGEditorChecklist_20_round from '../../svg/editor/EditorChecklist/20_round.svg';
+import SVGEditorChecklist_24_round from '../../svg/editor/EditorChecklist/24_round.svg';
+
+export const IconEditorChecklist20outlined = () => <SVGEditorChecklist_20_outlined />;
+export const IconEditorChecklist24outlined = () => <SVGEditorChecklist_24_outlined />;
+export const IconEditorChecklist20twotone = () => <SVGEditorChecklist_20_twotone />;
+export const IconEditorChecklist24twotone = () => <SVGEditorChecklist_24_twotone />;
+export const IconEditorChecklist20sharp = () => <SVGEditorChecklist_20_sharp />;
+export const IconEditorChecklist24sharp = () => <SVGEditorChecklist_24_sharp />;
+export const IconEditorChecklist20filled = () => <SVGEditorChecklist_20_filled />;
+export const IconEditorChecklist24filled = () => <SVGEditorChecklist_24_filled />;
+export const IconEditorChecklist20round = () => <SVGEditorChecklist_20_round />;
+export const IconEditorChecklist24round = () => <SVGEditorChecklist_24_round />;
