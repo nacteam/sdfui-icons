@@ -3,7 +3,7 @@ import commonjs from "@rollup/plugin-commonjs";
 import typescript from "@rollup/plugin-typescript";
 import dts from "rollup-plugin-dts";
 import packageJson from "./package.json" assert { type: "json" };
-import svg from "rollup-plugin-svg-import";
+import svgr from '@svgr/rollup'
 
 export default [
   {
@@ -23,7 +23,7 @@ export default [
     plugins: [
       resolve(),
       commonjs(),
-      svg(),
+      svgr(),
       typescript({ tsconfig: "./tsconfig.json" })
     ],
   },
