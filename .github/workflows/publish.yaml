@@ -11,7 +11,7 @@ jobs:
           node-version: '20.x'
           registry-url: 'https://registry.npmjs.org'
       - run: npm ci
-      - run: npm --max_old_space_size=8192 run rollup
+      - run: npm --max_old_space_size=14336 run rollup
         env:
           CI: true
         timeout-minutes: 60
