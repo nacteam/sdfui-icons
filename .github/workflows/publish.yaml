@@ -10,7 +10,7 @@ jobs:
         with:
           node-version: '20.x'
           registry-url: 'https://registry.npmjs.org'
-      - run: sudo systemctl disable --now systemd-oomd
+      - run: sudo echo 2 > /proc/sys/vm/overcommit_memory
       - run: npm ci
       - run: npm run rollup
         env:
