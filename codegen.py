@@ -69,7 +69,9 @@ for foldername, subfolders, filenames in os.walk(gicons_tmp + "/src"):
         # create file /src/icons/svg/{icon_name_short}/{size}_{style}.svg
         if not os.path.exists(f"./src/icons/svg/{icon_name_short}"):
             os.makedirs(f"./src/icons/svg/{icon_name_short}")
-        os.system(f"cp {file_path} ./src/icons/svg/{icon_name_short}/{size}_{style}.svg")
+        with open(file_path, "r") as original_svg:
+            with open(f"./src/icons/svg/{icon_name_short}/{size}_{style}.svg", "w") as new_svg:
+                new_svg.write(original_svg.read().replace("<svg", "<svg fill=\"currentColor\""))
         
         # create file /src/icons/components/{icon_name_short}.tsx
         if not os.path.exists(f"./src/icons/components"):
