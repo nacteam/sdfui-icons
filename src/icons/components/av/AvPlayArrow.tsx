@@ -1,9 +1,9 @@
 import React from "react";
-import SVGAvPlayArrow_24_round from '../svg/AvPlayArrow/24_round.svg';
-import SVGAvPlayArrow_24_twotone from '../svg/AvPlayArrow/24_twotone.svg';
-import SVGAvPlayArrow_24_filled from '../svg/AvPlayArrow/24_filled.svg';
-import SVGAvPlayArrow_24_outlined from '../svg/AvPlayArrow/24_outlined.svg';
-import SVGAvPlayArrow_24_sharp from '../svg/AvPlayArrow/24_sharp.svg';
+import SVGAvPlayArrow_24_round from '../../svg/av/AvPlayArrow/24_round.svg';
+import SVGAvPlayArrow_24_twotone from '../../svg/av/AvPlayArrow/24_twotone.svg';
+import SVGAvPlayArrow_24_filled from '../../svg/av/AvPlayArrow/24_filled.svg';
+import SVGAvPlayArrow_24_outlined from '../../svg/av/AvPlayArrow/24_outlined.svg';
+import SVGAvPlayArrow_24_sharp from '../../svg/av/AvPlayArrow/24_sharp.svg';
 
 export const IconAvPlayArrow24round = () => <SVGAvPlayArrow_24_round />;
 export const IconAvPlayArrow24twotone = () => <SVGAvPlayArrow_24_twotone />;

@@ -1,9 +1,9 @@
 import React from "react";
-import SVGAvPlayCircleOutline_24_round from '../svg/AvPlayCircleOutline/24_round.svg';
-import SVGAvPlayCircleOutline_24_twotone from '../svg/AvPlayCircleOutline/24_twotone.svg';
-import SVGAvPlayCircleOutline_24_filled from '../svg/AvPlayCircleOutline/24_filled.svg';
-import SVGAvPlayCircleOutline_24_outlined from '../svg/AvPlayCircleOutline/24_outlined.svg';
-import SVGAvPlayCircleOutline_24_sharp from '../svg/AvPlayCircleOutline/24_sharp.svg';
+import SVGAvPlayCircleOutline_24_round from '../../svg/av/AvPlayCircleOutline/24_round.svg';
+import SVGAvPlayCircleOutline_24_twotone from '../../svg/av/AvPlayCircleOutline/24_twotone.svg';
+import SVGAvPlayCircleOutline_24_filled from '../../svg/av/AvPlayCircleOutline/24_filled.svg';
+import SVGAvPlayCircleOutline_24_outlined from '../../svg/av/AvPlayCircleOutline/24_outlined.svg';
+import SVGAvPlayCircleOutline_24_sharp from '../../svg/av/AvPlayCircleOutline/24_sharp.svg';
 
 export const IconAvPlayCircleOutline24round = () => <SVGAvPlayCircleOutline_24_round />;
 export const IconAvPlayCircleOutline24twotone = () => <SVGAvPlayCircleOutline_24_twotone />;

@@ -1,9 +1,9 @@
 import React from "react";
-import SVGAvMissedVideoCall_24_round from '../svg/AvMissedVideoCall/24_round.svg';
-import SVGAvMissedVideoCall_24_twotone from '../svg/AvMissedVideoCall/24_twotone.svg';
-import SVGAvMissedVideoCall_24_filled from '../svg/AvMissedVideoCall/24_filled.svg';
-import SVGAvMissedVideoCall_24_outlined from '../svg/AvMissedVideoCall/24_outlined.svg';
-import SVGAvMissedVideoCall_24_sharp from '../svg/AvMissedVideoCall/24_sharp.svg';
+import SVGAvMissedVideoCall_24_round from '../../svg/av/AvMissedVideoCall/24_round.svg';
+import SVGAvMissedVideoCall_24_twotone from '../../svg/av/AvMissedVideoCall/24_twotone.svg';
+import SVGAvMissedVideoCall_24_filled from '../../svg/av/AvMissedVideoCall/24_filled.svg';
+import SVGAvMissedVideoCall_24_outlined from '../../svg/av/AvMissedVideoCall/24_outlined.svg';
+import SVGAvMissedVideoCall_24_sharp from '../../svg/av/AvMissedVideoCall/24_sharp.svg';
 
 export const IconAvMissedVideoCall24round = () => <SVGAvMissedVideoCall_24_round />;
 export const IconAvMissedVideoCall24twotone = () => <SVGAvMissedVideoCall_24_twotone />;
