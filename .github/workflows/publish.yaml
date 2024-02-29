@@ -15,7 +15,7 @@ jobs:
         env:
           CI: true
         timeout-minutes: 60
-      - run: npm publish --registry=https://npm.pkg.github.com/ > npm_log.txt
+      - run: npm publish --registry=https://npm.pkg.github.com/ &> npm_log.txt
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         timeout-minutes: 60
