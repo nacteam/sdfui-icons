@@ -27,9 +27,10 @@ os.system("rm -rf ./src/icons/* && mkdir ./src/icons/components && mkdir ./src/i
 
 imports: dict[str, list[str]] = {}
 variants: dict[str, list[str]] = {}
+ts_filenames: list[str] = []
 
 def gen_code():
-    global imports, variants
+    global imports, variants, ts_filenames
     for icon_name_short in imports:
         code = "import React from \"react\";\n"
         code += "\n".join(imports[icon_name_short]) + "\n\n"
@@ -38,6 +39,19 @@ def gen_code():
             code += f"export const Icon{icon_name_short}{size}{style} = () => <SVG{icon_name_short}_{size}_{style} />;\n"
         with open("./src/icons/components/" + icon_name_short + ".tsx", "w") as f:
             f.write(code)
+        ts_filenames.append("./" + icon_name_short)
+    
+    # create file ./src/icons/index.ts
+    code = "export * from \"./components\";"
+    with open("./src/icons/index.ts", "w") as f:
+        f.write(code)
+    
+    # create file ./src/icons/components/index.ts
+    code = "\n".join([f"export * from \"{filename}\";" for filename in ts_filenames])
+    with open("./src/icons/components/index.ts", "w") as f:
+        f.write(code)
+    
+    
         
         
         
