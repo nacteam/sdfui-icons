@@ -95,7 +95,4 @@ for foldername, subfolders, filenames in os.walk(gicons_tmp + "/src"):
         imports[icon_name_short] = imports.get(icon_name_short, []) + [f"import SVG{icon_name_short}_{size}_{style} from '../../svg/{icon_group}/{icon_name_short}/{size}_{style}.svg';"]
         variants[icon_name_short] = variants.get(icon_name_short, []) + [f"{size}_{style}"]
         # exit(0)
-    if len(imports) > 20:
-        gen_code()
-        exit(0)
 gen_code()
