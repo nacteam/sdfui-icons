@@ -1,8 +1,5 @@
 {
   "name": "@nacteam/sdfui-icons",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/nacteam"
-  },
   "version": "1.0.0",
   "description": "Icons for @nacteam/sdfui",
   "main": "dist/cjs/index.js",
