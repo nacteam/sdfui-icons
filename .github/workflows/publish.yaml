@@ -19,7 +19,7 @@ jobs:
         env:
           CI: true
         timeout-minutes: 60
-      - run: npm publish
+      - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         timeout-minutes: 60
