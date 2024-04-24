@@ -21,7 +21,7 @@ jobs:
         timeout-minutes: 60
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
         timeout-minutes: 60
         continue-on-error: true
       # - run: |
